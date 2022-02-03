@@ -1,0 +1,2 @@
+# TNNT-performance-analysis
+Performance analysis of the Natural Language Processing (NLP) tools and Named-Entity Recognition (NER) models integrated into TNNT ("The NLP-NER Toolkit").  The analysis was based on public datasets.  The followed methodology covered different aspects of comparison accuracy metrics (precision and recall) between dataset-model-category combinations, aggregated analysis across the datasets and TNNT categories, and overall execution performance of the tools and models.
