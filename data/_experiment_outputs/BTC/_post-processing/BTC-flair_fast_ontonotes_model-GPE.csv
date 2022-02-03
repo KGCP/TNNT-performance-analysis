@@ -1,0 +1,595 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Chicago",0,1,0,0,0,0
+"UKRAINE",0,1,0,0,0,0
+"Berlin",0,1,0,0,0,0
+"Kansas City",0,1,0,0,0,0
+"West Midlands",0,1,0,0,0,0
+"Pinehurst",0,0,0,0,0,1
+"Rotherham",0,1,0,0,0,0
+"Tipperary",0,1,0,0,0,0
+"Cannes",0,1,0,0,0,0
+"JohnHenryRyan",0,1,0,0,0,0
+"Israel",0,1,0,0,0,0
+"West Africa",0,1,0,0,0,0
+"Zagreb",0,1,0,0,0,0
+"Djerba",0,1,0,0,0,0
+"Man City",0,1,0,0,0,0
+"Grong Town",0,1,0,0,0,0
+"Villawood",0,1,0,0,0,0
+"Sunderland",0,1,0,0,0,0
+"Arnhem",0,0,0,0,0,1
+"Vietnam",0,1,0,0,0,0
+"Paris",0,1,0,0,0,0
+"london",0,1,0,0,0,0
+"Palestine",0,1,0,0,0,0
+"north Galway",0,1,0,0,0,0
+"Wicklow",0,1,0,0,0,0
+"Baltimore",0,1,0,0,0,0
+"Cincinnati",0,1,0,0,0,0
+"Kobane",0,1,0,0,0,0
+"Sussex",0,1,0,0,0,0
+"St. co",0,0,0,0,0,1
+"Omaha",0,1,0,0,0,0
+"Delaware",0,1,0,0,0,0
+"Ballymurphy",0,1,0,0,0,0
+"NUI Maynooth",0,1,0,0,0,0
+"Melbourne",0,1,0,0,0,0
+"Somerset",0,1,0,0,0,0
+"Brighton",0,1,0,0,0,0
+"JINDO",0,1,0,0,0,0
+"Grimsby",0,1,0,0,0,0
+"sevilla",0,1,0,0,0,0
+"Mosul",0,1,0,0,0,0
+"Somalia",0,1,0,0,0,0
+"Argentina",0,1,0,0,0,0
+"Camden",0,1,0,0,0,0
+"Drogheda",0,1,0,0,0,0
+"Phoenix",0,1,0,0,0,0
+"Co Donegal",0,1,0,0,0,0
+"Ottawa",0,1,0,0,0,0
+"Northern Ireland England",0,0,0,0,0,1
+"Derry",0,1,0,0,0,0
+"Rozsypne",0,1,0,0,0,0
+"Blacwood",0,1,0,0,0,0
+"Lochee",0,1,0,0,0,0
+"Baton Rouge",0,1,0,0,0,0
+"Carlow",0,1,0,0,0,0
+"Meath",0,1,0,0,0,0
+"Swindon",0,1,0,0,0,0
+"YamYamBloke",0,1,0,0,0,0
+"Malia",0,1,0,0,0,0
+"Toowoomba",0,1,0,0,0,0
+"Canada",0,1,0,0,0,0
+"Doncaster",0,1,0,0,0,0
+"DC",0,1,0,0,0,0
+"Ashburton",0,1,0,0,0,0
+"Imhoffjuan",0,0,0,0,0,1
+"Poland",0,1,0,0,0,0
+"NewYork",0,0,0,0,0,1
+"Nenagh Ireland",0,1,0,0,0,0
+"Lebanon.",0,0,0,0,0,1
+"Villa",0,0,0,0,0,1
+"SkyQLD",0,0,0,0,0,1
+"Sundown Dublin",0,0,0,0,0,1
+"Manawatu",0,0,0,0,0,1
+"Hamilton",0,1,0,0,0,0
+"RUSSIA",0,1,0,0,0,0
+"Uruguay",0,1,0,0,0,0
+"Darlo",0,1,0,0,0,0
+"Mysterior",0,0,0,0,0,1
+"Zurich",0,0,0,0,0,1
+"Congo",0,0,0,0,0,1
+"Wisconsin",0,1,0,0,0,0
+"Sprouting Rock",0,1,0,0,0,0
+"U.",0,0,0,0,0,1
+"Britain",0,1,0,0,0,0
+"australia",0,1,0,0,0,0
+"Adelaide",0,1,0,0,0,0
+"Australia",0,1,0,0,0,0
+"Dallas",0,1,0,0,0,0
+"FakeTimo",0,1,0,0,0,0
+"Java",0,0,0,0,0,1
+"Lewes",0,1,0,0,0,0
+"Syston",0,1,0,0,0,0
+"Fenland",0,1,0,0,0,0
+"Dortmund",0,1,0,0,0,0
+"Calais",0,1,0,0,0,0
+"Terenure",0,1,0,0,0,0
+"NY",0,1,0,0,0,0
+"Jordon",0,1,0,0,0,0
+"Fargo",0,1,0,0,0,0
+"Uganda",0,1,0,0,0,0
+"Wales",0,1,0,0,0,0
+"Ukip Clacton",0,0,0,0,0,1
+"Durham",0,1,0,0,0,0
+"Wellington",0,1,0,0,0,0
+"the United States",0,0,0,0,0,1
+"Washington",0,1,0,0,0,0
+"Hertfordshire",0,1,0,0,0,0
+"Orlando",0,1,0,0,0,0
+"Cinderella",0,1,0,0,0,0
+"BRAZIL",0,1,0,0,0,0
+"Kirkby",0,0,0,0,0,1
+"Las Vegas",0,1,0,0,0,0
+"Iowa",0,1,0,0,0,0
+"NZ",0,1,0,0,0,0
+"JvziygR2O0 Gaza",0,0,0,0,0,1
+"Southampton",0,1,0,0,0,0
+"Manchester United",0,1,0,0,0,0
+"Sacramento",0,1,0,0,0,0
+"Gagavision",0,0,0,0,0,1
+"Kuala Lumpur",0,1,0,0,0,0
+"MD",0,0,0,0,0,1
+"49yo Idalia",0,0,0,0,0,1
+"Shawville",0,0,0,0,0,1
+"Baiji",0,1,0,0,0,0
+"Bournemouth",0,1,0,0,0,0
+"Belgium",0,1,0,0,0,0
+"Warwickshire",0,1,0,0,0,0
+"Bosnia Hercegovina",0,0,0,0,0,1
+"West Bromwich Albion",0,1,0,0,0,0
+"UK",0,1,0,0,0,0
+"Rome",0,1,0,0,0,0
+"ReutersLive",0,0,0,0,0,1
+"Missouri",0,1,0,0,0,0
+"Gaza",0,1,0,0,0,0
+"Indonesia",0,1,0,0,0,0
+"Rossnowlagh",0,0,0,0,0,1
+"Alabama",0,1,0,0,0,0
+"Dublin",0,1,0,0,0,0
+"Ontario",0,1,0,0,0,0
+"BetterTogether Manchester City",0,0,0,0,0,1
+"Northern Ireland",0,1,0,0,0,0
+"Saskatoon",0,1,0,0,0,0
+"Watford",0,1,0,0,0,0
+"Kitchener",0,1,0,0,0,0
+"Edmonton",0,1,0,0,0,0
+"Haiti",0,0,0,0,0,1
+"Taupo",0,1,0,0,0,0
+"Snezhnoye",0,0,0,0,0,1
+"Toronto",0,1,0,0,0,0
+"Tokyo",0,1,0,0,0,0
+"County Derry",0,1,0,0,0,0
+"South Africa",0,1,0,0,0,0
+"Luxor",0,1,0,0,0,0
+"West Cork",0,0,0,0,0,1
+"Banbridge",0,1,0,0,0,0
+"Rochester",0,1,0,0,0,0
+"Kinsale",0,0,0,0,0,1
+"Gateshead",0,1,0,0,0,0
+"Loughborough",0,1,0,0,0,0
+"Switzerland",0,1,0,0,0,0
+"Ukraine",0,1,0,0,0,0
+"London",0,1,0,0,0,0
+"New Orleans",0,1,0,0,0,0
+"Delhi",0,0,0,0,0,1
+"Amsterdam",0,1,0,0,0,0
+"Turkmenistan",0,1,0,0,0,0
+"Ipswich",0,1,0,0,0,0
+"Miami",0,0,0,0,0,1
+"Liberia",0,1,0,0,0,0
+"WA",0,1,0,0,0,0
+"Mpeketoni",0,1,0,0,0,0
+"Lahore",0,1,0,0,0,0
+"Co Meath",0,1,0,0,0,0
+"Sierra Leone",0,1,0,0,0,0
+"Netherlands",0,1,0,0,0,0
+"OfhDaGNZ City",0,0,0,0,0,1
+"Exeter",0,1,0,0,0,0
+"Tasmania",0,1,0,0,0,0
+"A2TUr58Siu DR Congo",0,0,0,0,0,1
+"Aston",0,1,0,0,0,0
+"Middle East Saudi Arabia",0,0,0,0,0,1
+"Leicester",0,1,0,0,0,0
+"Kirkuk",0,1,0,0,0,0
+"Calgary",0,1,0,0,0,0
+"Derby",0,1,0,0,0,0
+"Everton",0,1,0,0,0,0
+"Spain",0,1,0,0,0,0
+"Thames",0,0,0,0,0,1
+"Boston",0,1,0,0,0,0
+"Ballyhea14",0,1,0,0,0,0
+"Canberra",0,1,0,0,0,0
+"New York City",0,1,0,0,0,0
+"Strathaven",0,1,0,0,0,0
+"Gloucester",0,0,0,0,0,1
+"Bakbuk",0,1,0,0,0,0
+"Kilkee",0,1,0,0,0,0
+"Leicester City",0,1,0,0,0,0
+"Nashville",0,0,0,0,0,1
+"Singapore",0,1,0,0,0,0
+"ireland",0,0,0,0,0,1
+"Niagara West Glanbrook",0,0,0,0,0,1
+"Wyoming",0,1,0,0,0,0
+"Belgrade",0,0,0,0,0,1
+"Dundee",0,1,0,0,0,0
+"HuffPostUK",0,0,0,0,0,1
+"eeuwigheid",0,0,0,0,0,1
+"Eritrea",0,1,0,0,0,0
+"New Brunswick",0,1,0,0,0,0
+"QT",0,1,0,0,0,0
+"Diyala",0,1,0,0,0,0
+"Syria",0,1,0,0,0,0
+"China",0,1,0,0,0,0
+"Milwaukee",0,1,0,0,0,0
+"San Francisco",0,1,0,0,0,0
+"Cardiff City",0,1,0,0,0,0
+"Warsaw",0,0,0,0,0,1
+"Homs",0,1,0,0,0,0
+"nyc",0,1,0,0,0,0
+"Wellington City",0,1,0,0,0,0
+"East Ukraine",0,1,0,0,0,0
+"Denmark",0,1,0,0,0,0
+"Bangi",0,1,0,0,0,0
+"Bath",0,1,0,0,0,0
+"Kilcock",0,0,0,0,0,1
+"MindField",0,0,0,0,0,1
+"Salford",0,1,0,0,0,0
+"Ireland",0,1,0,0,0,0
+"Oamaru",0,1,0,0,0,0
+"Scorchio",0,0,0,0,0,1
+"ABH36ETyF0 Saudi Arabia",0,0,0,0,0,1
+"Youngstown",0,1,0,0,0,0
+"Baghdad",0,1,0,0,0,0
+"SC",0,1,0,0,0,0
+"Edinburgh",0,1,0,0,0,0
+"Egypt",0,1,0,0,0,0
+"Michigan",0,1,0,0,0,0
+"Morning Ireland",0,1,0,0,0,0
+"Tuktoyaktuk",0,1,0,0,0,0
+"VA",0,1,0,0,0,0
+"Cleveland",0,1,0,0,0,0
+"Villers Bretonneux",0,0,0,0,0,1
+"Manchester City",0,1,0,0,0,0
+"Kilkenny",0,1,0,0,0,0
+"Dubai",0,1,0,0,0,0
+"Townsville",0,1,0,0,0,0
+"Juno Beach",0,1,0,0,0,0
+"California",0,1,0,0,0,0
+"Westminster",0,1,0,0,0,0
+"DONETSK",0,0,0,0,0,1
+"Kingston",0,1,0,0,0,0
+"Scotland",0,1,0,0,0,0
+"Dorchester",0,1,0,0,0,0
+"Avon",0,1,0,0,0,0
+"Kansas",0,1,0,0,0,0
+"Shenzhen",0,1,0,0,0,0
+"Edenbridge",0,1,0,0,0,0
+"Borneo",0,1,0,0,0,0
+"South Carolina",0,1,0,0,0,0
+"Nottingham",0,1,0,0,0,0
+"Davidburtka",0,1,0,0,0,0
+"India",0,1,0,0,0,0
+"Seychelles",0,1,0,0,0,0
+"Leeds",0,1,0,0,0,0
+"Norwich",0,1,0,0,0,0
+"Menlough County Galway",0,1,0,0,0,0
+"CO",0,1,0,0,0,0
+"Merco Greenwich",0,0,0,0,0,1
+"Virginia",0,1,0,0,0,0
+"Florida",0,1,0,0,0,0
+"Austria",0,1,0,0,0,0
+"Manhattan",0,0,0,0,0,1
+"Corralejo",0,1,0,0,0,0
+"Montreal",0,1,0,0,0,0
+"South Yorkshir",0,1,0,0,0,0
+"Brisbane",0,1,0,0,0,0
+"Iraq",0,1,0,0,0,0
+"Leinster / Munster",0,0,0,0,0,1
+"Cairo",0,1,0,0,0,0
+"Coney Island",0,1,0,0,0,0
+"Arun",0,1,0,0,0,0
+"Varanasi",0,1,0,0,0,0
+"Ghana",0,1,0,0,0,0
+"Mo.",0,0,0,0,0,1
+"Swansea",0,1,0,0,0,0
+"Colombia",0,1,0,0,0,0
+"Saratoga Co",0,0,0,0,0,1
+"Manitoba",0,1,0,0,0,0
+"MINSK",0,1,0,0,0,0
+"Chinatown",0,1,0,0,0,0
+"Ballyjamesduff",0,1,0,0,0,0
+"Zambia",0,0,0,0,0,1
+"Lisburn",0,1,0,0,0,0
+"Yarraville",0,1,0,0,0,0
+"Geneva",0,1,0,0,0,0
+"Kaylnn",0,1,0,0,0,0
+"South",0,0,0,0,0,1
+"Winnipeg",0,1,0,0,0,0
+"Grabovo",0,1,0,0,0,0
+"France",0,1,0,0,0,0
+"Greece",0,1,0,0,0,0
+"Rouleurs",0,0,0,0,0,1
+"Santiago",0,1,0,0,0,0
+"Oklahoma",0,1,0,0,0,0
+"Honduras",0,1,0,0,0,0
+"Elizabethtown",0,0,0,0,0,1
+"Costa Rica",0,1,0,0,0,0
+"U",0,1,0,0,0,0
+"Alberta",0,1,0,0,0,0
+"loudon",0,0,0,0,0,1
+"Biddulph",0,1,0,0,0,0
+"Sabah",0,1,0,0,0,0
+"WallisAnnenbergHall",0,0,0,0,0,1
+"Louth",0,0,0,0,0,1
+"Dartford",0,1,0,0,0,0
+"Italy",0,1,0,0,0,0
+"Montague",0,1,0,0,0,0
+"Minsk",0,1,0,0,0,0
+"Guinea",0,1,0,0,0,0
+"Senegal",0,1,0,0,0,0
+"Victoria",0,1,0,0,0,0
+"Lebanon MO",0,1,0,0,0,0
+"Essex",0,1,0,0,0,0
+"Docklands",0,1,0,0,0,0
+"Ascoli",0,1,0,0,0,0
+"Wales N Ireland",0,0,0,0,0,1
+"Carrickfergus",0,0,0,0,0,1
+"Wolfsburg",0,1,0,0,0,0
+"Nigeria",0,1,0,0,0,0
+"KlayVinn",0,0,0,0,0,1
+"Ecuador",0,1,0,0,0,0
+"County Cavan",0,1,0,0,0,0
+"Atlanta",0,1,0,0,0,0
+"Sayulita",0,1,0,0,0,0
+"Blighty",0,1,0,0,0,0
+"Penkridge",0,1,0,0,0,0
+"Birmingham",0,1,0,0,0,0
+"Next Ontario",0,0,0,0,0,1
+"Connecticut",0,1,0,0,0,0
+"Queensland",0,1,0,0,0,0
+"Hiroshima",0,0,0,0,0,1
+"Galtymore",0,1,0,0,0,0
+"7ll034t2py United Kingdom",0,0,0,0,0,1
+"CoppiBelfast",0,1,0,0,0,0
+"Castlecomer",0,1,0,0,0,0
+"Georgia",0,1,0,0,0,0
+"ENGLAND",0,1,0,0,0,0
+"Slavyansk",0,1,0,0,0,0
+"Tenn",0,0,0,0,0,1
+"Republic",0,1,0,0,0,0
+"Luhansk",0,1,0,0,0,0
+"Sweden",0,1,0,0,0,0
+"Malaysia",0,1,0,0,0,0
+"TomodachiLife",0,0,0,0,0,1
+"Islamabad",0,1,0,0,0,0
+"Horicon",0,1,0,0,0,0
+"Devon Cornwall",0,0,0,0,0,1
+"houston",0,0,0,0,0,1
+"Sarcelles",0,1,0,0,0,0
+"Quebec",0,1,0,0,0,0
+"FnIkXsSjUJ UAE",0,0,0,0,0,1
+"Madrid",0,1,0,0,0,0
+"Eastridge",0,1,0,0,0,0
+"Ferguson",0,1,0,0,0,0
+"Parlt",0,1,0,0,0,0
+"Liliput",0,0,0,0,0,1
+"Iceland",0,1,0,0,0,0
+"Oola",0,1,0,0,0,0
+"Bristol",0,1,0,0,0,0
+"York",0,1,0,0,0,0
+"Sandymount Strand",0,1,0,0,0,0
+"Mallow",0,1,0,0,0,0
+"Vegas",0,1,0,0,0,0
+"Sri Lanka",0,1,0,0,0,0
+"Rubber Dinghy Rapids",0,0,0,0,0,1
+"Cavan",0,1,0,0,0,0
+"Venezuela",0,0,0,0,0,1
+"Russia",0,1,0,0,0,0
+"Bahamas",0,1,0,0,0,0
+"Croatia",0,1,0,0,0,0
+"Houston",0,1,0,0,0,0
+"Downing St",0,1,0,0,0,0
+"Australia 27",0,0,0,0,0,1
+"Northampton North",0,0,0,0,0,1
+"Nicaragua",0,1,0,0,0,0
+"Christchurch",0,1,0,0,0,0
+"Hungary",0,1,0,0,0,0
+"richmond",0,0,0,0,0,1
+"Mayfair",0,1,0,0,0,0
+"Geelong",0,1,0,0,0,0
+"Bermuda",0,1,0,0,0,0
+"Kenya",0,1,0,0,0,0
+"Walsall",0,1,0,0,0,0
+"Buffalo",0,1,0,0,0,0
+"dublin",0,1,0,0,0,0
+"Sinn Fein",0,1,0,0,0,0
+"LondonersDiary",0,1,0,0,0,0
+"Sydney",0,1,0,0,0,0
+"Glenwood Springs",0,1,0,0,0,0
+"N Kildare",0,1,0,0,0,0
+"Borussia Dortmund",0,1,0,0,0,0
+"USA",0,1,0,0,0,0
+"Newcastle",0,1,0,0,0,0
+"Jiangsu",0,1,0,0,0,0
+"Co Antrim",0,1,0,0,0,0
+"Salem",0,0,0,0,0,1
+"Goresbrook",0,0,0,0,0,1
+"Tunisia",0,1,0,0,0,0
+"Nevada",0,1,0,0,0,0
+"Brussel",0,0,0,0,0,1
+"SA",0,1,0,0,0,0
+"New Zealand",0,1,0,0,0,0
+"Wichita",0,1,0,0,0,0
+"russia",0,1,0,0,0,0
+"Newry , Co",0,0,0,0,0,1
+"Southsea",0,1,0,0,0,0
+"Leitrim",0,1,0,0,0,0
+"South Korea '",0,0,0,0,0,1
+"west Africa",0,1,0,0,0,0
+"Kobani",0,1,0,0,0,0
+"Bangkok",0,1,0,0,0,0
+"Lismore , Ballina",0,0,0,0,0,1
+"Manchester",0,1,0,0,0,0
+"Regina",0,1,0,0,0,0
+"Yagoona",0,1,0,0,0,0
+"Thailand",0,1,0,0,0,0
+"Holland",0,1,0,0,0,0
+"Letterston",0,0,0,0,0,1
+"GIiGHzcdG8 Riverina",0,0,0,0,0,1
+"Normandy",0,1,0,0,0,0
+"Munich",0,1,0,0,0,0
+"Takapuna",0,1,0,0,0,0
+"Reina Sofia",0,0,0,0,0,1
+"Vancouver",0,1,0,0,0,0
+"Halifax",0,1,0,0,0,0
+"Galway",0,0,0,0,0,1
+"Qatar",0,1,0,0,0,0
+"Ilminster",0,1,0,0,0,0
+"Mexico",0,1,0,0,0,0
+"Turkey",0,1,0,0,0,0
+"ReutersLivve",0,0,0,0,0,1
+"Cuba",0,0,0,0,0,1
+"Londonderry",0,1,0,0,0,0
+"Birmingham City",0,1,0,0,0,0
+"BelTA Belarus",0,0,0,0,0,1
+"Montpellier",0,0,0,0,0,1
+"BrazilvsCameroon",0,0,0,0,0,1
+"Holywood",0,1,0,0,0,0
+"Donetsk",0,1,0,0,0,0
+"Chelsea",0,1,0,0,0,0
+"Afghanistan",0,1,0,0,0,0
+"South Dakota",0,1,0,0,0,0
+"Moscow",0,1,0,0,0,0
+"Limerick",0,1,0,0,0,0
+"Loughgall",0,1,0,0,0,0
+"Castlerea",0,1,0,0,0,0
+"Ex Tyrone",0,0,0,0,0,1
+"Cork",0,1,0,0,0,0
+"South Manc",0,1,0,0,0,0
+"Cambodia",0,1,0,0,0,0
+"Colorado",0,1,0,0,0,0
+"ApartHotels",0,1,0,0,0,0
+"Kiev",0,1,0,0,0,0
+"Limpopo",0,1,0,0,0,0
+"North",0,1,0,0,0,0
+"Beersheba",0,1,0,0,0,0
+"Hifi",0,1,0,0,0,0
+"Tugun",0,1,0,0,0,0
+"Windsor",0,1,0,0,0,0
+"Wimblington",0,1,0,0,0,0
+"EamonGilmore",0,1,0,0,0,0
+"Cambridge",0,1,0,0,0,0
+"ChrisMogster",0,1,0,0,0,0
+"Istanbul",0,1,0,0,0,0
+"Arizona",0,1,0,0,0,0
+"Portugal",0,1,0,0,0,0
+"Finland",0,1,0,0,0,0
+"BlissKissBreeze",0,1,0,0,0,0
+"SimoLove",0,1,0,0,0,0
+"Richmond",0,0,0,0,0,1
+"Spalding",0,1,0,0,0,0
+"Charlottetown",0,1,0,0,0,0
+"BrazilvsGermany",0,0,0,0,0,1
+"Tilbury",0,1,0,0,0,0
+"Ilkeston",0,1,0,0,0,0
+"US",0,1,0,0,0,0
+"Kent",0,1,0,0,0,0
+"Chelmsford",0,1,0,0,0,0
+"New York",0,1,0,0,0,0
+"Sligo",0,1,0,0,0,0
+"Belfast",0,1,0,0,0,0
+"Jerusalem",0,1,0,0,0,0
+"Hawkesbury",0,1,0,0,0,0
+"Kaitaia",0,1,0,0,0,0
+"Cornwall",0,1,0,0,0,0
+"sunderland",0,1,0,0,0,0
+"Maida Vale",0,1,0,0,0,0
+"Crimea",0,1,0,0,0,0
+"the U",0,0,0,0,0,1
+"Ottawa CdnTireCtr",0,0,0,0,0,1
+"ROC",0,0,0,0,0,1
+"SoccerSaturday",0,0,0,0,0,1
+"Denver",0,1,0,0,0,0
+"UK 9",0,0,0,0,0,1
+"ruddington",0,1,0,0,0,0
+"Tel Aviv",0,1,0,0,0,0
+"barcelona",0,1,0,0,0,0
+"United Kingdom",0,1,0,0,0,0
+"Monmouthshire",0,1,0,0,0,0
+"Folkestone",0,1,0,0,0,0
+"Kuwait",0,0,0,0,0,1
+"Manaus",0,1,0,0,0,0
+"Glasgow",0,1,0,0,0,0
+"Sefton",0,1,0,0,0,0
+"England",0,1,0,0,0,0
+"Sterling",0,1,0,0,0,0
+"LA",0,1,0,0,0,0
+"Swanston St",0,1,0,0,0,0
+"Moore",0,1,0,0,0,0
+"Fla",0,1,0,0,0,0
+"Tehran",0,1,0,0,0,0
+"Laois",0,1,0,0,0,0
+"Libya",0,0,0,0,0,1
+"manchester",0,0,0,0,0,1
+"America",0,1,0,0,0,0
+"Procastan",0,0,0,0,0,1
+"Derry Strabane",0,0,0,0,0,1
+"Solihull",0,1,0,0,0,0
+"United",0,1,0,0,0,0
+"SOUTHGATE",0,1,0,0,0,0
+"Northbrook St Newbury",0,1,0,0,0,0
+"Snezhnoe",0,1,0,0,0,0
+"Norfolk",0,1,0,0,0,0
+"Eindhoven",0,1,0,0,0,0
+"Yellowknife",0,1,0,0,0,0
+"Malahide",0,1,0,0,0,0
+"Arsenal",0,1,0,0,0,0
+"Belarus",0,1,0,0,0,0
+"Barcelona",0,1,0,0,0,0
+"Japan",0,1,0,0,0,0
+"WALES",0,1,0,0,0,0
+"Texas",0,1,0,0,0,0
+"Iwanttotravel",0,0,0,0,0,1
+"S Sudan",0,1,0,0,0,0
+"Hatton Garden",0,0,0,0,0,1
+"Staceylee",0,0,0,0,0,1
+"Ballinamore",0,1,0,0,0,0
+"Germany",0,1,0,0,0,0
+"Blarney",0,1,0,0,0,0
+"Skegness",0,0,0,0,0,1
+"Palau",0,1,0,0,0,0
+"Qld",0,1,0,0,0,0
+"AliceSprings",0,0,0,0,0,1
+"Granadilla de Abona",0,1,0,0,0,0
+"Que",0,0,0,0,0,1
+"Hong Kong",0,1,0,0,0,0
+"West Ham",0,1,0,0,0,0
+"Celestine Lake",0,1,0,0,0,0
+"Cayman",0,0,0,0,0,1
+"Pakistan",0,1,0,0,0,0
+"North East Lincolnshire",0,1,0,0,0,0
+"Benghazi",0,1,0,0,0,0
+"CaryAngeline",0,1,0,0,0,0
+"Varna",0,1,0,0,0,0
+"Philippines",0,1,0,0,0,0
+"Saskatchewan",0,1,0,0,0,0
+"VpE2fwkFDT USA",0,0,0,0,0,1
+"Boulder",0,1,0,0,0,0
+"Swindon Town",0,1,0,0,0,0
+"SW England",0,0,0,0,0,1
+"Honolulu",0,1,0,0,0,0
+"South Korea",0,1,0,0,0,0
+"JamieLaing",0,0,0,0,0,1
+"Dingle",0,1,0,0,0,0
+"manchester city",0,1,0,0,0,0
+"Wardsville",0,1,0,0,0,0
+"Liverpool",0,1,0,0,0,0
+"Atlantic Canada",0,1,0,0,0,0
+"Buncrana",0,1,0,0,0,0
+"RUAbJv2tGZ Canada '",0,0,0,0,0,1
+"Bolton Home",0,0,0,0,0,1
+"Red River",0,1,0,0,0,0
+"Brazil",0,1,0,0,0,0
+"Natanz",0,1,0,0,0,0
+"Nebraska",0,1,0,0,0,0
+"NV",0,0,0,0,0,1
+"Iran",0,1,0,0,0,0
+"MichaelWestBiz",0,1,0,0,0,0
+"Indonesia 12",0,0,0,0,0,1
+"Bogota",0,1,0,0,0,0
+"East Belfast",0,1,0,0,0,0
+"Florence",0,1,0,0,0,0
+"Va",0,0,0,0,0,1
+"Nepal",0,1,0,0,0,0
+*TOTAL*,0,469,0,0,0,124

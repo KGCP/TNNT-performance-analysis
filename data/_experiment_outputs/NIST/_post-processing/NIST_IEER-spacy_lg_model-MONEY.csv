@@ -1,0 +1,59 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"tens ofthousands of dollars",1,0,0,0,0,0
+"more than 40 million",0,0,0,1,0,0
+"$2 billion",0,0,0,0,1,0
+"$23.50",0,0,0,0,1,0
+"thinlydisguised",0,0,0,1,0,0
+"dlrs 25",0,0,0,0,1,0
+"3 per cent",0,0,0,1,0,0
+"another penny",0,0,1,0,0,0
+"93 per cent",0,0,0,1,0,0
+"millions of ringgit",0,0,0,0,1,0
+"6 cents",1,0,0,0,0,0
+"RM10",0,0,0,0,1,0
+"$552million",0,0,0,0,1,0
+"8 cents",1,0,0,0,0,0
+"40 kroner dlrs",0,0,0,1,0,0
+"billions of dollars",0,0,1,0,0,0
+"one million dollars",1,0,0,0,0,0
+"$58 million",0,0,0,0,1,0
+"RM2billion",0,0,0,0,1,0
+"several thousand dollars",1,0,0,0,0,0
+"dlrs 18",0,0,0,0,1,0
+"104",0,0,0,0,1,0
+"4 cents",1,0,0,0,0,0
+"hundreds ofmillions of dollars",1,0,0,0,0,0
+"$40.2million",0,0,0,0,1,0
+"125 million_",0,0,0,1,0,0
+"$600billion",0,0,0,0,1,0
+"onJapan _",0,0,0,1,0,0
+"$20 billion",0,0,0,0,1,0
+"217 billion",0,0,1,0,0,0
+"hundreds of billions ofdollars",1,0,0,0,0,0
+"42 yen",0,0,1,0,0,0
+"9,000",0,0,0,0,1,0
+"several tens of million",0,1,0,0,0,0
+"hundreds of pounds",0,1,0,0,0,0
+"dlrs 475",0,0,0,0,1,0
+"$2-million",0,0,0,0,1,0
+"$1 billion",0,0,0,0,1,0
+"dlrs 190",0,0,0,0,1,0
+"PENNY",0,0,0,0,1,0
+"5 15percent",0,0,0,1,0,0
+"25",0,1,0,0,0,0
+"175",0,0,1,0,0,0
+"$1,000",0,0,0,0,1,0
+"$4-billion",0,0,0,0,1,0
+"$8-billion",0,0,0,0,1,0
+"190 dlrs",0,0,0,1,0,0
+"dlrs 100",0,0,0,0,1,0
+"4 billion",0,0,1,0,0,0
+"dlrs 36",0,0,0,0,1,0
+"$6 million",0,0,0,0,1,0
+"$23",0,0,0,0,1,0
+"$180-million",0,0,0,0,1,0
+"5 per cent",0,0,0,1,0,0
+"2 kroner 28 cents",0,0,1,0,0,0
+"34 per cent",0,0,0,1,0,0
+"almost 1 billion",0,0,0,1,0,0
+*TOTAL*,8,3,7,12,54,0

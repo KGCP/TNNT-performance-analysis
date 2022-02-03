@@ -1,0 +1,115 @@
+[2021-04-22 09:15:05,721] [root � INFO] � [<module>:2605]
+******************************************************************************
+[2021-04-22 09:15:05,721] [root � INFO] � [<module>:2606]
+Loading NLP/NER models...
+[2021-04-22 09:15:05,722] [root � INFO] � [output:224]
+
+2021-04-22 09:15:05.722143> @<static_method>.models:
+NER.processing_blocks=['heavy!']
+NER.models=['stanza_model', 'nltk_model', 'bert_model']
+[2021-04-22 09:15:05,763] [stanza � INFO] � [__init__:87]
+Loading these models for language: en (English):
+=========================
+| Processor | Package   |
+-------------------------
+| tokenize  | ewt       |
+| pos       | ewt       |
+| lemma     | ewt       |
+| depparse  | ewt       |
+| sentiment | sstplus   |
+| ner       | ontonotes |
+=========================
+
+[2021-04-22 09:15:05,763] [stanza � INFO] � [__init__:98]
+Use device: cpu
+[2021-04-22 09:15:05,763] [stanza � INFO] � [__init__:104]
+Loading: tokenize
+[2021-04-22 09:15:05,859] [stanza � INFO] � [__init__:104]
+Loading: pos
+[2021-04-22 09:15:07,455] [stanza � INFO] � [__init__:104]
+Loading: lemma
+[2021-04-22 09:15:07,824] [stanza � INFO] � [__init__:104]
+Loading: depparse
+[2021-04-22 09:15:09,417] [stanza � INFO] � [__init__:104]
+Loading: sentiment
+[2021-04-22 09:15:10,781] [stanza � INFO] � [__init__:104]
+Loading: ner
+[2021-04-22 09:15:12,810] [stanza � INFO] � [__init__:126]
+Done loading processors!
+[2021-04-22 09:15:12,850] [pytorch_transformers.modeling_utils � INFO] � [from_pretrained:196]
+loading configuration file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/config.json
+[2021-04-22 09:15:12,858] [pytorch_transformers.modeling_utils � INFO] � [from_pretrained:216]
+Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": "ner",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 12,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+[2021-04-22 09:15:12,859] [pytorch_transformers.modeling_utils � INFO] � [from_pretrained:530]
+loading weights file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/pytorch_model.bin
+[2021-04-22 09:15:22,724] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:313]
+Model name '/data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc). Assuming '/data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/' is a path or url to a directory containing tokenizer files.
+[2021-04-22 09:15:22,724] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/vocab.txt
+[2021-04-22 09:15:22,724] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/added_tokens.json
+[2021-04-22 09:15:22,724] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/special_tokens_map.json
+[2021-04-22 09:15:22,725] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/tokenizer_config.json
+[2021-04-22 09:15:22,790] [root � INFO] � [<module>:2608]
+NLP/NER models loaded!
+[2021-04-22 09:15:22,790] [root � INFO] � [<module>:2609]
+******************************************************************************
+
+[2021-04-22 09:15:22,791] [root � INFO] � [output:224]
+
+2021-04-22 09:15:22.791292> @<static_method>.displayConfigFile:
+* Already using configuration file: /data/python-resources/AGRIF/mapping-services/MEL/config-NER-Survey.json
+  (nothing to do)
+[2021-04-22 09:15:22,791] [root � INFO] � [header:2696]
+******************************************************************************
+[2021-04-22 09:15:22,791] [root � INFO] � [header:2697]
+Project AGRIF | MEL: Metadata Extractor & Loader --> @dataset=NER-Survey
+[2021-04-22 09:15:22,791] [root � INFO] � [printStartTimeStamp:235]
+Start time: [2021-04-22 09:15:22.791845]
+[2021-04-22 09:15:22,791] [root � INFO] � [header:2700]
+platform: [Linux]; __name__: [MEL]; __package__: [MEL]
+[2021-04-22 09:15:22,792] [root � INFO] � [shortPrint:441]
+CouchDB Processing: [False], NLP-NER Processing: [True]
+[2021-04-22 09:15:22,792] [root � INFO] � [shortPrint:442]
+Input Folder: [/data/python-resources/AGRIF/docs-repo/NER-Survey/]
+
+
+[2021-04-22 09:15:22,792] [root � INFO] � [header:2702]
+******************************************************************************
+[2021-04-23 04:42:48,395] [root � INFO] � [output:224]
+
+2021-04-23 04:42:48.395811> @<static_method>.writeOutputFile:
+[/data/python-resources/AGRIF/docs-repo/NER-Survey/_output/Feature_engineered_corpus.txt-MEL+NER_output.json]
+[2021-04-23 04:42:48,408] [root � INFO] � [footer:2715]
+******************************************************************************
+[2021-04-23 04:42:48,409] [root � INFO] � [printEndTimeStamp:240]
+
+
+End time: [2021-04-23 04:42:48.408986]
+[2021-04-23 04:42:48,409] [root � INFO] � [printEndTimeStamp:241]
+Execution time: 70045.617836 seconds.

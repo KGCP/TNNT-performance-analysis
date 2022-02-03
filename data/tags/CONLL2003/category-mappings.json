@@ -1,0 +1,6 @@
+{
+    "PER" : [ "tnnt:Person"       ],
+	"ORG" : [ "tnnt:Organisation" ],
+	"LOC" : [ "tnnt:Location"     ],
+    "MISC": [ "tnnt:NORP", "tnnt:Event" ]
+}

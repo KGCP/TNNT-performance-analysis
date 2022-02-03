@@ -1,0 +1,718 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Chicago",0,1,0,0,0,0
+"Wogan",0,0,0,0,0,1
+"Berlin",0,1,0,0,0,0
+"Kansas City",0,1,0,0,0,0
+"Darlington",0,1,0,0,0,0
+"West Midlands",0,1,0,0,0,0
+"Pinehurst",0,0,0,0,0,1
+"Rotherham",0,1,0,0,0,0
+"Tipperary",0,1,0,0,0,0
+"Israel",0,1,0,0,0,0
+"West Africa",0,1,0,0,0,0
+"Roscommon Oak Park",0,0,0,0,0,1
+"Zagreb",0,1,0,0,0,0
+"Ohio",0,0,0,0,0,1
+"Djerba",0,1,0,0,0,0
+"Man City",0,1,0,0,0,0
+"Villawood",0,1,0,0,0,0
+"Sunderland",0,1,0,0,0,0
+"CHCH",0,1,0,0,0,0
+"Tottenham",0,1,0,0,0,0
+"Harhur",0,1,0,0,0,0
+"Vietnam",0,1,0,0,0,0
+"SheriffZurlo",0,1,0,0,0,0
+"Paris",0,1,0,0,0,0
+"london",0,1,0,0,0,0
+"US 4",0,0,0,0,0,1
+"Palestine",0,1,0,0,0,0
+"Netherlands Holland",0,0,0,0,0,1
+"Wicklow",0,1,0,0,0,0
+"Bray",0,1,0,0,0,0
+"Wisconsin 74 73",0,0,0,0,0,1
+"Baltimore",0,1,0,0,0,0
+"McEwen",0,1,0,0,0,0
+"J Lo",0,0,0,0,0,1
+"Kobane",0,1,0,0,0,0
+"Sussex",0,1,0,0,0,0
+"Linwood",0,1,0,0,0,0
+"UK North Sea",0,1,0,0,0,0
+"Dun Leary earlier this morning DunLaoghaire",0,0,0,0,0,1
+"Elkington",0,0,0,0,0,1
+"PA",0,1,0,0,0,0
+"Pukehinau Flats",0,1,0,0,0,0
+"Omaha",0,1,0,0,0,0
+"Pls",0,0,0,0,0,1
+"Ballymurphy",0,1,0,0,0,0
+"Delaware",0,1,0,0,0,0
+"Uzbekistan",0,1,0,0,0,0
+"SF",0,1,0,0,0,0
+"Melbourne",0,1,0,0,0,0
+"NUI Maynooth",0,1,0,0,0,0
+"Dortmund 2",0,0,0,0,0,1
+"Jeanne d ' Arc",0,0,0,0,0,1
+"Somerset",0,1,0,0,0,0
+"Dublin West",0,1,0,0,0,0
+"Brighton",0,1,0,0,0,0
+"Grimsby",0,1,0,0,0,0
+"sevilla",0,1,0,0,0,0
+"Mosul",0,1,0,0,0,0
+"Somalia",0,1,0,0,0,0
+"Co Donegal",0,1,0,0,0,0
+"Camden",0,1,0,0,0,0
+"Argentina",0,1,0,0,0,0
+"Drogheda",0,1,0,0,0,0
+"Ottawa",0,1,0,0,0,0
+"Co",0,1,0,0,0,0
+"Northern Ireland England",0,0,0,0,0,1
+"Derry",0,1,0,0,0,0
+"GalwayWeather",0,1,0,0,0,0
+"Bank of England",0,1,0,0,0,0
+"Rozsypne",0,1,0,0,0,0
+"West VA",0,1,0,0,0,0
+"Malaysia 23 Indonesia 11 UK 6 Germany 4 Belgium 4 White House",0,0,0,0,0,1
+"Parlt tonight",0,0,0,0,0,1
+"Lochee",0,1,0,0,0,0
+"Carlow",0,1,0,0,0,0
+"DR Congo",0,1,0,0,0,0
+"Meath",0,1,0,0,0,0
+"Satur",0,0,0,0,0,1
+"Valladolid",0,1,0,0,0,0
+"Malia",0,1,0,0,0,0
+"Doncaster",0,1,0,0,0,0
+"Canada",0,1,0,0,0,0
+"Toowoomba",0,1,0,0,0,0
+"DC",0,1,0,0,0,0
+"N Kildare this morning",0,0,0,0,0,1
+"Ashburton",0,1,0,0,0,0
+"Portsmouth",0,1,0,0,0,0
+"CT Wednesday",0,0,0,0,0,1
+"Poland",0,1,0,0,0,0
+"Viendo el Valencia Sevilla AmuntValencia",0,0,0,0,0,1
+"Nenagh Ireland",0,1,0,0,0,0
+"Melbourne McDonalds",0,0,0,0,0,1
+"Manawatu",0,0,0,0,0,1
+"Calgary TVWatchtower",0,0,0,0,0,1
+"South East London",0,1,0,0,0,0
+"Uruguay",0,1,0,0,0,0
+"Mali Cuba",0,0,0,0,0,1
+"Myung Ga",0,1,0,0,0,0
+"Zurich",0,0,0,0,0,1
+"Congo",0,0,0,0,0,1
+"Kyiv",0,0,0,0,0,1
+"Cloverhill",0,0,0,0,0,1
+"P",0,0,0,0,0,1
+"Lismore",0,1,0,0,0,0
+"Britain",0,1,0,0,0,0
+"Wraxall Bristol",0,1,0,0,0,0
+"Adelaide",0,1,0,0,0,0
+"Detroit",0,0,0,0,0,1
+"Clwyd West",0,1,0,0,0,0
+"Lol",0,0,0,0,0,1
+"Croke Park",0,1,0,0,0,0
+"Australia",0,1,0,0,0,0
+"Dallas",0,1,0,0,0,0
+"HK",0,1,0,0,0,0
+"Cannes2013",0,0,0,0,0,1
+"Yorkshire Dales",0,1,0,0,0,0
+"Syston",0,1,0,0,0,0
+"Fenland",0,1,0,0,0,0
+"Calais",0,1,0,0,0,0
+"Terenure",0,1,0,0,0,0
+"NY",0,1,0,0,0,0
+"Jordon",0,1,0,0,0,0
+"Moranbah",0,1,0,0,0,0
+"QLD",0,1,0,0,0,0
+"Uganda",0,1,0,0,0,0
+"Villers Bretonneux today",0,0,0,0,0,1
+"Wales",0,1,0,0,0,0
+"Nepal",0,1,0,0,0,0
+"Wellington",0,1,0,0,0,0
+"The Netherlands",0,1,0,0,0,0
+"New NSW",0,0,0,0,0,1
+"the United States",0,0,0,0,0,1
+"Denmark next year Mondays",0,0,0,0,0,1
+"Washington",0,1,0,0,0,0
+"Nigeria 1 Bosnia Hercegovina",0,0,0,0,0,1
+"County Cavan this evening iWeatherNews",0,0,0,0,0,1
+"djryuma",0,1,0,0,0,0
+"Hertfordshire",0,1,0,0,0,0
+"Orlando",0,1,0,0,0,0
+"Norf",0,1,0,0,0,0
+"Kirkby",0,0,0,0,0,1
+"Las Vegas",0,1,0,0,0,0
+"Iowa",0,1,0,0,0,0
+"NZ",0,1,0,0,0,0
+"Sacramento",0,1,0,0,0,0
+"Kuala Lumpur",0,1,0,0,0,0
+"MD",0,0,0,0,0,1
+"Shawville",0,0,0,0,0,1
+"Baiji",0,1,0,0,0,0
+"Warwickshire",0,1,0,0,0,0
+"Bournemouth",0,1,0,0,0,0
+"Belgium",0,1,0,0,0,0
+"UK",0,1,0,0,0,0
+"Rome",0,1,0,0,0,0
+"Missouri",0,1,0,0,0,0
+"NYC",0,1,0,0,0,0
+"Gaza",0,1,0,0,0,0
+"Indonesia",0,1,0,0,0,0
+"Dublin",0,1,0,0,0,0
+"Ontario",0,1,0,0,0,0
+"Junhyung",0,1,0,0,0,0
+"Northern Ireland",0,1,0,0,0,0
+"Magilligan",0,1,0,0,0,0
+"Saskatoon",0,1,0,0,0,0
+"Genoa",0,1,0,0,0,0
+"Paterson",0,1,0,0,0,0
+"Watford",0,1,0,0,0,0
+"Kitchener",0,1,0,0,0,0
+"Edmonton",0,1,0,0,0,0
+"Haiti",0,0,0,0,0,1
+"Northampton North LibDems",0,0,0,0,0,1
+"Toronto",0,1,0,0,0,0
+"Everton Defoe",0,0,0,0,0,1
+"Tokyo",0,1,0,0,0,0
+"richardwaghorne Sad",0,0,0,0,0,1
+"Russia KFJ_FP",0,0,0,0,0,1
+"County Derry",0,1,0,0,0,0
+"Waikato",0,1,0,0,0,0
+"Murgh Mangalore",0,0,0,0,0,1
+"South Africa",0,1,0,0,0,0
+"West Cork",0,0,0,0,0,1
+"Rochester",0,1,0,0,0,0
+"Gateshead",0,1,0,0,0,0
+"Westminster tonight",0,0,0,0,0,1
+"Cork CorkHarbourWX",0,0,0,0,0,1
+"Switzerland",0,1,0,0,0,0
+"Ukraine",0,1,0,0,0,0
+"London",0,1,0,0,0,0
+"Greenwich 5 Week",0,0,0,0,0,1
+"New Orleans",0,1,0,0,0,0
+"Lebanon",0,1,0,0,0,0
+"Delhi",0,0,0,0,0,1
+"Perl",0,0,0,0,0,1
+"Amsterdam",0,1,0,0,0,0
+"UAE",0,1,0,0,0,0
+"Turkmenistan",0,1,0,0,0,0
+"Miami",0,0,0,0,0,1
+"Ipswich",0,1,0,0,0,0
+"Liberia",0,1,0,0,0,0
+"WA",0,1,0,0,0,0
+"Lahore",0,1,0,0,0,0
+"Co Meath",0,1,0,0,0,0
+"Raya",0,1,0,0,0,0
+"Sierra Leone",0,1,0,0,0,0
+"OfhDaGNZ City",0,0,0,0,0,1
+"Exeter",0,1,0,0,0,0
+"Gaza Hamas",0,0,0,0,0,1
+"Tasmania",0,1,0,0,0,0
+"New Hampshire",0,1,0,0,0,0
+"Landover Hills Panasonic",0,0,0,0,0,1
+"Aldgate",0,0,0,0,0,1
+"Aston",0,1,0,0,0,0
+"R",0,0,0,0,0,1
+"Peninsular",0,1,0,0,0,0
+"Middle East Saudi Arabia",0,0,0,0,0,1
+"Leicester",0,1,0,0,0,0
+"Buxton",0,1,0,0,0,0
+"Kirkuk",0,1,0,0,0,0
+"Calgary",0,1,0,0,0,0
+"Spain",0,1,0,0,0,0
+"liza",0,0,0,0,0,1
+"San Francisco Bay Area",0,1,0,0,0,0
+"Ballyhea14",0,1,0,0,0,0
+"Boston",0,1,0,0,0,0
+"Amid anti Israel",0,0,0,0,0,1
+"Adelaide Staceylee_ PM",0,0,0,0,0,1
+"Canberra",0,1,0,0,0,0
+"New York City",0,1,0,0,0,0
+"Kanban",0,0,0,0,0,1
+"Hillsborough",0,1,0,0,0,0
+"Strathaven",0,1,0,0,0,0
+"Pearce",0,0,0,0,0,1
+"Gloucester",0,0,0,0,0,1
+"everton lol wan",0,0,0,0,0,1
+"Germany 1st",0,0,0,0,0,1
+"City of London",0,1,0,0,0,0
+"Kilkee",0,1,0,0,0,0
+"Swynnerton",0,1,0,0,0,0
+"Nashville",0,0,0,0,0,1
+"Dublin BrennanMarjorie",0,0,0,0,0,1
+"Singapore",0,1,0,0,0,0
+"Levenson",0,1,0,0,0,0
+"Russia Ukraine",0,0,0,0,0,1
+"Austin",0,1,0,0,0,0
+"Otley",0,0,0,0,0,1
+"South Korea 's",0,0,0,0,0,1
+"Wyoming",0,1,0,0,0,0
+"Ukraine's",0,0,0,0,0,1
+"Dundee",0,1,0,0,0,0
+"DC Daniel Cormier",0,0,0,0,0,1
+"Liberia Sierra Leone",0,0,0,0,0,1
+"New Brunswick",0,1,0,0,0,0
+"Dover",0,1,0,0,0,0
+"QT",0,1,0,0,0,0
+"Diyala",0,1,0,0,0,0
+"Syria",0,1,0,0,0,0
+"China",0,1,0,0,0,0
+"Milwaukee",0,1,0,0,0,0
+"Warsaw",0,0,0,0,0,1
+"San Francisco",0,1,0,0,0,0
+"Homs",0,1,0,0,0,0
+"Cavan Boglawyer",0,0,0,0,0,1
+"Suff Ess",0,0,0,0,0,1
+"Thailand's",0,0,0,0,0,1
+"Paris this year",0,0,0,0,0,1
+"Wellington City",0,1,0,0,0,0
+"East Ukraine",0,1,0,0,0,0
+"Galway city",0,1,0,0,0,0
+"Denmark",0,1,0,0,0,0
+"Bath",0,1,0,0,0,0
+"Kilcock",0,0,0,0,0,1
+"Salford",0,1,0,0,0,0
+"Ireland",0,1,0,0,0,0
+"Cork 1967",0,0,0,0,0,1
+"Scorchio",0,0,0,0,0,1
+"Ballygowan Mournes",0,0,0,0,0,1
+"Cheviot",0,0,0,0,0,1
+"Alabama 6 Texas",0,0,0,0,0,1
+"Monaco",0,1,0,0,0,0
+"Bangi Bangi",0,0,0,0,0,1
+"Youngstown",0,1,0,0,0,0
+"Baghdad",0,1,0,0,0,0
+"SC",0,1,0,0,0,0
+"Edinburgh",0,1,0,0,0,0
+"Egypt",0,1,0,0,0,0
+"Michigan",0,1,0,0,0,0
+"Tuktoyaktuk",0,1,0,0,0,0
+"VA",0,1,0,0,0,0
+"Cleveland",0,1,0,0,0,0
+"Niagara West Glanbrook Voteon Liberal",0,0,0,0,0,1
+"Manchester City",0,1,0,0,0,0
+"MK",0,1,0,0,0,0
+"US 1 33 billion Bell",0,0,0,0,0,1
+"Kilkenny",0,1,0,0,0,0
+"Regents Park Royal Green Jackets Band",0,1,0,0,0,0
+"LochDunvegan",0,0,0,0,0,1
+"Dubai",0,1,0,0,0,0
+"Townsville",0,1,0,0,0,0
+"Taupo today",0,0,0,0,0,1
+"Biddulph this morning TIme",0,0,0,0,0,1
+"Ukraine 229",0,0,0,0,0,1
+"Tues Thurs 8 25 hours",0,0,0,0,0,1
+"Mulberry",0,1,0,0,0,0
+"California",0,1,0,0,0,0
+"Idalia",0,1,0,0,0,0
+"ayokong",0,0,0,0,0,1
+"Hackney",0,1,0,0,0,0
+"Northbrook St Newbury tomorrow",0,0,0,0,0,1
+"Scotland",0,1,0,0,0,0
+"Ibiza",0,1,0,0,0,0
+"Ballina",0,1,0,0,0,0
+"Avon",0,1,0,0,0,0
+"Dorchester",0,1,0,0,0,0
+"Kansas",0,1,0,0,0,0
+"Shenzhen",0,1,0,0,0,0
+"Widodo",0,1,0,0,0,0
+"Edenbridge",0,1,0,0,0,0
+"Borneo",0,1,0,0,0,0
+"South Carolina",0,1,0,0,0,0
+"MatevzNovak",0,0,0,0,0,1
+"Nottingham",0,1,0,0,0,0
+"Mon",0,0,0,0,0,1
+"Carrickfergus tonight",0,0,0,0,0,1
+"India",0,1,0,0,0,0
+"Seychelles",0,1,0,0,0,0
+"Burnley",0,1,0,0,0,0
+"Leeds",0,1,0,0,0,0
+"Norwich",0,1,0,0,0,0
+"Surrey",0,1,0,0,0,0
+"CO",0,1,0,0,0,0
+"Menlough County Galway",0,1,0,0,0,0
+"Merco Greenwich",0,0,0,0,0,1
+"Virginia",0,1,0,0,0,0
+"Kentucky 60 54",0,0,0,0,0,1
+"Austria",0,1,0,0,0,0
+"New Zealand 2014",0,0,0,0,0,1
+"Manhattan",0,0,0,0,0,1
+"Scotland Bill",0,1,0,0,0,0
+"Montreal",0,1,0,0,0,0
+"Amsterdam next year",0,0,0,0,0,1
+"Brisbane",0,1,0,0,0,0
+"Iraq",0,1,0,0,0,0
+"Kingston upon Thames",0,0,0,0,0,1
+"Cairo",0,1,0,0,0,0
+"Arun",0,1,0,0,0,0
+"Tas",0,1,0,0,0,0
+"Cambodia Khmer Rouge",0,0,0,0,0,1
+"Arundel",0,1,0,0,0,0
+"Ghana",0,1,0,0,0,0
+"Swansea",0,1,0,0,0,0
+"SA tomorrow",0,0,0,0,0,1
+"Colombia",0,1,0,0,0,0
+"Thornhill",0,1,0,0,0,0
+"Varnum",0,0,0,0,0,1
+"London today",0,0,0,0,0,1
+"Manitoba",0,1,0,0,0,0
+"Canada this year",0,0,0,0,0,1
+"Ballyjamesduff",0,1,0,0,0,0
+"Lisburn",0,1,0,0,0,0
+"VC",0,0,0,0,0,1
+"Yarraville",0,1,0,0,0,0
+"Geneva",0,1,0,0,0,0
+"Antrim",0,1,0,0,0,0
+"Ancona",0,1,0,0,0,0
+"Co Tyrone",0,1,0,0,0,0
+"Winnipeg",0,1,0,0,0,0
+"Grabovo",0,1,0,0,0,0
+"France",0,1,0,0,0,0
+"Algeria",0,1,0,0,0,0
+"Greece",0,1,0,0,0,0
+"chingford",0,1,0,0,0,0
+"Santiago",0,1,0,0,0,0
+"Oklahoma",0,1,0,0,0,0
+"Waitrose",0,0,0,0,0,1
+"Honduras",0,1,0,0,0,0
+"Elizabethtown",0,0,0,0,0,1
+"Costa Rica",0,1,0,0,0,0
+"U",0,1,0,0,0,0
+"Alberta",0,1,0,0,0,0
+"Ardspeninsula",0,0,0,0,0,1
+"Rathduff",0,1,0,0,0,0
+"Biddulph",0,1,0,0,0,0
+"Arnhem Land",0,1,0,0,0,0
+"Monaghan",0,1,0,0,0,0
+"Bath 31578 BB 8 bbm",0,0,0,0,0,1
+"South Korea CNN Relatives",0,0,0,0,0,1
+"Sabah",0,1,0,0,0,0
+"Newcastle 3",0,0,0,0,0,1
+"Florence",0,1,0,0,0,0
+"Greenwich",0,1,0,0,0,0
+"D",0,0,0,0,0,1
+"Western Australia",0,1,0,0,0,0
+"Louth",0,0,0,0,0,1
+"Montague",0,1,0,0,0,0
+"Italy",0,1,0,0,0,0
+"Guinea",0,1,0,0,0,0
+"Minsk",0,1,0,0,0,0
+"Dartford",0,1,0,0,0,0
+"Victoria",0,1,0,0,0,0
+"Senegal",0,1,0,0,0,0
+"Malaysia 45",0,0,0,0,0,1
+"Essex",0,1,0,0,0,0
+"Ascoli",0,1,0,0,0,0
+"Nigeria",0,1,0,0,0,0
+"Ecuador",0,1,0,0,0,0
+"H ' smith City",0,0,0,0,0,1
+"St",0,0,0,0,0,1
+"CA",0,1,0,0,0,0
+"Atlanta",0,1,0,0,0,0
+"Sayulita",0,1,0,0,0,0
+"Nice",0,0,0,0,0,1
+"Birmingham",0,1,0,0,0,0
+"Connecticut",0,1,0,0,0,0
+"Queensland",0,1,0,0,0,0
+"Rossnowlagh today",0,0,0,0,0,1
+"WestwoodLee",0,1,0,0,0,0
+"al Furqan",0,0,0,0,0,1
+"Hiroshima",0,0,0,0,0,1
+"London this week",0,0,0,0,0,1
+"Central London",0,1,0,0,0,0
+"Maida Vale First",0,0,0,0,0,1
+"Spain2014",0,0,0,0,0,1
+"Castlecomer",0,1,0,0,0,0
+"City Centre",0,1,0,0,0,0
+"Georgia",0,1,0,0,0,0
+"Slavyansk",0,1,0,0,0,0
+"Hull",0,1,0,0,0,0
+"Luhansk",0,1,0,0,0,0
+"Sweden",0,1,0,0,0,0
+"Hammersmith",0,0,0,0,0,1
+"Malaysia",0,1,0,0,0,0
+"Ireland today",0,0,0,0,0,1
+"Devon Cornwall",0,0,0,0,0,1
+"houston",0,0,0,0,0,1
+"Mo",0,1,0,0,0,0
+"Brasil",0,1,0,0,0,0
+"Quebec",0,1,0,0,0,0
+"Madrid",0,1,0,0,0,0
+"Eastridge",0,1,0,0,0,0
+"W",0,0,0,0,0,1
+"Co Clare",0,1,0,0,0,0
+"Ballywatticock",0,1,0,0,0,0
+"Ferguson",0,1,0,0,0,0
+"Liliput",0,0,0,0,0,1
+"London London",0,0,0,0,0,1
+"Iceland",0,1,0,0,0,0
+"UK Merch",0,0,0,0,0,1
+"Ontario Tories",0,0,0,0,0,1
+"Oola",0,1,0,0,0,0
+"Bristol",0,1,0,0,0,0
+"York",0,1,0,0,0,0
+"Annapurna",0,1,0,0,0,0
+"Gillingham",0,1,0,0,0,0
+"Leicester City Belgrave Ward",0,0,0,0,0,1
+"Mallow",0,1,0,0,0,0
+"Vegas",0,1,0,0,0,0
+"Sri Lanka",0,1,0,0,0,0
+"Copenhagen",0,1,0,0,0,0
+"Cavan",0,1,0,0,0,0
+"the Seychelles",0,0,0,0,0,1
+"Venezuela",0,0,0,0,0,1
+"Russia",0,1,0,0,0,0
+"Australia 27",0,0,0,0,0,1
+"Croatia",0,1,0,0,0,0
+"Bahamas",0,1,0,0,0,0
+"Houston",0,1,0,0,0,0
+"Christchurch",0,1,0,0,0,0
+"Nicaragua",0,1,0,0,0,0
+"N",0,0,0,0,0,1
+"Dail",0,1,0,0,0,0
+"Hungary",0,1,0,0,0,0
+"Slieve Anierin",0,1,0,0,0,0
+"Ferguson Missouri",0,0,0,0,0,1
+"Mayfair",0,1,0,0,0,0
+"Bermuda",0,1,0,0,0,0
+"Kitchener Way",0,1,0,0,0,0
+"Kenya",0,1,0,0,0,0
+"Sydney today",0,0,0,0,0,1
+"Walsall",0,1,0,0,0,0
+"Yorkshire Doncaster",0,0,0,0,0,1
+"Buffalo",0,1,0,0,0,0
+"Laois today",0,0,0,0,0,1
+"Barnham",0,1,0,0,0,0
+"DonegalCamping",0,1,0,0,0,0
+"Aurora",0,1,0,0,0,0
+"Sydney",0,1,0,0,0,0
+"Glenwood Springs",0,1,0,0,0,0
+"Borussia Dortmund",0,1,0,0,0,0
+"London 2012",0,0,0,0,0,1
+"USA",0,1,0,0,0,0
+"Newcastle",0,1,0,0,0,0
+"Jiangsu",0,1,0,0,0,0
+"Co Antrim",0,1,0,0,0,0
+"Assad",0,0,0,0,0,1
+"Tunisia",0,1,0,0,0,0
+"Swindon tomorrow",0,0,0,0,0,1
+"Takoradi Ghana Govt Assurance Committee GhanaParliament",0,0,0,0,0,1
+"Nevada",0,1,0,0,0,0
+"SA",0,1,0,0,0,0
+"New Zealand",0,1,0,0,0,0
+"Santa Barbara",0,0,0,0,0,1
+"Geelong this weekend",0,0,0,0,0,1
+"Leitrim",0,1,0,0,0,0
+"Kobani",0,1,0,0,0,0
+"NSW",0,1,0,0,0,0
+"Bangkok",0,1,0,0,0,0
+"Saudi Arabia",0,1,0,0,0,0
+"Manchester",0,1,0,0,0,0
+"Regina",0,1,0,0,0,0
+"Yagoona",0,1,0,0,0,0
+"Thailand",0,1,0,0,0,0
+"Holland",0,1,0,0,0,0
+"Adelaide Staceylee_",0,0,0,0,0,1
+"Carroll",0,1,0,0,0,0
+"Normandy",0,1,0,0,0,0
+"London tonight",0,0,0,0,0,1
+"Munich",0,1,0,0,0,0
+"Vancouver",0,1,0,0,0,0
+"Halifax",0,1,0,0,0,0
+"Galway",0,0,0,0,0,1
+"Qatar",0,1,0,0,0,0
+"Ilminster",0,1,0,0,0,0
+"Wetherby",0,1,0,0,0,0
+"Mexico",0,1,0,0,0,0
+"Japan one day",0,0,0,0,0,1
+"Turkey",0,1,0,0,0,0
+"Tower Hamlets",0,1,0,0,0,0
+"Cuba",0,0,0,0,0,1
+"Londonderry",0,1,0,0,0,0
+"Northern Territory",0,1,0,0,0,0
+"South Yorkshire PCC Shaun Wright",0,0,0,0,0,1
+"Birmingham City",0,1,0,0,0,0
+"Montpellier",0,0,0,0,0,1
+"Donetsk",0,1,0,0,0,0
+"Mpeketoni Sunday",0,0,0,0,0,1
+"Melbourne this morning",0,0,0,0,0,1
+"Solihull United Kingdom 8000",0,0,0,0,0,1
+"Afghanistan",0,1,0,0,0,0
+"Carrickfergus 5am",0,0,0,0,0,1
+"South Dakota",0,1,0,0,0,0
+"Limerick",0,1,0,0,0,0
+"Moscow",0,1,0,0,0,0
+"Loughgall",0,1,0,0,0,0
+"Kingston this morning",0,0,0,0,0,1
+"Castlerea",0,1,0,0,0,0
+"Cork",0,1,0,0,0,0
+"Tottenham Tories",0,1,0,0,0,0
+"Snezhnoye Russia's",0,0,0,0,0,1
+"Loughborough tomorrow",0,0,0,0,0,1
+"Cambodia",0,1,0,0,0,0
+"Oxford",0,1,0,0,0,0
+"Colorado",0,1,0,0,0,0
+"Penkridge last week",0,0,0,0,0,1
+"Kiev",0,1,0,0,0,0
+"Limpopo",0,1,0,0,0,0
+"North",0,1,0,0,0,0
+"Beersheba",0,1,0,0,0,0
+"Hull 3 2",0,0,0,0,0,1
+"Hifi",0,1,0,0,0,0
+"Rio de Janeiro",0,1,0,0,0,0
+"Dublin's Poolbeg Chimneys",0,0,0,0,0,1
+"Windsor",0,1,0,0,0,0
+"Wimblington",0,1,0,0,0,0
+"Chichen Itza",0,1,0,0,0,0
+"Western Germany",0,1,0,0,0,0
+"merseyside",0,1,0,0,0,0
+"London King 's Cross",0,1,0,0,0,0
+"South Africa tonight",0,0,0,0,0,1
+"Istanbul",0,1,0,0,0,0
+"HI",0,1,0,0,0,0
+"Hamilton Hamilton",0,0,0,0,0,1
+"Arizona",0,1,0,0,0,0
+"Ashburton last week",0,0,0,0,0,1
+"Leitrim this morning",0,0,0,0,0,1
+"Hurunui District",0,0,0,0,0,1
+"Portugal",0,1,0,0,0,0
+"Finland",0,1,0,0,0,0
+"Richmond",0,0,0,0,0,1
+"Spalding",0,1,0,0,0,0
+"Charlottetown",0,1,0,0,0,0
+"HNdJwlaJoR",0,0,0,0,0,1
+"Tilbury",0,1,0,0,0,0
+"US",0,1,0,0,0,0
+"Hyde Park",0,1,0,0,0,0
+"Kent",0,1,0,0,0,0
+"Chelmsford",0,1,0,0,0,0
+"New York",0,1,0,0,0,0
+"Sligo",0,1,0,0,0,0
+"Baton Rouge tonight",0,0,0,0,0,1
+"Belfast",0,1,0,0,0,0
+"France Germany Labour",0,0,0,0,0,1
+"Ldnd7SNAxV MarcJacobs NYFW HarpersBazaar Harper 's Bazaar",0,0,0,0,0,1
+"Jerusalem",0,1,0,0,0,0
+"Hawkesbury",0,1,0,0,0,0
+"Kaitaia",0,1,0,0,0,0
+"Cornwall",0,1,0,0,0,0
+"Crimea",0,1,0,0,0,0
+"Rio",0,1,0,0,0,0
+"Sydney Melbourne",0,0,0,0,0,1
+"Ottawa CdnTireCtr",0,0,0,0,0,1
+"UK 9",0,0,0,0,0,1
+"Stormont",0,1,0,0,0,0
+"Tel Aviv",0,1,0,0,0,0
+"Co Derry 24 / 07 / 14",0,0,0,0,0,1
+"United Kingdom",0,1,0,0,0,0
+"Monmouthshire",0,1,0,0,0,0
+"Folkestone",0,1,0,0,0,0
+"Kuwait",0,0,0,0,0,1
+"Alberta PC",0,1,0,0,0,0
+"Everton 4 1 Wolfsburg",0,0,0,0,0,1
+"Manaus",0,1,0,0,0,0
+"Glasgow",0,1,0,0,0,0
+"mfjordan",0,1,0,0,0,0
+"Sefton",0,1,0,0,0,0
+"Garryvoe",0,1,0,0,0,0
+"England",0,1,0,0,0,0
+"South Carolina DMV",0,1,0,0,0,0
+"Armagh_GAA",0,1,0,0,0,0
+"Munster this morning",0,0,0,0,0,1
+"Westminster Colorado",0,1,0,0,0,0
+"DublinAirport",0,1,0,0,0,0
+"Melbourne Putin",0,0,0,0,0,1
+"Moore",0,1,0,0,0,0
+"Ipswich West Jim Madden St Edmund 's College",0,0,0,0,0,1
+"Ukraine Dominique Faget",0,0,0,0,0,1
+"Music City",0,1,0,0,0,0
+"Youngstown last night",0,0,0,0,0,1
+"Tehran",0,1,0,0,0,0
+"Bertuzzi",0,1,0,0,0,0
+"South Thanet",0,1,0,0,0,0
+"Libya",0,0,0,0,0,1
+"manchester",0,0,0,0,0,1
+"Cannes Ibiza",0,0,0,0,0,1
+"Iran Islamabad Pakistan",0,0,0,0,0,1
+"America",0,1,0,0,0,0
+"BelTA",0,0,0,0,0,1
+"Derry Strabane",0,0,0,0,0,1
+"Newry",0,1,0,0,0,0
+"Widnes",0,1,0,0,0,0
+"Solihull",0,1,0,0,0,0
+"Libya 2 2 Zambia",0,0,0,0,0,1
+"Northallerton",0,1,0,0,0,0
+"Snezhnoe",0,1,0,0,0,0
+"Eindhoven",0,1,0,0,0,0
+"Yellowknife",0,1,0,0,0,0
+"Moorbrook Lodge",0,1,0,0,0,0
+"Malahide",0,1,0,0,0,0
+"Leamington",0,0,0,0,0,1
+"Lincoln",0,1,0,0,0,0
+"Denver this afternoon",0,0,0,0,0,1
+"Belarus",0,1,0,0,0,0
+"Bloomsbury",0,1,0,0,0,0
+"Barcelona",0,1,0,0,0,0
+"Japan",0,1,0,0,0,0
+"Wadi1UdSuF",0,0,0,0,0,1
+"Texas",0,1,0,0,0,0
+"S Sudan",0,1,0,0,0,0
+"Hatton Garden",0,0,0,0,0,1
+"Kinsale today",0,0,0,0,0,1
+"Ballinamore",0,1,0,0,0,0
+"Netherlands 154",0,0,0,0,0,1
+"Leinster",0,1,0,0,0,0
+"Germany",0,1,0,0,0,0
+"Skegness",0,0,0,0,0,1
+"Blarney",0,1,0,0,0,0
+"Wi Fi",0,0,0,0,0,1
+"KKeneally Australia",0,0,0,0,0,1
+"Russia'",0,0,0,0,0,1
+"Erdogan",0,1,0,0,0,0
+"Palau",0,1,0,0,0,0
+"Barnsley",0,1,0,0,0,0
+"AliceSprings",0,0,0,0,0,1
+"Granadilla de Abona",0,1,0,0,0,0
+"Que",0,0,0,0,0,1
+"Hong Kong",0,1,0,0,0,0
+"West Ham",0,1,0,0,0,0
+"Cayman",0,0,0,0,0,1
+"Pakistan",0,1,0,0,0,0
+"Milan",0,1,0,0,0,0
+"Benghazi",0,1,0,0,0,0
+"North East Lincolnshire",0,1,0,0,0,0
+"Varna",0,1,0,0,0,0
+"Philippines",0,1,0,0,0,0
+"Saskatchewan",0,1,0,0,0,0
+"US Defence",0,1,0,0,0,0
+"Boulder",0,1,0,0,0,0
+"Sheffields",0,0,0,0,0,1
+"Honolulu",0,1,0,0,0,0
+"South Korea",0,1,0,0,0,0
+"Cardiff City MacBraynes",0,0,0,0,0,1
+"Libya Iraq Syria",0,0,0,0,0,1
+"Dingle",0,1,0,0,0,0
+"Kentucky",0,1,0,0,0,0
+"Wardsville",0,1,0,0,0,0
+"Liverpool",0,1,0,0,0,0
+"Buncrana",0,1,0,0,0,0
+"Bombay",0,1,0,0,0,0
+"Kuala Lumpur Malaysia Airlines",0,0,0,0,0,1
+"Ulster",0,1,0,0,0,0
+"Stoke",0,1,0,0,0,0
+"todmorden LMAOO",0,0,0,0,0,1
+"Brazil",0,1,0,0,0,0
+"Natanz",0,1,0,0,0,0
+"Nebraska",0,1,0,0,0,0
+"NV",0,0,0,0,0,1
+"Indonesia 12",0,0,0,0,0,1
+"Iran",0,1,0,0,0,0
+"Ontario Liberals",0,0,0,0,0,1
+"Ukraine Russia",0,0,0,0,0,1
+"HelenORahilly",0,1,0,0,0,0
+"Vic Park",0,1,0,0,0,0
+"Syria this summer",0,0,0,0,0,1
+"East Belfast",0,1,0,0,0,0
+"Isis",0,1,0,0,0,0
+"Va",0,0,0,0,0,1
+"Norfolk this morning",0,0,0,0,0,1
+*TOTAL*,0,492,0,0,0,224

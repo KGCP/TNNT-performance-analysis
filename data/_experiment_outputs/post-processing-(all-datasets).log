@@ -1,0 +1,4655 @@
+>> Start time: [2021-11-23 00:12:14.621241]
+>> Function: process
+>> Dataset to process: (all)
+
+************************************************************************************************************************
+*** PROCESSING DATASET "SEC_Filings" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\SEC_filings\category-mappings.json]... 4 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\SEC_filings\merged-tags.json]... 243 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\SEC_filings\merged-tags-by-category.json]... 4 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/SEC_filings/...
+	+ Adding E:\_temp\NER-Survey\tags\SEC_filings\FIN3.json...
+	+ Adding E:\_temp\NER-Survey\tags\SEC_filings\FIN5.json...
+All *tags* have been loaded.  Total number of *tags*: 1,966
+
+Loaded *Mappings*:
+{
+    "ORG": [
+        "tnnt:Organisation"
+    ],
+    "PER": [
+        "tnnt:Person"
+    ],
+    "LOC": [
+        "tnnt:Location"
+    ],
+    "MISC": [
+        "tnnt:NORP",
+        "tnnt:Language"
+    ]
+}
+
+
+*** Processing result file [SEC_filings.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  3,597 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 201
+	Number of NOT MATCHED tags ___: 42
+	Processing MISSING entities __: 42
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 187
+	Number of NOT MATCHED tags ___: 56
+	Processing MISSING entities __: 56
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 185
+	Number of NOT MATCHED tags ___: 58
+	Processing MISSING entities __: 58
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 195
+	Number of NOT MATCHED tags ___: 48
+	Processing MISSING entities __: 48
+
+
+*** Processing result file [SEC_filings.txt-MEL+NER_output_3.8_all.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  15,105 tuples were added in a total of 193 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 218
+	Number of NOT MATCHED tags ___: 25
+	Processing MISSING entities __: 25
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 185
+	Number of NOT MATCHED tags ___: 58
+	Processing MISSING entities __: 58
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 162
+	Number of NOT MATCHED tags ___: 81
+	Processing MISSING entities __: 81
+
+MODEL: flair_model
+	Number of matched tags _______: 178
+	Number of NOT MATCHED tags ___: 65
+	Processing MISSING entities __: 66
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 168
+	Number of NOT MATCHED tags ___: 75
+	Processing MISSING entities __: 75
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 175
+	Number of NOT MATCHED tags ___: 68
+	Processing MISSING entities __: 68
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 172
+	Number of NOT MATCHED tags ___: 71
+	Processing MISSING entities __: 72
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 178
+	Number of NOT MATCHED tags ___: 65
+	Processing MISSING entities __: 66
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 183
+	Number of NOT MATCHED tags ___: 60
+	Processing MISSING entities __: 61
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 175
+	Number of NOT MATCHED tags ___: 68
+	Processing MISSING entities __: 69
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 201
+	Number of NOT MATCHED tags ___: 42
+	Processing MISSING entities __: 42
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 195
+	Number of NOT MATCHED tags ___: 48
+	Processing MISSING entities __: 48
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 169
+	Number of NOT MATCHED tags ___: 74
+	Processing MISSING entities __: 74
+
+MODEL: stanza_model
+	Number of matched tags _______: 185
+	Number of NOT MATCHED tags ___: 58
+	Processing MISSING entities __: 58
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 195
+	Number of NOT MATCHED tags ___: 48
+	Processing MISSING entities __: 48
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 187
+	Number of NOT MATCHED tags ___: 56
+	Processing MISSING entities __: 56
+
+MODEL: nltk_model
+	Number of matched tags _______: 166
+	Number of NOT MATCHED tags ___: 77
+	Processing MISSING entities __: 91
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 147
+	Number of NOT MATCHED tags ___: 96
+	Processing MISSING entities __: 96
+
+MODEL: polyglot_model
+	Number of matched tags _______: 154
+	Number of NOT MATCHED tags ___: 89
+	Processing MISSING entities __: 87
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 206
+	Number of NOT MATCHED tags ___: 37
+	Processing MISSING entities __: 37
+
+
+*** Processing result file [SEC_filings.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  16,953 tuples were added in a total of 209 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 218
+	Number of NOT MATCHED tags ___: 25
+	Processing MISSING entities __: 25
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 185
+	Number of NOT MATCHED tags ___: 58
+	Processing MISSING entities __: 58
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 162
+	Number of NOT MATCHED tags ___: 81
+	Processing MISSING entities __: 81
+
+MODEL: flair_model
+	Number of matched tags _______: 178
+	Number of NOT MATCHED tags ___: 65
+	Processing MISSING entities __: 66
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 168
+	Number of NOT MATCHED tags ___: 75
+	Processing MISSING entities __: 75
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 175
+	Number of NOT MATCHED tags ___: 68
+	Processing MISSING entities __: 68
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 172
+	Number of NOT MATCHED tags ___: 71
+	Processing MISSING entities __: 72
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 178
+	Number of NOT MATCHED tags ___: 65
+	Processing MISSING entities __: 66
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 183
+	Number of NOT MATCHED tags ___: 60
+	Processing MISSING entities __: 61
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 175
+	Number of NOT MATCHED tags ___: 68
+	Processing MISSING entities __: 69
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 201
+	Number of NOT MATCHED tags ___: 42
+	Processing MISSING entities __: 42
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 195
+	Number of NOT MATCHED tags ___: 48
+	Processing MISSING entities __: 48
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 169
+	Number of NOT MATCHED tags ___: 74
+	Processing MISSING entities __: 74
+
+MODEL: stanza_model
+	Number of matched tags _______: 185
+	Number of NOT MATCHED tags ___: 58
+	Processing MISSING entities __: 58
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 195
+	Number of NOT MATCHED tags ___: 48
+	Processing MISSING entities __: 48
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 187
+	Number of NOT MATCHED tags ___: 56
+	Processing MISSING entities __: 56
+
+MODEL: nltk_model
+	Number of matched tags _______: 166
+	Number of NOT MATCHED tags ___: 77
+	Processing MISSING entities __: 91
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 160
+	Number of NOT MATCHED tags ___: 83
+	Processing MISSING entities __: 83
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 147
+	Number of NOT MATCHED tags ___: 96
+	Processing MISSING entities __: 96
+
+MODEL: polyglot_model
+	Number of matched tags _______: 154
+	Number of NOT MATCHED tags ___: 89
+	Processing MISSING entities __: 87
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 206
+	Number of NOT MATCHED tags ___: 37
+	Processing MISSING entities __: 37
+
+
+Generating CSVs:
+-> SEC_Filings-deeppavlov_onto_model-PERSON.csv ... Done. (42 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-PERSON.csv ... Done. (57 lines)
+-> SEC_Filings-deeppavlov_conll2003_model-PER.csv ... Done. (80 lines)
+-> SEC_Filings-deeppavlov_conll2003_bert_model-PER.csv ... Done. (51 lines)
+-> SEC_Filings-deeppavlov_conll2003_model-ORG.csv ... Done. (557 lines)
+-> SEC_Filings-deeppavlov_onto_model-ORG.csv ... Done. (488 lines)
+-> SEC_Filings-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (227 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-NORP.csv ... Done. (7 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-ORG.csv ... Done. (184 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (14 lines)
+-> SEC_Filings-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (154 lines)
+-> SEC_Filings-deeppavlov_conll2003_model-MISC.csv ... Done. (178 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-GPE.csv ... Done. (67 lines)
+-> SEC_Filings-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (126 lines)
+-> SEC_Filings-deeppavlov_conll2003_model-LOC.csv ... Done. (123 lines)
+-> SEC_Filings-deeppavlov_onto_model-NORP.csv ... Done. (9 lines)
+-> SEC_Filings-deeppavlov_onto_model-LANGUAGE.csv ... Done. (4 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (5 lines)
+-> SEC_Filings-deeppavlov_onto_model-FAC.csv ... Done. (20 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-FAC.csv ... Done. (33 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-LAW.csv ... Done. (217 lines)
+-> SEC_Filings-deeppavlov_onto_model-GPE.csv ... Done. (62 lines)
+-> SEC_Filings-deeppavlov_onto_model-LAW.csv ... Done. (214 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (7 lines)
+-> SEC_Filings-deeppavlov_onto_model-PRODUCT.csv ... Done. (7 lines)
+-> SEC_Filings-deeppavlov_onto_model-DATE.csv ... Done. (164 lines)
+-> SEC_Filings-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (44 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-EVENT.csv ... Done. (3 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-LOC.csv ... Done. (32 lines)
+-> SEC_Filings-deeppavlov_onto_model-LOC.csv ... Done. (39 lines)
+-> SEC_Filings-deeppavlov_onto_model-MONEY.csv ... Done. (20 lines)
+-> SEC_Filings-deeppavlov_onto_model-EVENT.csv ... Done. (12 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-DATE.csv ... Done. (119 lines)
+-> SEC_Filings-deeppavlov_onto_model-CARDINAL.csv ... Done. (145 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (253 lines)
+-> SEC_Filings-deeppavlov_onto_model-TIME.csv ... Done. (6 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-TIME.csv ... Done. (8 lines)
+-> SEC_Filings-deeppavlov_onto_model-PERCENT.csv ... Done. (23 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (18 lines)
+-> SEC_Filings-deeppavlov_onto_model-QUANTITY.csv ... Done. (12 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (11 lines)
+-> SEC_Filings-deeppavlov_onto_model-ORDINAL.csv ... Done. (10 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (12 lines)
+-> SEC_Filings-deeppavlov_onto_bert_model-MONEY.csv ... Done. (25 lines)
+-> SEC_Filings-stanford_class7_model-LOCATION.csv ... Done. (117 lines)
+-> SEC_Filings-stanford_class3_model-LOCATION.csv ... Done. (118 lines)
+-> SEC_Filings-polyglot_model-LOC.csv ... Done. (123 lines)
+-> SEC_Filings-stanford_class4_model-LOCATION.csv ... Done. (128 lines)
+-> SEC_Filings-stanza_model-GPE.csv ... Done. (67 lines)
+-> SEC_Filings-spacy_sm_model-GPE.csv ... Done. (66 lines)
+-> SEC_Filings-spacy_md_model-GPE.csv ... Done. (52 lines)
+-> SEC_Filings-spacy_lg_model-GPE.csv ... Done. (59 lines)
+-> SEC_Filings-nltk_model-GPE.csv ... Done. (99 lines)
+-> SEC_Filings-bert_model-LOC.csv ... Done. (113 lines)
+-> SEC_Filings-flair_model-LOC.csv ... Done. (111 lines)
+-> SEC_Filings-flair_ontonotes_model-GPE.csv ... Done. (64 lines)
+-> SEC_Filings-flair_fast_model-LOC.csv ... Done. (120 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-GPE.csv ... Done. (63 lines)
+-> SEC_Filings-flair_pooled_model-LOC.csv ... Done. (109 lines)
+-> SEC_Filings-allennlp_ner-LOC.csv ... Done. (108 lines)
+-> SEC_Filings-nltk_model-ORGANIZATION.csv ... Done. (471 lines)
+-> SEC_Filings-spacy_md_model-ORG.csv ... Done. (369 lines)
+-> SEC_Filings-stanford_class4_model-PERSON.csv ... Done. (100 lines)
+-> SEC_Filings-nltk_model-PERSON.csv ... Done. (254 lines)
+-> SEC_Filings-polyglot_model-ORG.csv ... Done. (149 lines)
+-> SEC_Filings-stanford_class4_model-ORGANIZATION.csv ... Done. (413 lines)
+-> SEC_Filings-bert_model-ORG.csv ... Done. (265 lines)
+-> SEC_Filings-flair_fast_model-ORG.csv ... Done. (359 lines)
+-> SEC_Filings-spacy_sm_model-ORG.csv ... Done. (329 lines)
+-> SEC_Filings-spacy_md_model-FAC.csv ... Done. (15 lines)
+-> SEC_Filings-bert_model-MISC.csv ... Done. (181 lines)
+-> SEC_Filings-flair_model-MISC.csv ... Done. (128 lines)
+-> SEC_Filings-flair_fast_model-MISC.csv ... Done. (135 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-ORG.csv ... Done. (285 lines)
+-> SEC_Filings-flair_pooled_model-MISC.csv ... Done. (90 lines)
+-> SEC_Filings-allennlp_ner-MISC.csv ... Done. (257 lines)
+-> SEC_Filings-stanza_model-ORG.csv ... Done. (323 lines)
+-> SEC_Filings-stanford_class7_model-ORGANIZATION.csv ... Done. (302 lines)
+-> SEC_Filings-stanford_class7_model-PERSON.csv ... Done. (54 lines)
+-> SEC_Filings-stanford_class4_model-MISC.csv ... Done. (129 lines)
+-> SEC_Filings-stanford_class3_model-PERSON.csv ... Done. (54 lines)
+-> SEC_Filings-spacy_sm_model-PERSON.csv ... Done. (109 lines)
+-> SEC_Filings-spacy_md_model-PERSON.csv ... Done. (71 lines)
+-> SEC_Filings-spacy_lg_model-ORG.csv ... Done. (287 lines)
+-> SEC_Filings-flair_model-ORG.csv ... Done. (312 lines)
+-> SEC_Filings-flair_ontonotes_model-ORG.csv ... Done. (284 lines)
+-> SEC_Filings-flair_pooled_model-ORG.csv ... Done. (337 lines)
+-> SEC_Filings-allennlp_ner-ORG.csv ... Done. (371 lines)
+-> SEC_Filings-stanza_model-LAW.csv ... Done. (301 lines)
+-> SEC_Filings-flair_ontonotes_model-LAW.csv ... Done. (237 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-LAW.csv ... Done. (228 lines)
+-> SEC_Filings-spacy_sm_model-FAC.csv ... Done. (20 lines)
+-> SEC_Filings-spacy_lg_model-FAC.csv ... Done. (21 lines)
+-> SEC_Filings-flair_ontonotes_model-FAC.csv ... Done. (13 lines)
+-> SEC_Filings-stanza_model-FAC.csv ... Done. (19 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-FAC.csv ... Done. (11 lines)
+-> SEC_Filings-spacy_md_model-NORP.csv ... Done. (10 lines)
+-> SEC_Filings-stanford_class3_model-ORGANIZATION.csv ... Done. (189 lines)
+-> SEC_Filings-polyglot_model-PER.csv ... Done. (76 lines)
+-> SEC_Filings-spacy_sm_model-LOC.csv ... Done. (57 lines)
+-> SEC_Filings-spacy_lg_model-PERSON.csv ... Done. (67 lines)
+-> SEC_Filings-flair_model-PER.csv ... Done. (45 lines)
+-> SEC_Filings-flair_fast_model-PER.csv ... Done. (45 lines)
+-> SEC_Filings-spacy_sm_model-PRODUCT.csv ... Done. (41 lines)
+-> SEC_Filings-spacy_sm_model-WORK_OF_ART.csv ... Done. (86 lines)
+-> SEC_Filings-spacy_md_model-PRODUCT.csv ... Done. (30 lines)
+-> SEC_Filings-spacy_md_model-WORK_OF_ART.csv ... Done. (62 lines)
+-> SEC_Filings-bert_model-PER.csv ... Done. (40 lines)
+-> SEC_Filings-spacy_md_model-LAW.csv ... Done. (156 lines)
+-> SEC_Filings-spacy_lg_model-WORK_OF_ART.csv ... Done. (42 lines)
+-> SEC_Filings-allennlp_ner-PER.csv ... Done. (28 lines)
+-> SEC_Filings-spacy_sm_model-NORP.csv ... Done. (12 lines)
+-> SEC_Filings-spacy_sm_model-LANGUAGE.csv ... Done. (5 lines)
+-> SEC_Filings-spacy_lg_model-LAW.csv ... Done. (132 lines)
+-> SEC_Filings-spacy_lg_model-LOC.csv ... Done. (48 lines)
+-> SEC_Filings-stanza_model-EVENT.csv ... Done. (27 lines)
+-> SEC_Filings-spacy_md_model-EVENT.csv ... Done. (15 lines)
+-> SEC_Filings-spacy_sm_model-EVENT.csv ... Done. (19 lines)
+-> SEC_Filings-stanza_model-PRODUCT.csv ... Done. (9 lines)
+-> SEC_Filings-flair_ontonotes_model-PRODUCT.csv ... Done. (4 lines)
+-> SEC_Filings-spacy_lg_model-NORP.csv ... Done. (7 lines)
+-> SEC_Filings-spacy_lg_model-CARDINAL.csv ... Done. (117 lines)
+-> SEC_Filings-nltk_model-FACILITY.csv ... Done. (22 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (5 lines)
+-> SEC_Filings-stanza_model-MONEY.csv ... Done. (15 lines)
+-> SEC_Filings-spacy_lg_model-MONEY.csv ... Done. (11 lines)
+-> SEC_Filings-spacy_sm_model-LAW.csv ... Done. (138 lines)
+-> SEC_Filings-spacy_md_model-MONEY.csv ... Done. (14 lines)
+-> SEC_Filings-flair_ontonotes_model-MONEY.csv ... Done. (20 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-MONEY.csv ... Done. (19 lines)
+-> SEC_Filings-spacy_sm_model-MONEY.csv ... Done. (12 lines)
+-> SEC_Filings-stanza_model-WORK_OF_ART.csv ... Done. (38 lines)
+-> SEC_Filings-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (16 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (17 lines)
+-> SEC_Filings-stanza_model-PERSON.csv ... Done. (44 lines)
+-> SEC_Filings-nltk_model-LOCATION.csv ... Done. (52 lines)
+-> SEC_Filings-flair_pooled_model-PER.csv ... Done. (39 lines)
+-> SEC_Filings-spacy_md_model-LOC.csv ... Done. (33 lines)
+-> SEC_Filings-flair_ontonotes_model-PERSON.csv ... Done. (39 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-PERSON.csv ... Done. (41 lines)
+-> SEC_Filings-stanford_class7_model-MONEY.csv ... Done. (3 lines)
+-> SEC_Filings-stanford_class7_model-PERCENT.csv ... Done. (15 lines)
+-> SEC_Filings-spacy_lg_model-PERCENT.csv ... Done. (16 lines)
+-> SEC_Filings-flair_ontonotes_model-PERCENT.csv ... Done. (23 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-PERCENT.csv ... Done. (23 lines)
+-> SEC_Filings-stanza_model-PERCENT.csv ... Done. (21 lines)
+-> SEC_Filings-spacy_sm_model-PERCENT.csv ... Done. (21 lines)
+-> SEC_Filings-spacy_md_model-PERCENT.csv ... Done. (19 lines)
+-> SEC_Filings-stanford_class7_model-DATE.csv ... Done. (41 lines)
+-> SEC_Filings-stanza_model-DATE.csv ... Done. (133 lines)
+-> SEC_Filings-spacy_sm_model-DATE.csv ... Done. (144 lines)
+-> SEC_Filings-spacy_md_model-DATE.csv ... Done. (124 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-DATE.csv ... Done. (128 lines)
+-> SEC_Filings-flair_ontonotes_model-DATE.csv ... Done. (129 lines)
+-> SEC_Filings-spacy_lg_model-DATE.csv ... Done. (140 lines)
+-> SEC_Filings-stanza_model-CARDINAL.csv ... Done. (110 lines)
+-> SEC_Filings-spacy_sm_model-ORDINAL.csv ... Done. (13 lines)
+-> SEC_Filings-spacy_lg_model-PRODUCT.csv ... Done. (22 lines)
+-> SEC_Filings-stanza_model-NORP.csv ... Done. (4 lines)
+-> SEC_Filings-flair_ontonotes_model-NORP.csv ... Done. (4 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-NORP.csv ... Done. (4 lines)
+-> SEC_Filings-stanza_model-LANGUAGE.csv ... Done. (4 lines)
+-> SEC_Filings-spacy_md_model-LANGUAGE.csv ... Done. (4 lines)
+-> SEC_Filings-spacy_lg_model-LANGUAGE.csv ... Done. (4 lines)
+-> SEC_Filings-flair_ontonotes_model-LANGUAGE.csv ... Done. (4 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (4 lines)
+-> SEC_Filings-spacy_lg_model-EVENT.csv ... Done. (9 lines)
+-> SEC_Filings-spacy_md_model-QUANTITY.csv ... Done. (12 lines)
+-> SEC_Filings-flair_ontonotes_model-LOC.csv ... Done. (44 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-EVENT.csv ... Done. (11 lines)
+-> SEC_Filings-stanza_model-LOC.csv ... Done. (37 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-LOC.csv ... Done. (46 lines)
+-> SEC_Filings-flair_ontonotes_model-EVENT.csv ... Done. (7 lines)
+-> SEC_Filings-spacy_md_model-CARDINAL.csv ... Done. (125 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (102 lines)
+-> SEC_Filings-spacy_sm_model-CARDINAL.csv ... Done. (109 lines)
+-> SEC_Filings-flair_ontonotes_model-CARDINAL.csv ... Done. (111 lines)
+-> SEC_Filings-stanza_model-TIME.csv ... Done. (7 lines)
+-> SEC_Filings-flair_ontonotes_model-TIME.csv ... Done. (7 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-TIME.csv ... Done. (9 lines)
+-> SEC_Filings-spacy_sm_model-TIME.csv ... Done. (7 lines)
+-> SEC_Filings-spacy_md_model-TIME.csv ... Done. (8 lines)
+-> SEC_Filings-spacy_lg_model-TIME.csv ... Done. (6 lines)
+-> SEC_Filings-spacy_lg_model-QUANTITY.csv ... Done. (16 lines)
+-> SEC_Filings-stanza_model-QUANTITY.csv ... Done. (9 lines)
+-> SEC_Filings-spacy_sm_model-QUANTITY.csv ... Done. (14 lines)
+-> SEC_Filings-flair_ontonotes_model-QUANTITY.csv ... Done. (11 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (12 lines)
+-> SEC_Filings-stanza_model-ORDINAL.csv ... Done. (10 lines)
+-> SEC_Filings-spacy_md_model-ORDINAL.csv ... Done. (12 lines)
+-> SEC_Filings-spacy_lg_model-ORDINAL.csv ... Done. (12 lines)
+-> SEC_Filings-flair_ontonotes_model-ORDINAL.csv ... Done. (11 lines)
+-> SEC_Filings-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (11 lines)
+-> SEC_Filings-allennlp-finegrained-ner-PERSON.csv ... Done. (36 lines)
+-> SEC_Filings-allennlp-finegrained-ner-ORG.csv ... Done. (172 lines)
+-> SEC_Filings-allennlp-finegrained-ner-NORP.csv ... Done. (4 lines)
+-> SEC_Filings-allennlp-finegrained-ner-LANGUAGE.csv ... Done. (4 lines)
+-> SEC_Filings-allennlp-finegrained-ner-FAC.csv ... Done. (18 lines)
+-> SEC_Filings-allennlp-finegrained-ner-LAW.csv ... Done. (116 lines)
+-> SEC_Filings-allennlp-finegrained-ner-GPE.csv ... Done. (38 lines)
+-> SEC_Filings-allennlp-finegrained-ner-LOC.csv ... Done. (50 lines)
+-> SEC_Filings-allennlp-finegrained-ner-PRODUCT.csv ... Done. (4 lines)
+-> SEC_Filings-allennlp-finegrained-ner-DATE.csv ... Done. (107 lines)
+-> SEC_Filings-allennlp-finegrained-ner-TIME.csv ... Done. (4 lines)
+-> SEC_Filings-allennlp-finegrained-ner-PERCENT.csv ... Done. (19 lines)
+-> SEC_Filings-allennlp-finegrained-ner-MONEY.csv ... Done. (23 lines)
+-> SEC_Filings-allennlp-finegrained-ner-CARDINAL.csv ... Done. (67 lines)
+-> SEC_Filings-allennlp-finegrained-ner-QUANTITY.csv ... Done. (14 lines)
+-> SEC_Filings-allennlp-finegrained-ner-ORDINAL.csv ... Done. (9 lines)
+-> SEC_Filings-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> SEC_Filings-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 18,314 tuples were added in a total of 209 CSV files
+
+
+************************************************************************************************************************
+*** PROCESSING DATASET "BTC" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\BTC\category-mappings.json]... 3 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\BTC\merged-tags.json]... 8,043 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\BTC\merged-tags-by-category.json]... 3 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/BTC/...
+	+ Adding E:\_temp\NER-Survey\tags\BTC\a_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\BTC\b_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\BTC\e_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\BTC\f_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\BTC\g_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\BTC\h_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 18,573
+
+Loaded *Mappings*:
+{
+    "PER": [
+        "tnnt:Person"
+    ],
+    "ORG": [
+        "tnnt:Organisation"
+    ],
+    "LOC": [
+        "tnnt:Location"
+    ]
+}
+
+
+*** Processing result file [BTC.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  30,459 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 5,383
+	Number of NOT MATCHED tags ___: 2,660
+	Processing MISSING entities __: 2,683
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 4,651
+	Number of NOT MATCHED tags ___: 3,392
+	Processing MISSING entities __: 3,419
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 5,496
+	Number of NOT MATCHED tags ___: 2,547
+	Processing MISSING entities __: 2,559
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 5,810
+	Number of NOT MATCHED tags ___: 2,233
+	Processing MISSING entities __: 2,245
+
+
+*** Processing result file [BTC.txt-MEL+NER_output_3.8_all.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  137,281 tuples were added in a total of 194 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 5,860
+	Number of NOT MATCHED tags ___: 2,183
+	Processing MISSING entities __: 2,196
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 5,496
+	Number of NOT MATCHED tags ___: 2,547
+	Processing MISSING entities __: 2,559
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 2,739
+	Number of NOT MATCHED tags ___: 5,304
+	Processing MISSING entities __: 5,341
+
+MODEL: flair_model
+	Number of matched tags _______: 4,388
+	Number of NOT MATCHED tags ___: 3,655
+	Processing MISSING entities __: 3,672
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 6,597
+	Number of NOT MATCHED tags ___: 1,446
+	Processing MISSING entities __: 1,460
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 3,929
+	Number of NOT MATCHED tags ___: 4,114
+	Processing MISSING entities __: 4,144
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 3,741
+	Number of NOT MATCHED tags ___: 4,302
+	Processing MISSING entities __: 4,322
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 3,892
+	Number of NOT MATCHED tags ___: 4,151
+	Processing MISSING entities __: 4,170
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 5,886
+	Number of NOT MATCHED tags ___: 2,157
+	Processing MISSING entities __: 2,178
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 4,054
+	Number of NOT MATCHED tags ___: 3,989
+	Processing MISSING entities __: 4,008
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 5,383
+	Number of NOT MATCHED tags ___: 2,660
+	Processing MISSING entities __: 2,683
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 5,810
+	Number of NOT MATCHED tags ___: 2,233
+	Processing MISSING entities __: 2,245
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 4,326
+	Number of NOT MATCHED tags ___: 3,717
+	Processing MISSING entities __: 3,747
+
+MODEL: stanza_model
+	Number of matched tags _______: 4,494
+	Number of NOT MATCHED tags ___: 3,549
+	Processing MISSING entities __: 3,576
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 5,067
+	Number of NOT MATCHED tags ___: 2,976
+	Processing MISSING entities __: 2,992
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 4,651
+	Number of NOT MATCHED tags ___: 3,392
+	Processing MISSING entities __: 3,419
+
+MODEL: nltk_model
+	Number of matched tags _______: 4,771
+	Number of NOT MATCHED tags ___: 3,272
+	Processing MISSING entities __: 4,007
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 2,749
+	Number of NOT MATCHED tags ___: 5,294
+	Processing MISSING entities __: 5,333
+
+MODEL: polyglot_model
+	Number of matched tags _______: 6,099
+	Number of NOT MATCHED tags ___: 1,944
+	Processing MISSING entities __: 1,957
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 5,923
+	Number of NOT MATCHED tags ___: 2,120
+	Processing MISSING entities __: 2,139
+
+
+*** Processing result file [BTC.txt-MEL+NER_output_allennlpfinegraine.json] ***
+
+Processing entities... Done.  206,130 tuples were added in a total of 211 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 5,860
+	Number of NOT MATCHED tags ___: 2,183
+	Processing MISSING entities __: 2,196
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 5,496
+	Number of NOT MATCHED tags ___: 2,547
+	Processing MISSING entities __: 2,559
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 2,739
+	Number of NOT MATCHED tags ___: 5,304
+	Processing MISSING entities __: 5,341
+
+MODEL: flair_model
+	Number of matched tags _______: 4,388
+	Number of NOT MATCHED tags ___: 3,655
+	Processing MISSING entities __: 3,672
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 6,597
+	Number of NOT MATCHED tags ___: 1,446
+	Processing MISSING entities __: 1,460
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 3,929
+	Number of NOT MATCHED tags ___: 4,114
+	Processing MISSING entities __: 4,144
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 3,741
+	Number of NOT MATCHED tags ___: 4,302
+	Processing MISSING entities __: 4,322
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 3,892
+	Number of NOT MATCHED tags ___: 4,151
+	Processing MISSING entities __: 4,170
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 5,886
+	Number of NOT MATCHED tags ___: 2,157
+	Processing MISSING entities __: 2,178
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 4,054
+	Number of NOT MATCHED tags ___: 3,989
+	Processing MISSING entities __: 4,008
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 5,383
+	Number of NOT MATCHED tags ___: 2,660
+	Processing MISSING entities __: 2,683
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 5,810
+	Number of NOT MATCHED tags ___: 2,233
+	Processing MISSING entities __: 2,245
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 4,326
+	Number of NOT MATCHED tags ___: 3,717
+	Processing MISSING entities __: 3,747
+
+MODEL: stanza_model
+	Number of matched tags _______: 4,494
+	Number of NOT MATCHED tags ___: 3,549
+	Processing MISSING entities __: 3,576
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 5,067
+	Number of NOT MATCHED tags ___: 2,976
+	Processing MISSING entities __: 2,992
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 4,651
+	Number of NOT MATCHED tags ___: 3,392
+	Processing MISSING entities __: 3,419
+
+MODEL: nltk_model
+	Number of matched tags _______: 4,771
+	Number of NOT MATCHED tags ___: 3,272
+	Processing MISSING entities __: 4,007
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 2,539
+	Number of NOT MATCHED tags ___: 5,504
+	Processing MISSING entities __: 5,555
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 2,749
+	Number of NOT MATCHED tags ___: 5,294
+	Processing MISSING entities __: 5,333
+
+MODEL: polyglot_model
+	Number of matched tags _______: 6,099
+	Number of NOT MATCHED tags ___: 1,944
+	Processing MISSING entities __: 1,957
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 5,923
+	Number of NOT MATCHED tags ___: 2,120
+	Processing MISSING entities __: 2,139
+
+
+Generating CSVs:
+-> BTC-deeppavlov_onto_model-PERSON.csv ... Done. (3899 lines)
+-> BTC-deeppavlov_onto_bert_model-PERSON.csv ... Done. (3660 lines)
+-> BTC-deeppavlov_conll2003_model-PER.csv ... Done. (3951 lines)
+-> BTC-deeppavlov_conll2003_bert_model-PER.csv ... Done. (3527 lines)
+-> BTC-deeppavlov_onto_bert_model-ORG.csv ... Done. (2409 lines)
+-> BTC-deeppavlov_conll2003_model-ORG.csv ... Done. (3111 lines)
+-> BTC-deeppavlov_conll2003_model-LOC.csv ... Done. (1793 lines)
+-> BTC-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (4123 lines)
+-> BTC-deeppavlov_onto_model-PRODUCT.csv ... Done. (311 lines)
+-> BTC-deeppavlov_onto_model-ORG.csv ... Done. (2460 lines)
+-> BTC-deeppavlov_conll2003_model-MISC.csv ... Done. (1676 lines)
+-> BTC-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (1268 lines)
+-> BTC-deeppavlov_onto_model-GPE.csv ... Done. (717 lines)
+-> BTC-deeppavlov_onto_bert_model-GPE.csv ... Done. (718 lines)
+-> BTC-deeppavlov_onto_model-FAC.csv ... Done. (165 lines)
+-> BTC-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (368 lines)
+-> BTC-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (1113 lines)
+-> BTC-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (218 lines)
+-> BTC-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (864 lines)
+-> BTC-deeppavlov_onto_bert_model-FAC.csv ... Done. (194 lines)
+-> BTC-deeppavlov_onto_bert_model-NORP.csv ... Done. (170 lines)
+-> BTC-deeppavlov_onto_model-DATE.csv ... Done. (572 lines)
+-> BTC-deeppavlov_onto_model-CARDINAL.csv ... Done. (520 lines)
+-> BTC-deeppavlov_onto_bert_model-EVENT.csv ... Done. (127 lines)
+-> BTC-deeppavlov_onto_bert_model-LOC.csv ... Done. (661 lines)
+-> BTC-deeppavlov_onto_model-NORP.csv ... Done. (231 lines)
+-> BTC-deeppavlov_onto_model-LOC.csv ... Done. (837 lines)
+-> BTC-deeppavlov_onto_model-LAW.csv ... Done. (35 lines)
+-> BTC-deeppavlov_onto_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (6 lines)
+-> BTC-deeppavlov_onto_bert_model-DATE.csv ... Done. (502 lines)
+-> BTC-deeppavlov_onto_model-EVENT.csv ... Done. (105 lines)
+-> BTC-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (435 lines)
+-> BTC-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (37 lines)
+-> BTC-deeppavlov_onto_bert_model-TIME.csv ... Done. (206 lines)
+-> BTC-deeppavlov_onto_bert_model-MONEY.csv ... Done. (22 lines)
+-> BTC-deeppavlov_onto_bert_model-LAW.csv ... Done. (16 lines)
+-> BTC-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (35 lines)
+-> BTC-deeppavlov_onto_model-ORDINAL.csv ... Done. (39 lines)
+-> BTC-deeppavlov_onto_model-TIME.csv ... Done. (191 lines)
+-> BTC-deeppavlov_onto_model-PERCENT.csv ... Done. (57 lines)
+-> BTC-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (43 lines)
+-> BTC-deeppavlov_onto_model-MONEY.csv ... Done. (12 lines)
+-> BTC-deeppavlov_onto_model-QUANTITY.csv ... Done. (42 lines)
+-> BTC-stanford_class7_model-LOCATION.csv ... Done. (1374 lines)
+-> BTC-stanford_class4_model-LOCATION.csv ... Done. (1593 lines)
+-> BTC-stanford_class3_model-LOCATION.csv ... Done. (1452 lines)
+-> BTC-stanza_model-PERSON.csv ... Done. (4240 lines)
+-> BTC-spacy_sm_model-ORG.csv ... Done. (2359 lines)
+-> BTC-spacy_md_model-ORG.csv ... Done. (2955 lines)
+-> BTC-spacy_lg_model-GPE.csv ... Done. (709 lines)
+-> BTC-nltk_model-PERSON.csv ... Done. (5195 lines)
+-> BTC-bert_model-LOC.csv ... Done. (1212 lines)
+-> BTC-flair_model-ORG.csv ... Done. (2345 lines)
+-> BTC-flair_ontonotes_model-ORG.csv ... Done. (2688 lines)
+-> BTC-flair_fast_model-ORG.csv ... Done. (3229 lines)
+-> BTC-flair_fast_ontonotes_model-GPE.csv ... Done. (595 lines)
+-> BTC-flair_pooled_model-ORG.csv ... Done. (3085 lines)
+-> BTC-allennlp_ner-LOC.csv ... Done. (1502 lines)
+-> BTC-polyglot_model-LOC.csv ... Done. (1131 lines)
+-> BTC-spacy_sm_model-PERSON.csv ... Done. (3026 lines)
+-> BTC-spacy_lg_model-ORG.csv ... Done. (3029 lines)
+-> BTC-bert_model-MISC.csv ... Done. (1088 lines)
+-> BTC-flair_model-MISC.csv ... Done. (765 lines)
+-> BTC-flair_fast_model-MISC.csv ... Done. (775 lines)
+-> BTC-flair_pooled_model-MISC.csv ... Done. (668 lines)
+-> BTC-allennlp_ner-MISC.csv ... Done. (1603 lines)
+-> BTC-stanford_class4_model-ORGANIZATION.csv ... Done. (3083 lines)
+-> BTC-stanford_class3_model-ORGANIZATION.csv ... Done. (2504 lines)
+-> BTC-stanza_model-ORG.csv ... Done. (2550 lines)
+-> BTC-spacy_md_model-PERSON.csv ... Done. (4484 lines)
+-> BTC-spacy_lg_model-PERSON.csv ... Done. (3876 lines)
+-> BTC-flair_fast_ontonotes_model-ORG.csv ... Done. (2551 lines)
+-> BTC-allennlp_ner-ORG.csv ... Done. (2176 lines)
+-> BTC-polyglot_model-ORG.csv ... Done. (1832 lines)
+-> BTC-stanford_class7_model-ORGANIZATION.csv ... Done. (2863 lines)
+-> BTC-stanford_class4_model-PERSON.csv ... Done. (4402 lines)
+-> BTC-spacy_sm_model-GPE.csv ... Done. (671 lines)
+-> BTC-spacy_md_model-GPE.csv ... Done. (692 lines)
+-> BTC-nltk_model-ORGANIZATION.csv ... Done. (3532 lines)
+-> BTC-nltk_model-FACILITY.csv ... Done. (747 lines)
+-> BTC-nltk_model-GPE.csv ... Done. (819 lines)
+-> BTC-bert_model-ORG.csv ... Done. (3194 lines)
+-> BTC-flair_ontonotes_model-GPE.csv ... Done. (536 lines)
+-> BTC-flair_model-LOC.csv ... Done. (1371 lines)
+-> BTC-flair_fast_model-LOC.csv ... Done. (1477 lines)
+-> BTC-flair_pooled_model-PER.csv ... Done. (4080 lines)
+-> BTC-bert_model-PER.csv ... Done. (3320 lines)
+-> BTC-flair_ontonotes_model-PERSON.csv ... Done. (3942 lines)
+-> BTC-flair_fast_ontonotes_model-PERSON.csv ... Done. (3818 lines)
+-> BTC-allennlp_ner-PER.csv ... Done. (4685 lines)
+-> BTC-polyglot_model-PER.csv ... Done. (3538 lines)
+-> BTC-stanza_model-GPE.csv ... Done. (672 lines)
+-> BTC-flair_pooled_model-LOC.csv ... Done. (1343 lines)
+-> BTC-nltk_model-LOCATION.csv ... Done. (608 lines)
+-> BTC-spacy_lg_model-NORP.csv ... Done. (215 lines)
+-> BTC-flair_fast_ontonotes_model-LOC.csv ... Done. (877 lines)
+-> BTC-stanford_class3_model-PERSON.csv ... Done. (4365 lines)
+-> BTC-stanza_model-FAC.csv ... Done. (167 lines)
+-> BTC-spacy_sm_model-FAC.csv ... Done. (213 lines)
+-> BTC-spacy_md_model-FAC.csv ... Done. (145 lines)
+-> BTC-spacy_lg_model-FAC.csv ... Done. (204 lines)
+-> BTC-flair_ontonotes_model-FAC.csv ... Done. (118 lines)
+-> BTC-flair_fast_ontonotes_model-FAC.csv ... Done. (183 lines)
+-> BTC-flair_model-PER.csv ... Done. (3916 lines)
+-> BTC-flair_fast_model-PER.csv ... Done. (4081 lines)
+-> BTC-spacy_lg_model-LOC.csv ... Done. (687 lines)
+-> BTC-flair_ontonotes_model-NORP.csv ... Done. (147 lines)
+-> BTC-spacy_sm_model-NORP.csv ... Done. (220 lines)
+-> BTC-flair_fast_ontonotes_model-NORP.csv ... Done. (138 lines)
+-> BTC-stanza_model-PRODUCT.csv ... Done. (128 lines)
+-> BTC-flair_ontonotes_model-PRODUCT.csv ... Done. (108 lines)
+-> BTC-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (119 lines)
+-> BTC-stanza_model-LOC.csv ... Done. (894 lines)
+-> BTC-flair_ontonotes_model-LOC.csv ... Done. (936 lines)
+-> BTC-spacy_sm_model-LOC.csv ... Done. (495 lines)
+-> BTC-stanford_class4_model-MISC.csv ... Done. (625 lines)
+-> BTC-spacy_md_model-LOC.csv ... Done. (639 lines)
+-> BTC-stanza_model-NORP.csv ... Done. (166 lines)
+-> BTC-spacy_md_model-NORP.csv ... Done. (231 lines)
+-> BTC-spacy_sm_model-PRODUCT.csv ... Done. (246 lines)
+-> BTC-spacy_lg_model-WORK_OF_ART.csv ... Done. (337 lines)
+-> BTC-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (449 lines)
+-> BTC-stanford_class7_model-PERSON.csv ... Done. (4115 lines)
+-> BTC-spacy_md_model-TIME.csv ... Done. (205 lines)
+-> BTC-spacy_sm_model-WORK_OF_ART.csv ... Done. (300 lines)
+-> BTC-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (254 lines)
+-> BTC-stanza_model-EVENT.csv ... Done. (98 lines)
+-> BTC-spacy_md_model-EVENT.csv ... Done. (86 lines)
+-> BTC-spacy_lg_model-EVENT.csv ... Done. (83 lines)
+-> BTC-flair_ontonotes_model-EVENT.csv ... Done. (52 lines)
+-> BTC-flair_fast_ontonotes_model-EVENT.csv ... Done. (80 lines)
+-> BTC-spacy_lg_model-PRODUCT.csv ... Done. (193 lines)
+-> BTC-spacy_md_model-PRODUCT.csv ... Done. (231 lines)
+-> BTC-spacy_md_model-LANGUAGE.csv ... Done. (8 lines)
+-> BTC-stanza_model-WORK_OF_ART.csv ... Done. (352 lines)
+-> BTC-spacy_lg_model-TIME.csv ... Done. (209 lines)
+-> BTC-spacy_md_model-WORK_OF_ART.csv ... Done. (256 lines)
+-> BTC-stanza_model-DATE.csv ... Done. (539 lines)
+-> BTC-stanza_model-LAW.csv ... Done. (15 lines)
+-> BTC-spacy_lg_model-LAW.csv ... Done. (21 lines)
+-> BTC-spacy_sm_model-CARDINAL.csv ... Done. (429 lines)
+-> BTC-spacy_sm_model-LAW.csv ... Done. (40 lines)
+-> BTC-spacy_md_model-LAW.csv ... Done. (32 lines)
+-> BTC-flair_ontonotes_model-LAW.csv ... Done. (14 lines)
+-> BTC-spacy_lg_model-DATE.csv ... Done. (622 lines)
+-> BTC-stanford_class7_model-MONEY.csv ... Done. (13 lines)
+-> BTC-stanza_model-MONEY.csv ... Done. (18 lines)
+-> BTC-spacy_sm_model-MONEY.csv ... Done. (28 lines)
+-> BTC-spacy_md_model-MONEY.csv ... Done. (29 lines)
+-> BTC-spacy_lg_model-MONEY.csv ... Done. (23 lines)
+-> BTC-flair_ontonotes_model-MONEY.csv ... Done. (40 lines)
+-> BTC-flair_fast_ontonotes_model-MONEY.csv ... Done. (25 lines)
+-> BTC-stanza_model-CARDINAL.csv ... Done. (318 lines)
+-> BTC-spacy_md_model-CARDINAL.csv ... Done. (393 lines)
+-> BTC-spacy_lg_model-CARDINAL.csv ... Done. (421 lines)
+-> BTC-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (361 lines)
+-> BTC-spacy_sm_model-QUANTITY.csv ... Done. (49 lines)
+-> BTC-flair_ontonotes_model-CARDINAL.csv ... Done. (353 lines)
+-> BTC-stanford_class7_model-PERCENT.csv ... Done. (46 lines)
+-> BTC-stanza_model-PERCENT.csv ... Done. (56 lines)
+-> BTC-spacy_sm_model-PERCENT.csv ... Done. (54 lines)
+-> BTC-spacy_md_model-PERCENT.csv ... Done. (52 lines)
+-> BTC-spacy_lg_model-PERCENT.csv ... Done. (53 lines)
+-> BTC-flair_ontonotes_model-PERCENT.csv ... Done. (64 lines)
+-> BTC-flair_fast_ontonotes_model-PERCENT.csv ... Done. (66 lines)
+-> BTC-stanford_class7_model-DATE.csv ... Done. (208 lines)
+-> BTC-spacy_sm_model-DATE.csv ... Done. (597 lines)
+-> BTC-spacy_md_model-DATE.csv ... Done. (574 lines)
+-> BTC-flair_ontonotes_model-DATE.csv ... Done. (486 lines)
+-> BTC-flair_fast_ontonotes_model-DATE.csv ... Done. (476 lines)
+-> BTC-stanza_model-TIME.csv ... Done. (206 lines)
+-> BTC-spacy_sm_model-TIME.csv ... Done. (165 lines)
+-> BTC-flair_ontonotes_model-TIME.csv ... Done. (185 lines)
+-> BTC-flair_fast_ontonotes_model-TIME.csv ... Done. (174 lines)
+-> BTC-spacy_md_model-ORDINAL.csv ... Done. (28 lines)
+-> BTC-stanford_class7_model-TIME.csv ... Done. (15 lines)
+-> BTC-spacy_sm_model-EVENT.csv ... Done. (61 lines)
+-> BTC-stanza_model-LANGUAGE.csv ... Done. (6 lines)
+-> BTC-flair_ontonotes_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (6 lines)
+-> BTC-spacy_sm_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-spacy_md_model-QUANTITY.csv ... Done. (75 lines)
+-> BTC-spacy_lg_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-spacy_lg_model-ORDINAL.csv ... Done. (30 lines)
+-> BTC-flair_fast_ontonotes_model-LAW.csv ... Done. (11 lines)
+-> BTC-spacy_lg_model-QUANTITY.csv ... Done. (90 lines)
+-> BTC-stanza_model-ORDINAL.csv ... Done. (28 lines)
+-> BTC-spacy_sm_model-ORDINAL.csv ... Done. (42 lines)
+-> BTC-flair_ontonotes_model-ORDINAL.csv ... Done. (23 lines)
+-> BTC-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (31 lines)
+-> BTC-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (48 lines)
+-> BTC-flair_ontonotes_model-QUANTITY.csv ... Done. (49 lines)
+-> BTC-stanza_model-QUANTITY.csv ... Done. (94 lines)
+-> BTC-allennlp-finegrained-ner-PERSON.csv ... Done. (3978 lines)
+-> BTC-allennlp-finegrained-ner-GPE.csv ... Done. (180 lines)
+-> BTC-allennlp-finegrained-ner-ORG.csv ... Done. (2097 lines)
+-> BTC-allennlp-finegrained-ner-NORP.csv ... Done. (72 lines)
+-> BTC-allennlp-finegrained-ner-WORK_OF_ART.csv ... Done. (362 lines)
+-> BTC-allennlp-finegrained-ner-LOC.csv ... Done. (1146 lines)
+-> BTC-allennlp-finegrained-ner-FAC.csv ... Done. (23 lines)
+-> BTC-allennlp-finegrained-ner-EVENT.csv ... Done. (25 lines)
+-> BTC-allennlp-finegrained-ner-PRODUCT.csv ... Done. (4 lines)
+-> BTC-allennlp-finegrained-ner-LANGUAGE.csv ... Done. (4 lines)
+-> BTC-allennlp-finegrained-ner-DATE.csv ... Done. (187 lines)
+-> BTC-allennlp-finegrained-ner-CARDINAL.csv ... Done. (95 lines)
+-> BTC-allennlp-finegrained-ner-TIME.csv ... Done. (37 lines)
+-> BTC-allennlp-finegrained-ner-PERCENT.csv ... Done. (19 lines)
+-> BTC-allennlp-finegrained-ner-MONEY.csv ... Done. (26 lines)
+-> BTC-allennlp-finegrained-ner-QUANTITY.csv ... Done. (9 lines)
+-> BTC-allennlp-finegrained-ner-ORDINAL.csv ... Done. (26 lines)
+-> BTC-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> BTC-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 277,833 tuples were added in a total of 211 CSV files
+
+
+************************************************************************************************************************
+*** PROCESSING DATASET "CONLL2003" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\CONLL2003\category-mappings.json]... 4 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\CONLL2003\merged-tags.json]... 4,877 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\CONLL2003\merged-tags-by-category.json]... 4 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/CONLL2003/...
+	+ Adding E:\_temp\NER-Survey\tags\CONLL2003\test_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\CONLL2003\valid_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 16,715
+
+Loaded *Mappings*:
+{
+    "PER": [
+        "tnnt:Person"
+    ],
+    "ORG": [
+        "tnnt:Organisation"
+    ],
+    "LOC": [
+        "tnnt:Location"
+    ],
+    "MISC": [
+        "tnnt:NORP",
+        "tnnt:Event"
+    ]
+}
+
+
+*** Processing result file [CONLL2003.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  23,663 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 4,285
+	Number of NOT MATCHED tags ___: 592
+	Processing MISSING entities __: 686
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 3,949
+	Number of NOT MATCHED tags ___: 928
+	Processing MISSING entities __: 1,072
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 4,319
+	Number of NOT MATCHED tags ___: 558
+	Processing MISSING entities __: 558
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 4,524
+	Number of NOT MATCHED tags ___: 353
+	Processing MISSING entities __: 353
+
+
+*** Processing result file [CONLL2003.txt-MEL+NER_output_3.8_all.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  116,262 tuples were added in a total of 194 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 4,618
+	Number of NOT MATCHED tags ___: 259
+	Processing MISSING entities __: 259
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 4,319
+	Number of NOT MATCHED tags ___: 558
+	Processing MISSING entities __: 558
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 3,766
+	Number of NOT MATCHED tags ___: 1,111
+	Processing MISSING entities __: 631
+
+MODEL: flair_model
+	Number of matched tags _______: 4,294
+	Number of NOT MATCHED tags ___: 583
+	Processing MISSING entities __: 583
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 3,283
+	Number of NOT MATCHED tags ___: 1,594
+	Processing MISSING entities __: 1,856
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 3,505
+	Number of NOT MATCHED tags ___: 1,372
+	Processing MISSING entities __: 1,591
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 4,154
+	Number of NOT MATCHED tags ___: 723
+	Processing MISSING entities __: 724
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 4,271
+	Number of NOT MATCHED tags ___: 606
+	Processing MISSING entities __: 606
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 3,498
+	Number of NOT MATCHED tags ___: 1,379
+	Processing MISSING entities __: 1,617
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 4,291
+	Number of NOT MATCHED tags ___: 586
+	Processing MISSING entities __: 586
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 4,285
+	Number of NOT MATCHED tags ___: 592
+	Processing MISSING entities __: 686
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 4,524
+	Number of NOT MATCHED tags ___: 353
+	Processing MISSING entities __: 353
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 3,555
+	Number of NOT MATCHED tags ___: 1,322
+	Processing MISSING entities __: 1,519
+
+MODEL: stanza_model
+	Number of matched tags _______: 3,350
+	Number of NOT MATCHED tags ___: 1,527
+	Processing MISSING entities __: 1,767
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 4,339
+	Number of NOT MATCHED tags ___: 538
+	Processing MISSING entities __: 538
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 3,949
+	Number of NOT MATCHED tags ___: 928
+	Processing MISSING entities __: 1,072
+
+MODEL: nltk_model
+	Number of matched tags _______: 3,094
+	Number of NOT MATCHED tags ___: 1,783
+	Processing MISSING entities __: 1,914
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 3,536
+	Number of NOT MATCHED tags ___: 1,341
+	Processing MISSING entities __: 895
+
+MODEL: polyglot_model
+	Number of matched tags _______: 4,394
+	Number of NOT MATCHED tags ___: 483
+	Processing MISSING entities __: 288
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 3,544
+	Number of NOT MATCHED tags ___: 1,333
+	Processing MISSING entities __: 1,566
+
+
+*** Processing result file [CONLL2003.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  138,879 tuples were added in a total of 212 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 4,618
+	Number of NOT MATCHED tags ___: 259
+	Processing MISSING entities __: 259
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 4,319
+	Number of NOT MATCHED tags ___: 558
+	Processing MISSING entities __: 558
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 3,766
+	Number of NOT MATCHED tags ___: 1,111
+	Processing MISSING entities __: 631
+
+MODEL: flair_model
+	Number of matched tags _______: 4,294
+	Number of NOT MATCHED tags ___: 583
+	Processing MISSING entities __: 583
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 3,283
+	Number of NOT MATCHED tags ___: 1,594
+	Processing MISSING entities __: 1,856
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 3,505
+	Number of NOT MATCHED tags ___: 1,372
+	Processing MISSING entities __: 1,591
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 4,154
+	Number of NOT MATCHED tags ___: 723
+	Processing MISSING entities __: 724
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 4,271
+	Number of NOT MATCHED tags ___: 606
+	Processing MISSING entities __: 606
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 3,498
+	Number of NOT MATCHED tags ___: 1,379
+	Processing MISSING entities __: 1,617
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 4,291
+	Number of NOT MATCHED tags ___: 586
+	Processing MISSING entities __: 586
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 4,285
+	Number of NOT MATCHED tags ___: 592
+	Processing MISSING entities __: 686
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 4,524
+	Number of NOT MATCHED tags ___: 353
+	Processing MISSING entities __: 353
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 3,555
+	Number of NOT MATCHED tags ___: 1,322
+	Processing MISSING entities __: 1,519
+
+MODEL: stanza_model
+	Number of matched tags _______: 3,350
+	Number of NOT MATCHED tags ___: 1,527
+	Processing MISSING entities __: 1,767
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 4,339
+	Number of NOT MATCHED tags ___: 538
+	Processing MISSING entities __: 538
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 3,949
+	Number of NOT MATCHED tags ___: 928
+	Processing MISSING entities __: 1,072
+
+MODEL: nltk_model
+	Number of matched tags _______: 3,094
+	Number of NOT MATCHED tags ___: 1,783
+	Processing MISSING entities __: 1,914
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 1,654
+	Number of NOT MATCHED tags ___: 3,223
+	Processing MISSING entities __: 3,632
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 3,536
+	Number of NOT MATCHED tags ___: 1,341
+	Processing MISSING entities __: 895
+
+MODEL: polyglot_model
+	Number of matched tags _______: 4,394
+	Number of NOT MATCHED tags ___: 483
+	Processing MISSING entities __: 288
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 3,544
+	Number of NOT MATCHED tags ___: 1,333
+	Processing MISSING entities __: 1,566
+
+
+Generating CSVs:
+-> CONLL2003-deeppavlov_onto_model-PERSON.csv ... Done. (1974 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-PERSON.csv ... Done. (1796 lines)
+-> CONLL2003-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (1406 lines)
+-> CONLL2003-deeppavlov_conll2003_model-PER.csv ... Done. (2373 lines)
+-> CONLL2003-deeppavlov_conll2003_bert_model-PER.csv ... Done. (2190 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-ORG.csv ... Done. (1006 lines)
+-> CONLL2003-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (121 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (1606 lines)
+-> CONLL2003-deeppavlov_onto_model-ORG.csv ... Done. (1251 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-NORP.csv ... Done. (334 lines)
+-> CONLL2003-deeppavlov_conll2003_model-ORG.csv ... Done. (1708 lines)
+-> CONLL2003-deeppavlov_conll2003_model-MISC.csv ... Done. (734 lines)
+-> CONLL2003-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (866 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-GPE.csv ... Done. (1002 lines)
+-> CONLL2003-deeppavlov_onto_model-GPE.csv ... Done. (908 lines)
+-> CONLL2003-deeppavlov_conll2003_model-LOC.csv ... Done. (916 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-FAC.csv ... Done. (65 lines)
+-> CONLL2003-deeppavlov_onto_model-PRODUCT.csv ... Done. (84 lines)
+-> CONLL2003-deeppavlov_onto_model-FAC.csv ... Done. (58 lines)
+-> CONLL2003-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (635 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (26 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (32 lines)
+-> CONLL2003-deeppavlov_onto_model-NORP.csv ... Done. (375 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-EVENT.csv ... Done. (160 lines)
+-> CONLL2003-deeppavlov_onto_model-LANGUAGE.csv ... Done. (6 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (5 lines)
+-> CONLL2003-deeppavlov_onto_model-LAW.csv ... Done. (50 lines)
+-> CONLL2003-deeppavlov_onto_model-DATE.csv ... Done. (1135 lines)
+-> CONLL2003-deeppavlov_onto_model-LOC.csv ... Done. (323 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-LOC.csv ... Done. (219 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-LAW.csv ... Done. (10 lines)
+-> CONLL2003-deeppavlov_onto_model-EVENT.csv ... Done. (261 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-DATE.csv ... Done. (864 lines)
+-> CONLL2003-deeppavlov_onto_model-CARDINAL.csv ... Done. (963 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-TIME.csv ... Done. (125 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (120 lines)
+-> CONLL2003-deeppavlov_onto_model-TIME.csv ... Done. (113 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-MONEY.csv ... Done. (105 lines)
+-> CONLL2003-deeppavlov_onto_model-ORDINAL.csv ... Done. (49 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (62 lines)
+-> CONLL2003-deeppavlov_onto_model-PERCENT.csv ... Done. (104 lines)
+-> CONLL2003-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (52 lines)
+-> CONLL2003-deeppavlov_onto_model-MONEY.csv ... Done. (110 lines)
+-> CONLL2003-deeppavlov_onto_model-QUANTITY.csv ... Done. (118 lines)
+-> CONLL2003-stanford_class7_model-LOCATION.csv ... Done. (1158 lines)
+-> CONLL2003-stanford_class4_model-LOCATION.csv ... Done. (987 lines)
+-> CONLL2003-stanford_class3_model-LOCATION.csv ... Done. (1017 lines)
+-> CONLL2003-stanza_model-GPE.csv ... Done. (822 lines)
+-> CONLL2003-spacy_sm_model-GPE.csv ... Done. (602 lines)
+-> CONLL2003-spacy_md_model-GPE.csv ... Done. (881 lines)
+-> CONLL2003-spacy_lg_model-GPE.csv ... Done. (878 lines)
+-> CONLL2003-nltk_model-GPE.csv ... Done. (565 lines)
+-> CONLL2003-bert_model-LOC.csv ... Done. (892 lines)
+-> CONLL2003-flair_model-LOC.csv ... Done. (819 lines)
+-> CONLL2003-flair_ontonotes_model-GPE.csv ... Done. (835 lines)
+-> CONLL2003-flair_fast_model-LOC.csv ... Done. (845 lines)
+-> CONLL2003-flair_fast_ontonotes_model-GPE.csv ... Done. (873 lines)
+-> CONLL2003-flair_pooled_model-LOC.csv ... Done. (828 lines)
+-> CONLL2003-allennlp_ner-LOC.csv ... Done. (920 lines)
+-> CONLL2003-polyglot_model-LOC.csv ... Done. (1108 lines)
+-> CONLL2003-nltk_model-PERSON.csv ... Done. (2968 lines)
+-> CONLL2003-flair_fast_model-ORG.csv ... Done. (1769 lines)
+-> CONLL2003-polyglot_model-ORG.csv ... Done. (1729 lines)
+-> CONLL2003-flair_ontonotes_model-CARDINAL.csv ... Done. (1009 lines)
+-> CONLL2003-spacy_lg_model-PERSON.csv ... Done. (2460 lines)
+-> CONLL2003-flair_ontonotes_model-PERSON.csv ... Done. (2498 lines)
+-> CONLL2003-stanford_class4_model-PERSON.csv ... Done. (2309 lines)
+-> CONLL2003-stanford_class3_model-ORGANIZATION.csv ... Done. (1547 lines)
+-> CONLL2003-stanza_model-PERSON.csv ... Done. (2420 lines)
+-> CONLL2003-spacy_md_model-PERSON.csv ... Done. (2490 lines)
+-> CONLL2003-nltk_model-ORGANIZATION.csv ... Done. (1621 lines)
+-> CONLL2003-bert_model-PER.csv ... Done. (2024 lines)
+-> CONLL2003-flair_model-PER.csv ... Done. (2256 lines)
+-> CONLL2003-flair_fast_model-PER.csv ... Done. (2166 lines)
+-> CONLL2003-flair_fast_ontonotes_model-PERSON.csv ... Done. (2297 lines)
+-> CONLL2003-flair_pooled_model-PER.csv ... Done. (2235 lines)
+-> CONLL2003-allennlp_ner-PER.csv ... Done. (2279 lines)
+-> CONLL2003-flair_model-ORG.csv ... Done. (1703 lines)
+-> CONLL2003-flair_pooled_model-ORG.csv ... Done. (1709 lines)
+-> CONLL2003-stanford_class4_model-ORGANIZATION.csv ... Done. (1596 lines)
+-> CONLL2003-spacy_lg_model-NORP.csv ... Done. (442 lines)
+-> CONLL2003-spacy_sm_model-PERSON.csv ... Done. (2408 lines)
+-> CONLL2003-spacy_lg_model-LOC.csv ... Done. (603 lines)
+-> CONLL2003-stanza_model-ORG.csv ... Done. (1332 lines)
+-> CONLL2003-spacy_sm_model-ORG.csv ... Done. (1736 lines)
+-> CONLL2003-spacy_lg_model-ORG.csv ... Done. (1711 lines)
+-> CONLL2003-flair_ontonotes_model-EVENT.csv ... Done. (292 lines)
+-> CONLL2003-flair_fast_ontonotes_model-ORG.csv ... Done. (1257 lines)
+-> CONLL2003-nltk_model-LOCATION.csv ... Done. (522 lines)
+-> CONLL2003-polyglot_model-PER.csv ... Done. (2332 lines)
+-> CONLL2003-stanford_class3_model-PERSON.csv ... Done. (2277 lines)
+-> CONLL2003-spacy_md_model-ORG.csv ... Done. (1657 lines)
+-> CONLL2003-bert_model-ORG.csv ... Done. (1524 lines)
+-> CONLL2003-allennlp_ner-ORG.csv ... Done. (1589 lines)
+-> CONLL2003-bert_model-MISC.csv ... Done. (581 lines)
+-> CONLL2003-stanza_model-DATE.csv ... Done. (929 lines)
+-> CONLL2003-stanford_class7_model-ORGANIZATION.csv ... Done. (1233 lines)
+-> CONLL2003-flair_ontonotes_model-ORG.csv ... Done. (1336 lines)
+-> CONLL2003-spacy_sm_model-LOC.csv ... Done. (536 lines)
+-> CONLL2003-spacy_md_model-NORP.csv ... Done. (445 lines)
+-> CONLL2003-stanford_class7_model-PERSON.csv ... Done. (2121 lines)
+-> CONLL2003-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (51 lines)
+-> CONLL2003-spacy_lg_model-FAC.csv ... Done. (72 lines)
+-> CONLL2003-spacy_sm_model-NORP.csv ... Done. (463 lines)
+-> CONLL2003-spacy_md_model-LOC.csv ... Done. (538 lines)
+-> CONLL2003-spacy_sm_model-PRODUCT.csv ... Done. (89 lines)
+-> CONLL2003-spacy_lg_model-DATE.csv ... Done. (1365 lines)
+-> CONLL2003-allennlp_ner-MISC.csv ... Done. (711 lines)
+-> CONLL2003-stanza_model-NORP.csv ... Done. (414 lines)
+-> CONLL2003-flair_ontonotes_model-LOC.csv ... Done. (522 lines)
+-> CONLL2003-stanza_model-LOC.csv ... Done. (514 lines)
+-> CONLL2003-flair_fast_ontonotes_model-LOC.csv ... Done. (450 lines)
+-> CONLL2003-spacy_sm_model-EVENT.csv ... Done. (327 lines)
+-> CONLL2003-spacy_sm_model-DATE.csv ... Done. (1235 lines)
+-> CONLL2003-spacy_md_model-EVENT.csv ... Done. (324 lines)
+-> CONLL2003-spacy_lg_model-EVENT.csv ... Done. (313 lines)
+-> CONLL2003-flair_model-MISC.csv ... Done. (604 lines)
+-> CONLL2003-flair_fast_model-MISC.csv ... Done. (648 lines)
+-> CONLL2003-flair_fast_ontonotes_model-NORP.csv ... Done. (379 lines)
+-> CONLL2003-flair_fast_ontonotes_model-EVENT.csv ... Done. (262 lines)
+-> CONLL2003-flair_pooled_model-MISC.csv ... Done. (638 lines)
+-> CONLL2003-stanza_model-FAC.csv ... Done. (69 lines)
+-> CONLL2003-spacy_sm_model-FAC.csv ... Done. (96 lines)
+-> CONLL2003-flair_ontonotes_model-FAC.csv ... Done. (100 lines)
+-> CONLL2003-flair_fast_ontonotes_model-FAC.csv ... Done. (57 lines)
+-> CONLL2003-spacy_sm_model-LAW.csv ... Done. (32 lines)
+-> CONLL2003-stanford_class4_model-MISC.csv ... Done. (689 lines)
+-> CONLL2003-flair_ontonotes_model-NORP.csv ... Done. (420 lines)
+-> CONLL2003-spacy_md_model-FAC.csv ... Done. (83 lines)
+-> CONLL2003-flair_ontonotes_model-DATE.csv ... Done. (785 lines)
+-> CONLL2003-flair_fast_ontonotes_model-DATE.csv ... Done. (920 lines)
+-> CONLL2003-stanza_model-EVENT.csv ... Done. (315 lines)
+-> CONLL2003-nltk_model-FACILITY.csv ... Done. (504 lines)
+-> CONLL2003-spacy_lg_model-ORDINAL.csv ... Done. (65 lines)
+-> CONLL2003-stanza_model-PRODUCT.csv ... Done. (39 lines)
+-> CONLL2003-spacy_lg_model-PRODUCT.csv ... Done. (59 lines)
+-> CONLL2003-spacy_md_model-PRODUCT.csv ... Done. (56 lines)
+-> CONLL2003-flair_ontonotes_model-PRODUCT.csv ... Done. (39 lines)
+-> CONLL2003-spacy_md_model-WORK_OF_ART.csv ... Done. (44 lines)
+-> CONLL2003-spacy_md_model-LANGUAGE.csv ... Done. (10 lines)
+-> CONLL2003-spacy_sm_model-LANGUAGE.csv ... Done. (5 lines)
+-> CONLL2003-spacy_lg_model-WORK_OF_ART.csv ... Done. (45 lines)
+-> CONLL2003-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (34 lines)
+-> CONLL2003-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (914 lines)
+-> CONLL2003-spacy_sm_model-WORK_OF_ART.csv ... Done. (62 lines)
+-> CONLL2003-stanza_model-WORK_OF_ART.csv ... Done. (34 lines)
+-> CONLL2003-spacy_sm_model-TIME.csv ... Done. (207 lines)
+-> CONLL2003-stanford_class7_model-MONEY.csv ... Done. (80 lines)
+-> CONLL2003-stanza_model-MONEY.csv ... Done. (109 lines)
+-> CONLL2003-spacy_md_model-MONEY.csv ... Done. (119 lines)
+-> CONLL2003-spacy_lg_model-MONEY.csv ... Done. (105 lines)
+-> CONLL2003-flair_ontonotes_model-MONEY.csv ... Done. (143 lines)
+-> CONLL2003-flair_fast_ontonotes_model-MONEY.csv ... Done. (133 lines)
+-> CONLL2003-stanza_model-CARDINAL.csv ... Done. (918 lines)
+-> CONLL2003-spacy_sm_model-CARDINAL.csv ... Done. (1036 lines)
+-> CONLL2003-spacy_md_model-CARDINAL.csv ... Done. (1088 lines)
+-> CONLL2003-spacy_lg_model-CARDINAL.csv ... Done. (1054 lines)
+-> CONLL2003-spacy_sm_model-MONEY.csv ... Done. (81 lines)
+-> CONLL2003-spacy_sm_model-QUANTITY.csv ... Done. (129 lines)
+-> CONLL2003-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (173 lines)
+-> CONLL2003-spacy_lg_model-QUANTITY.csv ... Done. (189 lines)
+-> CONLL2003-stanford_class7_model-PERCENT.csv ... Done. (68 lines)
+-> CONLL2003-stanza_model-PERCENT.csv ... Done. (85 lines)
+-> CONLL2003-spacy_sm_model-PERCENT.csv ... Done. (109 lines)
+-> CONLL2003-spacy_md_model-PERCENT.csv ... Done. (96 lines)
+-> CONLL2003-spacy_lg_model-PERCENT.csv ... Done. (85 lines)
+-> CONLL2003-flair_ontonotes_model-PERCENT.csv ... Done. (106 lines)
+-> CONLL2003-flair_fast_ontonotes_model-PERCENT.csv ... Done. (109 lines)
+-> CONLL2003-stanford_class7_model-DATE.csv ... Done. (423 lines)
+-> CONLL2003-spacy_md_model-DATE.csv ... Done. (1315 lines)
+-> CONLL2003-spacy_md_model-ORDINAL.csv ... Done. (58 lines)
+-> CONLL2003-stanza_model-TIME.csv ... Done. (188 lines)
+-> CONLL2003-spacy_md_model-TIME.csv ... Done. (188 lines)
+-> CONLL2003-spacy_lg_model-TIME.csv ... Done. (185 lines)
+-> CONLL2003-flair_ontonotes_model-TIME.csv ... Done. (189 lines)
+-> CONLL2003-flair_fast_ontonotes_model-TIME.csv ... Done. (181 lines)
+-> CONLL2003-flair_ontonotes_model-QUANTITY.csv ... Done. (191 lines)
+-> CONLL2003-stanford_class7_model-TIME.csv ... Done. (8 lines)
+-> CONLL2003-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (44 lines)
+-> CONLL2003-spacy_md_model-LAW.csv ... Done. (12 lines)
+-> CONLL2003-stanza_model-LAW.csv ... Done. (11 lines)
+-> CONLL2003-flair_ontonotes_model-LAW.csv ... Done. (11 lines)
+-> CONLL2003-flair_fast_ontonotes_model-LAW.csv ... Done. (11 lines)
+-> CONLL2003-spacy_lg_model-LAW.csv ... Done. (12 lines)
+-> CONLL2003-stanza_model-LANGUAGE.csv ... Done. (6 lines)
+-> CONLL2003-spacy_lg_model-LANGUAGE.csv ... Done. (7 lines)
+-> CONLL2003-flair_ontonotes_model-LANGUAGE.csv ... Done. (7 lines)
+-> CONLL2003-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (6 lines)
+-> CONLL2003-spacy_md_model-QUANTITY.csv ... Done. (133 lines)
+-> CONLL2003-stanza_model-ORDINAL.csv ... Done. (60 lines)
+-> CONLL2003-spacy_sm_model-ORDINAL.csv ... Done. (53 lines)
+-> CONLL2003-flair_ontonotes_model-ORDINAL.csv ... Done. (60 lines)
+-> CONLL2003-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (63 lines)
+-> CONLL2003-stanza_model-QUANTITY.csv ... Done. (153 lines)
+-> CONLL2003-allennlp-finegrained-ner-PERSON.csv ... Done. (2264 lines)
+-> CONLL2003-allennlp-finegrained-ner-ORG.csv ... Done. (1263 lines)
+-> CONLL2003-allennlp-finegrained-ner-GPE.csv ... Done. (256 lines)
+-> CONLL2003-allennlp-finegrained-ner-PRODUCT.csv ... Done. (7 lines)
+-> CONLL2003-allennlp-finegrained-ner-LOC.csv ... Done. (617 lines)
+-> CONLL2003-allennlp-finegrained-ner-NORP.csv ... Done. (478 lines)
+-> CONLL2003-allennlp-finegrained-ner-EVENT.csv ... Done. (399 lines)
+-> CONLL2003-allennlp-finegrained-ner-FAC.csv ... Done. (18 lines)
+-> CONLL2003-allennlp-finegrained-ner-DATE.csv ... Done. (419 lines)
+-> CONLL2003-allennlp-finegrained-ner-WORK_OF_ART.csv ... Done. (18 lines)
+-> CONLL2003-allennlp-finegrained-ner-LAW.csv ... Done. (6 lines)
+-> CONLL2003-allennlp-finegrained-ner-MONEY.csv ... Done. (130 lines)
+-> CONLL2003-allennlp-finegrained-ner-LANGUAGE.csv ... Done. (3 lines)
+-> CONLL2003-allennlp-finegrained-ner-TIME.csv ... Done. (85 lines)
+-> CONLL2003-allennlp-finegrained-ner-CARDINAL.csv ... Done. (494 lines)
+-> CONLL2003-allennlp-finegrained-ner-QUANTITY.csv ... Done. (102 lines)
+-> CONLL2003-allennlp-finegrained-ner-PERCENT.csv ... Done. (97 lines)
+-> CONLL2003-allennlp-finegrained-ner-ORDINAL.csv ... Done. (20 lines)
+-> CONLL2003-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> CONLL2003-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 162,120 tuples were added in a total of 212 CSV files
+
+
+************************************************************************************************************************
+*** PROCESSING DATASET "re3d" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\re3d\category-mappings.json]... 10 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\re3d\merged-tags.json]... 1,849 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\re3d\merged-tags-by-category.json]... 10 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/re3d/...
+	+ Adding E:\_temp\NER-Survey\tags\re3d\re3d-test_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\re3d\re3d-train_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 7,869
+
+Loaded *Mappings*:
+{
+    "Person": [
+        "tnnt:Person"
+    ],
+    "Organisation": [
+        "tnnt:Organisation"
+    ],
+    "Location": [
+        "tnnt:Location"
+    ],
+    "Temporal": [
+        "tnnt:Date",
+        "tnnt:Time"
+    ],
+    "Quantity": [
+        "tnnt:Quantity"
+    ],
+    "MilitaryPlatform": [
+        "tnnt:Product"
+    ],
+    "Weapon": [
+        "tnnt:Product"
+    ],
+    "DocumentReference": [
+        "tnnt:WorkOfArt",
+        "tnnt:Law"
+    ],
+    "Money": [
+        "tnnt:Money"
+    ],
+    "Nationality": [
+        "tnnt:NORP"
+    ]
+}
+
+
+*** Processing result file [re3d.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  3,602 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 956
+	Number of NOT MATCHED tags ___: 893
+	Processing MISSING entities __: 928
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 950
+	Number of NOT MATCHED tags ___: 899
+	Processing MISSING entities __: 935
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 769
+	Number of NOT MATCHED tags ___: 1,080
+	Processing MISSING entities __: 796
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 686
+	Number of NOT MATCHED tags ___: 1,163
+	Processing MISSING entities __: 902
+
+
+*** Processing result file [re3d.txt-MEL+NER_output_3.8_all.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  19,780 tuples were added in a total of 194 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 825
+	Number of NOT MATCHED tags ___: 1,024
+	Processing MISSING entities __: 765
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 769
+	Number of NOT MATCHED tags ___: 1,080
+	Processing MISSING entities __: 796
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 484
+	Number of NOT MATCHED tags ___: 1,365
+	Processing MISSING entities __: 915
+
+MODEL: flair_model
+	Number of matched tags _______: 692
+	Number of NOT MATCHED tags ___: 1,157
+	Processing MISSING entities __: 872
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 882
+	Number of NOT MATCHED tags ___: 967
+	Processing MISSING entities __: 1,009
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 933
+	Number of NOT MATCHED tags ___: 916
+	Processing MISSING entities __: 958
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 628
+	Number of NOT MATCHED tags ___: 1,221
+	Processing MISSING entities __: 928
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 666
+	Number of NOT MATCHED tags ___: 1,183
+	Processing MISSING entities __: 895
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 956
+	Number of NOT MATCHED tags ___: 893
+	Processing MISSING entities __: 928
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 672
+	Number of NOT MATCHED tags ___: 1,177
+	Processing MISSING entities __: 888
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 956
+	Number of NOT MATCHED tags ___: 893
+	Processing MISSING entities __: 928
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 893
+	Number of NOT MATCHED tags ___: 956
+	Processing MISSING entities __: 993
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 935
+	Number of NOT MATCHED tags ___: 914
+	Processing MISSING entities __: 956
+
+MODEL: stanza_model
+	Number of matched tags _______: 923
+	Number of NOT MATCHED tags ___: 926
+	Processing MISSING entities __: 962
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 661
+	Number of NOT MATCHED tags ___: 1,188
+	Processing MISSING entities __: 899
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 950
+	Number of NOT MATCHED tags ___: 899
+	Processing MISSING entities __: 935
+
+MODEL: nltk_model
+	Number of matched tags _______: 609
+	Number of NOT MATCHED tags ___: 1,240
+	Processing MISSING entities __: 1,268
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 610
+	Number of NOT MATCHED tags ___: 1,239
+	Processing MISSING entities __: 1,092
+
+MODEL: polyglot_model
+	Number of matched tags _______: 806
+	Number of NOT MATCHED tags ___: 1,043
+	Processing MISSING entities __: 634
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 686
+	Number of NOT MATCHED tags ___: 1,163
+	Processing MISSING entities __: 902
+
+
+*** Processing result file [re3d.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  38,862 tuples were added in a total of 211 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 825
+	Number of NOT MATCHED tags ___: 1,024
+	Processing MISSING entities __: 765
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 769
+	Number of NOT MATCHED tags ___: 1,080
+	Processing MISSING entities __: 796
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 484
+	Number of NOT MATCHED tags ___: 1,365
+	Processing MISSING entities __: 915
+
+MODEL: flair_model
+	Number of matched tags _______: 692
+	Number of NOT MATCHED tags ___: 1,157
+	Processing MISSING entities __: 872
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 882
+	Number of NOT MATCHED tags ___: 967
+	Processing MISSING entities __: 1,009
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 933
+	Number of NOT MATCHED tags ___: 916
+	Processing MISSING entities __: 958
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 628
+	Number of NOT MATCHED tags ___: 1,221
+	Processing MISSING entities __: 928
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 666
+	Number of NOT MATCHED tags ___: 1,183
+	Processing MISSING entities __: 895
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 956
+	Number of NOT MATCHED tags ___: 893
+	Processing MISSING entities __: 928
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 672
+	Number of NOT MATCHED tags ___: 1,177
+	Processing MISSING entities __: 888
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 956
+	Number of NOT MATCHED tags ___: 893
+	Processing MISSING entities __: 928
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 893
+	Number of NOT MATCHED tags ___: 956
+	Processing MISSING entities __: 993
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 935
+	Number of NOT MATCHED tags ___: 914
+	Processing MISSING entities __: 956
+
+MODEL: stanza_model
+	Number of matched tags _______: 923
+	Number of NOT MATCHED tags ___: 926
+	Processing MISSING entities __: 962
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 661
+	Number of NOT MATCHED tags ___: 1,188
+	Processing MISSING entities __: 899
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 950
+	Number of NOT MATCHED tags ___: 899
+	Processing MISSING entities __: 935
+
+MODEL: nltk_model
+	Number of matched tags _______: 609
+	Number of NOT MATCHED tags ___: 1,240
+	Processing MISSING entities __: 1,268
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 629
+	Number of NOT MATCHED tags ___: 1,220
+	Processing MISSING entities __: 1,235
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 610
+	Number of NOT MATCHED tags ___: 1,239
+	Processing MISSING entities __: 1,092
+
+MODEL: polyglot_model
+	Number of matched tags _______: 806
+	Number of NOT MATCHED tags ___: 1,043
+	Processing MISSING entities __: 634
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 686
+	Number of NOT MATCHED tags ___: 1,163
+	Processing MISSING entities __: 902
+
+
+Generating CSVs:
+-> re3d-deeppavlov_onto_model-PERSON.csv ... Done. (252 lines)
+-> re3d-deeppavlov_onto_bert_model-PERSON.csv ... Done. (218 lines)
+-> re3d-deeppavlov_conll2003_model-PER.csv ... Done. (222 lines)
+-> re3d-deeppavlov_conll2003_bert_model-PER.csv ... Done. (220 lines)
+-> re3d-deeppavlov_onto_model-GPE.csv ... Done. (179 lines)
+-> re3d-deeppavlov_onto_bert_model-GPE.csv ... Done. (196 lines)
+-> re3d-deeppavlov_conll2003_model-LOC.csv ... Done. (467 lines)
+-> re3d-deeppavlov_conll2003_model-ORG.csv ... Done. (669 lines)
+-> re3d-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (478 lines)
+-> re3d-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (647 lines)
+-> re3d-deeppavlov_onto_bert_model-ORG.csv ... Done. (619 lines)
+-> re3d-deeppavlov_onto_bert_model-EVENT.csv ... Done. (19 lines)
+-> re3d-deeppavlov_onto_model-ORG.csv ... Done. (635 lines)
+-> re3d-deeppavlov_conll2003_model-MISC.csv ... Done. (229 lines)
+-> re3d-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (248 lines)
+-> re3d-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (49 lines)
+-> re3d-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (100 lines)
+-> re3d-deeppavlov_onto_model-PRODUCT.csv ... Done. (100 lines)
+-> re3d-deeppavlov_onto_model-EVENT.csv ... Done. (17 lines)
+-> re3d-deeppavlov_onto_bert_model-NORP.csv ... Done. (56 lines)
+-> re3d-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (40 lines)
+-> re3d-deeppavlov_onto_model-NORP.csv ... Done. (61 lines)
+-> re3d-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (5 lines)
+-> re3d-deeppavlov_onto_bert_model-LOC.csv ... Done. (308 lines)
+-> re3d-deeppavlov_onto_model-FAC.csv ... Done. (20 lines)
+-> re3d-deeppavlov_onto_bert_model-FAC.csv ... Done. (18 lines)
+-> re3d-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (26 lines)
+-> re3d-deeppavlov_onto_bert_model-TIME.csv ... Done. (22 lines)
+-> re3d-deeppavlov_onto_model-LOC.csv ... Done. (306 lines)
+-> re3d-deeppavlov_onto_model-CARDINAL.csv ... Done. (157 lines)
+-> re3d-deeppavlov_onto_bert_model-DATE.csv ... Done. (166 lines)
+-> re3d-deeppavlov_onto_model-LAW.csv ... Done. (41 lines)
+-> re3d-deeppavlov_onto_bert_model-LAW.csv ... Done. (43 lines)
+-> re3d-deeppavlov_onto_model-LANGUAGE.csv ... Done. (6 lines)
+-> re3d-deeppavlov_onto_model-DATE.csv ... Done. (180 lines)
+-> re3d-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (136 lines)
+-> re3d-deeppavlov_onto_model-TIME.csv ... Done. (27 lines)
+-> re3d-deeppavlov_onto_model-PERCENT.csv ... Done. (8 lines)
+-> re3d-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (6 lines)
+-> re3d-deeppavlov_onto_model-MONEY.csv ... Done. (10 lines)
+-> re3d-deeppavlov_onto_bert_model-MONEY.csv ... Done. (11 lines)
+-> re3d-deeppavlov_onto_model-QUANTITY.csv ... Done. (23 lines)
+-> re3d-deeppavlov_onto_model-ORDINAL.csv ... Done. (6 lines)
+-> re3d-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (5 lines)
+-> re3d-stanford_class7_model-LOCATION.csv ... Done. (454 lines)
+-> re3d-stanford_class4_model-LOCATION.csv ... Done. (449 lines)
+-> re3d-stanford_class3_model-LOCATION.csv ... Done. (450 lines)
+-> re3d-stanza_model-GPE.csv ... Done. (159 lines)
+-> re3d-spacy_sm_model-GPE.csv ... Done. (143 lines)
+-> re3d-spacy_lg_model-GPE.csv ... Done. (129 lines)
+-> re3d-nltk_model-GPE.csv ... Done. (170 lines)
+-> re3d-bert_model-LOC.csv ... Done. (440 lines)
+-> re3d-flair_model-LOC.csv ... Done. (441 lines)
+-> re3d-flair_ontonotes_model-GPE.csv ... Done. (153 lines)
+-> re3d-flair_fast_model-LOC.csv ... Done. (450 lines)
+-> re3d-flair_fast_ontonotes_model-GPE.csv ... Done. (153 lines)
+-> re3d-flair_pooled_model-LOC.csv ... Done. (446 lines)
+-> re3d-allennlp_ner-LOC.csv ... Done. (456 lines)
+-> re3d-polyglot_model-LOC.csv ... Done. (414 lines)
+-> re3d-spacy_md_model-GPE.csv ... Done. (139 lines)
+-> re3d-stanford_class4_model-PERSON.csv ... Done. (264 lines)
+-> re3d-spacy_md_model-PERSON.csv ... Done. (261 lines)
+-> re3d-spacy_md_model-DATE.csv ... Done. (185 lines)
+-> re3d-spacy_lg_model-PERSON.csv ... Done. (256 lines)
+-> re3d-flair_model-PER.csv ... Done. (229 lines)
+-> re3d-flair_pooled_model-PER.csv ... Done. (232 lines)
+-> re3d-allennlp_ner-PER.csv ... Done. (237 lines)
+-> re3d-spacy_sm_model-PRODUCT.csv ... Done. (111 lines)
+-> re3d-nltk_model-PERSON.csv ... Done. (342 lines)
+-> re3d-stanford_class7_model-ORGANIZATION.csv ... Done. (727 lines)
+-> re3d-polyglot_model-ORG.csv ... Done. (543 lines)
+-> re3d-spacy_sm_model-PERSON.csv ... Done. (269 lines)
+-> re3d-spacy_lg_model-FAC.csv ... Done. (21 lines)
+-> re3d-stanza_model-LOC.csv ... Done. (331 lines)
+-> re3d-spacy_sm_model-LOC.csv ... Done. (335 lines)
+-> re3d-spacy_md_model-LOC.csv ... Done. (338 lines)
+-> re3d-spacy_lg_model-LOC.csv ... Done. (325 lines)
+-> re3d-flair_ontonotes_model-LOC.csv ... Done. (322 lines)
+-> re3d-flair_fast_ontonotes_model-LOC.csv ... Done. (317 lines)
+-> re3d-spacy_sm_model-ORG.csv ... Done. (669 lines)
+-> re3d-spacy_md_model-ORG.csv ... Done. (677 lines)
+-> re3d-stanza_model-PERSON.csv ... Done. (238 lines)
+-> re3d-allennlp_ner-MISC.csv ... Done. (280 lines)
+-> re3d-polyglot_model-PER.csv ... Done. (221 lines)
+-> re3d-stanza_model-FAC.csv ... Done. (26 lines)
+-> re3d-nltk_model-ORGANIZATION.csv ... Done. (664 lines)
+-> re3d-flair_ontonotes_model-FAC.csv ... Done. (19 lines)
+-> re3d-flair_fast_model-ORG.csv ... Done. (660 lines)
+-> re3d-flair_fast_ontonotes_model-FAC.csv ... Done. (19 lines)
+-> re3d-stanza_model-ORG.csv ... Done. (653 lines)
+-> re3d-spacy_lg_model-ORG.csv ... Done. (629 lines)
+-> re3d-flair_fast_model-PER.csv ... Done. (231 lines)
+-> re3d-flair_fast_ontonotes_model-PERSON.csv ... Done. (228 lines)
+-> re3d-stanza_model-NORP.csv ... Done. (54 lines)
+-> re3d-stanford_class7_model-PERSON.csv ... Done. (224 lines)
+-> re3d-stanford_class3_model-PERSON.csv ... Done. (246 lines)
+-> re3d-spacy_lg_model-PRODUCT.csv ... Done. (99 lines)
+-> re3d-allennlp_ner-ORG.csv ... Done. (641 lines)
+-> re3d-stanford_class4_model-MISC.csv ... Done. (233 lines)
+-> re3d-flair_ontonotes_model-PERSON.csv ... Done. (225 lines)
+-> re3d-stanford_class4_model-ORGANIZATION.csv ... Done. (664 lines)
+-> re3d-stanford_class3_model-ORGANIZATION.csv ... Done. (694 lines)
+-> re3d-flair_model-ORG.csv ... Done. (639 lines)
+-> re3d-flair_ontonotes_model-ORG.csv ... Done. (638 lines)
+-> re3d-flair_fast_ontonotes_model-ORG.csv ... Done. (642 lines)
+-> re3d-flair_pooled_model-ORG.csv ... Done. (652 lines)
+-> re3d-spacy_sm_model-FAC.csv ... Done. (26 lines)
+-> re3d-nltk_model-LOCATION.csv ... Done. (302 lines)
+-> re3d-spacy_md_model-FAC.csv ... Done. (16 lines)
+-> re3d-spacy_lg_model-LANGUAGE.csv ... Done. (5 lines)
+-> re3d-bert_model-PER.csv ... Done. (205 lines)
+-> re3d-bert_model-MISC.csv ... Done. (233 lines)
+-> re3d-flair_ontonotes_model-NORP.csv ... Done. (57 lines)
+-> re3d-spacy_md_model-PRODUCT.csv ... Done. (109 lines)
+-> re3d-spacy_md_model-NORP.csv ... Done. (57 lines)
+-> re3d-spacy_lg_model-NORP.csv ... Done. (57 lines)
+-> re3d-bert_model-ORG.csv ... Done. (582 lines)
+-> re3d-flair_fast_model-MISC.csv ... Done. (239 lines)
+-> re3d-flair_fast_ontonotes_model-NORP.csv ... Done. (51 lines)
+-> re3d-nltk_model-FACILITY.csv ... Done. (465 lines)
+-> re3d-spacy_sm_model-NORP.csv ... Done. (44 lines)
+-> re3d-spacy_sm_model-LANGUAGE.csv ... Done. (5 lines)
+-> re3d-flair_model-MISC.csv ... Done. (241 lines)
+-> re3d-flair_pooled_model-MISC.csv ... Done. (228 lines)
+-> re3d-stanza_model-LANGUAGE.csv ... Done. (5 lines)
+-> re3d-stanza_model-PRODUCT.csv ... Done. (112 lines)
+-> re3d-stanza_model-EVENT.csv ... Done. (20 lines)
+-> re3d-stanza_model-LAW.csv ... Done. (47 lines)
+-> re3d-spacy_sm_model-LAW.csv ... Done. (43 lines)
+-> re3d-flair_ontonotes_model-LAW.csv ... Done. (43 lines)
+-> re3d-flair_fast_ontonotes_model-LAW.csv ... Done. (45 lines)
+-> re3d-stanza_model-WORK_OF_ART.csv ... Done. (39 lines)
+-> re3d-spacy_lg_model-WORK_OF_ART.csv ... Done. (47 lines)
+-> re3d-flair_ontonotes_model-EVENT.csv ... Done. (21 lines)
+-> re3d-spacy_sm_model-WORK_OF_ART.csv ... Done. (47 lines)
+-> re3d-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (40 lines)
+-> re3d-stanford_class7_model-MONEY.csv ... Done. (23 lines)
+-> re3d-spacy_sm_model-CARDINAL.csv ... Done. (135 lines)
+-> re3d-spacy_md_model-CARDINAL.csv ... Done. (131 lines)
+-> re3d-spacy_lg_model-CARDINAL.csv ... Done. (132 lines)
+-> re3d-stanza_model-CARDINAL.csv ... Done. (132 lines)
+-> re3d-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (133 lines)
+-> re3d-flair_ontonotes_model-CARDINAL.csv ... Done. (126 lines)
+-> re3d-stanza_model-MONEY.csv ... Done. (11 lines)
+-> re3d-spacy_sm_model-MONEY.csv ... Done. (14 lines)
+-> re3d-spacy_md_model-MONEY.csv ... Done. (11 lines)
+-> re3d-spacy_lg_model-MONEY.csv ... Done. (12 lines)
+-> re3d-stanford_class7_model-PERCENT.csv ... Done. (7 lines)
+-> re3d-flair_ontonotes_model-PERCENT.csv ... Done. (8 lines)
+-> re3d-stanza_model-PERCENT.csv ... Done. (8 lines)
+-> re3d-spacy_sm_model-PERCENT.csv ... Done. (7 lines)
+-> re3d-spacy_md_model-PERCENT.csv ... Done. (7 lines)
+-> re3d-spacy_lg_model-PERCENT.csv ... Done. (7 lines)
+-> re3d-flair_fast_ontonotes_model-PERCENT.csv ... Done. (8 lines)
+-> re3d-stanford_class7_model-DATE.csv ... Done. (181 lines)
+-> re3d-stanza_model-DATE.csv ... Done. (178 lines)
+-> re3d-spacy_sm_model-DATE.csv ... Done. (185 lines)
+-> re3d-spacy_lg_model-DATE.csv ... Done. (180 lines)
+-> re3d-flair_ontonotes_model-DATE.csv ... Done. (178 lines)
+-> re3d-flair_fast_ontonotes_model-DATE.csv ... Done. (175 lines)
+-> re3d-stanford_class7_model-TIME.csv ... Done. (85 lines)
+-> re3d-spacy_lg_model-TIME.csv ... Done. (21 lines)
+-> re3d-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (107 lines)
+-> re3d-flair_ontonotes_model-PRODUCT.csv ... Done. (104 lines)
+-> re3d-flair_fast_ontonotes_model-EVENT.csv ... Done. (21 lines)
+-> re3d-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (40 lines)
+-> re3d-spacy_md_model-LANGUAGE.csv ... Done. (4 lines)
+-> re3d-flair_ontonotes_model-LANGUAGE.csv ... Done. (6 lines)
+-> re3d-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (4 lines)
+-> re3d-spacy_md_model-WORK_OF_ART.csv ... Done. (41 lines)
+-> re3d-spacy_lg_model-LAW.csv ... Done. (36 lines)
+-> re3d-spacy_sm_model-EVENT.csv ... Done. (10 lines)
+-> re3d-spacy_md_model-EVENT.csv ... Done. (11 lines)
+-> re3d-spacy_lg_model-EVENT.csv ... Done. (10 lines)
+-> re3d-spacy_md_model-LAW.csv ... Done. (38 lines)
+-> re3d-spacy_lg_model-QUANTITY.csv ... Done. (32 lines)
+-> re3d-stanza_model-TIME.csv ... Done. (19 lines)
+-> re3d-spacy_sm_model-TIME.csv ... Done. (27 lines)
+-> re3d-spacy_md_model-TIME.csv ... Done. (25 lines)
+-> re3d-flair_ontonotes_model-TIME.csv ... Done. (26 lines)
+-> re3d-flair_fast_ontonotes_model-TIME.csv ... Done. (22 lines)
+-> re3d-flair_ontonotes_model-MONEY.csv ... Done. (12 lines)
+-> re3d-flair_fast_ontonotes_model-MONEY.csv ... Done. (11 lines)
+-> re3d-stanza_model-QUANTITY.csv ... Done. (35 lines)
+-> re3d-spacy_sm_model-QUANTITY.csv ... Done. (28 lines)
+-> re3d-flair_ontonotes_model-QUANTITY.csv ... Done. (32 lines)
+-> re3d-spacy_md_model-QUANTITY.csv ... Done. (27 lines)
+-> re3d-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (32 lines)
+-> re3d-stanza_model-ORDINAL.csv ... Done. (7 lines)
+-> re3d-spacy_sm_model-ORDINAL.csv ... Done. (5 lines)
+-> re3d-spacy_md_model-ORDINAL.csv ... Done. (7 lines)
+-> re3d-spacy_lg_model-ORDINAL.csv ... Done. (6 lines)
+-> re3d-flair_ontonotes_model-ORDINAL.csv ... Done. (5 lines)
+-> re3d-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (7 lines)
+-> re3d-allennlp-finegrained-ner-PERSON.csv ... Done. (215 lines)
+-> re3d-allennlp-finegrained-ner-NORP.csv ... Done. (47 lines)
+-> re3d-allennlp-finegrained-ner-ORG.csv ... Done. (622 lines)
+-> re3d-allennlp-finegrained-ner-GPE.csv ... Done. (97 lines)
+-> re3d-allennlp-finegrained-ner-EVENT.csv ... Done. (8 lines)
+-> re3d-allennlp-finegrained-ner-QUANTITY.csv ... Done. (80 lines)
+-> re3d-allennlp-finegrained-ner-FAC.csv ... Done. (15 lines)
+-> re3d-allennlp-finegrained-ner-LOC.csv ... Done. (374 lines)
+-> re3d-allennlp-finegrained-ner-WORK_OF_ART.csv ... Done. (43 lines)
+-> re3d-allennlp-finegrained-ner-LAW.csv ... Done. (46 lines)
+-> re3d-allennlp-finegrained-ner-LANGUAGE.csv ... Done. (4 lines)
+-> re3d-allennlp-finegrained-ner-DATE.csv ... Done. (143 lines)
+-> re3d-allennlp-finegrained-ner-TIME.csv ... Done. (74 lines)
+-> re3d-allennlp-finegrained-ner-PERCENT.csv ... Done. (3 lines)
+-> re3d-allennlp-finegrained-ner-MONEY.csv ... Done. (19 lines)
+-> re3d-allennlp-finegrained-ner-CARDINAL.csv ... Done. (34 lines)
+-> re3d-allennlp-finegrained-ner-ORDINAL.csv ... Done. (4 lines)
+-> re3d-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> re3d-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 58,620 tuples were added in a total of 211 CSV files
+
+
+************************************************************************************************************************
+*** PROCESSING DATASET "GUM" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\GUM\category-mappings.json]... 11 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\GUM\merged-tags.json]... 7,874 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\GUM\merged-tags-by-category.json]... 11 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/GUM/...
+	+ Adding E:\_temp\NER-Survey\tags\GUM\gum-test_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\GUM\gum-train_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 33,344
+
+Loaded *Mappings*:
+{
+    "person": [
+        "tnnt:Person"
+    ],
+    "substance": [
+        "tnnt:Product",
+        "tnnt:Quantity"
+    ],
+    "object": [
+        "tnnt:Organisation",
+        "tnnt:GPE",
+        "tnnt:FAC",
+        "tnnt:Product",
+        "tnnt:WorkOfArt",
+        "tnnt:Law"
+    ],
+    "organization": [
+        "tnnt:Organisation",
+        "tnnt:NORP"
+    ],
+    "time": [
+        "tnnt:Date",
+        "tnnt:Time",
+        "tnnt:Quantity"
+    ],
+    "abstract": [
+        "tnnt:Person",
+        "tnnt:NORP",
+        "tnnt:Product",
+        "tnnt:Event",
+        "tnnt:WorkOfArt",
+        "tnnt:Law",
+        "tnnt:Language",
+        "tnnt:Quantity"
+    ],
+    "place": [
+        "tnnt:Location",
+        "tnnt:GPE",
+        "tnnt:FAC",
+        "tnnt:Product",
+        "tnnt:Quantity"
+    ],
+    "event": [
+        "tnnt:Event"
+    ],
+    "animal": [
+        "tnnt:Product"
+    ],
+    "plant": [
+        "tnnt:Product"
+    ],
+    "quantity": [
+        "tnnt:Money",
+        "tnnt:Percent",
+        "tnnt:Quantity",
+        "tnnt:Cardinal"
+    ]
+}
+
+
+*** Processing result file [GUM.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  8,398 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 2,481
+	Number of NOT MATCHED tags ___: 5,393
+	Processing MISSING entities __: 26,963
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 2,546
+	Number of NOT MATCHED tags ___: 5,328
+	Processing MISSING entities __: 26,728
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 2,276
+	Number of NOT MATCHED tags ___: 5,598
+	Processing MISSING entities __: 9,664
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 2,055
+	Number of NOT MATCHED tags ___: 5,819
+	Processing MISSING entities __: 10,101
+
+
+*** Processing result file [GUM.txt-MEL+NER_output_3.8_all.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  110,729 tuples were added in a total of 193 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 4,398
+	Number of NOT MATCHED tags ___: 3,476
+	Processing MISSING entities __: 6,026
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 2,276
+	Number of NOT MATCHED tags ___: 5,598
+	Processing MISSING entities __: 9,664
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 1,084
+	Number of NOT MATCHED tags ___: 6,790
+	Processing MISSING entities __: 6,186
+
+MODEL: flair_model
+	Number of matched tags _______: 1,783
+	Number of NOT MATCHED tags ___: 6,091
+	Processing MISSING entities __: 10,551
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 6,107
+	Number of NOT MATCHED tags ___: 1,767
+	Processing MISSING entities __: 8,670
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 2,431
+	Number of NOT MATCHED tags ___: 5,443
+	Processing MISSING entities __: 27,292
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 1,616
+	Number of NOT MATCHED tags ___: 6,258
+	Processing MISSING entities __: 10,814
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 1,681
+	Number of NOT MATCHED tags ___: 6,193
+	Processing MISSING entities __: 10,714
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 2,560
+	Number of NOT MATCHED tags ___: 5,314
+	Processing MISSING entities __: 26,624
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 1,729
+	Number of NOT MATCHED tags ___: 6,145
+	Processing MISSING entities __: 10,653
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 2,481
+	Number of NOT MATCHED tags ___: 5,393
+	Processing MISSING entities __: 26,963
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 2,055
+	Number of NOT MATCHED tags ___: 5,819
+	Processing MISSING entities __: 10,101
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 2,498
+	Number of NOT MATCHED tags ___: 5,376
+	Processing MISSING entities __: 26,945
+
+MODEL: stanza_model
+	Number of matched tags _______: 2,527
+	Number of NOT MATCHED tags ___: 5,347
+	Processing MISSING entities __: 26,930
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 1,821
+	Number of NOT MATCHED tags ___: 6,053
+	Processing MISSING entities __: 10,472
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 2,546
+	Number of NOT MATCHED tags ___: 5,328
+	Processing MISSING entities __: 26,728
+
+MODEL: nltk_model
+	Number of matched tags _______: 1,749
+	Number of NOT MATCHED tags ___: 6,125
+	Processing MISSING entities __: 8,265
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 1,274
+	Number of NOT MATCHED tags ___: 6,600
+	Processing MISSING entities __: 6,805
+
+MODEL: polyglot_model
+	Number of matched tags _______: 3,312
+	Number of NOT MATCHED tags ___: 4,562
+	Processing MISSING entities __: 4,190
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 2,492
+	Number of NOT MATCHED tags ___: 5,382
+	Processing MISSING entities __: 26,966
+
+
+*** Processing result file [GUM.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  412,407 tuples were added in a total of 207 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 4,398
+	Number of NOT MATCHED tags ___: 3,476
+	Processing MISSING entities __: 6,026
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 2,276
+	Number of NOT MATCHED tags ___: 5,598
+	Processing MISSING entities __: 9,664
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 1,084
+	Number of NOT MATCHED tags ___: 6,790
+	Processing MISSING entities __: 6,186
+
+MODEL: flair_model
+	Number of matched tags _______: 1,783
+	Number of NOT MATCHED tags ___: 6,091
+	Processing MISSING entities __: 10,551
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 6,107
+	Number of NOT MATCHED tags ___: 1,767
+	Processing MISSING entities __: 8,670
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 2,431
+	Number of NOT MATCHED tags ___: 5,443
+	Processing MISSING entities __: 27,292
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 1,616
+	Number of NOT MATCHED tags ___: 6,258
+	Processing MISSING entities __: 10,814
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 1,681
+	Number of NOT MATCHED tags ___: 6,193
+	Processing MISSING entities __: 10,714
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 2,560
+	Number of NOT MATCHED tags ___: 5,314
+	Processing MISSING entities __: 26,624
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 1,729
+	Number of NOT MATCHED tags ___: 6,145
+	Processing MISSING entities __: 10,653
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 2,481
+	Number of NOT MATCHED tags ___: 5,393
+	Processing MISSING entities __: 26,963
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 2,055
+	Number of NOT MATCHED tags ___: 5,819
+	Processing MISSING entities __: 10,101
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 2,498
+	Number of NOT MATCHED tags ___: 5,376
+	Processing MISSING entities __: 26,945
+
+MODEL: stanza_model
+	Number of matched tags _______: 2,527
+	Number of NOT MATCHED tags ___: 5,347
+	Processing MISSING entities __: 26,930
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 1,821
+	Number of NOT MATCHED tags ___: 6,053
+	Processing MISSING entities __: 10,472
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 2,546
+	Number of NOT MATCHED tags ___: 5,328
+	Processing MISSING entities __: 26,728
+
+MODEL: nltk_model
+	Number of matched tags _______: 1,749
+	Number of NOT MATCHED tags ___: 6,125
+	Processing MISSING entities __: 8,265
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 175
+	Number of NOT MATCHED tags ___: 7,699
+	Processing MISSING entities __: 33,261
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 1,274
+	Number of NOT MATCHED tags ___: 6,600
+	Processing MISSING entities __: 6,805
+
+MODEL: polyglot_model
+	Number of matched tags _______: 3,312
+	Number of NOT MATCHED tags ___: 4,562
+	Processing MISSING entities __: 4,190
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 2,492
+	Number of NOT MATCHED tags ___: 5,382
+	Processing MISSING entities __: 26,966
+
+
+Generating CSVs:
+-> GUM-deeppavlov_onto_model-PERSON.csv ... Done. (2898 lines)
+-> GUM-deeppavlov_conll2003_model-PER.csv ... Done. (3036 lines)
+-> GUM-deeppavlov_onto_bert_model-PERSON.csv ... Done. (2869 lines)
+-> GUM-deeppavlov_onto_bert_model-ORG.csv ... Done. (1447 lines)
+-> GUM-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (3976 lines)
+-> GUM-deeppavlov_conll2003_bert_model-PER.csv ... Done. (2946 lines)
+-> GUM-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (2166 lines)
+-> GUM-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (1464 lines)
+-> GUM-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (5093 lines)
+-> GUM-deeppavlov_onto_bert_model-GPE.csv ... Done. (1941 lines)
+-> GUM-deeppavlov_onto_model-ORG.csv ... Done. (1460 lines)
+-> GUM-deeppavlov_conll2003_model-LOC.csv ... Done. (2146 lines)
+-> GUM-deeppavlov_conll2003_model-ORG.csv ... Done. (1569 lines)
+-> GUM-deeppavlov_onto_model-NORP.csv ... Done. (2191 lines)
+-> GUM-deeppavlov_onto_model-PRODUCT.csv ... Done. (3945 lines)
+-> GUM-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (2872 lines)
+-> GUM-deeppavlov_onto_bert_model-EVENT.csv ... Done. (2528 lines)
+-> GUM-deeppavlov_conll2003_model-MISC.csv ... Done. (4859 lines)
+-> GUM-deeppavlov_onto_bert_model-FAC.csv ... Done. (1786 lines)
+-> GUM-deeppavlov_onto_model-GPE.csv ... Done. (1953 lines)
+-> GUM-deeppavlov_onto_model-LOC.csv ... Done. (788 lines)
+-> GUM-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (2936 lines)
+-> GUM-deeppavlov_onto_model-EVENT.csv ... Done. (2510 lines)
+-> GUM-deeppavlov_onto_bert_model-LOC.csv ... Done. (804 lines)
+-> GUM-deeppavlov_onto_bert_model-NORP.csv ... Done. (2167 lines)
+-> GUM-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (1917 lines)
+-> GUM-deeppavlov_onto_model-LANGUAGE.csv ... Done. (1911 lines)
+-> GUM-deeppavlov_onto_model-LAW.csv ... Done. (2801 lines)
+-> GUM-deeppavlov_onto_model-FAC.csv ... Done. (1720 lines)
+-> GUM-deeppavlov_onto_bert_model-MONEY.csv ... Done. (51 lines)
+-> GUM-deeppavlov_onto_bert_model-DATE.csv ... Done. (425 lines)
+-> GUM-deeppavlov_onto_bert_model-LAW.csv ... Done. (2819 lines)
+-> GUM-deeppavlov_onto_model-DATE.csv ... Done. (443 lines)
+-> GUM-deeppavlov_onto_model-CARDINAL.csv ... Done. (243 lines)
+-> GUM-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (214 lines)
+-> GUM-deeppavlov_onto_model-TIME.csv ... Done. (171 lines)
+-> GUM-deeppavlov_onto_bert_model-TIME.csv ... Done. (192 lines)
+-> GUM-deeppavlov_onto_model-PERCENT.csv ... Done. (51 lines)
+-> GUM-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (56 lines)
+-> GUM-deeppavlov_onto_model-MONEY.csv ... Done. (39 lines)
+-> GUM-deeppavlov_onto_model-QUANTITY.csv ... Done. (2976 lines)
+-> GUM-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (3007 lines)
+-> GUM-deeppavlov_onto_model-ORDINAL.csv ... Done. (19 lines)
+-> GUM-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (22 lines)
+-> GUM-stanford_class7_model-LOCATION.csv ... Done. (2279 lines)
+-> GUM-stanford_class4_model-ORGANIZATION.csv ... Done. (1686 lines)
+-> GUM-nltk_model-ORGANIZATION.csv ... Done. (1686 lines)
+-> GUM-bert_model-MISC.csv ... Done. (3132 lines)
+-> GUM-flair_model-PER.csv ... Done. (3072 lines)
+-> GUM-flair_fast_model-PER.csv ... Done. (3108 lines)
+-> GUM-flair_pooled_model-ORG.csv ... Done. (1572 lines)
+-> GUM-allennlp_ner-ORG.csv ... Done. (1400 lines)
+-> GUM-polyglot_model-PER.csv ... Done. (2329 lines)
+-> GUM-stanford_class4_model-LOCATION.csv ... Done. (2186 lines)
+-> GUM-stanford_class3_model-LOCATION.csv ... Done. (2305 lines)
+-> GUM-stanza_model-GPE.csv ... Done. (1930 lines)
+-> GUM-spacy_sm_model-GPE.csv ... Done. (819 lines)
+-> GUM-spacy_md_model-GPE.csv ... Done. (1938 lines)
+-> GUM-spacy_lg_model-GPE.csv ... Done. (1908 lines)
+-> GUM-nltk_model-GPE.csv ... Done. (2098 lines)
+-> GUM-bert_model-LOC.csv ... Done. (1536 lines)
+-> GUM-flair_model-LOC.csv ... Done. (2218 lines)
+-> GUM-flair_ontonotes_model-GPE.csv ... Done. (1917 lines)
+-> GUM-flair_fast_model-LOC.csv ... Done. (2205 lines)
+-> GUM-flair_fast_ontonotes_model-GPE.csv ... Done. (1897 lines)
+-> GUM-flair_pooled_model-LOC.csv ... Done. (2214 lines)
+-> GUM-allennlp_ner-LOC.csv ... Done. (2228 lines)
+-> GUM-polyglot_model-LOC.csv ... Done. (1681 lines)
+-> GUM-polyglot_model-ORG.csv ... Done. (1313 lines)
+-> GUM-stanford_class7_model-ORGANIZATION.csv ... Done. (1681 lines)
+-> GUM-stanford_class4_model-PERSON.csv ... Done. (3160 lines)
+-> GUM-stanza_model-PERSON.csv ... Done. (2939 lines)
+-> GUM-stanza_model-ORG.csv ... Done. (1483 lines)
+-> GUM-spacy_sm_model-PERSON.csv ... Done. (1260 lines)
+-> GUM-spacy_sm_model-ORG.csv ... Done. (798 lines)
+-> GUM-spacy_lg_model-PERSON.csv ... Done. (2954 lines)
+-> GUM-nltk_model-PERSON.csv ... Done. (3528 lines)
+-> GUM-bert_model-ORG.csv ... Done. (1101 lines)
+-> GUM-flair_ontonotes_model-PERSON.csv ... Done. (2942 lines)
+-> GUM-flair_fast_ontonotes_model-PERSON.csv ... Done. (2903 lines)
+-> GUM-flair_model-ORG.csv ... Done. (1541 lines)
+-> GUM-flair_fast_model-ORG.csv ... Done. (1569 lines)
+-> GUM-spacy_md_model-NORP.csv ... Done. (2197 lines)
+-> GUM-stanford_class4_model-MISC.csv ... Done. (5300 lines)
+-> GUM-stanford_class3_model-PERSON.csv ... Done. (3298 lines)
+-> GUM-stanza_model-FAC.csv ... Done. (1767 lines)
+-> GUM-spacy_sm_model-FAC.csv ... Done. (626 lines)
+-> GUM-spacy_md_model-PERSON.csv ... Done. (2997 lines)
+-> GUM-spacy_md_model-FAC.csv ... Done. (1743 lines)
+-> GUM-spacy_md_model-WORK_OF_ART.csv ... Done. (2842 lines)
+-> GUM-spacy_lg_model-FAC.csv ... Done. (1714 lines)
+-> GUM-spacy_lg_model-WORK_OF_ART.csv ... Done. (2840 lines)
+-> GUM-flair_model-MISC.csv ... Done. (5230 lines)
+-> GUM-flair_ontonotes_model-FAC.csv ... Done. (1783 lines)
+-> GUM-flair_fast_model-MISC.csv ... Done. (5283 lines)
+-> GUM-flair_fast_ontonotes_model-FAC.csv ... Done. (1759 lines)
+-> GUM-stanza_model-LOC.csv ... Done. (784 lines)
+-> GUM-spacy_sm_model-LOC.csv ... Done. (348 lines)
+-> GUM-spacy_md_model-LOC.csv ... Done. (803 lines)
+-> GUM-spacy_lg_model-LOC.csv ... Done. (784 lines)
+-> GUM-flair_ontonotes_model-LOC.csv ... Done. (794 lines)
+-> GUM-flair_fast_ontonotes_model-LOC.csv ... Done. (785 lines)
+-> GUM-bert_model-PER.csv ... Done. (1838 lines)
+-> GUM-spacy_lg_model-ORG.csv ... Done. (1519 lines)
+-> GUM-stanford_class3_model-ORGANIZATION.csv ... Done. (1596 lines)
+-> GUM-stanza_model-NORP.csv ... Done. (2190 lines)
+-> GUM-spacy_sm_model-NORP.csv ... Done. (778 lines)
+-> GUM-spacy_lg_model-NORP.csv ... Done. (2174 lines)
+-> GUM-flair_ontonotes_model-NORP.csv ... Done. (2204 lines)
+-> GUM-flair_fast_ontonotes_model-NORP.csv ... Done. (2171 lines)
+-> GUM-flair_pooled_model-MISC.csv ... Done. (5307 lines)
+-> GUM-allennlp_ner-MISC.csv ... Done. (5406 lines)
+-> GUM-spacy_md_model-LANGUAGE.csv ... Done. (1910 lines)
+-> GUM-flair_pooled_model-PER.csv ... Done. (3117 lines)
+-> GUM-allennlp_ner-PER.csv ... Done. (3059 lines)
+-> GUM-stanford_class7_model-PERSON.csv ... Done. (3236 lines)
+-> GUM-spacy_md_model-ORG.csv ... Done. (1533 lines)
+-> GUM-flair_ontonotes_model-PRODUCT.csv ... Done. (4003 lines)
+-> GUM-flair_fast_ontonotes_model-ORG.csv ... Done. (1497 lines)
+-> GUM-nltk_model-LOCATION.csv ... Done. (780 lines)
+-> GUM-stanza_model-PRODUCT.csv ... Done. (3979 lines)
+-> GUM-stanza_model-WORK_OF_ART.csv ... Done. (2868 lines)
+-> GUM-stanza_model-LAW.csv ... Done. (2822 lines)
+-> GUM-spacy_md_model-PRODUCT.csv ... Done. (3979 lines)
+-> GUM-flair_ontonotes_model-ORG.csv ... Done. (1492 lines)
+-> GUM-spacy_lg_model-PRODUCT.csv ... Done. (3915 lines)
+-> GUM-spacy_lg_model-DATE.csv ... Done. (434 lines)
+-> GUM-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (3966 lines)
+-> GUM-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (2864 lines)
+-> GUM-stanza_model-EVENT.csv ... Done. (2534 lines)
+-> GUM-stanza_model-DATE.csv ... Done. (436 lines)
+-> GUM-flair_ontonotes_model-EVENT.csv ... Done. (2561 lines)
+-> GUM-flair_fast_ontonotes_model-EVENT.csv ... Done. (2519 lines)
+-> GUM-spacy_sm_model-PRODUCT.csv ... Done. (1304 lines)
+-> GUM-spacy_md_model-EVENT.csv ... Done. (2506 lines)
+-> GUM-spacy_lg_model-EVENT.csv ... Done. (2491 lines)
+-> GUM-nltk_model-FACILITY.csv ... Done. (1922 lines)
+-> GUM-flair_ontonotes_model-LANGUAGE.csv ... Done. (1951 lines)
+-> GUM-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (2891 lines)
+-> GUM-stanza_model-LANGUAGE.csv ... Done. (1929 lines)
+-> GUM-spacy_sm_model-LANGUAGE.csv ... Done. (595 lines)
+-> GUM-spacy_lg_model-LANGUAGE.csv ... Done. (1897 lines)
+-> GUM-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (1919 lines)
+-> GUM-spacy_sm_model-WORK_OF_ART.csv ... Done. (881 lines)
+-> GUM-spacy_lg_model-LAW.csv ... Done. (2785 lines)
+-> GUM-flair_ontonotes_model-LAW.csv ... Done. (2846 lines)
+-> GUM-flair_fast_ontonotes_model-LAW.csv ... Done. (2820 lines)
+-> GUM-stanford_class7_model-PERCENT.csv ... Done. (128 lines)
+-> GUM-stanza_model-PERCENT.csv ... Done. (54 lines)
+-> GUM-spacy_sm_model-PERCENT.csv ... Done. (35 lines)
+-> GUM-spacy_md_model-PERCENT.csv ... Done. (54 lines)
+-> GUM-spacy_lg_model-PERCENT.csv ... Done. (50 lines)
+-> GUM-flair_ontonotes_model-PERCENT.csv ... Done. (52 lines)
+-> GUM-flair_fast_ontonotes_model-PERCENT.csv ... Done. (52 lines)
+-> GUM-stanford_class7_model-DATE.csv ... Done. (445 lines)
+-> GUM-spacy_sm_model-DATE.csv ... Done. (407 lines)
+-> GUM-spacy_sm_model-CARDINAL.csv ... Done. (216 lines)
+-> GUM-spacy_md_model-DATE.csv ... Done. (424 lines)
+-> GUM-flair_ontonotes_model-DATE.csv ... Done. (437 lines)
+-> GUM-flair_fast_ontonotes_model-DATE.csv ... Done. (435 lines)
+-> GUM-spacy_lg_model-CARDINAL.csv ... Done. (218 lines)
+-> GUM-spacy_sm_model-TIME.csv ... Done. (115 lines)
+-> GUM-spacy_lg_model-TIME.csv ... Done. (161 lines)
+-> GUM-stanza_model-CARDINAL.csv ... Done. (219 lines)
+-> GUM-spacy_md_model-CARDINAL.csv ... Done. (229 lines)
+-> GUM-flair_ontonotes_model-CARDINAL.csv ... Done. (201 lines)
+-> GUM-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (202 lines)
+-> GUM-stanza_model-TIME.csv ... Done. (175 lines)
+-> GUM-spacy_md_model-TIME.csv ... Done. (161 lines)
+-> GUM-flair_ontonotes_model-TIME.csv ... Done. (189 lines)
+-> GUM-flair_fast_ontonotes_model-TIME.csv ... Done. (179 lines)
+-> GUM-stanford_class7_model-TIME.csv ... Done. (261 lines)
+-> GUM-spacy_sm_model-LAW.csv ... Done. (857 lines)
+-> GUM-spacy_sm_model-EVENT.csv ... Done. (808 lines)
+-> GUM-spacy_md_model-LAW.csv ... Done. (2814 lines)
+-> GUM-spacy_md_model-QUANTITY.csv ... Done. (2997 lines)
+-> GUM-spacy_lg_model-QUANTITY.csv ... Done. (2953 lines)
+-> GUM-flair_fast_ontonotes_model-MONEY.csv ... Done. (47 lines)
+-> GUM-spacy_sm_model-ORDINAL.csv ... Done. (23 lines)
+-> GUM-flair_ontonotes_model-MONEY.csv ... Done. (43 lines)
+-> GUM-flair_ontonotes_model-QUANTITY.csv ... Done. (3064 lines)
+-> GUM-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (3009 lines)
+-> GUM-spacy_sm_model-MONEY.csv ... Done. (23 lines)
+-> GUM-spacy_md_model-MONEY.csv ... Done. (43 lines)
+-> GUM-spacy_lg_model-MONEY.csv ... Done. (40 lines)
+-> GUM-stanza_model-MONEY.csv ... Done. (42 lines)
+-> GUM-stanza_model-QUANTITY.csv ... Done. (3015 lines)
+-> GUM-spacy_sm_model-QUANTITY.csv ... Done. (1049 lines)
+-> GUM-stanza_model-ORDINAL.csv ... Done. (22 lines)
+-> GUM-spacy_md_model-ORDINAL.csv ... Done. (19 lines)
+-> GUM-spacy_lg_model-ORDINAL.csv ... Done. (20 lines)
+-> GUM-flair_ontonotes_model-ORDINAL.csv ... Done. (21 lines)
+-> GUM-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (22 lines)
+-> GUM-allennlp-finegrained-ner-PERSON.csv ... Done. (3345 lines)
+-> GUM-allennlp-finegrained-ner-NORP.csv ... Done. (2642 lines)
+-> GUM-allennlp-finegrained-ner-FAC.csv ... Done. (2298 lines)
+-> GUM-allennlp-finegrained-ner-ORG.csv ... Done. (1520 lines)
+-> GUM-allennlp-finegrained-ner-GPE.csv ... Done. (2299 lines)
+-> GUM-allennlp-finegrained-ner-LOC.csv ... Done. (1154 lines)
+-> GUM-allennlp-finegrained-ner-PRODUCT.csv ... Done. (5001 lines)
+-> GUM-allennlp-finegrained-ner-EVENT.csv ... Done. (3064 lines)
+-> GUM-allennlp-finegrained-ner-WORK_OF_ART.csv ... Done. (3388 lines)
+-> GUM-allennlp-finegrained-ner-LAW.csv ... Done. (3386 lines)
+-> GUM-allennlp-finegrained-ner-DATE.csv ... Done. (435 lines)
+-> GUM-allennlp-finegrained-ner-TIME.csv ... Done. (427 lines)
+-> GUM-allennlp-finegrained-ner-QUANTITY.csv ... Done. (4214 lines)
+-> GUM-allennlp-finegrained-ner-ORDINAL.csv ... Done. (4 lines)
+-> GUM-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> GUM-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 747,227 tuples were added in a total of 207 CSV files
+
+
+************************************************************************************************************************
+*** PROCESSING DATASET "NIST_IEER" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\NIST_IEER\category-mappings.json]... 10 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\NIST_IEER\merged-tags.json]... 2,382 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\NIST_IEER\merged-tags-by-category.json]... 10 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/NIST_IEER/...
+	+ Adding E:\_temp\NER-Survey\tags\NIST_IEER\APW_19980314_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\NIST_IEER\APW_19980424_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\NIST_IEER\APW_19980429_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\NIST_IEER\NYT_19980315_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\NIST_IEER\NYT_19980403_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\NIST_IEER\NYT_19980407_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 7,200
+
+Loaded *Mappings*:
+{
+    "LOC": [
+        "tnnt:Location",
+        "tnnt:GPE"
+    ],
+    "ORG": [
+        "tnnt:Organisation"
+    ],
+    "PER": [
+        "tnnt:Person"
+    ],
+    "CARDINAL": [
+        "tnnt:Cardinal"
+    ],
+    "PERCENT": [
+        "tnnt:Percent"
+    ],
+    "MONEY": [
+        "tnnt:Money"
+    ],
+    "MEASURE": [
+        "tnnt:Quantity"
+    ],
+    "DATE": [
+        "tnnt:Date"
+    ],
+    "DURATION": [
+        "tnnt:Date"
+    ],
+    "TIME": [
+        "tnnt:Time"
+    ]
+}
+
+
+*** Processing result file [NIST_IEER.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  10,700 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 1,925
+	Number of NOT MATCHED tags ___: 457
+	Processing MISSING entities __: 509
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 1,940
+	Number of NOT MATCHED tags ___: 442
+	Processing MISSING entities __: 499
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 1,438
+	Number of NOT MATCHED tags ___: 944
+	Processing MISSING entities __: 261
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 1,591
+	Number of NOT MATCHED tags ___: 791
+	Processing MISSING entities __: 144
+
+
+*** Processing result file [NIST_IEER.txt-MEL+NER_output_3.8_all.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  50,004 tuples were added in a total of 194 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 1,609
+	Number of NOT MATCHED tags ___: 773
+	Processing MISSING entities __: 132
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 1,438
+	Number of NOT MATCHED tags ___: 944
+	Processing MISSING entities __: 261
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 998
+	Number of NOT MATCHED tags ___: 1,384
+	Processing MISSING entities __: 659
+
+MODEL: flair_model
+	Number of matched tags _______: 1,513
+	Number of NOT MATCHED tags ___: 869
+	Processing MISSING entities __: 199
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 1,817
+	Number of NOT MATCHED tags ___: 565
+	Processing MISSING entities __: 664
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 2,003
+	Number of NOT MATCHED tags ___: 379
+	Processing MISSING entities __: 427
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 1,195
+	Number of NOT MATCHED tags ___: 1,187
+	Processing MISSING entities __: 493
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 1,470
+	Number of NOT MATCHED tags ___: 912
+	Processing MISSING entities __: 229
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 1,868
+	Number of NOT MATCHED tags ___: 514
+	Processing MISSING entities __: 597
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 1,483
+	Number of NOT MATCHED tags ___: 899
+	Processing MISSING entities __: 226
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 1,925
+	Number of NOT MATCHED tags ___: 457
+	Processing MISSING entities __: 509
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 1,591
+	Number of NOT MATCHED tags ___: 791
+	Processing MISSING entities __: 144
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 1,978
+	Number of NOT MATCHED tags ___: 404
+	Processing MISSING entities __: 450
+
+MODEL: stanza_model
+	Number of matched tags _______: 2,007
+	Number of NOT MATCHED tags ___: 375
+	Processing MISSING entities __: 428
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 1,456
+	Number of NOT MATCHED tags ___: 926
+	Processing MISSING entities __: 242
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 1,940
+	Number of NOT MATCHED tags ___: 442
+	Processing MISSING entities __: 499
+
+MODEL: nltk_model
+	Number of matched tags _______: 1,323
+	Number of NOT MATCHED tags ___: 1,059
+	Processing MISSING entities __: 595
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 1,148
+	Number of NOT MATCHED tags ___: 1,234
+	Processing MISSING entities __: 1,019
+
+MODEL: polyglot_model
+	Number of matched tags _______: 1,457
+	Number of NOT MATCHED tags ___: 925
+	Processing MISSING entities __: 267
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 1,851
+	Number of NOT MATCHED tags ___: 531
+	Processing MISSING entities __: 607
+
+
+*** Processing result file [NIST_IEER.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  61,127 tuples were added in a total of 211 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 1,609
+	Number of NOT MATCHED tags ___: 773
+	Processing MISSING entities __: 132
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 1,438
+	Number of NOT MATCHED tags ___: 944
+	Processing MISSING entities __: 261
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 998
+	Number of NOT MATCHED tags ___: 1,384
+	Processing MISSING entities __: 659
+
+MODEL: flair_model
+	Number of matched tags _______: 1,513
+	Number of NOT MATCHED tags ___: 869
+	Processing MISSING entities __: 199
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 1,817
+	Number of NOT MATCHED tags ___: 565
+	Processing MISSING entities __: 664
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 2,003
+	Number of NOT MATCHED tags ___: 379
+	Processing MISSING entities __: 427
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 1,195
+	Number of NOT MATCHED tags ___: 1,187
+	Processing MISSING entities __: 493
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 1,470
+	Number of NOT MATCHED tags ___: 912
+	Processing MISSING entities __: 229
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 1,868
+	Number of NOT MATCHED tags ___: 514
+	Processing MISSING entities __: 597
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 1,483
+	Number of NOT MATCHED tags ___: 899
+	Processing MISSING entities __: 226
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 1,925
+	Number of NOT MATCHED tags ___: 457
+	Processing MISSING entities __: 509
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 1,591
+	Number of NOT MATCHED tags ___: 791
+	Processing MISSING entities __: 144
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 1,978
+	Number of NOT MATCHED tags ___: 404
+	Processing MISSING entities __: 450
+
+MODEL: stanza_model
+	Number of matched tags _______: 2,007
+	Number of NOT MATCHED tags ___: 375
+	Processing MISSING entities __: 428
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 1,456
+	Number of NOT MATCHED tags ___: 926
+	Processing MISSING entities __: 242
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 1,940
+	Number of NOT MATCHED tags ___: 442
+	Processing MISSING entities __: 499
+
+MODEL: nltk_model
+	Number of matched tags _______: 1,323
+	Number of NOT MATCHED tags ___: 1,059
+	Processing MISSING entities __: 595
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 1,709
+	Number of NOT MATCHED tags ___: 673
+	Processing MISSING entities __: 796
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 1,148
+	Number of NOT MATCHED tags ___: 1,234
+	Processing MISSING entities __: 1,019
+
+MODEL: polyglot_model
+	Number of matched tags _______: 1,457
+	Number of NOT MATCHED tags ___: 925
+	Processing MISSING entities __: 267
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 1,851
+	Number of NOT MATCHED tags ___: 531
+	Processing MISSING entities __: 607
+
+
+Generating CSVs:
+-> NIST_IEER-deeppavlov_onto_model-PERSON.csv ... Done. (898 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-PERSON.csv ... Done. (828 lines)
+-> NIST_IEER-deeppavlov_conll2003_model-PER.csv ... Done. (1089 lines)
+-> NIST_IEER-deeppavlov_conll2003_bert_model-PER.csv ... Done. (863 lines)
+-> NIST_IEER-deeppavlov_conll2003_model-MISC.csv ... Done. (288 lines)
+-> NIST_IEER-deeppavlov_onto_model-ORG.csv ... Done. (709 lines)
+-> NIST_IEER-deeppavlov_onto_model-GPE.csv ... Done. (387 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-GPE.csv ... Done. (364 lines)
+-> NIST_IEER-deeppavlov_conll2003_model-LOC.csv ... Done. (549 lines)
+-> NIST_IEER-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (476 lines)
+-> NIST_IEER-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (577 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-NORP.csv ... Done. (169 lines)
+-> NIST_IEER-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (387 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-ORG.csv ... Done. (576 lines)
+-> NIST_IEER-deeppavlov_onto_model-NORP.csv ... Done. (179 lines)
+-> NIST_IEER-deeppavlov_onto_model-LOC.csv ... Done. (108 lines)
+-> NIST_IEER-deeppavlov_onto_model-EVENT.csv ... Done. (27 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-LOC.csv ... Done. (111 lines)
+-> NIST_IEER-deeppavlov_conll2003_model-ORG.csv ... Done. (707 lines)
+-> NIST_IEER-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (159 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (22 lines)
+-> NIST_IEER-deeppavlov_onto_model-PRODUCT.csv ... Done. (22 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (97 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-FAC.csv ... Done. (57 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-DATE.csv ... Done. (573 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (324 lines)
+-> NIST_IEER-deeppavlov_onto_model-DATE.csv ... Done. (544 lines)
+-> NIST_IEER-deeppavlov_onto_model-MONEY.csv ... Done. (50 lines)
+-> NIST_IEER-deeppavlov_onto_model-CARDINAL.csv ... Done. (303 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (4 lines)
+-> NIST_IEER-deeppavlov_onto_model-FAC.csv ... Done. (49 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-EVENT.csv ... Done. (24 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-LAW.csv ... Done. (20 lines)
+-> NIST_IEER-deeppavlov_onto_model-LAW.csv ... Done. (18 lines)
+-> NIST_IEER-deeppavlov_onto_model-LANGUAGE.csv ... Done. (4 lines)
+-> NIST_IEER-deeppavlov_onto_model-ORDINAL.csv ... Done. (34 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (39 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-TIME.csv ... Done. (71 lines)
+-> NIST_IEER-deeppavlov_onto_model-TIME.csv ... Done. (70 lines)
+-> NIST_IEER-deeppavlov_onto_model-PERCENT.csv ... Done. (62 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (56 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-MONEY.csv ... Done. (73 lines)
+-> NIST_IEER-deeppavlov_onto_model-QUANTITY.csv ... Done. (117 lines)
+-> NIST_IEER-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (117 lines)
+-> NIST_IEER-stanford_class7_model-LOCATION.csv ... Done. (372 lines)
+-> NIST_IEER-stanford_class4_model-LOCATION.csv ... Done. (435 lines)
+-> NIST_IEER-stanford_class3_model-LOCATION.csv ... Done. (406 lines)
+-> NIST_IEER-stanza_model-GPE.csv ... Done. (357 lines)
+-> NIST_IEER-spacy_sm_model-PERSON.csv ... Done. (934 lines)
+-> NIST_IEER-spacy_sm_model-GPE.csv ... Done. (393 lines)
+-> NIST_IEER-spacy_md_model-GPE.csv ... Done. (465 lines)
+-> NIST_IEER-spacy_lg_model-GPE.csv ... Done. (404 lines)
+-> NIST_IEER-nltk_model-PERSON.csv ... Done. (1089 lines)
+-> NIST_IEER-nltk_model-GPE.csv ... Done. (489 lines)
+-> NIST_IEER-bert_model-LOC.csv ... Done. (420 lines)
+-> NIST_IEER-flair_model-LOC.csv ... Done. (470 lines)
+-> NIST_IEER-flair_ontonotes_model-GPE.csv ... Done. (341 lines)
+-> NIST_IEER-flair_fast_model-LOC.csv ... Done. (466 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-GPE.csv ... Done. (335 lines)
+-> NIST_IEER-flair_pooled_model-LOC.csv ... Done. (467 lines)
+-> NIST_IEER-allennlp_ner-LOC.csv ... Done. (438 lines)
+-> NIST_IEER-polyglot_model-LOC.csv ... Done. (487 lines)
+-> NIST_IEER-polyglot_model-ORG.csv ... Done. (546 lines)
+-> NIST_IEER-stanford_class4_model-PERSON.csv ... Done. (843 lines)
+-> NIST_IEER-spacy_md_model-PERSON.csv ... Done. (1360 lines)
+-> NIST_IEER-spacy_lg_model-PERSON.csv ... Done. (1203 lines)
+-> NIST_IEER-nltk_model-ORGANIZATION.csv ... Done. (910 lines)
+-> NIST_IEER-flair_ontonotes_model-FAC.csv ... Done. (55 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-ORG.csv ... Done. (642 lines)
+-> NIST_IEER-flair_pooled_model-ORG.csv ... Done. (607 lines)
+-> NIST_IEER-polyglot_model-PER.csv ... Done. (1181 lines)
+-> NIST_IEER-bert_model-ORG.csv ... Done. (587 lines)
+-> NIST_IEER-spacy_sm_model-ORG.csv ... Done. (761 lines)
+-> NIST_IEER-spacy_lg_model-ORG.csv ... Done. (862 lines)
+-> NIST_IEER-flair_ontonotes_model-ORG.csv ... Done. (631 lines)
+-> NIST_IEER-stanza_model-PERSON.csv ... Done. (866 lines)
+-> NIST_IEER-bert_model-PER.csv ... Done. (787 lines)
+-> NIST_IEER-flair_model-PER.csv ... Done. (906 lines)
+-> NIST_IEER-flair_ontonotes_model-PERSON.csv ... Done. (872 lines)
+-> NIST_IEER-flair_fast_model-PER.csv ... Done. (929 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-PERSON.csv ... Done. (871 lines)
+-> NIST_IEER-flair_pooled_model-PER.csv ... Done. (912 lines)
+-> NIST_IEER-allennlp_ner-PER.csv ... Done. (917 lines)
+-> NIST_IEER-stanford_class3_model-PERSON.csv ... Done. (793 lines)
+-> NIST_IEER-stanza_model-PRODUCT.csv ... Done. (29 lines)
+-> NIST_IEER-bert_model-MISC.csv ... Done. (391 lines)
+-> NIST_IEER-stanza_model-FAC.csv ... Done. (62 lines)
+-> NIST_IEER-spacy_sm_model-FAC.csv ... Done. (46 lines)
+-> NIST_IEER-spacy_md_model-FAC.csv ... Done. (48 lines)
+-> NIST_IEER-spacy_lg_model-FAC.csv ... Done. (58 lines)
+-> NIST_IEER-nltk_model-LOCATION.csv ... Done. (137 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-FAC.csv ... Done. (47 lines)
+-> NIST_IEER-stanza_model-ORG.csv ... Done. (693 lines)
+-> NIST_IEER-spacy_md_model-ORG.csv ... Done. (977 lines)
+-> NIST_IEER-spacy_sm_model-NORP.csv ... Done. (153 lines)
+-> NIST_IEER-spacy_sm_model-LANGUAGE.csv ... Done. (5 lines)
+-> NIST_IEER-stanza_model-LOC.csv ... Done. (110 lines)
+-> NIST_IEER-spacy_sm_model-LOC.csv ... Done. (150 lines)
+-> NIST_IEER-spacy_md_model-LOC.csv ... Done. (137 lines)
+-> NIST_IEER-spacy_lg_model-LOC.csv ... Done. (145 lines)
+-> NIST_IEER-flair_ontonotes_model-LOC.csv ... Done. (108 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-LOC.csv ... Done. (110 lines)
+-> NIST_IEER-allennlp_ner-MISC.csv ... Done. (571 lines)
+-> NIST_IEER-spacy_md_model-NORP.csv ... Done. (167 lines)
+-> NIST_IEER-flair_model-ORG.csv ... Done. (587 lines)
+-> NIST_IEER-flair_fast_model-ORG.csv ... Done. (597 lines)
+-> NIST_IEER-allennlp_ner-ORG.csv ... Done. (563 lines)
+-> NIST_IEER-stanford_class4_model-ORGANIZATION.csv ... Done. (544 lines)
+-> NIST_IEER-stanza_model-LAW.csv ... Done. (17 lines)
+-> NIST_IEER-flair_model-MISC.csv ... Done. (372 lines)
+-> NIST_IEER-stanford_class7_model-ORGANIZATION.csv ... Done. (593 lines)
+-> NIST_IEER-stanford_class7_model-PERSON.csv ... Done. (774 lines)
+-> NIST_IEER-stanford_class3_model-ORGANIZATION.csv ... Done. (530 lines)
+-> NIST_IEER-stanford_class4_model-MISC.csv ... Done. (280 lines)
+-> NIST_IEER-stanza_model-WORK_OF_ART.csv ... Done. (100 lines)
+-> NIST_IEER-spacy_sm_model-WORK_OF_ART.csv ... Done. (38 lines)
+-> NIST_IEER-spacy_md_model-WORK_OF_ART.csv ... Done. (46 lines)
+-> NIST_IEER-spacy_lg_model-WORK_OF_ART.csv ... Done. (56 lines)
+-> NIST_IEER-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (106 lines)
+-> NIST_IEER-flair_fast_model-MISC.csv ... Done. (348 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (92 lines)
+-> NIST_IEER-flair_pooled_model-MISC.csv ... Done. (380 lines)
+-> NIST_IEER-spacy_lg_model-DATE.csv ... Done. (519 lines)
+-> NIST_IEER-stanza_model-NORP.csv ... Done. (150 lines)
+-> NIST_IEER-flair_ontonotes_model-DATE.csv ... Done. (484 lines)
+-> NIST_IEER-spacy_lg_model-NORP.csv ... Done. (163 lines)
+-> NIST_IEER-flair_ontonotes_model-NORP.csv ... Done. (154 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-NORP.csv ... Done. (143 lines)
+-> NIST_IEER-nltk_model-FACILITY.csv ... Done. (119 lines)
+-> NIST_IEER-spacy_lg_model-EVENT.csv ... Done. (27 lines)
+-> NIST_IEER-spacy_md_model-PRODUCT.csv ... Done. (33 lines)
+-> NIST_IEER-spacy_lg_model-PRODUCT.csv ... Done. (42 lines)
+-> NIST_IEER-spacy_sm_model-PRODUCT.csv ... Done. (36 lines)
+-> NIST_IEER-spacy_lg_model-LAW.csv ... Done. (19 lines)
+-> NIST_IEER-spacy_md_model-EVENT.csv ... Done. (24 lines)
+-> NIST_IEER-stanford_class7_model-MONEY.csv ... Done. (102 lines)
+-> NIST_IEER-stanza_model-MONEY.csv ... Done. (54 lines)
+-> NIST_IEER-spacy_sm_model-MONEY.csv ... Done. (55 lines)
+-> NIST_IEER-spacy_md_model-MONEY.csv ... Done. (53 lines)
+-> NIST_IEER-spacy_lg_model-MONEY.csv ... Done. (59 lines)
+-> NIST_IEER-flair_ontonotes_model-MONEY.csv ... Done. (57 lines)
+-> NIST_IEER-stanza_model-PERCENT.csv ... Done. (53 lines)
+-> NIST_IEER-stanza_model-CARDINAL.csv ... Done. (273 lines)
+-> NIST_IEER-spacy_sm_model-CARDINAL.csv ... Done. (307 lines)
+-> NIST_IEER-spacy_md_model-CARDINAL.csv ... Done. (282 lines)
+-> NIST_IEER-spacy_lg_model-CARDINAL.csv ... Done. (280 lines)
+-> NIST_IEER-flair_ontonotes_model-CARDINAL.csv ... Done. (266 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (264 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-MONEY.csv ... Done. (58 lines)
+-> NIST_IEER-stanford_class7_model-PERCENT.csv ... Done. (53 lines)
+-> NIST_IEER-spacy_sm_model-PERCENT.csv ... Done. (43 lines)
+-> NIST_IEER-spacy_md_model-PERCENT.csv ... Done. (44 lines)
+-> NIST_IEER-spacy_lg_model-PERCENT.csv ... Done. (45 lines)
+-> NIST_IEER-flair_ontonotes_model-PERCENT.csv ... Done. (61 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-PERCENT.csv ... Done. (64 lines)
+-> NIST_IEER-stanford_class7_model-DATE.csv ... Done. (387 lines)
+-> NIST_IEER-stanza_model-DATE.csv ... Done. (473 lines)
+-> NIST_IEER-spacy_sm_model-DATE.csv ... Done. (515 lines)
+-> NIST_IEER-spacy_md_model-DATE.csv ... Done. (469 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-DATE.csv ... Done. (471 lines)
+-> NIST_IEER-stanza_model-TIME.csv ... Done. (106 lines)
+-> NIST_IEER-spacy_sm_model-TIME.csv ... Done. (82 lines)
+-> NIST_IEER-spacy_md_model-TIME.csv ... Done. (93 lines)
+-> NIST_IEER-spacy_lg_model-TIME.csv ... Done. (82 lines)
+-> NIST_IEER-flair_ontonotes_model-TIME.csv ... Done. (134 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-TIME.csv ... Done. (142 lines)
+-> NIST_IEER-stanford_class7_model-TIME.csv ... Done. (11 lines)
+-> NIST_IEER-flair_ontonotes_model-PRODUCT.csv ... Done. (15 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (18 lines)
+-> NIST_IEER-stanza_model-EVENT.csv ... Done. (28 lines)
+-> NIST_IEER-flair_ontonotes_model-EVENT.csv ... Done. (28 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-EVENT.csv ... Done. (29 lines)
+-> NIST_IEER-spacy_sm_model-EVENT.csv ... Done. (24 lines)
+-> NIST_IEER-stanza_model-LANGUAGE.csv ... Done. (4 lines)
+-> NIST_IEER-spacy_md_model-LANGUAGE.csv ... Done. (7 lines)
+-> NIST_IEER-spacy_lg_model-LANGUAGE.csv ... Done. (5 lines)
+-> NIST_IEER-flair_ontonotes_model-LANGUAGE.csv ... Done. (4 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (3 lines)
+-> NIST_IEER-spacy_sm_model-LAW.csv ... Done. (16 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-LAW.csv ... Done. (17 lines)
+-> NIST_IEER-spacy_md_model-LAW.csv ... Done. (12 lines)
+-> NIST_IEER-flair_ontonotes_model-LAW.csv ... Done. (16 lines)
+-> NIST_IEER-spacy_lg_model-ORDINAL.csv ... Done. (30 lines)
+-> NIST_IEER-spacy_lg_model-QUANTITY.csv ... Done. (122 lines)
+-> NIST_IEER-spacy_sm_model-QUANTITY.csv ... Done. (114 lines)
+-> NIST_IEER-flair_ontonotes_model-QUANTITY.csv ... Done. (128 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (128 lines)
+-> NIST_IEER-stanza_model-QUANTITY.csv ... Done. (122 lines)
+-> NIST_IEER-spacy_md_model-QUANTITY.csv ... Done. (112 lines)
+-> NIST_IEER-stanza_model-ORDINAL.csv ... Done. (22 lines)
+-> NIST_IEER-spacy_sm_model-ORDINAL.csv ... Done. (25 lines)
+-> NIST_IEER-spacy_md_model-ORDINAL.csv ... Done. (22 lines)
+-> NIST_IEER-flair_ontonotes_model-ORDINAL.csv ... Done. (22 lines)
+-> NIST_IEER-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (25 lines)
+-> NIST_IEER-allennlp-finegrained-ner-PERSON.csv ... Done. (887 lines)
+-> NIST_IEER-allennlp-finegrained-ner-GPE.csv ... Done. (333 lines)
+-> NIST_IEER-allennlp-finegrained-ner-ORG.csv ... Done. (608 lines)
+-> NIST_IEER-allennlp-finegrained-ner-WORK_OF_ART.csv ... Done. (122 lines)
+-> NIST_IEER-allennlp-finegrained-ner-PRODUCT.csv ... Done. (6 lines)
+-> NIST_IEER-allennlp-finegrained-ner-NORP.csv ... Done. (125 lines)
+-> NIST_IEER-allennlp-finegrained-ner-FAC.csv ... Done. (38 lines)
+-> NIST_IEER-allennlp-finegrained-ner-LOC.csv ... Done. (157 lines)
+-> NIST_IEER-allennlp-finegrained-ner-EVENT.csv ... Done. (20 lines)
+-> NIST_IEER-allennlp-finegrained-ner-LAW.csv ... Done. (11 lines)
+-> NIST_IEER-allennlp-finegrained-ner-DATE.csv ... Done. (433 lines)
+-> NIST_IEER-allennlp-finegrained-ner-CARDINAL.csv ... Done. (222 lines)
+-> NIST_IEER-allennlp-finegrained-ner-QUANTITY.csv ... Done. (130 lines)
+-> NIST_IEER-allennlp-finegrained-ner-TIME.csv ... Done. (43 lines)
+-> NIST_IEER-allennlp-finegrained-ner-PERCENT.csv ... Done. (62 lines)
+-> NIST_IEER-allennlp-finegrained-ner-MONEY.csv ... Done. (81 lines)
+-> NIST_IEER-allennlp-finegrained-ner-ORDINAL.csv ... Done. (28 lines)
+-> NIST_IEER-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> NIST_IEER-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 70,570 tuples were added in a total of 211 CSV files
+
+
+************************************************************************************************************************
+*** PROCESSING DATASET "WNUT17" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\WNUT17\category-mappings.json]... 6 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\WNUT17\merged-tags.json]... 3,249 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\WNUT17\merged-tags-by-category.json]... 6 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/WNUT17/...
+	+ Adding E:\_temp\NER-Survey\tags\WNUT17\emerging_dev_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\WNUT17\emerging_test_tags.json...
+	+ Adding E:\_temp\NER-Survey\tags\WNUT17\wnut17train_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 6,150
+
+Loaded *Mappings*:
+{
+    "location": [
+        "tnnt:GPE"
+    ],
+    "creative-work": [
+        "tnnt:WorkOfArt"
+    ],
+    "person": [
+        "tnnt:Person"
+    ],
+    "product": [
+        "tnnt:Product"
+    ],
+    "group": [
+        "tnnt:Organisation",
+        "tnnt:NORP",
+        "tnnt:GPE"
+    ],
+    "corporation": [
+        "tnnt:Organisation"
+    ]
+}
+
+
+*** Processing result file [WNUT17.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  17,571 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 2,351
+	Number of NOT MATCHED tags ___: 898
+	Processing MISSING entities __: 1,117
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 2,068
+	Number of NOT MATCHED tags ___: 1,181
+	Processing MISSING entities __: 1,470
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 2,275
+	Number of NOT MATCHED tags ___: 974
+	Processing MISSING entities __: 1,045
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 2,228
+	Number of NOT MATCHED tags ___: 1,021
+	Processing MISSING entities __: 1,035
+
+
+*** Processing result file [WNUT17.txt-MEL+NER_output_3.8_all.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  79,934 tuples were added in a total of 194 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 2,539
+	Number of NOT MATCHED tags ___: 710
+	Processing MISSING entities __: 779
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 2,275
+	Number of NOT MATCHED tags ___: 974
+	Processing MISSING entities __: 1,045
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 1,256
+	Number of NOT MATCHED tags ___: 1,993
+	Processing MISSING entities __: 1,653
+
+MODEL: flair_model
+	Number of matched tags _______: 1,788
+	Number of NOT MATCHED tags ___: 1,461
+	Processing MISSING entities __: 1,526
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 2,681
+	Number of NOT MATCHED tags ___: 568
+	Processing MISSING entities __: 670
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 1,816
+	Number of NOT MATCHED tags ___: 1,433
+	Processing MISSING entities __: 1,808
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 1,815
+	Number of NOT MATCHED tags ___: 1,434
+	Processing MISSING entities __: 1,507
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 1,744
+	Number of NOT MATCHED tags ___: 1,505
+	Processing MISSING entities __: 1,595
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 2,609
+	Number of NOT MATCHED tags ___: 640
+	Processing MISSING entities __: 816
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 1,870
+	Number of NOT MATCHED tags ___: 1,379
+	Processing MISSING entities __: 1,459
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 2,351
+	Number of NOT MATCHED tags ___: 898
+	Processing MISSING entities __: 1,117
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 2,228
+	Number of NOT MATCHED tags ___: 1,021
+	Processing MISSING entities __: 1,035
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 1,827
+	Number of NOT MATCHED tags ___: 1,422
+	Processing MISSING entities __: 1,775
+
+MODEL: stanza_model
+	Number of matched tags _______: 1,939
+	Number of NOT MATCHED tags ___: 1,310
+	Processing MISSING entities __: 1,630
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 2,137
+	Number of NOT MATCHED tags ___: 1,112
+	Processing MISSING entities __: 1,166
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 2,068
+	Number of NOT MATCHED tags ___: 1,181
+	Processing MISSING entities __: 1,470
+
+MODEL: nltk_model
+	Number of matched tags _______: 2,172
+	Number of NOT MATCHED tags ___: 1,077
+	Processing MISSING entities __: 1,109
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 1,235
+	Number of NOT MATCHED tags ___: 2,014
+	Processing MISSING entities __: 1,716
+
+MODEL: polyglot_model
+	Number of matched tags _______: 2,054
+	Number of NOT MATCHED tags ___: 1,195
+	Processing MISSING entities __: 943
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 2,537
+	Number of NOT MATCHED tags ___: 712
+	Processing MISSING entities __: 930
+
+
+*** Processing result file [WNUT17.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  107,377 tuples were added in a total of 211 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 2,539
+	Number of NOT MATCHED tags ___: 710
+	Processing MISSING entities __: 779
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 2,275
+	Number of NOT MATCHED tags ___: 974
+	Processing MISSING entities __: 1,045
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 1,256
+	Number of NOT MATCHED tags ___: 1,993
+	Processing MISSING entities __: 1,653
+
+MODEL: flair_model
+	Number of matched tags _______: 1,788
+	Number of NOT MATCHED tags ___: 1,461
+	Processing MISSING entities __: 1,526
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 2,681
+	Number of NOT MATCHED tags ___: 568
+	Processing MISSING entities __: 670
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 1,816
+	Number of NOT MATCHED tags ___: 1,433
+	Processing MISSING entities __: 1,808
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 1,815
+	Number of NOT MATCHED tags ___: 1,434
+	Processing MISSING entities __: 1,507
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 1,744
+	Number of NOT MATCHED tags ___: 1,505
+	Processing MISSING entities __: 1,595
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 2,609
+	Number of NOT MATCHED tags ___: 640
+	Processing MISSING entities __: 816
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 1,870
+	Number of NOT MATCHED tags ___: 1,379
+	Processing MISSING entities __: 1,459
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 2,351
+	Number of NOT MATCHED tags ___: 898
+	Processing MISSING entities __: 1,117
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 2,228
+	Number of NOT MATCHED tags ___: 1,021
+	Processing MISSING entities __: 1,035
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 1,827
+	Number of NOT MATCHED tags ___: 1,422
+	Processing MISSING entities __: 1,775
+
+MODEL: stanza_model
+	Number of matched tags _______: 1,939
+	Number of NOT MATCHED tags ___: 1,310
+	Processing MISSING entities __: 1,630
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 2,137
+	Number of NOT MATCHED tags ___: 1,112
+	Processing MISSING entities __: 1,166
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 2,068
+	Number of NOT MATCHED tags ___: 1,181
+	Processing MISSING entities __: 1,470
+
+MODEL: nltk_model
+	Number of matched tags _______: 2,172
+	Number of NOT MATCHED tags ___: 1,077
+	Processing MISSING entities __: 1,109
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 1,110
+	Number of NOT MATCHED tags ___: 2,139
+	Processing MISSING entities __: 2,789
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 1,235
+	Number of NOT MATCHED tags ___: 2,014
+	Processing MISSING entities __: 1,716
+
+MODEL: polyglot_model
+	Number of matched tags _______: 2,054
+	Number of NOT MATCHED tags ___: 1,195
+	Processing MISSING entities __: 943
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 2,537
+	Number of NOT MATCHED tags ___: 712
+	Processing MISSING entities __: 930
+
+
+Generating CSVs:
+-> WNUT17-deeppavlov_onto_model-PERSON.csv ... Done. (1523 lines)
+-> WNUT17-deeppavlov_onto_bert_model-PERSON.csv ... Done. (1511 lines)
+-> WNUT17-deeppavlov_conll2003_model-PER.csv ... Done. (1898 lines)
+-> WNUT17-deeppavlov_conll2003_bert_model-PER.csv ... Done. (1612 lines)
+-> WNUT17-deeppavlov_onto_model-ORG.csv ... Done. (927 lines)
+-> WNUT17-deeppavlov_onto_bert_model-ORG.csv ... Done. (796 lines)
+-> WNUT17-deeppavlov_conll2003_model-ORG.csv ... Done. (1600 lines)
+-> WNUT17-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (1686 lines)
+-> WNUT17-deeppavlov_onto_model-NORP.csv ... Done. (229 lines)
+-> WNUT17-deeppavlov_conll2003_model-MISC.csv ... Done. (1260 lines)
+-> WNUT17-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (1069 lines)
+-> WNUT17-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (382 lines)
+-> WNUT17-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (289 lines)
+-> WNUT17-deeppavlov_conll2003_model-LOC.csv ... Done. (915 lines)
+-> WNUT17-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (786 lines)
+-> WNUT17-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (799 lines)
+-> WNUT17-deeppavlov_onto_bert_model-GPE.csv ... Done. (577 lines)
+-> WNUT17-deeppavlov_onto_model-GPE.csv ... Done. (673 lines)
+-> WNUT17-deeppavlov_onto_model-PRODUCT.csv ... Done. (394 lines)
+-> WNUT17-deeppavlov_onto_model-FAC.csv ... Done. (85 lines)
+-> WNUT17-deeppavlov_onto_bert_model-FAC.csv ... Done. (101 lines)
+-> WNUT17-deeppavlov_onto_model-LOC.csv ... Done. (49 lines)
+-> WNUT17-deeppavlov_onto_bert_model-LOC.csv ... Done. (41 lines)
+-> WNUT17-deeppavlov_onto_bert_model-NORP.csv ... Done. (169 lines)
+-> WNUT17-deeppavlov_onto_bert_model-DATE.csv ... Done. (666 lines)
+-> WNUT17-deeppavlov_onto_model-DATE.csv ... Done. (739 lines)
+-> WNUT17-deeppavlov_onto_model-ORDINAL.csv ... Done. (48 lines)
+-> WNUT17-deeppavlov_onto_model-CARDINAL.csv ... Done. (354 lines)
+-> WNUT17-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (39 lines)
+-> WNUT17-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (7 lines)
+-> WNUT17-deeppavlov_onto_bert_model-EVENT.csv ... Done. (60 lines)
+-> WNUT17-deeppavlov_onto_bert_model-TIME.csv ... Done. (294 lines)
+-> WNUT17-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (238 lines)
+-> WNUT17-deeppavlov_onto_model-EVENT.csv ... Done. (89 lines)
+-> WNUT17-deeppavlov_onto_model-LAW.csv ... Done. (20 lines)
+-> WNUT17-deeppavlov_onto_bert_model-LAW.csv ... Done. (8 lines)
+-> WNUT17-deeppavlov_onto_model-LANGUAGE.csv ... Done. (6 lines)
+-> WNUT17-deeppavlov_onto_model-TIME.csv ... Done. (247 lines)
+-> WNUT17-deeppavlov_onto_model-PERCENT.csv ... Done. (28 lines)
+-> WNUT17-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (22 lines)
+-> WNUT17-deeppavlov_onto_model-MONEY.csv ... Done. (4 lines)
+-> WNUT17-deeppavlov_onto_bert_model-MONEY.csv ... Done. (10 lines)
+-> WNUT17-deeppavlov_onto_model-QUANTITY.csv ... Done. (32 lines)
+-> WNUT17-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (39 lines)
+-> WNUT17-stanford_class7_model-LOCATION.csv ... Done. (919 lines)
+-> WNUT17-stanford_class4_model-LOCATION.csv ... Done. (901 lines)
+-> WNUT17-stanford_class3_model-LOCATION.csv ... Done. (925 lines)
+-> WNUT17-stanford_class4_model-ORGANIZATION.csv ... Done. (1443 lines)
+-> WNUT17-spacy_sm_model-PRODUCT.csv ... Done. (226 lines)
+-> WNUT17-bert_model-ORG.csv ... Done. (1402 lines)
+-> WNUT17-flair_fast_model-PER.csv ... Done. (1582 lines)
+-> WNUT17-flair_fast_ontonotes_model-PERSON.csv ... Done. (1596 lines)
+-> WNUT17-flair_pooled_model-ORG.csv ... Done. (1098 lines)
+-> WNUT17-allennlp_ner-MISC.csv ... Done. (1443 lines)
+-> WNUT17-stanza_model-GPE.csv ... Done. (763 lines)
+-> WNUT17-spacy_sm_model-GPE.csv ... Done. (503 lines)
+-> WNUT17-spacy_md_model-GPE.csv ... Done. (635 lines)
+-> WNUT17-spacy_lg_model-GPE.csv ... Done. (631 lines)
+-> WNUT17-nltk_model-GPE.csv ... Done. (735 lines)
+-> WNUT17-bert_model-LOC.csv ... Done. (651 lines)
+-> WNUT17-flair_model-LOC.csv ... Done. (800 lines)
+-> WNUT17-flair_ontonotes_model-GPE.csv ... Done. (751 lines)
+-> WNUT17-flair_fast_model-LOC.csv ... Done. (802 lines)
+-> WNUT17-flair_fast_ontonotes_model-GPE.csv ... Done. (741 lines)
+-> WNUT17-flair_pooled_model-LOC.csv ... Done. (796 lines)
+-> WNUT17-allennlp_ner-LOC.csv ... Done. (753 lines)
+-> WNUT17-polyglot_model-LOC.csv ... Done. (748 lines)
+-> WNUT17-stanford_class4_model-PERSON.csv ... Done. (1524 lines)
+-> WNUT17-stanford_class3_model-PERSON.csv ... Done. (1443 lines)
+-> WNUT17-stanza_model-PERSON.csv ... Done. (1737 lines)
+-> WNUT17-spacy_sm_model-PERSON.csv ... Done. (1847 lines)
+-> WNUT17-spacy_md_model-PERSON.csv ... Done. (2555 lines)
+-> WNUT17-spacy_lg_model-PERSON.csv ... Done. (2154 lines)
+-> WNUT17-bert_model-PER.csv ... Done. (1381 lines)
+-> WNUT17-flair_model-PER.csv ... Done. (1581 lines)
+-> WNUT17-flair_ontonotes_model-PERSON.csv ... Done. (1507 lines)
+-> WNUT17-flair_pooled_model-PER.csv ... Done. (1570 lines)
+-> WNUT17-allennlp_ner-PER.csv ... Done. (1979 lines)
+-> WNUT17-polyglot_model-PER.csv ... Done. (1749 lines)
+-> WNUT17-flair_ontonotes_model-ORG.csv ... Done. (865 lines)
+-> WNUT17-spacy_sm_model-LOC.csv ... Done. (57 lines)
+-> WNUT17-stanza_model-WORK_OF_ART.csv ... Done. (404 lines)
+-> WNUT17-spacy_sm_model-WORK_OF_ART.csv ... Done. (248 lines)
+-> WNUT17-spacy_md_model-WORK_OF_ART.csv ... Done. (274 lines)
+-> WNUT17-spacy_lg_model-WORK_OF_ART.csv ... Done. (314 lines)
+-> WNUT17-nltk_model-PERSON.csv ... Done. (2248 lines)
+-> WNUT17-bert_model-MISC.csv ... Done. (997 lines)
+-> WNUT17-flair_model-MISC.csv ... Done. (877 lines)
+-> WNUT17-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (513 lines)
+-> WNUT17-flair_fast_model-MISC.csv ... Done. (927 lines)
+-> WNUT17-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (409 lines)
+-> WNUT17-flair_pooled_model-MISC.csv ... Done. (907 lines)
+-> WNUT17-stanza_model-NORP.csv ... Done. (221 lines)
+-> WNUT17-spacy_sm_model-NORP.csv ... Done. (183 lines)
+-> WNUT17-spacy_md_model-NORP.csv ... Done. (220 lines)
+-> WNUT17-spacy_lg_model-NORP.csv ... Done. (211 lines)
+-> WNUT17-stanza_model-FAC.csv ... Done. (99 lines)
+-> WNUT17-spacy_lg_model-LOC.csv ... Done. (68 lines)
+-> WNUT17-nltk_model-ORGANIZATION.csv ... Done. (1834 lines)
+-> WNUT17-flair_ontonotes_model-FAC.csv ... Done. (67 lines)
+-> WNUT17-flair_fast_ontonotes_model-FAC.csv ... Done. (74 lines)
+-> WNUT17-stanford_class3_model-ORGANIZATION.csv ... Done. (843 lines)
+-> WNUT17-stanza_model-ORG.csv ... Done. (987 lines)
+-> WNUT17-spacy_sm_model-ORG.csv ... Done. (1247 lines)
+-> WNUT17-spacy_md_model-ORG.csv ... Done. (1352 lines)
+-> WNUT17-spacy_lg_model-ORG.csv ... Done. (1381 lines)
+-> WNUT17-flair_fast_model-ORG.csv ... Done. (1154 lines)
+-> WNUT17-stanford_class7_model-PERSON.csv ... Done. (1240 lines)
+-> WNUT17-stanford_class4_model-MISC.csv ... Done. (739 lines)
+-> WNUT17-stanza_model-LOC.csv ... Done. (36 lines)
+-> WNUT17-spacy_md_model-LOC.csv ... Done. (44 lines)
+-> WNUT17-nltk_model-LOCATION.csv ... Done. (17 lines)
+-> WNUT17-flair_ontonotes_model-LOC.csv ... Done. (31 lines)
+-> WNUT17-flair_fast_ontonotes_model-LOC.csv ... Done. (38 lines)
+-> WNUT17-spacy_sm_model-EVENT.csv ... Done. (66 lines)
+-> WNUT17-flair_model-ORG.csv ... Done. (935 lines)
+-> WNUT17-stanza_model-PRODUCT.csv ... Done. (269 lines)
+-> WNUT17-flair_ontonotes_model-PRODUCT.csv ... Done. (252 lines)
+-> WNUT17-flair_fast_ontonotes_model-ORG.csv ... Done. (885 lines)
+-> WNUT17-polyglot_model-ORG.csv ... Done. (851 lines)
+-> WNUT17-spacy_md_model-PRODUCT.csv ... Done. (284 lines)
+-> WNUT17-flair_fast_ontonotes_model-DATE.csv ... Done. (641 lines)
+-> WNUT17-allennlp_ner-ORG.csv ... Done. (648 lines)
+-> WNUT17-spacy_lg_model-DATE.csv ... Done. (834 lines)
+-> WNUT17-spacy_sm_model-FAC.csv ... Done. (112 lines)
+-> WNUT17-spacy_md_model-FAC.csv ... Done. (99 lines)
+-> WNUT17-nltk_model-FACILITY.csv ... Done. (234 lines)
+-> WNUT17-spacy_lg_model-FAC.csv ... Done. (112 lines)
+-> WNUT17-spacy_lg_model-PRODUCT.csv ... Done. (253 lines)
+-> WNUT17-stanza_model-DATE.csv ... Done. (728 lines)
+-> WNUT17-spacy_md_model-DATE.csv ... Done. (814 lines)
+-> WNUT17-flair_ontonotes_model-DATE.csv ... Done. (655 lines)
+-> WNUT17-flair_ontonotes_model-NORP.csv ... Done. (240 lines)
+-> WNUT17-flair_fast_ontonotes_model-NORP.csv ... Done. (234 lines)
+-> WNUT17-spacy_md_model-EVENT.csv ... Done. (57 lines)
+-> WNUT17-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (272 lines)
+-> WNUT17-spacy_sm_model-LANGUAGE.csv ... Done. (9 lines)
+-> WNUT17-stanford_class7_model-ORGANIZATION.csv ... Done. (1144 lines)
+-> WNUT17-spacy_lg_model-LAW.csv ... Done. (17 lines)
+-> WNUT17-spacy_sm_model-LAW.csv ... Done. (23 lines)
+-> WNUT17-stanza_model-TIME.csv ... Done. (302 lines)
+-> WNUT17-spacy_md_model-LANGUAGE.csv ... Done. (8 lines)
+-> WNUT17-flair_ontonotes_model-EVENT.csv ... Done. (38 lines)
+-> WNUT17-flair_fast_ontonotes_model-EVENT.csv ... Done. (51 lines)
+-> WNUT17-spacy_md_model-TIME.csv ... Done. (274 lines)
+-> WNUT17-stanza_model-EVENT.csv ... Done. (62 lines)
+-> WNUT17-spacy_lg_model-EVENT.csv ... Done. (72 lines)
+-> WNUT17-spacy_lg_model-LANGUAGE.csv ... Done. (8 lines)
+-> WNUT17-spacy_md_model-CARDINAL.csv ... Done. (277 lines)
+-> WNUT17-spacy_sm_model-TIME.csv ... Done. (258 lines)
+-> WNUT17-spacy_lg_model-TIME.csv ... Done. (282 lines)
+-> WNUT17-flair_ontonotes_model-TIME.csv ... Done. (270 lines)
+-> WNUT17-flair_fast_ontonotes_model-TIME.csv ... Done. (259 lines)
+-> WNUT17-spacy_sm_model-DATE.csv ... Done. (769 lines)
+-> WNUT17-spacy_md_model-LAW.csv ... Done. (14 lines)
+-> WNUT17-flair_fast_ontonotes_model-LAW.csv ... Done. (11 lines)
+-> WNUT17-stanza_model-LAW.csv ... Done. (10 lines)
+-> WNUT17-stanford_class7_model-MONEY.csv ... Done. (5 lines)
+-> WNUT17-stanza_model-CARDINAL.csv ... Done. (241 lines)
+-> WNUT17-spacy_sm_model-CARDINAL.csv ... Done. (316 lines)
+-> WNUT17-spacy_lg_model-CARDINAL.csv ... Done. (280 lines)
+-> WNUT17-flair_ontonotes_model-CARDINAL.csv ... Done. (245 lines)
+-> WNUT17-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (231 lines)
+-> WNUT17-stanza_model-MONEY.csv ... Done. (7 lines)
+-> WNUT17-spacy_sm_model-MONEY.csv ... Done. (12 lines)
+-> WNUT17-spacy_md_model-MONEY.csv ... Done. (17 lines)
+-> WNUT17-spacy_lg_model-MONEY.csv ... Done. (12 lines)
+-> WNUT17-flair_ontonotes_model-MONEY.csv ... Done. (10 lines)
+-> WNUT17-flair_fast_ontonotes_model-MONEY.csv ... Done. (5 lines)
+-> WNUT17-stanford_class7_model-PERCENT.csv ... Done. (13 lines)
+-> WNUT17-stanza_model-PERCENT.csv ... Done. (25 lines)
+-> WNUT17-spacy_sm_model-PERCENT.csv ... Done. (28 lines)
+-> WNUT17-spacy_md_model-PERCENT.csv ... Done. (26 lines)
+-> WNUT17-spacy_lg_model-PERCENT.csv ... Done. (25 lines)
+-> WNUT17-flair_ontonotes_model-PERCENT.csv ... Done. (29 lines)
+-> WNUT17-flair_fast_ontonotes_model-PERCENT.csv ... Done. (26 lines)
+-> WNUT17-stanford_class7_model-DATE.csv ... Done. (349 lines)
+-> WNUT17-stanford_class7_model-TIME.csv ... Done. (19 lines)
+-> WNUT17-spacy_sm_model-ORDINAL.csv ... Done. (39 lines)
+-> WNUT17-stanza_model-LANGUAGE.csv ... Done. (5 lines)
+-> WNUT17-flair_ontonotes_model-LANGUAGE.csv ... Done. (6 lines)
+-> WNUT17-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (4 lines)
+-> WNUT17-spacy_md_model-QUANTITY.csv ... Done. (39 lines)
+-> WNUT17-flair_ontonotes_model-LAW.csv ... Done. (8 lines)
+-> WNUT17-spacy_lg_model-ORDINAL.csv ... Done. (44 lines)
+-> WNUT17-flair_ontonotes_model-QUANTITY.csv ... Done. (42 lines)
+-> WNUT17-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (45 lines)
+-> WNUT17-spacy_lg_model-QUANTITY.csv ... Done. (53 lines)
+-> WNUT17-spacy_sm_model-QUANTITY.csv ... Done. (43 lines)
+-> WNUT17-stanza_model-QUANTITY.csv ... Done. (48 lines)
+-> WNUT17-stanza_model-ORDINAL.csv ... Done. (32 lines)
+-> WNUT17-spacy_md_model-ORDINAL.csv ... Done. (36 lines)
+-> WNUT17-flair_ontonotes_model-ORDINAL.csv ... Done. (31 lines)
+-> WNUT17-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (34 lines)
+-> WNUT17-allennlp-finegrained-ner-PERSON.csv ... Done. (1462 lines)
+-> WNUT17-allennlp-finegrained-ner-NORP.csv ... Done. (345 lines)
+-> WNUT17-allennlp-finegrained-ner-ORG.csv ... Done. (619 lines)
+-> WNUT17-allennlp-finegrained-ner-LANGUAGE.csv ... Done. (4 lines)
+-> WNUT17-allennlp-finegrained-ner-FAC.csv ... Done. (17 lines)
+-> WNUT17-allennlp-finegrained-ner-GPE.csv ... Done. (828 lines)
+-> WNUT17-allennlp-finegrained-ner-LOC.csv ... Done. (10 lines)
+-> WNUT17-allennlp-finegrained-ner-PRODUCT.csv ... Done. (243 lines)
+-> WNUT17-allennlp-finegrained-ner-EVENT.csv ... Done. (19 lines)
+-> WNUT17-allennlp-finegrained-ner-WORK_OF_ART.csv ... Done. (437 lines)
+-> WNUT17-allennlp-finegrained-ner-DATE.csv ... Done. (295 lines)
+-> WNUT17-allennlp-finegrained-ner-CARDINAL.csv ... Done. (66 lines)
+-> WNUT17-allennlp-finegrained-ner-TIME.csv ... Done. (102 lines)
+-> WNUT17-allennlp-finegrained-ner-PERCENT.csv ... Done. (7 lines)
+-> WNUT17-allennlp-finegrained-ner-MONEY.csv ... Done. (24 lines)
+-> WNUT17-allennlp-finegrained-ner-QUANTITY.csv ... Done. (10 lines)
+-> WNUT17-allennlp-finegrained-ner-ORDINAL.csv ... Done. (23 lines)
+-> WNUT17-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> WNUT17-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 135,915 tuples were added in a total of 211 CSV files
+
+
+************************************************************************************************************************
+*** PROCESSING DATASET "feng" ***
+
+Loading *mappings* from [E:\_temp\NER-Survey\tags\Feature_engineered_corpus\category-mappings.json]... 8 mappings were loaded.
+Loading *merged tags* from [E:\_temp\NER-Survey\tags\Feature_engineered_corpus\merged-tags.json]... 18,760 merged tags were loaded.
+Loading *merged tags by category* from [E:\_temp\NER-Survey\tags\Feature_engineered_corpus\merged-tags-by-category.json]... 8 merged tags by category were loaded.
+Loading the *tags* from E:/_temp/NER-Survey/tags/Feature_engineered_corpus/...
+	+ Adding E:\_temp\NER-Survey\tags\Feature_engineered_corpus\ner_dataset_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 160,667
+
+Loaded *Mappings*:
+{
+    "geo": [
+        "tnnt:GPE"
+    ],
+    "gpe": [
+        "tnnt:NORP",
+        "tnnt:GPE"
+    ],
+    "per": [
+        "tnnt:Person"
+    ],
+    "org": [
+        "tnnt:Organisation"
+    ],
+    "tim": [
+        "tnnt:Date"
+    ],
+    "art": [
+        "tnnt:FAC",
+        "tnnt:Product",
+        "tnnt:WorkOfArt",
+        "tnnt:Law",
+        "tnnt:Language"
+    ],
+    "nat": [
+        "tnnt:Event"
+    ],
+    "eve": [
+        "tnnt:Event"
+    ]
+}
+
+
+*** Processing result file [Feature_engineered_corpus.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  87,124 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+
+*** Processing result file [Feature_engineered_corpus.txt-MEL+NER_output_3.8_fast.json] ***
+
+Processing entities... Done.  144,286 tuples were added in a total of 69 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+
+*** Processing result file [Feature_engineered_corpus.txt-MEL+NER_output_3.8_flair.json] ***
+
+Processing entities... Done.  211,368 tuples were added in a total of 95 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+
+*** Processing result file [Feature_engineered_corpus.txt-MEL+NER_output_3.8_heavy.json] ***
+
+Processing entities... Done.  294,986 tuples were added in a total of 122 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: bert_model
+	Number of matched tags _______: 15,920
+	Number of NOT MATCHED tags ___: 2,840
+	Processing MISSING entities __: 1,172
+
+MODEL: nltk_model
+	Number of matched tags _______: 13,025
+	Number of NOT MATCHED tags ___: 5,735
+	Processing MISSING entities __: 4,218
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: stanza_model
+	Number of matched tags _______: 15,041
+	Number of NOT MATCHED tags ___: 3,719
+	Processing MISSING entities __: 4,037
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+
+*** Processing result file [Feature_engineered_corpus.txt-MEL+NER_output_3.8_spacy.json] ***
+
+Processing entities... Done.  403,749 tuples were added in a total of 176 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: bert_model
+	Number of matched tags _______: 15,920
+	Number of NOT MATCHED tags ___: 2,840
+	Processing MISSING entities __: 1,172
+
+MODEL: nltk_model
+	Number of matched tags _______: 13,025
+	Number of NOT MATCHED tags ___: 5,735
+	Processing MISSING entities __: 4,218
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 15,101
+	Number of NOT MATCHED tags ___: 3,659
+	Processing MISSING entities __: 4,076
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 15,611
+	Number of NOT MATCHED tags ___: 3,149
+	Processing MISSING entities __: 3,454
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: stanza_model
+	Number of matched tags _______: 15,041
+	Number of NOT MATCHED tags ___: 3,719
+	Processing MISSING entities __: 4,037
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 14,508
+	Number of NOT MATCHED tags ___: 4,252
+	Processing MISSING entities __: 4,697
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+
+*** Processing result file [Feature_engineered_corpus.txt-MEL+NER_output_3.8_stanford.json] ***
+
+Processing entities... Done.  501,473 tuples were added in a total of 190 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 15,920
+	Number of NOT MATCHED tags ___: 2,840
+	Processing MISSING entities __: 1,172
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 10,669
+	Number of NOT MATCHED tags ___: 8,091
+	Processing MISSING entities __: 5,066
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 15,611
+	Number of NOT MATCHED tags ___: 3,149
+	Processing MISSING entities __: 3,454
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 12,089
+	Number of NOT MATCHED tags ___: 6,671
+	Processing MISSING entities __: 4,011
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 14,508
+	Number of NOT MATCHED tags ___: 4,252
+	Processing MISSING entities __: 4,697
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: stanza_model
+	Number of matched tags _______: 15,041
+	Number of NOT MATCHED tags ___: 3,719
+	Processing MISSING entities __: 4,037
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: nltk_model
+	Number of matched tags _______: 13,025
+	Number of NOT MATCHED tags ___: 5,735
+	Processing MISSING entities __: 4,218
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 11,717
+	Number of NOT MATCHED tags ___: 7,043
+	Processing MISSING entities __: 7,155
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 15,101
+	Number of NOT MATCHED tags ___: 3,659
+	Processing MISSING entities __: 4,076
+
+
+*** Processing result file [Feature_engineered_corpus_1.txt-MEL+NER_output_3.8_allennlp.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  578,014 tuples were added in a total of 194 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 15,920
+	Number of NOT MATCHED tags ___: 2,840
+	Processing MISSING entities __: 1,172
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 10,669
+	Number of NOT MATCHED tags ___: 8,091
+	Processing MISSING entities __: 5,066
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 15,611
+	Number of NOT MATCHED tags ___: 3,149
+	Processing MISSING entities __: 3,454
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 12,089
+	Number of NOT MATCHED tags ___: 6,671
+	Processing MISSING entities __: 4,011
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 14,508
+	Number of NOT MATCHED tags ___: 4,252
+	Processing MISSING entities __: 4,697
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: stanza_model
+	Number of matched tags _______: 15,041
+	Number of NOT MATCHED tags ___: 3,719
+	Processing MISSING entities __: 4,037
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 8,894
+	Number of NOT MATCHED tags ___: 9,866
+	Processing MISSING entities __: 7,492
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: nltk_model
+	Number of matched tags _______: 13,025
+	Number of NOT MATCHED tags ___: 5,735
+	Processing MISSING entities __: 4,218
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 11,717
+	Number of NOT MATCHED tags ___: 7,043
+	Processing MISSING entities __: 7,155
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 15,101
+	Number of NOT MATCHED tags ___: 3,659
+	Processing MISSING entities __: 4,076
+
+
+*** Processing result file [Feature_engineered_corpus_2.txt-MEL+NER_output_3.8_allennlp_2.json] ***
+
+The following models will be ignored: ['allennlp-finegrained-ner']
+Processing entities... Done.  662,053 tuples were added in a total of 194 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 15,920
+	Number of NOT MATCHED tags ___: 2,840
+	Processing MISSING entities __: 1,172
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 10,669
+	Number of NOT MATCHED tags ___: 8,091
+	Processing MISSING entities __: 5,066
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 15,611
+	Number of NOT MATCHED tags ___: 3,149
+	Processing MISSING entities __: 3,454
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 12,089
+	Number of NOT MATCHED tags ___: 6,671
+	Processing MISSING entities __: 4,011
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 14,508
+	Number of NOT MATCHED tags ___: 4,252
+	Processing MISSING entities __: 4,697
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: stanza_model
+	Number of matched tags _______: 15,041
+	Number of NOT MATCHED tags ___: 3,719
+	Processing MISSING entities __: 4,037
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 12,140
+	Number of NOT MATCHED tags ___: 6,620
+	Processing MISSING entities __: 4,077
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: nltk_model
+	Number of matched tags _______: 13,025
+	Number of NOT MATCHED tags ___: 5,735
+	Processing MISSING entities __: 4,218
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 11,717
+	Number of NOT MATCHED tags ___: 7,043
+	Processing MISSING entities __: 7,155
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 15,101
+	Number of NOT MATCHED tags ___: 3,659
+	Processing MISSING entities __: 4,076
+
+
+*** Processing result file [Feature_engineered_corpus_1.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  743,260 tuples were added in a total of 212 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 15,920
+	Number of NOT MATCHED tags ___: 2,840
+	Processing MISSING entities __: 1,172
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 10,669
+	Number of NOT MATCHED tags ___: 8,091
+	Processing MISSING entities __: 5,066
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 15,611
+	Number of NOT MATCHED tags ___: 3,149
+	Processing MISSING entities __: 3,454
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 12,089
+	Number of NOT MATCHED tags ___: 6,671
+	Processing MISSING entities __: 4,011
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 14,508
+	Number of NOT MATCHED tags ___: 4,252
+	Processing MISSING entities __: 4,697
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: stanza_model
+	Number of matched tags _______: 15,041
+	Number of NOT MATCHED tags ___: 3,719
+	Processing MISSING entities __: 4,037
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 12,140
+	Number of NOT MATCHED tags ___: 6,620
+	Processing MISSING entities __: 4,077
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: nltk_model
+	Number of matched tags _______: 13,025
+	Number of NOT MATCHED tags ___: 5,735
+	Processing MISSING entities __: 4,218
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 10,146
+	Number of NOT MATCHED tags ___: 8,614
+	Processing MISSING entities __: 9,552
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 11,717
+	Number of NOT MATCHED tags ___: 7,043
+	Processing MISSING entities __: 7,155
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 15,101
+	Number of NOT MATCHED tags ___: 3,659
+	Processing MISSING entities __: 4,076
+
+
+*** Processing result file [Feature_engineered_corpus_2.txt-MEL+NER_output_allennlpfinegrained.json] ***
+
+Processing entities... Done.  833,970 tuples were added in a total of 212 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: bert_model
+	Number of matched tags _______: 15,920
+	Number of NOT MATCHED tags ___: 2,840
+	Processing MISSING entities __: 1,172
+
+MODEL: deeppavlov_conll2003_model
+	Number of matched tags _______: 13,773
+	Number of NOT MATCHED tags ___: 4,987
+	Processing MISSING entities __: 2,538
+
+MODEL: stanford_class3_model
+	Number of matched tags _______: 10,669
+	Number of NOT MATCHED tags ___: 8,091
+	Processing MISSING entities __: 5,066
+
+MODEL: flair_model
+	Number of matched tags _______: 12,010
+	Number of NOT MATCHED tags ___: 6,750
+	Processing MISSING entities __: 4,058
+
+MODEL: spacy_sm_model
+	Number of matched tags _______: 15,611
+	Number of NOT MATCHED tags ___: 3,149
+	Processing MISSING entities __: 3,454
+
+MODEL: flair_ontonotes_model
+	Number of matched tags _______: 14,373
+	Number of NOT MATCHED tags ___: 4,387
+	Processing MISSING entities __: 4,783
+
+MODEL: stanford_class4_model
+	Number of matched tags _______: 12,089
+	Number of NOT MATCHED tags ___: 6,671
+	Processing MISSING entities __: 4,011
+
+MODEL: flair_pooled_model
+	Number of matched tags _______: 12,131
+	Number of NOT MATCHED tags ___: 6,629
+	Processing MISSING entities __: 3,933
+
+MODEL: spacy_lg_model
+	Number of matched tags _______: 14,508
+	Number of NOT MATCHED tags ___: 4,252
+	Processing MISSING entities __: 4,697
+
+MODEL: flair_fast_model
+	Number of matched tags _______: 12,421
+	Number of NOT MATCHED tags ___: 6,339
+	Processing MISSING entities __: 3,748
+
+MODEL: deeppavlov_onto_bert_model
+	Number of matched tags _______: 17,855
+	Number of NOT MATCHED tags ___: 905
+	Processing MISSING entities __: 981
+
+MODEL: deeppavlov_conll2003_bert_model
+	Number of matched tags _______: 16,566
+	Number of NOT MATCHED tags ___: 2,194
+	Processing MISSING entities __: 1,038
+
+MODEL: flair_fast_ontonotes_model
+	Number of matched tags _______: 15,225
+	Number of NOT MATCHED tags ___: 3,535
+	Processing MISSING entities __: 3,885
+
+MODEL: stanza_model
+	Number of matched tags _______: 15,041
+	Number of NOT MATCHED tags ___: 3,719
+	Processing MISSING entities __: 4,037
+
+MODEL: allennlp_ner
+	Number of matched tags _______: 12,140
+	Number of NOT MATCHED tags ___: 6,620
+	Processing MISSING entities __: 4,077
+
+MODEL: deeppavlov_onto_model
+	Number of matched tags _______: 15,580
+	Number of NOT MATCHED tags ___: 3,180
+	Processing MISSING entities __: 3,505
+
+MODEL: nltk_model
+	Number of matched tags _______: 13,025
+	Number of NOT MATCHED tags ___: 5,735
+	Processing MISSING entities __: 4,218
+
+MODEL: allennlp-finegrained-ner
+	Number of matched tags _______: 12,383
+	Number of NOT MATCHED tags ___: 6,377
+	Processing MISSING entities __: 6,991
+
+MODEL: stanford_class7_model
+	Number of matched tags _______: 11,717
+	Number of NOT MATCHED tags ___: 7,043
+	Processing MISSING entities __: 7,155
+
+MODEL: polyglot_model
+	Number of matched tags _______: 16,499
+	Number of NOT MATCHED tags ___: 2,261
+	Processing MISSING entities __: 1,182
+
+MODEL: spacy_md_model
+	Number of matched tags _______: 15,101
+	Number of NOT MATCHED tags ___: 3,659
+	Processing MISSING entities __: 4,076
+
+
+Generating CSVs:
+-> feng-deeppavlov_onto_model-PERSON.csv ... Done. (6868 lines)
+-> feng-deeppavlov_onto_bert_model-PERSON.csv ... Done. (5842 lines)
+-> feng-deeppavlov_conll2003_model-PER.csv ... Done. (6952 lines)
+-> feng-deeppavlov_conll2003_bert_model-PER.csv ... Done. (5970 lines)
+-> feng-deeppavlov_onto_bert_model-ORG.csv ... Done. (3975 lines)
+-> feng-deeppavlov_conll2003_model-ORG.csv ... Done. (5307 lines)
+-> feng-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (3595 lines)
+-> feng-deeppavlov_onto_bert_model-GPE.csv ... Done. (5369 lines)
+-> feng-deeppavlov_onto_model-ORG.csv ... Done. (5385 lines)
+-> feng-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (238 lines)
+-> feng-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (2559 lines)
+-> feng-deeppavlov_onto_bert_model-NORP.csv ... Done. (1088 lines)
+-> feng-deeppavlov_onto_model-PRODUCT.csv ... Done. (279 lines)
+-> feng-deeppavlov_conll2003_model-MISC.csv ... Done. (2303 lines)
+-> feng-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (4751 lines)
+-> feng-deeppavlov_onto_model-NORP.csv ... Done. (1135 lines)
+-> feng-deeppavlov_onto_model-GPE.csv ... Done. (4818 lines)
+-> feng-deeppavlov_onto_model-EVENT.csv ... Done. (428 lines)
+-> feng-deeppavlov_onto_model-FAC.csv ... Done. (376 lines)
+-> feng-deeppavlov_conll2003_model-LOC.csv ... Done. (4614 lines)
+-> feng-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (464 lines)
+-> feng-deeppavlov_onto_bert_model-FAC.csv ... Done. (369 lines)
+-> feng-deeppavlov_onto_bert_model-LOC.csv ... Done. (657 lines)
+-> feng-deeppavlov_onto_model-LOC.csv ... Done. (676 lines)
+-> feng-deeppavlov_onto_model-DATE.csv ... Done. (4511 lines)
+-> feng-deeppavlov_onto_bert_model-EVENT.csv ... Done. (477 lines)
+-> feng-deeppavlov_onto_bert_model-DATE.csv ... Done. (5142 lines)
+-> feng-deeppavlov_onto_model-CARDINAL.csv ... Done. (3264 lines)
+-> feng-deeppavlov_onto_bert_model-TIME.csv ... Done. (375 lines)
+-> feng-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (255 lines)
+-> feng-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (3577 lines)
+-> feng-deeppavlov_onto_bert_model-LAW.csv ... Done. (157 lines)
+-> feng-deeppavlov_onto_model-LANGUAGE.csv ... Done. (74 lines)
+-> feng-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (38 lines)
+-> feng-deeppavlov_onto_model-LAW.csv ... Done. (180 lines)
+-> feng-deeppavlov_onto_model-ORDINAL.csv ... Done. (170 lines)
+-> feng-deeppavlov_onto_bert_model-MONEY.csv ... Done. (236 lines)
+-> feng-deeppavlov_onto_model-TIME.csv ... Done. (348 lines)
+-> feng-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (182 lines)
+-> feng-deeppavlov_onto_model-PERCENT.csv ... Done. (538 lines)
+-> feng-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (481 lines)
+-> feng-deeppavlov_onto_model-MONEY.csv ... Done. (173 lines)
+-> feng-deeppavlov_onto_model-QUANTITY.csv ... Done. (563 lines)
+-> feng-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (509 lines)
+-> feng-flair_fast_model-LOC.csv ... Done. (4174 lines)
+-> feng-flair_fast_ontonotes_model-GPE.csv ... Done. (3371 lines)
+-> feng-polyglot_model-LOC.csv ... Done. (3517 lines)
+-> feng-polyglot_model-ORG.csv ... Done. (3698 lines)
+-> feng-polyglot_model-PER.csv ... Done. (6512 lines)
+-> feng-flair_fast_model-PER.csv ... Done. (7066 lines)
+-> feng-flair_fast_model-MISC.csv ... Done. (2075 lines)
+-> feng-flair_fast_ontonotes_model-PERSON.csv ... Done. (6947 lines)
+-> feng-flair_fast_ontonotes_model-NORP.csv ... Done. (705 lines)
+-> feng-flair_fast_model-ORG.csv ... Done. (4774 lines)
+-> feng-flair_fast_ontonotes_model-ORG.csv ... Done. (4939 lines)
+-> feng-flair_fast_ontonotes_model-LOC.csv ... Done. (617 lines)
+-> feng-flair_fast_ontonotes_model-FAC.csv ... Done. (403 lines)
+-> feng-flair_fast_ontonotes_model-EVENT.csv ... Done. (440 lines)
+-> feng-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (270 lines)
+-> feng-flair_fast_ontonotes_model-DATE.csv ... Done. (3791 lines)
+-> feng-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (247 lines)
+-> feng-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (76 lines)
+-> feng-flair_fast_ontonotes_model-LAW.csv ... Done. (181 lines)
+-> feng-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (2300 lines)
+-> feng-flair_fast_ontonotes_model-TIME.csv ... Done. (368 lines)
+-> feng-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (77 lines)
+-> feng-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (577 lines)
+-> feng-flair_fast_ontonotes_model-PERCENT.csv ... Done. (574 lines)
+-> feng-flair_fast_ontonotes_model-MONEY.csv ... Done. (248 lines)
+-> feng-flair_model-LOC.csv ... Done. (4289 lines)
+-> feng-flair_ontonotes_model-GPE.csv ... Done. (3578 lines)
+-> feng-flair_pooled_model-LOC.csv ... Done. (4164 lines)
+-> feng-flair_model-MISC.csv ... Done. (1980 lines)
+-> feng-flair_ontonotes_model-FAC.csv ... Done. (369 lines)
+-> feng-flair_ontonotes_model-ORG.csv ... Done. (5158 lines)
+-> feng-flair_ontonotes_model-LOC.csv ... Done. (617 lines)
+-> feng-flair_ontonotes_model-PRODUCT.csv ... Done. (288 lines)
+-> feng-flair_model-PER.csv ... Done. (7087 lines)
+-> feng-flair_ontonotes_model-PERSON.csv ... Done. (7167 lines)
+-> feng-flair_ontonotes_model-NORP.csv ... Done. (733 lines)
+-> feng-flair_pooled_model-PER.csv ... Done. (6958 lines)
+-> feng-flair_pooled_model-ORG.csv ... Done. (4874 lines)
+-> feng-flair_model-ORG.csv ... Done. (4838 lines)
+-> feng-flair_pooled_model-MISC.csv ... Done. (1846 lines)
+-> feng-flair_ontonotes_model-EVENT.csv ... Done. (462 lines)
+-> feng-flair_ontonotes_model-DATE.csv ... Done. (3917 lines)
+-> feng-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (303 lines)
+-> feng-flair_ontonotes_model-LAW.csv ... Done. (181 lines)
+-> feng-flair_ontonotes_model-CARDINAL.csv ... Done. (2275 lines)
+-> feng-flair_ontonotes_model-LANGUAGE.csv ... Done. (82 lines)
+-> feng-flair_ontonotes_model-TIME.csv ... Done. (367 lines)
+-> feng-flair_ontonotes_model-ORDINAL.csv ... Done. (73 lines)
+-> feng-flair_ontonotes_model-PERCENT.csv ... Done. (556 lines)
+-> feng-flair_ontonotes_model-MONEY.csv ... Done. (293 lines)
+-> feng-flair_ontonotes_model-QUANTITY.csv ... Done. (563 lines)
+-> feng-stanza_model-PERSON.csv ... Done. (7045 lines)
+-> feng-nltk_model-ORGANIZATION.csv ... Done. (5042 lines)
+-> feng-nltk_model-PERSON.csv ... Done. (9167 lines)
+-> feng-nltk_model-GPE.csv ... Done. (3778 lines)
+-> feng-bert_model-LOC.csv ... Done. (4901 lines)
+-> feng-bert_model-PER.csv ... Done. (5961 lines)
+-> feng-bert_model-ORG.csv ... Done. (3903 lines)
+-> feng-stanza_model-ORG.csv ... Done. (5276 lines)
+-> feng-stanza_model-GPE.csv ... Done. (3615 lines)
+-> feng-stanza_model-FAC.csv ... Done. (392 lines)
+-> feng-bert_model-MISC.csv ... Done. (2446 lines)
+-> feng-stanza_model-NORP.csv ... Done. (752 lines)
+-> feng-stanza_model-PRODUCT.csv ... Done. (327 lines)
+-> feng-nltk_model-FACILITY.csv ... Done. (1358 lines)
+-> feng-stanza_model-LOC.csv ... Done. (579 lines)
+-> feng-stanza_model-WORK_OF_ART.csv ... Done. (287 lines)
+-> feng-stanza_model-CARDINAL.csv ... Done. (2172 lines)
+-> feng-stanza_model-EVENT.csv ... Done. (474 lines)
+-> feng-nltk_model-LOCATION.csv ... Done. (170 lines)
+-> feng-stanza_model-DATE.csv ... Done. (3811 lines)
+-> feng-stanza_model-TIME.csv ... Done. (387 lines)
+-> feng-stanza_model-LAW.csv ... Done. (198 lines)
+-> feng-stanza_model-LANGUAGE.csv ... Done. (66 lines)
+-> feng-stanza_model-QUANTITY.csv ... Done. (542 lines)
+-> feng-stanza_model-ORDINAL.csv ... Done. (73 lines)
+-> feng-stanza_model-PERCENT.csv ... Done. (468 lines)
+-> feng-stanza_model-MONEY.csv ... Done. (247 lines)
+-> feng-spacy_sm_model-PERSON.csv ... Done. (7239 lines)
+-> feng-spacy_md_model-PERSON.csv ... Done. (7205 lines)
+-> feng-spacy_lg_model-PERSON.csv ... Done. (7271 lines)
+-> feng-spacy_sm_model-GPE.csv ... Done. (3452 lines)
+-> feng-spacy_md_model-GPE.csv ... Done. (3461 lines)
+-> feng-spacy_lg_model-GPE.csv ... Done. (3591 lines)
+-> feng-spacy_lg_model-ORG.csv ... Done. (5917 lines)
+-> feng-spacy_md_model-ORG.csv ... Done. (5652 lines)
+-> feng-spacy_sm_model-ORG.csv ... Done. (5620 lines)
+-> feng-spacy_sm_model-LOC.csv ... Done. (642 lines)
+-> feng-spacy_sm_model-PRODUCT.csv ... Done. (247 lines)
+-> feng-spacy_sm_model-WORK_OF_ART.csv ... Done. (287 lines)
+-> feng-spacy_md_model-NORP.csv ... Done. (833 lines)
+-> feng-spacy_sm_model-DATE.csv ... Done. (3969 lines)
+-> feng-spacy_md_model-FAC.csv ... Done. (373 lines)
+-> feng-spacy_md_model-LOC.csv ... Done. (616 lines)
+-> feng-spacy_md_model-DATE.csv ... Done. (4159 lines)
+-> feng-spacy_lg_model-NORP.csv ... Done. (774 lines)
+-> feng-spacy_lg_model-LOC.csv ... Done. (725 lines)
+-> feng-spacy_sm_model-FAC.csv ... Done. (433 lines)
+-> feng-spacy_sm_model-NORP.csv ... Done. (755 lines)
+-> feng-spacy_sm_model-CARDINAL.csv ... Done. (2238 lines)
+-> feng-spacy_lg_model-FAC.csv ... Done. (491 lines)
+-> feng-spacy_md_model-ORDINAL.csv ... Done. (74 lines)
+-> feng-spacy_md_model-CARDINAL.csv ... Done. (2158 lines)
+-> feng-spacy_md_model-WORK_OF_ART.csv ... Done. (291 lines)
+-> feng-spacy_md_model-LAW.csv ... Done. (163 lines)
+-> feng-spacy_lg_model-LAW.csv ... Done. (157 lines)
+-> feng-spacy_lg_model-DATE.csv ... Done. (4122 lines)
+-> feng-spacy_md_model-PRODUCT.csv ... Done. (239 lines)
+-> feng-spacy_md_model-EVENT.csv ... Done. (374 lines)
+-> feng-spacy_sm_model-EVENT.csv ... Done. (329 lines)
+-> feng-spacy_lg_model-EVENT.csv ... Done. (369 lines)
+-> feng-spacy_lg_model-QUANTITY.csv ... Done. (569 lines)
+-> feng-spacy_md_model-LANGUAGE.csv ... Done. (86 lines)
+-> feng-spacy_lg_model-LANGUAGE.csv ... Done. (95 lines)
+-> feng-spacy_sm_model-LAW.csv ... Done. (134 lines)
+-> feng-spacy_lg_model-PRODUCT.csv ... Done. (227 lines)
+-> feng-spacy_lg_model-WORK_OF_ART.csv ... Done. (346 lines)
+-> feng-spacy_md_model-TIME.csv ... Done. (298 lines)
+-> feng-spacy_sm_model-LANGUAGE.csv ... Done. (66 lines)
+-> feng-spacy_sm_model-ORDINAL.csv ... Done. (73 lines)
+-> feng-spacy_sm_model-TIME.csv ... Done. (340 lines)
+-> feng-spacy_lg_model-TIME.csv ... Done. (338 lines)
+-> feng-spacy_lg_model-CARDINAL.csv ... Done. (2136 lines)
+-> feng-spacy_lg_model-ORDINAL.csv ... Done. (78 lines)
+-> feng-spacy_sm_model-MONEY.csv ... Done. (210 lines)
+-> feng-spacy_md_model-MONEY.csv ... Done. (230 lines)
+-> feng-spacy_lg_model-MONEY.csv ... Done. (221 lines)
+-> feng-spacy_md_model-QUANTITY.csv ... Done. (517 lines)
+-> feng-spacy_sm_model-QUANTITY.csv ... Done. (514 lines)
+-> feng-spacy_sm_model-PERCENT.csv ... Done. (436 lines)
+-> feng-spacy_md_model-PERCENT.csv ... Done. (440 lines)
+-> feng-spacy_lg_model-PERCENT.csv ... Done. (438 lines)
+-> feng-stanford_class7_model-LOCATION.csv ... Done. (5628 lines)
+-> feng-stanford_class4_model-LOCATION.csv ... Done. (4542 lines)
+-> feng-stanford_class3_model-LOCATION.csv ... Done. (5463 lines)
+-> feng-stanford_class7_model-ORGANIZATION.csv ... Done. (7663 lines)
+-> feng-stanford_class3_model-ORGANIZATION.csv ... Done. (5565 lines)
+-> feng-stanford_class4_model-PERSON.csv ... Done. (7558 lines)
+-> feng-stanford_class4_model-MISC.csv ... Done. (2738 lines)
+-> feng-stanford_class4_model-ORGANIZATION.csv ... Done. (5462 lines)
+-> feng-stanford_class7_model-PERSON.csv ... Done. (6968 lines)
+-> feng-stanford_class3_model-PERSON.csv ... Done. (7207 lines)
+-> feng-stanford_class7_model-DATE.csv ... Done. (3476 lines)
+-> feng-stanford_class7_model-MONEY.csv ... Done. (164 lines)
+-> feng-stanford_class7_model-PERCENT.csv ... Done. (181 lines)
+-> feng-stanford_class7_model-TIME.csv ... Done. (21 lines)
+-> feng-allennlp_ner-PER.csv ... Done. (8577 lines)
+-> feng-allennlp_ner-MISC.csv ... Done. (2773 lines)
+-> feng-allennlp_ner-ORG.csv ... Done. (5802 lines)
+-> feng-allennlp_ner-LOC.csv ... Done. (5169 lines)
+-> feng-allennlp-finegrained-ner-PERSON.csv ... Done. (7135 lines)
+-> feng-allennlp-finegrained-ner-ORG.csv ... Done. (5044 lines)
+-> feng-allennlp-finegrained-ner-NORP.csv ... Done. (843 lines)
+-> feng-allennlp-finegrained-ner-GPE.csv ... Done. (4430 lines)
+-> feng-allennlp-finegrained-ner-CARDINAL.csv ... Done. (1473 lines)
+-> feng-allennlp-finegrained-ner-LOC.csv ... Done. (444 lines)
+-> feng-allennlp-finegrained-ner-PRODUCT.csv ... Done. (236 lines)
+-> feng-allennlp-finegrained-ner-WORK_OF_ART.csv ... Done. (258 lines)
+-> feng-allennlp-finegrained-ner-DATE.csv ... Done. (3218 lines)
+-> feng-allennlp-finegrained-ner-QUANTITY.csv ... Done. (592 lines)
+-> feng-allennlp-finegrained-ner-LANGUAGE.csv ... Done. (140 lines)
+-> feng-allennlp-finegrained-ner-FAC.csv ... Done. (322 lines)
+-> feng-allennlp-finegrained-ner-EVENT.csv ... Done. (291 lines)
+-> feng-allennlp-finegrained-ner-LAW.csv ... Done. (219 lines)
+-> feng-allennlp-finegrained-ner-TIME.csv ... Done. (239 lines)
+-> feng-allennlp-finegrained-ner-PERCENT.csv ... Done. (379 lines)
+-> feng-allennlp-finegrained-ner-MONEY.csv ... Done. (229 lines)
+-> feng-allennlp-finegrained-ner-ORDINAL.csv ... Done. (97 lines)
+-> feng-RESULTS-MUC5-Metrics-post-processing-fact-table.csv ... Done.
+-> feng-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 912,575 tuples were added in a total of 212 CSV files
+
+
+************************************************************************************************************************
+Generating "RESULTS-MUC5-Metrics-post-processing-fact-table.csv"...
+-> Adding SEC_Filings... 210 lines were added.
+-> Adding BTC... 212 lines were added.
+-> Adding CONLL2003... 213 lines were added.
+-> Adding re3d... 212 lines were added.
+-> Adding GUM... 208 lines were added.
+-> Adding NIST_IEER... 212 lines were added.
+-> Adding WNUT17... 212 lines were added.
+-> Adding feng... 213 lines were added.
+Done.  1693 lines were added in the CSV file.
+
+************************************************************************************************************************
+
+>> End time: [2021-11-23 00:46:58.483846]
+>> Execution time: 2,083.86 seconds.

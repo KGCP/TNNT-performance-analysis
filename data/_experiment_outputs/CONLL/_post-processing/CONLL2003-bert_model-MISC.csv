@@ -1,0 +1,581 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Pope",0,0,0,1,0,0
+"Washington-based",0,0,0,0,1,0
+"Palestinian",1,0,0,0,0,0
+"Indians",0,0,0,0,1,0
+"Scots",1,0,0,0,0,0
+"Markets",0,0,1,0,0,0
+"Bread",0,0,1,0,0,0
+"GMT Iraqi",0,0,1,0,0,0
+"American Catholics",1,0,0,0,0,0
+"Italian Serie A",0,0,1,0,0,0
+"Yakomas",0,0,0,0,1,0
+"General Agreement on Tariffs",0,0,1,0,0,0
+"EuroLeague",1,0,0,0,0,0
+"American Tom Johnson",0,0,1,0,0,0
+"S",0,0,1,0,0,0
+"KONG OPEN",0,0,1,0,0,0
+"NHL",0,1,0,0,0,0
+"American League Jeff Russell",0,0,1,0,0,0
+"French",1,0,0,0,0,0
+"Australian",1,0,0,0,0,0
+"African Nations Cup",1,0,0,0,0,0
+"Belgian",1,0,0,0,0,0
+"WORLD CUP BONN",0,0,1,0,0,0
+"GMT SIALKOT",0,0,1,0,0,0
+"Yankee Randy Velarde",0,0,0,1,0,0
+"Hutu",1,0,0,0,0,0
+"GMT LONDON",0,0,1,0,0,0
+"Waterfront",0,0,1,0,0,0
+"Sleeping Bread",1,0,0,0,0,0
+"Indonesians",1,0,0,0,0,0
+"Swede",1,0,0,0,0,0
+"Arctic",1,0,0,0,0,0
+"AFRICAN NATIONS CUP NOUAKCHOTT",0,0,1,0,0,0
+"New",0,0,1,0,0,0
+"Depositary",0,0,0,1,0,0
+"Labour Day",1,0,0,0,0,0
+"Iraqi",1,0,0,0,0,0
+"Croat Alen Boksic",0,0,1,0,0,0
+"Singer",1,0,0,0,0,0
+"Jews Rosati",0,0,1,0,0,0
+"GREATER MILWAUKEE OPEN MILWAUKEE",0,0,1,0,0,0
+"European",1,0,0,0,0,0
+"Marines",0,0,0,0,1,0
+"Romanian",1,0,0,0,0,0
+"Coloureds",0,0,0,1,0,0
+"German Dietmar Beiersdorfer Fiorentina",0,0,1,0,0,0
+"Iranian",1,0,0,0,0,0
+"Ukrainians",1,0,0,0,0,0
+"Polish",1,0,0,0,0,0
+"Americans",1,0,0,0,0,0
+"Mexican ADRs",0,0,1,0,0,0
+"French-owned",0,0,0,0,1,0
+"GRAND PRIX",0,0,1,0,0,0
+"Greater Milwaukee Open Parnevik",0,0,1,0,0,0
+"PIBOR",0,0,0,1,0,0
+"Serbs",1,0,0,0,0,0
+"Tsang AUCKLAND",0,0,0,1,0,0
+"Treaty of Baden",1,0,0,0,0,0
+"Trofej Beograd 96",1,0,0,0,0,0
+"Soviet",1,0,0,0,0,0
+"Nikkei",1,0,0,0,0,0
+"Interstates 80",0,1,0,0,0,0
+"C",0,0,1,0,0,0
+"Syrians",1,0,0,0,0,0
+"The Knot",1,0,0,0,0,0
+"ENGLISH",1,0,0,0,0,0
+"GERMAN",1,0,0,0,0,0
+"Record",0,0,0,1,0,0
+"Afrikaners",1,0,0,0,0,0
+"France-registered",0,0,0,0,1,0
+"Islamic",1,0,0,0,0,0
+"Series",0,0,1,0,0,0
+"European Cup",1,0,0,0,0,0
+"Conservative",1,0,0,0,0,0
+"Vienna-based",0,0,0,0,1,0
+"Year of January",0,0,1,0,0,0
+"World Group II",0,0,0,1,0,0
+"F-14",0,0,0,0,1,0
+"Texas Open",1,0,0,0,0,0
+"Nihon Keizai Shimbun",0,1,0,0,0,0
+"Tutsi",1,0,0,0,0,0
+"Tajik",1,0,0,0,0,0
+"Gulf War U S",0,0,1,0,0,0
+"Arab Israeli",0,0,1,0,0,0
+"mid-Mississippi",0,0,0,0,1,0
+"Kurdish",1,0,0,0,0,0
+"Peking Protocol",1,0,0,0,0,0
+"Schindler 's List",1,0,0,0,0,0
+"Hindus",1,0,0,0,0,0
+"Asian Cup",1,0,0,0,0,0
+"Yugoslav",1,0,0,0,0,0
+"Brazilians",1,0,0,0,0,0
+"Boxer Rising",1,0,0,0,0,0
+"F-15",0,0,0,0,1,0
+"World Boxing Council WBC",0,0,0,1,0,0
+"Mexican",1,0,0,0,0,0
+"The Collapse",1,0,0,0,0,0
+"Tripoli",0,1,0,0,0,0
+"Vancouver IndyCar",0,0,1,0,0,0
+"American Dennis Mitchell",0,0,1,0,0,0
+"MAJOR LEAGUE",1,0,0,0,0,0
+"Artisans for Peace",1,0,0,0,0,0
+"American Tyson",0,0,1,0,0,0
+"Enterprise",0,0,0,0,1,0
+"IPC",1,0,0,0,0,0
+"Pro Bowl",1,0,0,0,0,0
+"Italian",1,0,0,0,0,0
+"Christian",1,0,0,0,0,0
+"Portuguese",1,0,0,0,0,0
+"Chechen Republic",0,1,0,0,0,0
+"Washington",0,1,0,0,0,0
+"Russians",1,0,0,0,0,0
+"Sheffield Shield",1,0,0,0,0,0
+"Olympics",1,0,0,0,0,0
+"African Cup Winners ' Cup",1,0,0,0,0,0
+"Lula I",0,0,0,0,1,0
+"UEFA Cups Lazio",0,0,1,0,0,0
+"Western",1,0,0,0,0,0
+"Russian",1,0,0,0,0,0
+"Islam",1,0,0,0,0,0
+"Indonesian-origin",0,0,0,0,1,0
+"North Korean Red Cross",0,1,0,0,0,0
+"Vinson",0,0,0,0,1,0
+"American Nate Miller",0,0,1,0,0,0
+"Trades Disputes Act",1,0,0,0,0,0
+"Transylvanian",0,0,0,0,1,0
+"Tasmanian",1,0,0,0,0,0
+"Democratic",1,0,0,0,0,0
+"Asian",1,0,0,0,0,0
+"War of Spanish Succession Charles",0,0,1,0,0,0
+"Hindu Moslem",0,0,1,0,0,0
+"World War Two",1,0,0,0,0,0
+"Azeris",1,0,0,0,0,0
+"Canadians",1,0,0,0,0,0
+"Northeastern",0,0,0,1,0,0
+"African Nations ' Cup",1,0,0,0,0,0
+"Flight 150",1,0,0,0,0,0
+"Czech",0,1,0,0,0,0
+"Euro 96",1,0,0,0,0,0
+"Communist",1,0,0,0,0,0
+"Korean War",0,0,1,0,0,0
+"Dubai",0,0,0,0,1,0
+"Dublin",0,1,0,0,0,0
+"Northern Ireland",0,1,0,0,0,0
+"Cambodian",1,0,0,0,0,0
+"Armenian",1,0,0,0,0,0
+"DUTCH",1,0,0,0,0,0
+"Fal",1,0,0,0,0,0
+"National Association of Purchasing Management NAPM",0,0,0,1,0,0
+"Bosnian Serbs Poland",0,0,1,0,0,0
+"Rottweilers",1,0,0,0,0,0
+"Uzi",1,0,0,0,0,0
+"Oscar",0,1,0,0,0,0
+"Euro",1,0,0,0,0,0
+"Berne Convention",1,0,0,0,0,0
+"Anne of a Thousand Days ``",0,0,1,0,0,0
+"Iraqi Kurds",1,0,0,0,0,0
+"Guinean",1,0,0,0,0,0
+"Arabian Light",1,0,0,0,0,0
+"Bonny Light",1,0,0,0,0,0
+"Israeli Guardians of the Cedars",0,0,1,0,0,0
+"SCOTTISH",1,0,0,0,0,0
+"Boxer",0,0,0,0,1,0
+"Social Democrats",1,0,0,0,0,0
+"Japanese",1,0,0,0,0,0
+"Roman Catholic",1,0,0,0,0,0
+"Venice Film Festival",1,0,0,0,0,0
+"Slovak",1,0,0,0,0,0
+"Pilkington Cup",1,0,0,0,0,0
+"Greater Milwaukee Open",1,0,0,0,0,0
+"BSE",1,0,0,0,0,0
+"Doetinchem",0,1,0,0,0,0
+"London",0,1,0,0,0,0
+"Republicans",1,0,0,0,0,0
+"Titanic",1,0,0,0,0,0
+"ISDN",0,0,0,1,0,0
+"Golden Four",1,0,0,0,0,0
+"AK",0,0,1,0,0,0
+"Thai",1,0,0,0,0,0
+"Euro-sceptic",0,0,0,0,1,0
+"Algerian",1,0,0,0,0,0
+"African",1,0,0,0,0,0
+"Pakistani",1,0,0,0,0,0
+"Montenegrin",1,0,0,0,0,0
+"Saudi",1,0,0,0,0,0
+"F 15",0,0,0,1,0,0
+"Chilean Congress",0,0,1,0,0,0
+"Estonian Tallinna Pank",0,0,1,0,0,0
+"Israeli-held",0,0,0,0,1,0
+"Ontario-based",0,0,0,0,1,0
+"Greiner Petter Memm",0,0,0,1,0,0
+"German",1,0,0,0,0,0
+"WESTERN DIVISION SAN DIEGO",0,0,1,0,0,0
+"Polish Jews",0,0,1,0,0,0
+"Nobel",1,0,0,0,0,0
+"Levoxyl",0,0,0,0,1,0
+"F-16",0,0,0,0,1,0
+"Return of the Legend",1,0,0,0,0,0
+"Boston",0,1,0,0,0,0
+"Arabic",1,0,0,0,0,0
+"Hong Kong-based",0,0,0,0,1,0
+"Roman",1,0,0,0,0,0
+"Serbian",1,0,0,0,0,0
+"Fair Play",0,0,0,1,0,0
+"ITALIAN",1,0,0,0,0,0
+"Brazilian",1,0,0,0,0,0
+"European Tour",1,0,0,0,0,0
+"Sheriat Islamic",0,0,1,0,0,0
+"British",1,0,0,0,0,0
+"A World of Things",1,0,0,0,0,0
+"London-based",0,0,0,0,1,0
+"Hutus MAHALA",0,0,1,0,0,0
+"Grand Slam Cup",1,0,0,0,0,0
+"North Africans",1,0,0,0,0,0
+"Fed Cup",1,0,0,0,0,0
+"GMT",1,0,0,0,0,0
+"NFL",0,1,0,0,0,0
+"Syrian",1,0,0,0,0,0
+"Holsteins",0,0,0,1,0,0
+"Bosnian",1,0,0,0,0,0
+"GMT NEW YORK",0,0,1,0,0,0
+"German Bunds",0,0,1,0,0,0
+"Italians",1,0,0,0,0,0
+"Arabs",1,0,0,0,0,0
+"ex-Milan",0,0,0,0,1,0
+"ex-England",0,0,0,0,1,0
+"Libyan",1,0,0,0,0,0
+"Chinese",1,0,0,0,0,0
+"Englishman",1,0,0,0,0,0
+"Zulu",1,0,0,0,0,0
+"Ohio",0,1,0,0,0,0
+"World Cup Super G",0,0,1,0,0,0
+"Colombian",1,0,0,0,0,0
+"Reynard Ford Cosworth",0,1,0,0,0,0
+"NCAA AMERICAN",0,0,1,0,0,0
+"Moroccan",1,0,0,0,0,0
+"11th Circuit U S Court of Appeals",0,0,0,1,0,0
+"European Conservative",0,0,1,0,0,0
+"Iraqis",1,0,0,0,0,0
+"Latin American",1,0,0,0,0,0
+"English National League",1,0,0,0,0,0
+"Holy Roman",0,0,1,0,0,0
+"ERA",1,0,0,0,0,0
+"West Indian",1,0,0,0,0,0
+"Hog",0,0,0,1,0,0
+"Champions ' League",1,0,0,0,0,0
+"Jamaican",1,0,0,0,0,0
+"Asian Games",1,0,0,0,0,0
+"ASEAN",0,1,0,0,0,0
+"ENGLISH COUNTY",0,0,1,0,0,0
+"pro-Israeli",0,0,0,0,1,0
+"The Decaying Mansion",1,0,0,0,0,0
+"Philippine",0,1,0,0,0,0
+"Southeast Asian",1,0,0,0,0,0
+"Italian BTPs",0,0,1,0,0,0
+"Afrikaans",1,0,0,0,0,0
+"Portuguese Open",1,0,0,0,0,0
+"Major League Baseball",1,0,0,0,0,0
+"Vienna",0,1,0,0,0,0
+"Europoean Cup",1,0,0,0,0,0
+"Eurodollars",0,0,0,0,1,0
+"Nazi German",0,0,1,0,0,0
+"EASTERN",0,0,1,0,0,0
+"BRAZILIAN",1,0,0,0,0,0
+"Europeans",1,0,0,0,0,0
+"Boxing-Bruno",0,0,0,0,1,0
+"Nasdaq",1,0,0,0,0,0
+"Labor Day",1,0,0,0,0,0
+"YUGOSLAV",1,0,0,0,0,0
+"GERMAN CUP",1,0,0,0,0,0
+"American Oliver McCall",0,0,1,0,0,0
+"Intelligent Network IN",0,0,1,0,0,0
+"Dow Jones",1,0,0,0,0,0
+"Israeli",1,0,0,0,0,0
+"Chechen",1,0,0,0,0,0
+"Briton",1,0,0,0,0,0
+"Ohio-based",0,0,0,0,1,0
+"World Championships",1,0,0,0,0,0
+"Myos Yang",0,0,0,0,1,0
+"Argentine Abel Balbo",0,0,1,0,0,0
+"Ottoman Turkish",0,0,1,0,0,0
+"World",0,0,1,0,0,0
+"Ranji Trophy",1,0,0,0,0,0
+"Zairean",1,0,0,0,0,0
+"German Israeli",0,0,1,0,0,0
+"MISERY MELBOURNE",0,0,0,1,0,0
+"Boston-based",0,0,0,0,1,0
+"GATT",1,0,0,0,0,0
+"African Afrikaners",0,0,1,0,0,0
+"TOUR OF NETHERLANDS",1,0,0,0,0,0
+"Hebrew Palestinian",0,0,1,0,0,0
+"Spanish",1,0,0,0,0,0
+"Algerians",1,0,0,0,0,0
+"Hong Kong Open",1,0,0,0,0,0
+"European Champions ' League",1,0,0,0,0,0
+"Wimbledon",1,0,0,0,0,0
+"EUROPEAN",1,0,0,0,0,0
+"Kalashnikov",1,0,0,0,0,0
+"NHL ICE",0,0,0,1,0,0
+"Rose Bowl",1,0,0,0,0,0
+"Rwandan Hutu",0,0,1,0,0,0
+"Indonesian",1,0,0,0,0,0
+"Soul Alone",1,0,0,0,0,0
+"World Series of Golf",1,0,0,0,0,0
+"East Timorese",1,0,0,0,0,0
+"serie A",1,0,0,0,0,0
+"Texan",1,0,0,0,0,0
+"Libyans",1,0,0,0,0,0
+"Cuban",1,0,0,0,0,0
+"Minneapolis",0,1,0,0,0,0
+"Austrians",1,0,0,0,0,0
+"SAfrican",1,0,0,0,0,0
+"Open",1,0,0,0,0,0
+"Jewish",1,0,0,0,0,0
+"German Cup",1,0,0,0,0,0
+"Tattersalls Breeders",0,0,0,0,1,0
+"pro-European",0,0,0,0,1,0
+"BellSouth Classic Estes",0,0,1,0,0,0
+"Danish",1,0,0,0,0,0
+"KCBT",0,1,0,0,0,0
+"Australian Tom Moody",0,0,1,0,0,0
+"Hindu",1,0,0,0,0,0
+"World Group I",0,0,0,1,0,0
+"BILO",0,0,0,0,1,0
+"Honda RV",0,0,0,0,1,0
+"FED CUP Richard Finn",0,0,1,0,0,0
+"Canadian",1,0,0,0,0,0
+"BRITISH MASTERS",1,0,0,0,0,0
+"Million Man March",1,0,0,0,0,0
+"Standard Poor 's",0,0,0,1,0,0
+"NFC East",0,0,0,1,0,0
+"PMI",0,0,1,0,0,0
+"Dow",0,0,0,0,1,0
+"Brazilian-born",0,0,0,0,1,0
+"Bertillon 166",0,0,0,0,1,0
+"CENTRAL DIVISION",1,0,0,0,0,0
+"Democratic Convention",1,0,0,0,0,0
+"Surinamese",1,0,0,0,0,0
+"London-to-Boston",0,0,0,0,1,0
+"Minas",0,0,0,0,1,0
+"WESTERN DIVISION TEXAS",0,0,1,0,0,0
+"Japanese Goverment Bonds",1,0,0,0,0,0
+"Tour of the Netherlands",1,0,0,0,0,0
+"Christians",1,0,0,0,0,0
+"CUP",1,0,0,0,0,0
+"Basque",1,0,0,0,0,0
+"post Games",0,0,0,1,0,0
+"Turkish",1,0,0,0,0,0
+"The Super Peasants",0,1,0,0,0,0
+"Daniella",0,0,0,0,1,0
+"Nigerian",1,0,0,0,0,0
+"Greek",1,0,0,0,0,0
+"Libran",0,0,0,0,1,0
+"Lombardi Award",1,0,0,0,0,0
+"European Michael Heseltine",0,0,1,0,0,0
+"S MX",0,0,0,1,0,0
+"Croatian",1,0,0,0,0,0
+"U S",0,0,0,1,0,0
+"Cultural Revolution",1,0,0,0,0,0
+"Hong Kong-listed",0,0,0,0,1,0
+"Manitoba Government Price Index",0,0,0,1,0,0
+"Engllsh",0,0,0,0,1,0
+"Argentine",1,0,0,0,0,0
+"Australian Anthony Hill",0,0,1,0,0,0
+"Swede Kennet Andersson",0,0,1,0,0,0
+"DAX",1,0,0,0,0,0
+"Jews",1,0,0,0,0,0
+"Rwandan",1,0,0,0,0,0
+"Fascist",0,0,0,1,0,0
+"Arab",1,0,0,0,0,0
+"Australian Rodney Eyles",0,0,1,0,0,0
+"Michael Collins",1,0,0,0,0,0
+"Major League",0,0,0,0,1,0
+"Burmese",1,0,0,0,0,0
+"Euronotes",1,0,0,0,0,0
+"Doberman",1,0,0,0,0,0
+"EUROPEAN TOUR LONDON",0,0,1,0,0,0
+"Zaireans",1,0,0,0,0,0
+"Tunisian",1,0,0,0,0,0
+"WBA",0,1,0,0,0,0
+"JCPenney Classic",1,0,0,0,0,0
+"English",1,0,0,0,0,0
+"Grand Slam",1,0,0,0,0,0
+"Czechs",1,0,0,0,0,0
+"German Axel Schulz",0,0,1,0,0,0
+"Islamists",1,0,0,0,0,0
+"ENGLISH COUNTY CHAMPIONSHIP",1,0,0,0,0,0
+"Argentine Nestor Sensini",0,0,1,0,0,0
+"Scottish",1,0,0,0,0,0
+"Afrikaner",1,0,0,0,0,0
+"Saharan Blend",1,0,0,0,0,0
+"AIDS",1,0,0,0,0,0
+"Med",0,0,1,0,0,0
+"Atlanta Games",1,0,0,0,0,0
+"Blitz",1,0,0,0,0,0
+"Iron Lady",0,1,0,0,0,0
+"Republican",1,0,0,0,0,0
+"Ukrainian",1,0,0,0,0,0
+"76 Cultural Revolution",0,0,1,0,0,0
+"Swedish",1,0,0,0,0,0
+"WBO",0,1,0,0,0,0
+"AUSTRALIAN",0,0,0,1,0,0
+"Moroccan Mohamed Benchaou",0,0,1,0,0,0
+"Austrian",1,0,0,0,0,0
+"Welsh",1,0,0,0,0,0
+"Challenge Cup",0,0,1,0,0,0
+"The Crying Game",1,0,0,0,0,0
+"American",1,0,0,0,0,0
+"AFRICAN CUP WINNERS ' CUP CAIRO",0,0,1,0,0,0
+"Egyptian",1,0,0,0,0,0
+"Gulf War",1,0,0,0,0,0
+"American Olympic",1,0,0,0,0,0
+"NFL AMERICAN",0,0,1,0,0,0
+"Italian Roman Catholic",0,0,1,0,0,0
+"Mexicans",1,0,0,0,0,0
+"Holocaust",1,0,0,0,0,0
+"Liberian",1,0,0,0,0,0
+"German Foreign Ministry",0,0,1,0,0,0
+"RBI",1,0,0,0,0,0
+"Korean",1,0,0,0,0,0
+"ROMANIA",0,1,0,0,0,0
+"PACIFIC DIVISION",0,0,0,1,0,0
+"FTSE 100",1,0,0,0,0,0
+"Olympic",1,0,0,0,0,0
+"Communists",1,0,0,0,0,0
+"SOUTH KOREAN",1,0,0,0,0,0
+"Kurds",1,0,0,0,0,0
+"Czechoslovak",1,0,0,0,0,0
+"Chilean",1,0,0,0,0,0
+"World Open",1,0,0,0,0,0
+"F / A 18",0,0,0,1,0,0
+"National League CHICAGO",0,0,1,0,0,0
+"Minneapolis-based",0,0,0,0,1,0
+"TOPS",1,0,0,0,0,0
+"cocker spaniels",0,0,0,0,1,0
+"Moslem",1,0,0,0,0,0
+"Nortel Open",1,0,0,0,0,0
+"OPEN",0,0,1,0,0,0
+"Uruguay Round",0,0,0,1,0,0
+"British-ruled",0,0,0,0,1,0
+"Chechens",1,0,0,0,0,0
+"Tanzanian",1,0,0,0,0,0
+"Alex ``",0,0,0,1,0,0
+"Englishman Mark Cairns",0,0,1,0,0,0
+"ISRAELI",1,0,0,0,0,0
+"Sudanese",1,0,0,0,0,0
+"AMERICAN LEAGUE EASTERN DIVISION",0,0,1,0,0,0
+"Far Eastern",0,0,0,0,1,0
+"KOREAN",0,0,1,0,0,0
+"Croat",1,0,0,0,0,0
+"Koreans",1,0,0,0,0,0
+"Woman",0,0,1,0,0,0
+"Deligst",0,0,0,0,1,0
+"Labor Day Harry Milling",0,0,1,0,0,0
+"Lawrence of Arabia",1,0,0,0,0,0
+"GRAND SLAM CUP",1,0,0,0,0,0
+"Internet",1,0,0,0,0,0
+"SPANISH",1,0,0,0,0,0
+"Iraqi Kurd",1,0,0,0,0,0
+"All Black",0,1,0,0,0,0
+"ASIAN CUP GROUP",0,0,1,0,0,0
+"Palestinians",1,0,0,0,0,0
+"Bahraini",0,1,0,0,0,0
+"Mediterranean",1,0,0,0,0,0
+"National Football League",0,1,0,0,0,0
+"Poles",1,0,0,0,0,0
+"Tripoli-based",0,0,0,0,1,0
+"Chicago Purchasing Managers",0,1,0,0,0,0
+"Russian Igor Kolyvanov",0,0,1,0,0,0
+"Christian Shi'ite Moslem",0,0,1,0,0,0
+"Europa Cup",1,0,0,0,0,0
+"Nobel Peace Prize",1,0,0,0,0,0
+"UEFA Cup",1,0,0,0,0,0
+"Azerbaijani",0,1,0,0,0,0
+"BOBSLEIGH WORLD CUP",0,0,1,0,0,0
+"Kuwaiti",1,0,0,0,0,0
+"LARA",0,1,0,0,0,0
+"Fri",0,0,0,1,0,0
+"Learjet 36",1,0,0,0,0,0
+"NYC Time",0,0,1,0,0,0
+"South Korean",1,0,0,0,0,0
+"Northern",0,0,1,0,0,0
+"US",0,1,0,0,0,0
+"PGA",0,1,0,0,0,0
+"South African",1,0,0,0,0,0
+"Ashes",1,0,0,0,0,0
+"Nation 's Cup",1,0,0,0,0,0
+"Democrat Walter Mondale",0,0,1,0,0,0
+"New York",0,1,0,0,0,0
+"G",0,0,1,0,0,0
+"Budisuryana",0,0,0,0,1,0
+"Zimbabwe Open",1,0,0,0,0,0
+"Dutch",1,0,0,0,0,0
+"JCPENNEY",0,0,1,0,0,0
+"Atlantic",0,0,1,0,0,0
+"Anglicans",1,0,0,0,0,0
+"Mahindra International",1,0,0,0,0,0
+"BellSouth Classic",1,0,0,0,0,0
+"Israelis",1,0,0,0,0,0
+"American James Heath",0,0,1,0,0,0
+"Britons",1,0,0,0,0,0
+"Serb",1,0,0,0,0,0
+"F 16",0,0,0,1,0,0
+"Real Madrid-Barcelona",0,0,0,0,1,0
+"Permian",1,0,0,0,0,0
+"Hungarian",1,0,0,0,0,0
+"EUROLEAGUE",1,0,0,0,0,0
+"Americans Canada",0,0,1,0,0,0
+"Bosnian Serb",1,0,0,0,0,0
+"Panamanian",1,0,0,0,0,0
+"World Grand Prix",1,0,0,0,0,0
+"Swiss",1,0,0,0,0,0
+"Singer World Series",1,0,0,0,0,0
+"IBF",0,1,0,0,0,0
+"Viva Zapata",1,0,0,0,0,0
+"Franco African",0,0,1,0,0,0
+"PGA Tour",1,0,0,0,0,0
+"Armenians",1,0,0,0,0,0
+"pro-Hindu",0,0,0,0,1,0
+"Frenchman Patrick Vieira",0,0,1,0,0,0
+"Fed",0,1,0,0,0,0
+"Bulgarian",1,0,0,0,0,0
+"Kurd",1,0,0,0,0,0
+"DOCSTART",0,0,0,1,0,0
+"Liberal",0,0,0,0,1,0
+"Indian",1,0,0,0,0,0
+"FRENCH",1,0,0,0,0,0
+"Belgian Franc",0,0,1,0,0,0
+"Mauritian",1,0,0,0,0,0
+"Bangkok",0,0,0,0,1,0
+"Cup",1,0,0,0,0,0
+"IAAF Grand Prix Final",1,0,0,0,0,0
+"Europe Agreement",0,0,1,0,0,0
+"WORLD CUP",1,0,0,0,0,0
+"East Timorese Roman Catholic",0,0,1,0,0,0
+"1997 FED CUP",1,0,0,0,0,0
+"Moslems",1,0,0,0,0,0
+"Norwegian",1,0,0,0,0,0
+"British Masters",1,0,0,0,0,0
+"Irish",1,0,0,0,0,0
+"division",0,0,0,0,1,0
+"Eurodollar",1,0,0,0,0,0
+"American League DETROIT",0,0,1,0,0,0
+"EDT",0,0,0,1,0,0
+"FRANCE Bond",0,0,0,1,0,0
+"Albanian",1,0,0,0,0,0
+"Lucky Emdldm",0,0,0,0,1,0
+"F 14",0,0,0,1,0,0
+"National League",1,0,0,0,0,0
+"A",0,0,1,0,0,0
+"Singaporean",1,0,0,0,0,0
+"Yakoma",0,0,0,0,1,0
+"Chinese Nationalist",0,0,1,0,0,0
+"Africans",1,0,0,0,0,0
+"Hong Kong",0,1,0,0,0,0
+"American League",1,0,0,0,0,0
+"Iraqi Kurdish",1,0,0,0,0,0
+"Lebanese",1,0,0,0,0,0
+"HONG KONG OPEN",1,0,0,0,0,0
+"Super 12",0,0,0,1,0,0
+"Intertoto",1,0,0,0,0,0
+"CENTRAL DIVISION HOUSTON",0,0,1,0,0,0
+"Uzbek",1,0,0,0,0,0
+"LPGA Tours",0,0,1,0,0,0
+"My Turn",1,0,0,0,0,0
+"World Series",1,0,0,0,0,0
+"Ugandan",1,0,0,0,0,0
+"CENTRAL DIVISION CLEVELAND",0,0,1,0,0,0
+"American Stock Exchange",0,1,0,0,0,0
+"Dalmatians",0,0,0,0,1,0
+"Kurdish-controlled",0,0,0,0,1,0
+"National Hockey League",0,1,0,0,0,0
+"neo",0,0,0,1,0,0
+"Lillehammer Winter Olympics",0,0,1,0,0,0
+"Islam Mills",0,0,1,0,0,0
+"Wallaby",0,1,0,0,0,0
+"German Villa",0,1,0,0,0,0
+"World Cup",1,0,0,0,0,0
+"Pan American",1,0,0,0,0,0
+*TOTAL*,317,43,116,41,124,0

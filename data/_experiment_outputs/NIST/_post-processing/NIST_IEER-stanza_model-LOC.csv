@@ -1,0 +1,110 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"PRISTINA",0,0,0,0,1,0
+"Shah Alam",0,0,0,0,1,0
+"Little Rock",1,0,0,0,0,0
+"Pulau Ular",1,0,0,0,0,0
+"Rockies",1,0,0,0,0,0
+"N.J.",0,0,0,0,1,0
+"Santa Fe",0,0,0,0,1,0
+"Appalachians",1,0,0,0,0,0
+"the French Quarter",0,0,1,0,0,0
+"Waterford",0,0,0,0,1,0
+"PRICE",0,0,0,0,1,0
+"the Black Sea",0,0,1,0,0,0
+"Cherating village",0,0,1,0,0,0
+"Dakotas",1,0,0,0,0,0
+"Wild West",0,0,0,1,0,0
+"Southwest",0,0,0,1,0,0
+"Jerusalem",0,0,0,0,1,0
+"Oceania",1,0,0,0,0,0
+"West Coast",0,0,0,1,0,0
+"Great Lakes",1,0,0,0,0,0
+"BEIRUT",0,0,0,0,1,0
+"Silicon Valley",1,0,0,0,0,0
+"Lake Michigan",1,0,0,0,0,0
+"Arctic Circlefor",0,0,1,0,0,0
+"BELFAST",0,0,0,0,1,0
+"Caspian Sea",1,0,0,0,0,0
+"Mississippi Valley",1,0,0,0,0,0
+"Houston Street",0,0,0,0,1,0
+"the Tennessee Valley",0,0,1,0,0,0
+"Southeast",0,0,1,0,0,0
+"andOklahoma",0,0,1,0,0,0
+"England",0,0,0,0,1,0
+"NEW ORLEANS",0,0,0,0,1,0
+"Tiananmen Square",0,0,0,0,1,0
+"HEERENVEEN",0,0,0,0,1,0
+"Plains",0,0,0,1,0,0
+"Western Europe's",0,0,1,0,0,0
+"Middle Atlantic",0,0,1,0,0,0
+"Eastern Slavonia",1,0,0,0,0,0
+"Tanjung",0,0,0,0,1,0
+"Cherating River",1,0,0,0,0,0
+"Asia",1,0,0,0,0,0
+"KRASNOYARSK",0,0,0,0,1,0
+"Canaan",0,0,0,0,1,0
+"Helen Keller",0,1,0,0,0,0
+"Jalan BukitKemuning",0,0,0,0,1,0
+"Peninsular Malaysia",0,0,1,0,0,0
+"MINNEAPOLIS",0,0,0,0,1,0
+"Southeast Asia",1,0,0,0,0,0
+"the Cherating River",0,0,1,0,0,0
+"Northwest",0,0,0,1,0,0
+"SAN`A",0,0,0,0,1,0
+"Sumer",1,0,0,0,0,0
+"the North Pole",0,0,1,0,0,0
+"Broadway",0,0,0,0,1,0
+"San`a",0,0,0,0,1,0
+"MuscleShoals",1,0,0,0,0,0
+"Central Park",0,0,0,0,1,0
+"sun",0,0,0,0,1,0
+"Africa",1,0,0,0,0,0
+"Poland",0,0,0,0,1,0
+"South America",1,0,0,0,0,0
+"Virginia",0,0,0,0,1,0
+"CALCUTTA",0,0,0,0,1,0
+"NorthPacific",1,0,0,0,0,0
+"the Middle West",0,0,0,1,0,0
+"Americas",1,0,0,0,0,0
+"New World",0,0,0,0,1,0
+"Staten Island",1,0,0,0,0,0
+"the middle Mississippi Valley",0,0,1,0,0,0
+"TOKYO",0,0,0,0,1,0
+"Northeast",0,0,0,1,0,0
+"UTAH",0,0,0,0,1,0
+"Johor",0,0,0,0,1,0
+"East Coast",0,0,0,1,0,0
+"Middle America",0,0,1,0,0,0
+"North",0,0,1,0,0,0
+"Sukhumi",0,0,0,0,1,0
+"OSLO",0,0,0,0,1,0
+"PARIS",0,0,0,0,1,0
+"BLANTYRE",0,0,0,0,1,0
+"Middle Atlantic States",0,0,1,0,0,0
+"the Renaissance Towerin Florence",0,0,1,0,0,0
+"the Gulf of Mexico",0,0,1,0,0,0
+"Krasnoyarsk",0,0,0,0,1,0
+"Limerick",0,0,0,0,1,0
+"Mentakab",0,0,0,0,1,0
+"the District ofColumbia",0,0,1,0,0,0
+"Europe",1,0,0,0,0,0
+"Caspian",1,0,0,0,0,0
+"BONN",0,0,0,0,1,0
+"ULSTER",0,0,0,0,1,0
+"earth",0,0,0,0,1,0
+"PulauUlar",0,0,0,0,1,0
+"JERUSALEM",0,0,0,0,1,0
+"N.Y.",0,0,0,0,1,0
+"79th Street",0,0,0,0,1,0
+"theMediterranean",0,0,1,0,0,0
+"West",0,0,1,0,0,0
+"Missouri RiverValley",0,0,0,0,1,0
+"Amsterdam",0,0,0,0,1,0
+"milky way",0,0,0,0,1,0
+"Nairobi",0,0,0,0,1,0
+"Cascades",0,0,0,0,1,0
+"Shoals",1,0,0,0,0,0
+"South",0,0,1,0,0,0
+"Teluk Intan",0,0,0,0,1,0
+"N.M.",0,0,0,0,1,0
+*TOTAL*,25,1,22,8,104,0

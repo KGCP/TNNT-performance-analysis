@@ -1,0 +1,617 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"National Wildlife Refuge",0,1,0,0,0,0
+"the Baja Peninsula",0,0,0,0,0,1
+"Guantanamo Bay",0,1,0,0,0,0
+"Golo district",0,0,0,0,0,1
+"the Amur River",0,1,0,0,0,0
+"Artibonite",0,1,0,0,0,0
+"Kurram",0,1,0,0,0,0
+"Aegean",0,1,0,0,0,0
+"Northern Sea Route Norway",0,0,0,0,0,1
+"Atlantic",0,1,0,0,0,0
+"Middle Belt",0,1,0,0,0,0
+"Persian Gulf",0,1,0,0,0,0
+"Spin Boldak",0,1,0,0,0,0
+"Qeshm island",0,0,0,0,0,1
+"The Phoenix Islands Protected Area",0,0,0,0,0,1
+"Bay of Pigs",0,1,0,0,0,0
+"the Islamic Maghreb",0,1,0,0,0,0
+"Yadana",0,1,0,0,0,0
+"the Sea of Azov",0,0,0,0,0,1
+"Pluto",0,1,0,0,0,0
+"East Asia '",0,0,0,0,0,1
+"Swat Valley",0,1,0,0,0,0
+"Mekong",0,1,0,0,0,0
+"Hebrides",0,0,0,0,0,1
+"Shebaa Farms",0,1,0,0,0,0
+"Asia Oceania",0,0,0,0,0,1
+"Central Asia",0,1,0,0,0,0
+"Kani Wam",0,1,0,0,0,0
+"Parchin",0,1,0,0,0,0
+"the Western Sovereign Base Area",0,0,0,0,0,1
+"the South Pacific",0,0,0,0,0,1
+"Borena",0,1,0,0,0,0
+"The UBT Ocean",0,0,0,0,0,1
+"Far East Khabarovsk",0,1,0,0,0,0
+"Pyrenees",0,1,0,0,0,0
+"Prithvi",0,0,0,0,0,1
+"Convergence",0,1,0,0,0,0
+"the Western U",0,0,0,0,0,1
+"Caspian Sea",0,1,0,0,0,0
+"Shi'ite",0,1,0,0,0,0
+"Gold Coast",0,1,0,0,0,0
+"Arctic",0,1,0,0,0,0
+"Western Hemispheres",0,0,0,0,0,1
+"Shah Wali Kot",0,1,0,0,0,0
+"the Himalayan region",0,0,0,0,0,1
+"Alasay Valley",0,1,0,0,0,0
+"Polynesia",0,0,0,0,0,1
+"a National Wildlife Refuge",0,0,0,0,0,1
+"the African Sahara",0,0,0,0,0,1
+"Khakrez",0,0,0,0,0,1
+"The Nicobar Islands",0,0,0,0,0,1
+"Middle East",0,1,0,0,0,0
+"the Coral Sea Islands",0,0,0,0,0,1
+"Catanduanes",0,0,0,0,0,1
+"a Middle East",0,0,0,0,0,1
+"North Caucasus",0,1,0,0,0,0
+"Chaco",0,1,0,0,0,0
+"the Akrotiri Sovereign Base Area",0,0,0,0,0,1
+"Channel Island",0,1,0,0,0,0
+"Grand Cayman Island",0,1,0,0,0,0
+"Holy Land",0,1,0,0,0,0
+"the Ganges River",0,0,0,0,0,1
+"Sohrab Goth",0,1,0,0,0,0
+"the Yucatan Peninsula",0,0,0,0,0,1
+"Pacific Ocean",0,1,0,0,0,0
+"Kuril Islands",0,1,0,0,0,0
+"Garmser",0,1,0,0,0,0
+"Campbell Bay",0,0,0,0,0,1
+"Borneo",0,0,0,0,0,1
+"The Spratly Islands",0,0,0,0,0,1
+"San Andres",0,1,0,0,0,0
+"Shi'ite Nahrawan",0,1,0,0,0,0
+"Tokage",0,1,0,0,0,0
+"s Central Highlands",0,0,0,0,0,1
+"The Gilbert Islands",0,0,0,0,0,1
+"Kabardino Balkaria",0,0,0,0,0,1
+"the Gulf of Guinea",0,1,0,0,0,0
+"Dagestan",0,1,0,0,0,0
+"Golan Heights",0,1,0,0,0,0
+"Sahel",0,1,0,0,0,0
+"Dera Bugti",0,1,0,0,0,0
+"Saint Lawrence Seaway Canada",0,0,0,0,0,1
+"Swat",0,1,0,0,0,0
+"Gulf of Aden",0,1,0,0,0,0
+"Gilbert",0,0,0,0,0,1
+"s Nicobar Islands",0,0,0,0,0,1
+"the Northern Hemisphere",0,0,0,0,0,1
+"the Gulf of Thailand",0,0,0,0,0,1
+"Mian Neshin",0,1,0,0,0,0
+"Kashmir",0,1,0,0,0,0
+"Arctic Ocean",0,1,0,0,0,0
+"Baltic Sea",0,1,0,0,0,0
+"Ayala Alabang",0,1,0,0,0,0
+"the Persian Gulf",0,0,0,0,0,1
+"Irrawady River",0,1,0,0,0,0
+"Ile Saint Paul",0,0,0,0,0,1
+"South Waziristan",0,1,0,0,0,0
+"Hatf Six",0,1,0,0,0,0
+"a Fan Belt",0,0,0,0,0,1
+"South Pacific",0,1,0,0,0,0
+"Khao Lak",0,0,0,0,0,1
+"the Central African Republic",0,1,0,0,0,0
+"the Andaman Nicobar Islands",0,0,0,0,0,1
+"Scandinavia",0,1,0,0,0,0
+"the Florida Panhandle",0,0,0,0,0,1
+"Jolo island",0,0,0,0,0,1
+"Euphrates River",0,1,0,0,0,0
+"the Gilbert Islands",0,0,0,0,0,1
+"T'bilisi Erzerum",0,0,0,0,0,1
+"Plains",0,0,0,0,0,1
+"South",0,1,0,0,0,0
+"Giro District",0,1,0,0,0,0
+"East Atlantic",0,1,0,0,0,0
+"the Bheri River",0,0,0,0,0,1
+"Mount Merapi",0,1,0,0,0,0
+"Jabel Marra",0,1,0,0,0,0
+"Kamchatka Peninsula",0,1,0,0,0,0
+"S. Gulf Coast",0,0,0,0,0,1
+"s Java Island",0,0,0,0,0,1
+"South America",0,1,0,0,0,0
+"Balkan",0,1,0,0,0,0
+"the Golan Heights",0,1,0,0,0,0
+"Irrawaddy River",0,1,0,0,0,0
+"Canaries",0,1,0,0,0,0
+"Horn of Africa",0,1,0,0,0,0
+"Everest",0,1,0,0,0,0
+"sub Saharan Africa",0,0,0,0,0,1
+"Prudhoe Bay",0,1,0,0,0,0
+"Kamchatka",0,0,0,0,0,1
+"Equatoria",0,1,0,0,0,0
+"the Via Baltica",0,0,0,0,0,1
+"the Suez Canal Egypt",0,0,0,0,0,1
+"Niger Delta",0,1,0,0,0,0
+"the Turks and Caicos Islands",0,0,0,0,0,1
+"the Helmand River",0,0,0,0,0,1
+"the Horn of Africa",0,1,0,0,0,0
+"Amiriyah",0,1,0,0,0,0
+"Earth",0,1,0,0,0,0
+"Vermilion Parish",0,1,0,0,0,0
+"Western",0,1,0,0,0,0
+"midwest",0,0,0,0,0,1
+"the Cocos Islands",0,0,0,0,0,1
+"Litani",0,1,0,0,0,0
+"the Colorado River",0,0,0,0,0,1
+"the Southern Hemisphere",0,0,0,0,0,1
+"Surkh Rod",0,1,0,0,0,0
+"the Asia Pacific",0,0,0,0,0,1
+"N. S. Gulf Coast",0,0,0,0,0,1
+"Naad Ali",0,1,0,0,0,0
+"The Northwest Passage",0,0,0,0,0,1
+"Mount Merapi '",0,0,0,0,0,1
+"Sinak",0,1,0,0,0,0
+"the Solomon Islands",0,0,0,0,0,1
+"The Niger Delta",0,0,0,0,0,1
+"Saydiyah",0,0,0,0,0,1
+"the Baja California Peninsula",0,0,0,0,0,1
+"Mideast",0,1,0,0,0,0
+"Surma",0,0,0,0,0,1
+"South Asia",0,1,0,0,0,0
+"Adraskan",0,1,0,0,0,0
+"Eastern Azerbaijan",0,0,0,0,0,1
+"Vinh Long",0,1,0,0,0,0
+"Helmand",0,1,0,0,0,0
+"Mayon Volcano",0,1,0,0,0,0
+"Askja",0,1,0,0,0,0
+"Kohlu",0,1,0,0,0,0
+"Pattle Island",0,1,0,0,0,0
+"Bududa",0,1,0,0,0,0
+"Upper West",0,1,0,0,0,0
+"Rabdhure",0,1,0,0,0,0
+"North Sea",0,1,0,0,0,0
+"the Bei River",0,0,0,0,0,1
+"Pitcairn Island",0,1,0,0,0,0
+"the Caroline Islands",0,0,0,0,0,1
+"South Darfur",0,1,0,0,0,0
+"s Canary Islands",0,0,0,0,0,1
+"Teesta",0,0,0,0,0,1
+"Antarctic",0,1,0,0,0,0
+"the East China Sea",0,1,0,0,0,0
+"San Andres Island",0,1,0,0,0,0
+"The Cayman Islands",0,0,0,0,0,1
+"Western Europe",0,1,0,0,0,0
+"Gulf of Guinea",0,1,0,0,0,0
+"Pacific",0,1,0,0,0,0
+"Western Hemisphere",0,1,0,0,0,0
+"the Arabian Peninsula",0,1,0,0,0,0
+"Channel Islands",0,1,0,0,0,0
+"Garden District",0,0,0,0,0,1
+"the Florida Keys",0,0,0,0,0,1
+"Mars",0,1,0,0,0,0
+"Khogyani",0,1,0,0,0,0
+"Bakwa",0,1,0,0,0,0
+"Amur",0,1,0,0,0,0
+"North Rhine Westphalia",0,0,0,0,0,1
+"Palnoo",0,1,0,0,0,0
+"earth",0,1,0,0,0,0
+"Midwest",0,0,0,0,0,1
+"Acropolis",0,1,0,0,0,0
+"Antarctica",0,1,0,0,0,0
+"Mount Everest",0,1,0,0,0,0
+"South Asian",0,1,0,0,0,0
+"Darien",0,1,0,0,0,0
+"the Litani River",0,0,0,0,0,1
+"Tula",0,1,0,0,0,0
+"Luzon",0,1,0,0,0,0
+"Mount Gabla",0,1,0,0,0,0
+"the Swat valley",0,0,0,0,0,1
+"Lower Juba",0,1,0,0,0,0
+"Helmand River",0,1,0,0,0,0
+"Southern Asia",0,1,0,0,0,0
+"the Danube Delta",0,0,0,0,0,1
+"the Temple Mount",0,0,0,0,0,1
+"Midway Atoll",0,1,0,0,0,0
+"Cuvette",0,0,0,0,0,1
+"Ural mountains",0,0,0,0,0,1
+"Manshiyet Nasr",0,1,0,0,0,0
+"Ruegen",0,1,0,0,0,0
+"The Southern Lands",0,0,0,0,0,1
+"Sierra Leone",0,1,0,0,0,0
+"African",0,1,0,0,0,0
+"Jihad",0,1,0,0,0,0
+"the Gulf of Aden",0,1,0,0,0,0
+"the Songhua River",0,0,0,0,0,1
+"Siberia",0,1,0,0,0,0
+"Shan",0,1,0,0,0,0
+"Chandipur",0,1,0,0,0,0
+"Midway Atoll NWR",0,1,0,0,0,0
+"Dong Anh",0,1,0,0,0,0
+"Shi'ite Baladiyat",0,1,0,0,0,0
+"Mindanao",0,1,0,0,0,0
+"Hachijo Island",0,1,0,0,0,0
+"Himalayas",0,1,0,0,0,0
+"Zahri",0,0,0,0,0,1
+"Tomini Bay",0,1,0,0,0,0
+"the Bay of Bengal",0,1,0,0,0,0
+"Qur'an",0,1,0,0,0,0
+"Jebel Marra",0,1,0,0,0,0
+"The Pacific coast",0,0,0,0,0,1
+"Nias",0,1,0,0,0,0
+"Sumatra",0,1,0,0,0,0
+"the New Hebrides",0,0,0,0,0,1
+"s Howlwadaag District",0,0,0,0,0,1
+"Accham district",0,0,0,0,0,1
+"Rodrigues",0,1,0,0,0,0
+"Beyazit district",0,0,0,0,0,1
+"the Sunda Strait",0,0,0,0,0,1
+"North West Frontier province",0,0,0,0,0,1
+"Bekaa",0,1,0,0,0,0
+"the Rasht Valley",0,0,0,0,0,1
+"the Bekaa Valley",0,0,0,0,0,1
+"Cachet Lake",0,1,0,0,0,0
+"the Soufriere Hills Volcano",0,0,0,0,0,1
+"The Philippine Islands",0,0,0,0,0,1
+"Sumatra island",0,1,0,0,0,0
+"Lower Dir",0,1,0,0,0,0
+"Jebel Marra mountains",0,0,0,0,0,1
+"the Khyber Pass",0,0,0,0,0,1
+"Saipan",0,1,0,0,0,0
+"the Arafura Sea",0,0,0,0,0,1
+"Abiya region",0,0,0,0,0,1
+"Strait of Hormuz Iran Oman",0,0,0,0,0,1
+"Tenerife",0,1,0,0,0,0
+"Western Equatoria",0,1,0,0,0,0
+"the Gulf of Mexico",0,1,0,0,0,0
+"the Southern Ocean",0,0,0,0,0,1
+"the Kerch Strait",0,0,0,0,0,1
+"s Andaman Islands",0,0,0,0,0,1
+"the Dniester River",0,0,0,0,0,1
+"West African",0,1,0,0,0,0
+"Jupiter",0,1,0,0,0,0
+"Lago Agrio",0,1,0,0,0,0
+"Southeast Asia",0,1,0,0,0,0
+"the Gulf of Finland",0,0,0,0,0,1
+"Northwest Frontier province",0,0,0,0,0,1
+"Typhoon Longwang",0,1,0,0,0,0
+"the Tuo river",0,0,0,0,0,1
+"Central America",0,1,0,0,0,0
+"the Cawthorne Channel",0,0,0,0,0,1
+"Clipperton Island",0,1,0,0,0,0
+"the Caribbean Coast",0,0,0,0,0,1
+"Black Sea",0,1,0,0,0,0
+"the Mediterranean Sea",0,0,0,0,0,1
+"the Ellice Islands",0,0,0,0,0,1
+"Sakhalin 2",0,0,0,0,0,1
+"Souray",0,1,0,0,0,0
+"West",0,1,0,0,0,0
+"Hakurk",0,0,0,0,0,1
+"the Falash Mura",0,0,0,0,0,1
+"Azamiyah",0,1,0,0,0,0
+"Inca Empire",0,1,0,0,0,0
+"West Island",0,1,0,0,0,0
+"Coho",0,0,0,0,0,1
+"Adelie Land",0,1,0,0,0,0
+"The Kerch Strait",0,0,0,0,0,1
+"Mount Ararat",0,0,0,0,0,1
+"East Asia",0,1,0,0,0,0
+"Himalayan",0,1,0,0,0,0
+"Americas",0,1,0,0,0,0
+"Alpine",0,1,0,0,0,0
+"Cross River",0,1,0,0,0,0
+"Hindu Kush",0,1,0,0,0,0
+"Pago Pago",0,1,0,0,0,0
+"the Rospuda Valley",0,0,0,0,0,1
+"Lashkar Gah",0,1,0,0,0,0
+"South Island",0,1,0,0,0,0
+"the Willis Islets",0,0,0,0,0,1
+"Iles Crozet",0,0,0,0,0,1
+"Hamarjajab",0,1,0,0,0,0
+"territories",0,0,0,0,0,1
+"North Darfur",0,1,0,0,0,0
+"the Hanjiang River",0,0,0,0,0,1
+"Eastern Caribbean",0,1,0,0,0,0
+"Jebaliya",0,1,0,0,0,0
+"the Canary Islands",0,0,0,0,0,1
+"the Middle East",0,1,0,0,0,0
+"Outer Banks",0,0,0,0,0,1
+"the Sancha River",0,0,0,0,0,1
+"s Gulf Coast",0,0,0,0,0,1
+"Gran Canaria",0,1,0,0,0,0
+"the Western Hemisphere '",0,0,0,0,0,1
+"the Far East",0,0,0,0,0,1
+"the Eastern Front",0,0,0,0,0,1
+"the South Pacific Ocean",0,0,0,0,0,1
+"Nias island",0,0,0,0,0,1
+"Murghab",0,1,0,0,0,0
+"Rift Valley",0,1,0,0,0,0
+"Dikweneh",0,0,0,0,0,1
+"Maale Adumim",0,1,0,0,0,0
+"Southern Ocean",0,1,0,0,0,0
+"Yucatan",0,1,0,0,0,0
+"Sky",0,1,0,0,0,0
+"the Caspian Sea",0,0,0,0,0,1
+"Khyber",0,1,0,0,0,0
+"Upper East",0,1,0,0,0,0
+"The Arctic Ocean",0,0,0,0,0,1
+"Western Sahara",0,1,0,0,0,0
+"the Kuiper Belt",0,0,0,0,0,1
+"Honshu",0,0,0,0,0,1
+"Nicobar",0,0,0,0,0,1
+"Sulawesi",0,1,0,0,0,0
+"Straits",0,0,0,0,0,1
+"the Mississippi River",0,0,0,0,0,1
+"North Sinai",0,1,0,0,0,0
+"The Gulf of Guinea",0,0,0,0,0,1
+"the Yunnan Guizhou plateau",0,0,0,0,0,1
+"the New World",0,0,0,0,0,1
+"Makin",0,1,0,0,0,0
+"Sea Breeze",0,0,0,0,0,1
+"Nile",0,1,0,0,0,0
+"the Swat Valley",0,0,0,0,0,1
+"Kalikot",0,1,0,0,0,0
+"S. Atlantic",0,0,0,0,0,1
+"Negar",0,0,0,0,0,1
+"Bosporus",0,1,0,0,0,0
+"India Kashmir",0,1,0,0,0,0
+"al Anbar",0,0,0,0,0,1
+"Everglades",0,1,0,0,0,0
+"the Western Balkans",0,0,0,0,0,1
+"Helmand Provinces",0,1,0,0,0,0
+"North Wazirstan",0,1,0,0,0,0
+"the Hawaiian Islands NWR",0,0,0,0,0,1
+"Great Lakes",0,1,0,0,0,0
+"Caribbean Sea",0,1,0,0,0,0
+"Gulf of Mexico",0,1,0,0,0,0
+"Farewell Spit",0,1,0,0,0,0
+"the Black Sea",0,0,0,0,0,1
+"s Shandong Peninsula",0,0,0,0,0,1
+"the Western Hemisphere",0,0,0,0,0,1
+"the Aral Sea",0,0,0,0,0,1
+"Western Australia",0,1,0,0,0,0
+"the Western Wall",0,0,0,0,0,1
+"Datta Khel",0,1,0,0,0,0
+"Spanish Sahara",0,0,0,0,0,1
+"Red Sea",0,1,0,0,0,0
+"Jammu Kashmir",0,1,0,0,0,0
+"the East Coast",0,0,0,0,0,1
+"Mississippi River",0,1,0,0,0,0
+"Northern Europe",0,1,0,0,0,0
+"the Irrawaddy Delta",0,0,0,0,0,1
+"Robben Island",0,1,0,0,0,0
+"The Pacific Ocean",0,0,0,0,0,1
+"Canary Islands",0,1,0,0,0,0
+"the Heilongjiang River",0,0,0,0,0,1
+"Keys",0,1,0,0,0,0
+"the Paracel Islands",0,0,0,0,0,1
+"Caspian",0,0,0,0,0,1
+"Siachen",0,1,0,0,0,0
+"Anatolia",0,1,0,0,0,0
+"the Eastern Sovereign Base Area",0,0,0,0,0,1
+"Sea of Oman",0,1,0,0,0,0
+"premises",0,0,0,0,0,1
+"the Orinoco River",0,0,0,0,0,1
+"Strait",0,1,0,0,0,0
+"Mohmand",0,1,0,0,0,0
+"Central London",0,1,0,0,0,0
+"San Petronio",0,1,0,0,0,0
+"the Pacific Ocean",0,0,0,0,0,1
+"Baltic",0,1,0,0,0,0
+"the Congo River",0,0,0,0,0,1
+"the Tigris River",0,0,0,0,0,1
+"The Indian Ocean",0,0,0,0,0,1
+"the South Sandwich Islands",0,0,0,0,0,1
+"Great Plains",0,1,0,0,0,0
+"Catandunes",0,0,0,0,0,1
+"Swat valley",0,0,0,0,0,1
+"the Beijing",0,0,0,0,0,1
+"the Noble Sanctuary",0,0,0,0,0,1
+"Crimea Peninsula",0,1,0,0,0,0
+"the Asia Pacific region",0,0,0,0,0,1
+"The Mediterranean Island",0,0,0,0,0,1
+"Gulf Coast",0,1,0,0,0,0
+"Kiwayu Island",0,1,0,0,0,0
+"Kartli Iberia",0,0,0,0,0,1
+"the South China Sea",0,0,0,0,0,1
+"Mar del Plata",0,1,0,0,0,0
+"Hawaii Marine",0,1,0,0,0,0
+"Navassa Island",0,1,0,0,0,0
+"Asia Pacific",0,0,0,0,0,1
+"Alps",0,0,0,0,0,1
+"S. Pacific",0,0,0,0,0,1
+"North America",0,1,0,0,0,0
+"Latin America",0,1,0,0,0,0
+"Titan",0,1,0,0,0,0
+"west African",0,0,0,0,0,1
+"Equatorial Guinea",0,1,0,0,0,0
+"Thankot",0,1,0,0,0,0
+"Africa",0,1,0,0,0,0
+"the Indian Ocean",0,0,0,0,0,1
+"Mount Mayon",0,1,0,0,0,0
+"the Cape Verde Islands",0,0,0,0,0,1
+"the Small Magellanic Cloud",0,0,0,0,0,1
+"Euphrates River Valley",0,1,0,0,0,0
+"South Asia '",0,0,0,0,0,1
+"Shatt al Arab",0,0,0,0,0,1
+"Bekaa Valley",0,1,0,0,0,0
+"North Waziristan",0,1,0,0,0,0
+"Bajur",0,1,0,0,0,0
+"Crimean Peninsula",0,0,0,0,0,1
+"Northern California '",0,0,0,0,0,1
+"the Antarctic Circumpolar Current ACC",0,0,0,0,0,1
+"Tegua island",0,0,0,0,0,1
+"Pakistani Kashmir",0,0,0,0,0,1
+"The Kiel Canal Germany",0,0,0,0,0,1
+"Southern Sudan",0,1,0,0,0,0
+"Shahidi Hassas",0,1,0,0,0,0
+"Key West",0,1,0,0,0,0
+"the Niger Delta",0,0,0,0,0,1
+"Europe",0,1,0,0,0,0
+"Sao Tome",0,1,0,0,0,0
+"the Dhekelia Sovereign Base Area",0,0,0,0,0,1
+"The Faroe Islands",0,0,0,0,0,1
+"Cape Coral",0,1,0,0,0,0
+"the Baltic Sea",0,0,0,0,0,1
+"Northern Niger",0,0,0,0,0,1
+"al Kharj",0,0,0,0,0,1
+"Delta",0,1,0,0,0,0
+"Indian Ocean",0,1,0,0,0,0
+"Panjwayi",0,1,0,0,0,0
+"Pacific Islands",0,1,0,0,0,0
+"the Arctic Ocean",0,0,0,0,0,1
+"Grand Cayman",0,1,0,0,0,0
+"the Isla Refineria",0,0,0,0,0,1
+"Kohistan",0,1,0,0,0,0
+"the Escravos River",0,0,0,0,0,1
+"The Paracel Islands",0,0,0,0,0,1
+"the Arabian Sea",0,0,0,0,0,1
+"Orinoco River",0,1,0,0,0,0
+"Wild West",0,1,0,0,0,0
+"Gulf",0,1,0,0,0,0
+"T'bilisi Ceyhan",0,0,0,0,0,1
+"G 8",0,0,0,0,0,1
+"Flores Island",0,1,0,0,0,0
+"Sudanese Darfur",0,0,0,0,0,1
+"Khawaza Khela",0,1,0,0,0,0
+"Umm al Haiman",0,0,0,0,0,1
+"the Korangal Valley",0,0,0,0,0,1
+"Darfur",0,1,0,0,0,0
+"the Yangtze River",0,0,0,0,0,1
+"The Atlantic Ocean",0,0,0,0,0,1
+"Asia Africa",0,0,0,0,0,1
+"the Atlantic Ocean",0,0,0,0,0,1
+"the Adriatic Sea",0,0,0,0,0,1
+"the Pacific Remote Islands",0,0,0,0,0,1
+"Florida Wildlife",0,0,0,0,0,1
+"Zhari",0,1,0,0,0,0
+"s Motoyasu River",0,0,0,0,0,1
+"Maaleh Adumim",0,1,0,0,0,0
+"the Malay Peninsula",0,0,0,0,0,1
+"North",0,1,0,0,0,0
+"Kupwara",0,1,0,0,0,0
+"the Shawal mountains",0,0,0,0,0,1
+"the Perito Moreno Glacier",0,0,0,0,0,1
+"the Western Gunsmoke",0,0,0,0,0,1
+"the French Quarter",0,0,0,0,0,1
+"Mian Channu",0,1,0,0,0,0
+"the Euphrates River",0,0,0,0,0,1
+"Euphrates",0,1,0,0,0,0
+"Gush Katif bloc",0,0,0,0,0,1
+"the Korean Peninsula",0,0,0,0,0,1
+"Karradah",0,1,0,0,0,0
+"Sinai",0,1,0,0,0,0
+"Java",0,1,0,0,0,0
+"Ascension Island",0,1,0,0,0,0
+"Southern California",0,1,0,0,0,0
+"Krasnokamensk",0,1,0,0,0,0
+"Sahara",0,1,0,0,0,0
+"the Aegean Sea",0,0,0,0,0,1
+"Bougainville",0,1,0,0,0,0
+"Venus",0,1,0,0,0,0
+"Mediterranean",0,1,0,0,0,0
+"Atlantic Ocean",0,1,0,0,0,0
+"Iranativu island",0,0,0,0,0,1
+"Central Europe",0,1,0,0,0,0
+"Khori Garden",0,0,0,0,0,1
+"Eastern Turkmenistan",0,1,0,0,0,0
+"North Koreas",0,0,0,0,0,1
+"Central and South America",0,1,0,0,0,0
+"the North Atlantic",0,0,0,0,0,1
+"Sumatra Island",0,1,0,0,0,0
+"the Delaware River",0,0,0,0,0,1
+"the Plains Zebra",0,0,0,0,0,1
+"Sakhalin Island",0,1,0,0,0,0
+"the Gulf Coast",0,0,0,0,0,1
+"the Pacific Basin",0,0,0,0,0,1
+"Mindoro island",0,0,0,0,0,1
+"Saturn",0,1,0,0,0,0
+"the Antarctic Peninsula",0,0,0,0,0,1
+"Asia",0,1,0,0,0,0
+"Qarabaugh",0,1,0,0,0,0
+"Shorja",0,1,0,0,0,0
+"Mount Elgon",0,1,0,0,0,0
+"Crimea",0,1,0,0,0,0
+"Line Island",0,1,0,0,0,0
+"Espiritu Santo",0,1,0,0,0,0
+"Lake Pontchartrain",0,1,0,0,0,0
+"the Yellow Sea",0,1,0,0,0,0
+"Bancoro",0,1,0,0,0,0
+"Orakzai",0,1,0,0,0,0
+"Ates",0,1,0,0,0,0
+"Java island",0,1,0,0,0,0
+"Western Samoa",0,1,0,0,0,0
+"the French Southern and Antarctic Lands TAAF",0,0,0,0,0,1
+"the Midwestern U",0,0,0,0,0,1
+"Mount Kumgang",0,1,0,0,0,0
+"Kuril islands",0,0,0,0,0,1
+"Western Sahara '",0,0,0,0,0,1
+"Ancient Olympia",0,1,0,0,0,0
+"Ellice Islands",0,1,0,0,0,0
+"the Red Sea",0,1,0,0,0,0
+"the Molucca Sea",0,0,0,0,0,1
+"the Nile Delta",0,0,0,0,0,1
+"Central and Eastern Europe",0,0,0,0,0,1
+"the Taiwan Strait",0,0,0,0,0,1
+"Juno",0,1,0,0,0,0
+"East",0,1,0,0,0,0
+"Iles Kerguelen",0,1,0,0,0,0
+"Latin America '",0,0,0,0,0,1
+"the Antarctic Convergence",0,0,0,0,0,1
+"the Fergana Valley",0,0,0,0,0,1
+"the Leeward Islands",0,0,0,0,0,1
+"the Nicobar Islands",0,0,0,0,0,1
+"Naama Bay",0,1,0,0,0,0
+"Mururoa",0,1,0,0,0,0
+"The Yellow Sea",0,0,0,0,0,1
+"Martian",0,1,0,0,0,0
+"Green Zone",0,1,0,0,0,0
+"Dai Chopan",0,1,0,0,0,0
+"Northern Darfur",0,1,0,0,0,0
+"the Green Zone",0,0,0,0,0,1
+"Southeast Asia '",0,0,0,0,0,1
+"Caribbean",0,1,0,0,0,0
+"Upper Volta",0,1,0,0,0,0
+"the Orinoco Basin",0,0,0,0,0,1
+"the Wainganga River",0,0,0,0,0,1
+"the Antarctic Circle",0,0,0,0,0,1
+"the Oman Sea",0,0,0,0,0,1
+"Asia Europe",0,0,0,0,0,1
+"Canal",0,1,0,0,0,0
+"the North Caucasus",0,0,0,0,0,1
+"Ituri",0,1,0,0,0,0
+"Merapi",0,1,0,0,0,0
+"Doda",0,1,0,0,0,0
+"Eastern Europe",0,1,0,0,0,0
+"Khaisor",0,1,0,0,0,0
+"Alcantara",0,1,0,0,0,0
+"Near East",0,1,0,0,0,0
+"Admhaiyah",0,0,0,0,0,1
+"Sunamganj",0,1,0,0,0,0
+"S. Gulf",0,0,0,0,0,1
+"Mount Zigana",0,1,0,0,0,0
+"the Andaman Sea",0,0,0,0,0,1
+"the Northern Leeward Islands",0,0,0,0,0,1
+"Balkans",0,1,0,0,0,0
+"Caucasus",0,1,0,0,0,0
+"Mian Nishin",0,0,0,0,0,1
+"Danube River",0,1,0,0,0,0
+"Indian Kashmir",0,1,0,0,0,0
+"Home Island",0,1,0,0,0,0
+"Buyat Bay",0,1,0,0,0,0
+"the midestern U",0,0,0,0,0,1
+"Far Eastern",0,1,0,0,0,0
+"Amil",0,0,0,0,0,1
+"Sunni Triangle",0,0,0,0,0,1
+"North Arctic Oceans",0,1,0,0,0,0
+"the Milky Way",0,0,0,0,0,1
+"Beerenberg",0,1,0,0,0,0
+"Bow Asir",0,0,0,0,0,1
+"the Euphrates River Valley",0,0,0,0,0,1
+"Andaman",0,0,0,0,0,1
+"Gavutu",0,1,0,0,0,0
+"the Pacific Islands",0,0,0,0,0,1
+"Hispaniola",0,1,0,0,0,0
+"Lake Chad",0,1,0,0,0,0
+"Tarawa",0,1,0,0,0,0
+"the MIddle East",0,0,0,0,0,1
+*TOTAL*,0,339,0,0,0,276

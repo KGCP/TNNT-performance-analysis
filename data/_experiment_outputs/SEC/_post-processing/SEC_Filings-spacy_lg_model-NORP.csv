@@ -1,0 +1,7 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Chinese",1,0,0,0,0,0
+"Articles",0,0,0,1,0,0
+"French",1,0,0,0,0,0
+"Register",0,0,0,1,0,0
+"USD",0,0,0,1,0,0
+*TOTAL*,2,0,0,3,0,0

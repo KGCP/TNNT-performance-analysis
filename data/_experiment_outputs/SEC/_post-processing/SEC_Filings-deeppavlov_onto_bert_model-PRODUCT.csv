@@ -1,0 +1,14 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"an Equipment Advance",0,0,0,0,0,1
+"Lien",0,0,0,0,0,1
+"the Equipment Advance",0,0,0,0,0,1
+"Collateral",0,0,0,0,0,1
+"Equipment Advances",0,0,0,0,0,1
+"Bizexpress "" Airland",0,0,0,0,0,1
+"Airland",0,1,0,0,0,0
+"Borrower 7 2",0,0,0,0,0,1
+"Borrower 4",0,0,0,0,0,1
+"Issuer",0,0,0,0,0,1
+"Borrower",0,1,0,0,0,0
+"Equipment Advance",0,0,0,0,0,1
+*TOTAL*,0,2,0,0,0,10

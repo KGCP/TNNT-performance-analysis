@@ -1,0 +1,59 @@
+[2021-04-21 18:10:44,995] [root � INFO] � [<module>:2605]
+******************************************************************************
+[2021-04-21 18:10:44,995] [root � INFO] � [<module>:2606]
+Loading NLP/NER models...
+[2021-04-21 18:10:44,995] [root � INFO] � [output:224]
+
+2021-04-21 18:10:44.995535> @<static_method>.models:
+NER.processing_blocks=['fast']
+NER.models=['flair_fast_model', 'flair_fast_ontonotes_model', 'polyglot_model']
+[2021-04-21 18:11:01,860] [root � INFO] � [<module>:2608]
+NLP/NER models loaded!
+[2021-04-21 18:11:01,860] [root � INFO] � [<module>:2609]
+******************************************************************************
+
+[2021-04-21 18:11:01,861] [root � INFO] � [output:224]
+
+2021-04-21 18:11:01.861003> @<static_method>.displayConfigFile:
+* Already using configuration file: /data/python-resources/AGRIF/mapping-services/MEL/config-NER-Survey.json
+  (nothing to do)
+[2021-04-21 18:11:01,861] [root � INFO] � [header:2696]
+******************************************************************************
+[2021-04-21 18:11:01,861] [root � INFO] � [header:2697]
+Project AGRIF | MEL: Metadata Extractor & Loader --> @dataset=NER-Survey
+[2021-04-21 18:11:01,861] [root � INFO] � [printStartTimeStamp:235]
+Start time: [2021-04-21 18:11:01.861352]
+[2021-04-21 18:11:01,861] [root � INFO] � [header:2700]
+platform: [Linux]; __name__: [MEL]; __package__: [MEL]
+[2021-04-21 18:11:01,861] [root � INFO] � [shortPrint:441]
+CouchDB Processing: [False], NLP-NER Processing: [True]
+[2021-04-21 18:11:01,861] [root � INFO] � [shortPrint:442]
+Input Folder: [/data/python-resources/AGRIF/docs-repo/NER-Survey/]
+
+
+[2021-04-21 18:11:01,861] [root � INFO] � [header:2702]
+******************************************************************************
+[2021-04-21 20:12:29,855] [polyglot.mapping.expansion � INFO] � [expand:79]
+We have 100004 original words.
+[2021-04-21 20:12:29,855] [polyglot.mapping.expansion � INFO] � [expand:80]
+Added 144984 new words.
+[2021-04-21 20:12:29,855] [polyglot.mapping.expansion � INFO] � [expand:81]
+The new total number of words is 244988
+[2021-04-21 20:12:30,071] [polyglot.mapping.expansion � INFO] � [expand:79]
+We have 244988 original words.
+[2021-04-21 20:12:30,071] [polyglot.mapping.expansion � INFO] � [expand:80]
+Added 3 new words.
+[2021-04-21 20:12:30,071] [polyglot.mapping.expansion � INFO] � [expand:81]
+The new total number of words is 244991
+[2021-04-21 22:36:06,015] [root � INFO] � [output:224]
+
+2021-04-21 22:36:06.015283> @<static_method>.writeOutputFile:
+[/data/python-resources/AGRIF/docs-repo/NER-Survey/_output/Feature_engineered_corpus.txt-MEL+NER_output.json]
+[2021-04-21 22:36:06,027] [root � INFO] � [footer:2715]
+******************************************************************************
+[2021-04-21 22:36:06,027] [root � INFO] � [printEndTimeStamp:240]
+
+
+End time: [2021-04-21 22:36:06.027927]
+[2021-04-21 22:36:06,028] [root � INFO] � [printEndTimeStamp:241]
+Execution time: 15904.167087 seconds.

@@ -1,0 +1,5566 @@
+{
+    "Carter": [
+        "Person"
+    ],
+    "Abadi": [
+        "Person"
+    ],
+    "the United States": [
+        "Organisation",
+        "Location"
+    ],
+    "the counter - ISIL coalition": [
+        "Organisation"
+    ],
+    "the terrorist group": [
+        "Organisation"
+    ],
+    "the hospital lab": [
+        "Organisation"
+    ],
+    "It": [
+        "Organisation",
+        "DocumentReference"
+    ],
+    "the Small Group": [
+        "Organisation"
+    ],
+    "Washington , D . C .": [
+        "Location"
+    ],
+    "July 21 , 2016": [
+        "Temporal"
+    ],
+    "we": [
+        "Organisation"
+    ],
+    "the local forces": [
+        "Organisation"
+    ],
+    "he": [
+        "Person"
+    ],
+    "One": [
+        "Quantity"
+    ],
+    "jet": [
+        "MilitaryPlatform"
+    ],
+    "a school for girls": [
+        "Location"
+    ],
+    "a southern district of the city": [
+        "Location"
+    ],
+    "Friday": [
+        "Temporal"
+    ],
+    "Lt Gen Sergei Rudskoi": [
+        "Person"
+    ],
+    "Fallujah": [
+        "Location"
+    ],
+    "other parts of Anbar Province": [
+        "Location"
+    ],
+    "Iraq": [
+        "Organisation",
+        "Location"
+    ],
+    "Manbij": [
+        "Location"
+    ],
+    "Syria": [
+        "Organisation",
+        "Location"
+    ],
+    "ISIL": [
+        "Organisation"
+    ],
+    "59 \u00b0 10 \u2032 25 \u2033 N 18 \u00b0 10 \u2032 05 \u2033 E": [
+        "Location"
+    ],
+    "59 . 173616 \u00b0 N 18 . 167988 \u00b0 E": [
+        "Location"
+    ],
+    "59 . 173616 ; 18 . 167988": [
+        "Location"
+    ],
+    "The victims": [
+        "Organisation"
+    ],
+    "one child": [
+        "Person"
+    ],
+    "She": [
+        "Person"
+    ],
+    "me": [
+        "Person"
+    ],
+    "she": [
+        "Person"
+    ],
+    "her": [
+        "Person"
+    ],
+    "Tobias Ellwood , Foreign Office Minister for the Middle East": [
+        "Person"
+    ],
+    "The UK": [
+        "Organisation"
+    ],
+    "Daesh": [
+        "Organisation"
+    ],
+    "all communities": [
+        "Organisation"
+    ],
+    "the country": [
+        "Organisation",
+        "Location"
+    ],
+    "We": [
+        "Organisation"
+    ],
+    "Coalition": [
+        "Organisation"
+    ],
+    "partner forces": [
+        "Organisation"
+    ],
+    "the Department of Treasury \u2019 s Office of Foreign Assets Control": [
+        "Organisation"
+    ],
+    "Military forces": [
+        "Organisation"
+    ],
+    "the city": [
+        "Location"
+    ],
+    "IS": [
+        "Organisation"
+    ],
+    "October": [
+        "Temporal"
+    ],
+    "hundreds of thousands": [
+        "Quantity"
+    ],
+    "Syrians": [
+        "Organisation"
+    ],
+    "Assad": [
+        "Person"
+    ],
+    "millions": [
+        "Quantity"
+    ],
+    "Aleppo": [
+        "Location"
+    ],
+    "regime": [
+        "Organisation"
+    ],
+    "bombardment": [
+        "Weapon"
+    ],
+    "I": [
+        "Person"
+    ],
+    "yesterday": [
+        "Temporal"
+    ],
+    "the Government of Iraq": [
+        "Organisation"
+    ],
+    "the Kurdistan Regional Government": [
+        "Organisation"
+    ],
+    "Sadah": [
+        "Location"
+    ],
+    "Karabilah": [
+        "Location"
+    ],
+    "the past 24 hours": [
+        "Temporal"
+    ],
+    "Davis": [
+        "Person"
+    ],
+    "the U.S. - led": [
+        "Organisation"
+    ],
+    "the Global Coalition": [
+        "Organisation"
+    ],
+    "the government of Iraq": [
+        "Organisation"
+    ],
+    "the Syrian opposition": [
+        "Organisation"
+    ],
+    "Riyadh": [
+        "Location"
+    ],
+    "the Asad regime": [
+        "Organisation"
+    ],
+    "people": [
+        "Organisation"
+    ],
+    "hospitals": [
+        "Location"
+    ],
+    "schools": [
+        "Location"
+    ],
+    "markets": [
+        "Location"
+    ],
+    "43": [
+        "Quantity"
+    ],
+    "car bomb": [
+        "Weapon"
+    ],
+    "the rebel - held Syrian town of Azaz": [
+        "Location"
+    ],
+    "the Turkish border": [
+        "Location"
+    ],
+    "families": [
+        "Organisation"
+    ],
+    "they": [
+        "Organisation"
+    ],
+    "the victims": [
+        "Organisation"
+    ],
+    "munitions": [
+        "Weapon"
+    ],
+    "Gareth Bayley": [
+        "Person"
+    ],
+    "the UK Special Representative for Syria": [
+        "Person"
+    ],
+    "NAVCENT": [
+        "Organisation"
+    ],
+    "partner nation": [
+        "Organisation"
+    ],
+    "U.S. 5th Fleet area of operations": [
+        "Location"
+    ],
+    "The U.S. Department of State": [
+        "Organisation"
+    ],
+    "the smuggling networks": [
+        "Organisation"
+    ],
+    "He": [
+        "Person"
+    ],
+    "young musicians": [
+        "Organisation"
+    ],
+    "Dayr Az Zawr": [
+        "Location"
+    ],
+    "five": [
+        "Quantity"
+    ],
+    "eight": [
+        "Quantity"
+    ],
+    "six": [
+        "Quantity"
+    ],
+    "three": [
+        "Quantity"
+    ],
+    "two": [
+        "Quantity"
+    ],
+    "George Haswani": [
+        "Person"
+    ],
+    "the regime": [
+        "Organisation"
+    ],
+    "Hezbollah": [
+        "Organisation"
+    ],
+    "Israel": [
+        "Organisation"
+    ],
+    "2006": [
+        "Temporal"
+    ],
+    "thousands of fighters": [
+        "Organisation"
+    ],
+    "President Bashar al - Assad ' s forces": [
+        "Organisation"
+    ],
+    "One young girl": [
+        "Person"
+    ],
+    "Islam": [
+        "Person",
+        "Nationality"
+    ],
+    "friends": [
+        "Organisation"
+    ],
+    "Karim": [
+        "Person",
+        "Location"
+    ],
+    "The secretary": [
+        "Person"
+    ],
+    "Mosul": [
+        "Location"
+    ],
+    "U.S.": [
+        "Organisation"
+    ],
+    "the United States Treasury Department": [
+        "Organisation"
+    ],
+    "Abu Musab al - Zarqawi": [
+        "Person"
+    ],
+    "Abu Ghadiya": [
+        "Person"
+    ],
+    "the lead Syrian commander for AQI ' s logistics": [
+        "Person"
+    ],
+    "2004": [
+        "Temporal"
+    ],
+    "grant of $ 530 , 000": [
+        "Money"
+    ],
+    "the World Monuments Fund": [
+        "Organisation"
+    ],
+    "WMF": [
+        "Organisation"
+    ],
+    "a team of Iraqi preservationists": [
+        "Organisation"
+    ],
+    "the SBAH": [
+        "Organisation"
+    ],
+    "international heritage experts": [
+        "Organisation"
+    ],
+    "Sadiq": [
+        "Person"
+    ],
+    "here": [
+        "Location"
+    ],
+    "the Iraqi government": [
+        "Organisation"
+    ],
+    "Today": [
+        "Temporal"
+    ],
+    "Arabic - speaking Iraq": [
+        "Location"
+    ],
+    "Kurdish - speaking Iraq": [
+        "Location"
+    ],
+    "France": [
+        "Organisation",
+        "Location"
+    ],
+    "our allies": [
+        "Organisation"
+    ],
+    "three weeks": [
+        "Temporal"
+    ],
+    "the business": [
+        "Organisation"
+    ],
+    "the prosecution": [
+        "Organisation"
+    ],
+    "the Jordanian army and intelligence": [
+        "Organisation"
+    ],
+    "10 May": [
+        "Temporal"
+    ],
+    "Turkey": [
+        "Organisation",
+        "Location"
+    ],
+    "Minister Ellwood": [
+        "Person"
+    ],
+    "the Syrian National Coalition": [
+        "Organisation"
+    ],
+    "Turkish and UK organisations": [
+        "Organisation"
+    ],
+    "refugees": [
+        "Organisation"
+    ],
+    "the Samarra Barrage": [
+        "Location"
+    ],
+    "the Ramadi Barrage": [
+        "Location"
+    ],
+    "the Coalition": [
+        "Organisation"
+    ],
+    "a new Prime Minister - designate": [
+        "Person"
+    ],
+    "an inclusive Government": [
+        "Organisation"
+    ],
+    "the Iraqi population": [
+        "Organisation"
+    ],
+    "Jordanians": [
+        "Organisation"
+    ],
+    "Syrian refugees": [
+        "Organisation"
+    ],
+    "Volunteers": [
+        "Organisation"
+    ],
+    "the hospital": [
+        "Location"
+    ],
+    "the library ' s books": [
+        "DocumentReference"
+    ],
+    "patients": [
+        "Organisation"
+    ],
+    "untrained teachers": [
+        "Organisation"
+    ],
+    "aspiring dentists": [
+        "Organisation"
+    ],
+    "Chapter one of the Book of Revelation": [
+        "DocumentReference"
+    ],
+    "Yazidi": [
+        "Nationality"
+    ],
+    "Last Wednesday": [
+        "Temporal"
+    ],
+    "militants": [
+        "Organisation"
+    ],
+    "six men": [
+        "Organisation"
+    ],
+    "the same village": [
+        "Location"
+    ],
+    "them": [
+        "Organisation"
+    ],
+    "a tribal leader": [
+        "Person"
+    ],
+    "Iraqi government forces": [
+        "Organisation"
+    ],
+    "The US - led coalition": [
+        "Organisation"
+    ],
+    "Islamic State in Iraq": [
+        "Organisation"
+    ],
+    "Secretary Kerry": [
+        "Person"
+    ],
+    "Russian Foreign Minister Lavrov": [
+        "Person"
+    ],
+    "today": [
+        "Temporal"
+    ],
+    "him": [
+        "Person"
+    ],
+    "opposition forces": [
+        "Organisation"
+    ],
+    "innocent civilians": [
+        "Organisation"
+    ],
+    "Damascus suburbs": [
+        "Location"
+    ],
+    "Mr Ellwood": [
+        "Person"
+    ],
+    "CTF 50": [
+        "Organisation"
+    ],
+    "Commodore Andrew Burns": [
+        "Person"
+    ],
+    "commander of the Amphibious Task Group": [
+        "Person"
+    ],
+    "the U.K. ' s large - deck amphibious assault ship": [
+        "MilitaryPlatform"
+    ],
+    "HMS Ocean": [
+        "MilitaryPlatform"
+    ],
+    "15 minutes": [
+        "Temporal"
+    ],
+    "our": [
+        "Organisation"
+    ],
+    "the Jordan Armed Forces \u2013 Arab Army": [
+        "Organisation"
+    ],
+    "Soldiers": [
+        "Organisation"
+    ],
+    "3rd Battalion , 321st Field Artillery Regiment": [
+        "Organisation"
+    ],
+    "October 25 - 26 , 2016": [
+        "Temporal"
+    ],
+    "Syrian democratic forces": [
+        "Organisation"
+    ],
+    "Raqqah": [
+        "Location"
+    ],
+    "Thanksgiving Day": [
+        "Temporal"
+    ],
+    "Defense Secretary Ash Carter": [
+        "Person"
+    ],
+    "Dayton \u2019 s family , friends and other loved ones": [
+        "Organisation"
+    ],
+    "the library": [
+        "Location"
+    ],
+    "Omar Abu Anas": [
+        "Person"
+    ],
+    "his home town": [
+        "Location"
+    ],
+    "200 , 000": [
+        "Quantity"
+    ],
+    "many of his friends": [
+        "Organisation"
+    ],
+    "a shopping centre": [
+        "Location"
+    ],
+    "The Foreign Secretary Boris Johnson": [
+        "Person"
+    ],
+    "US Secretary of State John Kerry": [
+        "Person"
+    ],
+    "international partners": [
+        "Organisation"
+    ],
+    "Paris": [
+        "Location"
+    ],
+    "10 December": [
+        "Temporal"
+    ],
+    "these total force Airmen": [
+        "Organisation"
+    ],
+    "ground forces": [
+        "Organisation"
+    ],
+    "The squadron": [
+        "Organisation"
+    ],
+    "Coalition partners": [
+        "Organisation"
+    ],
+    "OIR": [
+        "Organisation"
+    ],
+    "the deployed location": [
+        "Location"
+    ],
+    "Uzbekistan": [
+        "Location"
+    ],
+    "Minister for Central Asia": [
+        "Person"
+    ],
+    "a number of Ministers and senior officials": [
+        "Organisation"
+    ],
+    "Islamist": [
+        "Nationality"
+    ],
+    "last year": [
+        "Temporal"
+    ],
+    "10 per cent": [
+        "Quantity"
+    ],
+    "UN": [
+        "Organisation"
+    ],
+    "besieged areas": [
+        "Location"
+    ],
+    "A year ago": [
+        "Temporal"
+    ],
+    "the UK \u2019 s brave Armed Forces": [
+        "Organisation"
+    ],
+    "aid workers": [
+        "Organisation"
+    ],
+    "Karrada": [
+        "Location"
+    ],
+    "al Qaeda in Iraq": [
+        "Organisation"
+    ],
+    "the Euphrates River Valley": [
+        "Location"
+    ],
+    "Al Anbar": [
+        "Location"
+    ],
+    "Iraqi Army": [
+        "Organisation"
+    ],
+    "the Al Qa \u2019 im region": [
+        "Location"
+    ],
+    "The Minister for Central Asia": [
+        "Person"
+    ],
+    "Tobias Ellwood": [
+        "Person"
+    ],
+    "4 April": [
+        "Temporal"
+    ],
+    "5 - 6 April 2016": [
+        "Temporal"
+    ],
+    "His Chief of Staff": [
+        "Person"
+    ],
+    "Major General Hassan": [
+        "Person"
+    ],
+    "his Chief of Plans": [
+        "Person"
+    ],
+    "Staff Colonel Abd Alamir": [
+        "Person"
+    ],
+    "his family ' s shops": [
+        "Organisation"
+    ],
+    "Homs": [
+        "Location"
+    ],
+    "Chapter three": [
+        "DocumentReference"
+    ],
+    "The Samarra Barrage": [
+        "Location"
+    ],
+    "the structure": [
+        "Location"
+    ],
+    "17 gates": [
+        "Location"
+    ],
+    "7 , 000 m3 / s": [
+        "Quantity"
+    ],
+    "247 , 203 cu ft / s": [
+        "Quantity"
+    ],
+    "the Tigris": [
+        "Location"
+    ],
+    "the Tharthar regulator": [
+        "Location"
+    ],
+    "9 , 000 m3 / s": [
+        "Quantity"
+    ],
+    "317 , 832 cu ft / s": [
+        "Quantity"
+    ],
+    "a canal": [
+        "Location"
+    ],
+    "the G7": [
+        "Organisation"
+    ],
+    "Ise - Shima": [
+        "Location"
+    ],
+    "May 2016": [
+        "Temporal"
+    ],
+    "air strikes": [
+        "Weapon"
+    ],
+    "Wadi Barada": [
+        "Location"
+    ],
+    "The Foreign Secretary Philip Hammond": [
+        "Person"
+    ],
+    "family and friends of the victims": [
+        "Organisation"
+    ],
+    "the people of Syria": [
+        "Organisation"
+    ],
+    "three women and three children": [
+        "Organisation"
+    ],
+    "the aircraft": [
+        "MilitaryPlatform"
+    ],
+    "300 ANG Airmen": [
+        "Organisation"
+    ],
+    "the 158th Fighter Wing": [
+        "Organisation"
+    ],
+    "the 134th Expeditionary Fighter Squadron": [
+        "Organisation"
+    ],
+    "the 407th Air Expeditionary Group": [
+        "Organisation"
+    ],
+    "Mr Colville": [
+        "Person"
+    ],
+    "human rights staff": [
+        "Organisation"
+    ],
+    "IS fighters": [
+        "Organisation"
+    ],
+    "15 civilians": [
+        "Organisation"
+    ],
+    "the village of Safina": [
+        "Location"
+    ],
+    "45km": [
+        "Quantity"
+    ],
+    "28 miles": [
+        "Quantity"
+    ],
+    "the ISF": [
+        "Organisation"
+    ],
+    "Peshmerga": [
+        "Organisation"
+    ],
+    "Volesky": [
+        "Person"
+    ],
+    "a petrol station": [
+        "Location"
+    ],
+    "restaurant": [
+        "Location"
+    ],
+    "al - Hilla": [
+        "Location"
+    ],
+    "The Ishtar Gate": [
+        "Location"
+    ],
+    "the entrance to the ancient city": [
+        "Location"
+    ],
+    "575 B . C": [
+        "Temporal"
+    ],
+    "King Nebuchadnezzar II": [
+        "Person"
+    ],
+    "The World Bank": [
+        "Organisation"
+    ],
+    "$ 100m": [
+        "Money"
+    ],
+    "Chapter five": [
+        "DocumentReference"
+    ],
+    "the command": [
+        "Organisation"
+    ],
+    "The international community": [
+        "Organisation"
+    ],
+    "the Syrian parties": [
+        "Organisation"
+    ],
+    "regime of Assad": [
+        "Organisation"
+    ],
+    "Local Arab fighters": [
+        "Organisation"
+    ],
+    "the SDF": [
+        "Organisation"
+    ],
+    "their own land": [
+        "Location"
+    ],
+    "Baghdad": [
+        "Location"
+    ],
+    "a few hours before": [
+        "Temporal"
+    ],
+    "967": [
+        "Quantity"
+    ],
+    "vehicle bombs": [
+        "Weapon"
+    ],
+    "111": [
+        "Quantity"
+    ],
+    "274": [
+        "Quantity"
+    ],
+    "vehicles": [
+        "MilitaryPlatform"
+    ],
+    "280": [
+        "Quantity"
+    ],
+    "20": [
+        "Quantity"
+    ],
+    "anti - aircraft artillery systems": [
+        "Weapon"
+    ],
+    "224": [
+        "Quantity"
+    ],
+    "artillery and mortar systems": [
+        "Weapon"
+    ],
+    "CJTF": [
+        "Organisation"
+    ],
+    "building partner capacity sites": [
+        "Location"
+    ],
+    "Iraqi security forces": [
+        "Organisation"
+    ],
+    "Peshmerga counter - attack brigades": [
+        "Organisation"
+    ],
+    "Islamic State": [
+        "Organisation"
+    ],
+    "the Syrian city of Raqqa": [
+        "Location"
+    ],
+    "the group": [
+        "Organisation"
+    ],
+    "the Syrian state": [
+        "Organisation"
+    ],
+    "residents": [
+        "Organisation"
+    ],
+    "the mosque": [
+        "Location"
+    ],
+    "ISIL Terrorists": [
+        "Organisation"
+    ],
+    "Amarah": [
+        "Location"
+    ],
+    "Southern Iraq": [
+        "Location"
+    ],
+    "The Hamrin Mountains": [
+        "Location"
+    ],
+    "Arabic": [
+        "Nationality"
+    ],
+    "Kurdish": [
+        "Nationality"
+    ],
+    "a small mountain ridge": [
+        "Location"
+    ],
+    "northeast Iraq": [
+        "Location"
+    ],
+    "the Iraqi people": [
+        "Organisation"
+    ],
+    "the farm": [
+        "Location"
+    ],
+    "Manal": [
+        "Person"
+    ],
+    "her younger brother": [
+        "Person"
+    ],
+    "4 . 7 million": [
+        "Quantity"
+    ],
+    "Jordan": [
+        "Organisation",
+        "Nationality",
+        "Location"
+    ],
+    "Lebanon": [
+        "Organisation",
+        "Location"
+    ],
+    "CJTF - OIR": [
+        "Organisation"
+    ],
+    "The hospital": [
+        "Location"
+    ],
+    "west of Damascus": [
+        "Location"
+    ],
+    "a military airport": [
+        "Location"
+    ],
+    "the British firm Voganlei and Coode": [
+        "Organisation"
+    ],
+    "Mr Hammond": [
+        "Person"
+    ],
+    "our partners": [
+        "Organisation"
+    ],
+    "Kurdish and Yezidi fighters": [
+        "Organisation"
+    ],
+    "the town": [
+        "Location"
+    ],
+    "Human Rights Watch": [
+        "Organisation"
+    ],
+    "a mosque": [
+        "Location"
+    ],
+    "northern Iraq": [
+        "Location"
+    ],
+    "at least 13 women and children": [
+        "Organisation"
+    ],
+    "The United States": [
+        "Organisation"
+    ],
+    "market place": [
+        "Location"
+    ],
+    "Diyala Province": [
+        "Location"
+    ],
+    "Monday": [
+        "Temporal"
+    ],
+    "Iraqi": [
+        "Nationality"
+    ],
+    "The Minister": [
+        "Person"
+    ],
+    "British businesses": [
+        "Organisation"
+    ],
+    "Tashkent": [
+        "Location"
+    ],
+    "Uzbek alumni of British universities": [
+        "Organisation"
+    ],
+    "students": [
+        "Organisation"
+    ],
+    "Westminster International University": [
+        "Organisation"
+    ],
+    "Next month": [
+        "Temporal"
+    ],
+    "$ 300m": [
+        "Money"
+    ],
+    "businesses": [
+        "Organisation"
+    ],
+    "the prime minister": [
+        "Person"
+    ],
+    "Lakes Habbaniyah and Tharthar": [
+        "Location"
+    ],
+    "the region": [
+        "Location"
+    ],
+    "the Book of Revelation": [
+        "DocumentReference"
+    ],
+    "the Black Book": [
+        "DocumentReference"
+    ],
+    "English": [
+        "Nationality"
+    ],
+    "1911": [
+        "Temporal"
+    ],
+    "1913": [
+        "Temporal"
+    ],
+    "non - Yazidis": [
+        "Nationality"
+    ],
+    "Western travelers \u2019 and scholars": [
+        "Organisation"
+    ],
+    "Free Syrian Army fighters": [
+        "Organisation"
+    ],
+    "his": [
+        "Person"
+    ],
+    "us": [
+        "Organisation"
+    ],
+    "this street": [
+        "Location"
+    ],
+    "last July": [
+        "Temporal"
+    ],
+    "Jan. 9": [
+        "Temporal"
+    ],
+    "Coalition military forces": [
+        "Organisation"
+    ],
+    "26": [
+        "Quantity"
+    ],
+    "ISIL terrorists": [
+        "Organisation"
+    ],
+    "early next year": [
+        "Temporal"
+    ],
+    "NAVCENT CTFs": [
+        "Organisation"
+    ],
+    "Southwest Asia": [
+        "Location"
+    ],
+    "the Air Reserve Component": [
+        "Organisation"
+    ],
+    "Jan. 8": [
+        "Temporal"
+    ],
+    "34": [
+        "Quantity"
+    ],
+    "strikes": [
+        "Weapon"
+    ],
+    "Gen. Joseph L. Votel": [
+        "Person"
+    ],
+    "U.S. Central Command commander": [
+        "Person"
+    ],
+    "the people of Iraq": [
+        "Organisation"
+    ],
+    "November 22": [
+        "Temporal"
+    ],
+    "Deputy Secretary Blinken": [
+        "Person"
+    ],
+    "national and provincial Iraqi officials": [
+        "Organisation"
+    ],
+    "Ayn Isa": [
+        "Location"
+    ],
+    "a repeater station": [
+        "Location"
+    ],
+    "President Obama": [
+        "Person"
+    ],
+    "the American people": [
+        "Organisation"
+    ],
+    "the people of Turkey": [
+        "Organisation"
+    ],
+    "93rd anniversary": [
+        "Temporal"
+    ],
+    "October 29": [
+        "Temporal"
+    ],
+    "February": [
+        "Temporal"
+    ],
+    "world leaders": [
+        "Organisation"
+    ],
+    "London": [
+        "Location"
+    ],
+    "Young men": [
+        "Organisation"
+    ],
+    "$ 1 billion": [
+        "Money"
+    ],
+    "The Foreign , Home and Defence Secretaries": [
+        "Organisation"
+    ],
+    "their French counterparts": [
+        "Organisation"
+    ],
+    "Libya": [
+        "Location"
+    ],
+    "Israeli jets": [
+        "MilitaryPlatform"
+    ],
+    "missiles": [
+        "Weapon"
+    ],
+    "Lebanese airspace": [
+        "Location"
+    ],
+    "Sabboura": [
+        "Location"
+    ],
+    "an area outside Damascus": [
+        "Location"
+    ],
+    "other partners": [
+        "Organisation"
+    ],
+    "the International Monetary Fund": [
+        "Organisation"
+    ],
+    "Amman": [
+        "Location"
+    ],
+    "a middle - aged carpenter": [
+        "Person"
+    ],
+    "Sinjar": [
+        "Location"
+    ],
+    "three tunnel entrances": [
+        "Location"
+    ],
+    "fighting positions": [
+        "Location"
+    ],
+    "The EU": [
+        "Organisation"
+    ],
+    "European shores": [
+        "Location"
+    ],
+    "May": [
+        "Temporal"
+    ],
+    "shells": [
+        "Weapon"
+    ],
+    "barrel bombs": [
+        "Weapon"
+    ],
+    "The regime": [
+        "Organisation"
+    ],
+    "its backers": [
+        "Organisation"
+    ],
+    "UN Security Council": [
+        "Organisation"
+    ],
+    "four more days": [
+        "Temporal"
+    ],
+    "Husaybah": [
+        "Location"
+    ],
+    "the coalition troops": [
+        "Organisation"
+    ],
+    "the city of Ubaydi": [
+        "Location"
+    ],
+    "Air Force F - 16 Fighting Falcons": [
+        "MilitaryPlatform"
+    ],
+    "the Vermont Air National Guard": [
+        "Organisation"
+    ],
+    "Dec. 10 , 2016": [
+        "Temporal"
+    ],
+    "the Islamic State of Iraq and the Levant": [
+        "Organisation"
+    ],
+    "U.S. Secretary of State Kerry": [
+        "Person"
+    ],
+    "U.S. Secretary of Defense Ash Carter": [
+        "Person"
+    ],
+    "foreign and defense ministers": [
+        "Organisation"
+    ],
+    "the Global Coalition to Counter ISIL": [
+        "Organisation"
+    ],
+    "Washington D . C .": [
+        "Location"
+    ],
+    "Counter ISIL Coalition": [
+        "Organisation"
+    ],
+    "the Wadi Barada area": [
+        "Location"
+    ],
+    "Damascus": [
+        "Location"
+    ],
+    "militias like Hezbollah": [
+        "Organisation"
+    ],
+    "all the parties": [
+        "Organisation"
+    ],
+    "chemical weapons": [
+        "Weapon"
+    ],
+    "the international coalition": [
+        "Organisation"
+    ],
+    "the ISIL terrorist group": [
+        "Organisation"
+    ],
+    "the wider international community": [
+        "Organisation"
+    ],
+    "Sajida Mubarak Atrous al - Rishawi": [
+        "Person"
+    ],
+    "4 February 2015": [
+        "Temporal"
+    ],
+    "Royal Jordanian Air Force": [
+        "Organisation"
+    ],
+    "lieutenant Muath al - Kasasbeh": [
+        "Person"
+    ],
+    "Palmyra": [
+        "Location"
+    ],
+    "the front line": [
+        "Location"
+    ],
+    "Forbin": [
+        "MilitaryPlatform"
+    ],
+    "U.S. ships": [
+        "Organisation"
+    ],
+    "USS Hopper": [
+        "MilitaryPlatform"
+    ],
+    "DDG 70": [
+        "MilitaryPlatform"
+    ],
+    "USS Mahan": [
+        "MilitaryPlatform"
+    ],
+    "DDG 72": [
+        "MilitaryPlatform"
+    ],
+    "L 12": [
+        "MilitaryPlatform"
+    ],
+    "HMS Daring": [
+        "MilitaryPlatform"
+    ],
+    "D 32": [
+        "MilitaryPlatform"
+    ],
+    "Jordanian": [
+        "Nationality"
+    ],
+    "international donors": [
+        "Organisation"
+    ],
+    "Sadiq ' s family ' s store": [
+        "Location"
+    ],
+    "senior officials of the EU": [
+        "Organisation"
+    ],
+    "Ministers of Foreign Affairs": [
+        "Organisation"
+    ],
+    "Iran": [
+        "Organisation",
+        "Location"
+    ],
+    "Saudi Arabia": [
+        "Organisation",
+        "Location"
+    ],
+    "United Arab Emirates": [
+        "Organisation"
+    ],
+    "Egypt": [
+        "Organisation"
+    ],
+    "the two men": [
+        "Organisation"
+    ],
+    "The head of the country ' s counter - terrorism operations": [
+        "Person"
+    ],
+    "the area": [
+        "Location"
+    ],
+    "Rawah": [
+        "Location"
+    ],
+    "strike": [
+        "Weapon"
+    ],
+    "an ISIL tactical unit": [
+        "Organisation"
+    ],
+    "a VBIED": [
+        "Weapon"
+    ],
+    "a VBIED facility": [
+        "Location"
+    ],
+    "a UAV launch site": [
+        "Location"
+    ],
+    "The SDF": [
+        "Organisation"
+    ],
+    "local Arabs": [
+        "Organisation"
+    ],
+    "Arab component": [
+        "Organisation"
+    ],
+    "the Syrian Arab Coalition": [
+        "Organisation"
+    ],
+    "Coalition advisers": [
+        "Organisation"
+    ],
+    "Nov. 5": [
+        "Temporal"
+    ],
+    "Security Council Resolution 2328": [
+        "DocumentReference"
+    ],
+    "civilians": [
+        "Organisation"
+    ],
+    "A non - governmental security analyst": [
+        "Person"
+    ],
+    "time of the attack": [
+        "Temporal"
+    ],
+    "coalition forces": [
+        "Organisation"
+    ],
+    "early November 2005": [
+        "Temporal"
+    ],
+    "foreign insurgents": [
+        "Organisation"
+    ],
+    "the New Iraqi Army": [
+        "Organisation"
+    ],
+    "my": [
+        "Person"
+    ],
+    "The group": [
+        "Organisation"
+    ],
+    "Sheikh Abu Omar al - Ansari": [
+        "Person"
+    ],
+    "The Members of the Security Council": [
+        "Organisation"
+    ],
+    "Iraqi President Fuad Masum": [
+        "Person"
+    ],
+    "the families of the victims": [
+        "Organisation"
+    ],
+    "all those wounded": [
+        "Organisation"
+    ],
+    "Darayya": [
+        "Location"
+    ],
+    "government and pro - Assad forces": [
+        "Organisation"
+    ],
+    "four years ago": [
+        "Temporal"
+    ],
+    "his family": [
+        "Organisation"
+    ],
+    "years": [
+        "Temporal"
+    ],
+    "The nation": [
+        "Organisation"
+    ],
+    "Col. Travis Caughlin": [
+        "Person"
+    ],
+    "507th Maintenance Group Commander": [
+        "Person"
+    ],
+    "Foreign Secretary Boris Johnson": [
+        "Person"
+    ],
+    "the UN": [
+        "Organisation"
+    ],
+    "eastern Aleppo": [
+        "Location"
+    ],
+    "the two leaders": [
+        "Organisation"
+    ],
+    "the Kurdistan regional government": [
+        "Organisation"
+    ],
+    "Foreign Office Minister": [
+        "Person"
+    ],
+    "the chapter": [
+        "DocumentReference"
+    ],
+    "They": [
+        "Organisation"
+    ],
+    "one dinar": [
+        "Money"
+    ],
+    "Minister for the Middle East": [
+        "Person"
+    ],
+    "Anas": [
+        "Person"
+    ],
+    "aspiring teachers , doctors and dentists": [
+        "Organisation"
+    ],
+    "The Defense Department": [
+        "Organisation"
+    ],
+    "the American service member": [
+        "Person"
+    ],
+    "a street": [
+        "Location"
+    ],
+    "23": [
+        "Quantity"
+    ],
+    "attack , bomber , fighter and remotely piloted aircraft": [
+        "MilitaryPlatform"
+    ],
+    "the U.S. - led coalition": [
+        "Organisation"
+    ],
+    "four": [
+        "Quantity"
+    ],
+    "24": [
+        "Quantity"
+    ],
+    "tactical units": [
+        "Organisation"
+    ],
+    "a command - and - control node": [
+        "Location"
+    ],
+    "SDF": [
+        "Organisation"
+    ],
+    "Raqqa": [
+        "Location"
+    ],
+    "U.S. Central Command": [
+        "Organisation"
+    ],
+    "service members": [
+        "Organisation"
+    ],
+    "a festive night just before the Muslim Eid celebration": [
+        "Temporal"
+    ],
+    "terrain surrounding Raqqah": [
+        "Location"
+    ],
+    "the Syrian people": [
+        "Organisation"
+    ],
+    "at least three occasions": [
+        "Quantity"
+    ],
+    "such weapons": [
+        "Weapon"
+    ],
+    "at least once": [
+        "Quantity"
+    ],
+    "foreign fighters": [
+        "Organisation"
+    ],
+    "U.S. Army General Joseph Votel": [
+        "Person"
+    ],
+    "U.S. Air Force civilian employees": [
+        "Organisation"
+    ],
+    "CENTCOM": [
+        "Organisation"
+    ],
+    "The jihadist group": [
+        "Organisation"
+    ],
+    "military barracks": [
+        "Location"
+    ],
+    "The CJTF - OIR commanding general": [
+        "Person"
+    ],
+    "Lt. Gen. Stephen J. Townsend": [
+        "Person"
+    ],
+    "Dec. 14th": [
+        "Temporal"
+    ],
+    "Col. John ' J.D. ' Dorrian": [
+        "Person"
+    ],
+    "the CJTF - OIR spokesperson": [
+        "Person"
+    ],
+    "Votel": [
+        "Person"
+    ],
+    "the Coalition military": [
+        "Organisation"
+    ],
+    "the UK": [
+        "Organisation"
+    ],
+    "870": [
+        "Quantity"
+    ],
+    "265": [
+        "Quantity"
+    ],
+    "ISIL targets": [
+        "Location"
+    ],
+    "125": [
+        "Quantity"
+    ],
+    "soldiers": [
+        "Organisation"
+    ],
+    "the Iraqi Army": [
+        "Organisation"
+    ],
+    "local people": [
+        "Organisation"
+    ],
+    "Jordanian 71st Counter Terrorism Battalion": [
+        "Organisation"
+    ],
+    "Jordanian intelligence officers": [
+        "Organisation"
+    ],
+    "May 2006": [
+        "Temporal"
+    ],
+    "Karbouly": [
+        "Person"
+    ],
+    "Some Iraqis": [
+        "Organisation"
+    ],
+    "this Thanksgiving": [
+        "Temporal"
+    ],
+    "our homeland": [
+        "Location"
+    ],
+    "The report": [
+        "DocumentReference"
+    ],
+    "Iraqis": [
+        "Organisation"
+    ],
+    "2003": [
+        "Temporal"
+    ],
+    "Saddam Hussein": [
+        "Person"
+    ],
+    "Thursday , Dec. 15": [
+        "Temporal"
+    ],
+    "Coalition aircraft": [
+        "MilitaryPlatform"
+    ],
+    "14": [
+        "Quantity"
+    ],
+    "ISIL tanks": [
+        "MilitaryPlatform"
+    ],
+    "Palmyra , Syria": [
+        "Location"
+    ],
+    "AQI": [
+        "Organisation"
+    ],
+    "weapons": [
+        "Weapon"
+    ],
+    "money": [
+        "Money"
+    ],
+    "fighters": [
+        "Organisation"
+    ],
+    "the Syria - Iraq border": [
+        "Location"
+    ],
+    "November 2006": [
+        "Temporal"
+    ],
+    "the Islamic Association": [
+        "Organisation"
+    ],
+    "a Muslim Cultural Center": [
+        "Location"
+    ],
+    "the city center": [
+        "Location"
+    ],
+    "The International Community": [
+        "Organisation"
+    ],
+    "it": [
+        "Organisation",
+        "Location"
+    ],
+    "Jabla": [
+        "Location"
+    ],
+    "the northwest province of Latakia": [
+        "Location"
+    ],
+    "the port city of Tartus": [
+        "Location"
+    ],
+    "Da \u2019 esh": [
+        "Organisation"
+    ],
+    "60 civilians": [
+        "Organisation"
+    ],
+    "bus stations": [
+        "Location"
+    ],
+    "a hospital": [
+        "Location"
+    ],
+    "January 15 , 2006": [
+        "Temporal"
+    ],
+    "the umbrella organization known as the Mujahideen Shura Council": [
+        "Organisation"
+    ],
+    "the safehouse": [
+        "Location"
+    ],
+    "his spiritual adviser": [
+        "Person"
+    ],
+    "U.S. - led coalition aircraft": [
+        "MilitaryPlatform"
+    ],
+    "Another resident": [
+        "Person"
+    ],
+    "missile": [
+        "Weapon"
+    ],
+    "The power station": [
+        "Location"
+    ],
+    "1972": [
+        "Temporal"
+    ],
+    "U.S. officials": [
+        "Organisation"
+    ],
+    "139": [
+        "Quantity"
+    ],
+    "insurgents": [
+        "Organisation"
+    ],
+    "256": [
+        "Quantity"
+    ],
+    "prisoners": [
+        "Organisation"
+    ],
+    "The Department of Defense": [
+        "Organisation"
+    ],
+    "a soldier": [
+        "Person"
+    ],
+    "UN human rights staff": [
+        "Organisation"
+    ],
+    "Islamic State militants": [
+        "Organisation"
+    ],
+    "Russia": [
+        "Organisation"
+    ],
+    "other towns and areas": [
+        "Location"
+    ],
+    "ISIL forces": [
+        "Organisation"
+    ],
+    "the UNESCO World Heritage Site at Palmyra": [
+        "Location"
+    ],
+    "Foreign Office Minister Tobias Ellwood": [
+        "Person"
+    ],
+    "The Department": [
+        "Organisation"
+    ],
+    "its Senior Advisor for MEK Resettlement": [
+        "Person"
+    ],
+    "the residents of Camp Hurriya": [
+        "Organisation"
+    ],
+    "safe , permanent locations": [
+        "Location"
+    ],
+    "Deputy Secretary of State Tony Blinken": [
+        "Person"
+    ],
+    "tomorrow": [
+        "Temporal"
+    ],
+    "the French government": [
+        "Organisation"
+    ],
+    "the coalition": [
+        "Organisation"
+    ],
+    "the last 24 hours": [
+        "Temporal"
+    ],
+    "10": [
+        "Quantity"
+    ],
+    "the oil infrastructure": [
+        "Location"
+    ],
+    "5 November": [
+        "Temporal"
+    ],
+    "Marines from 3rd Battalion , 6th Marines and 2nd Battalion , 1st Marines": [
+        "Organisation"
+    ],
+    "insurgent - held Karabilah": [
+        "Location"
+    ],
+    "four days later": [
+        "Temporal"
+    ],
+    "there": [
+        "Location"
+    ],
+    "bombers": [
+        "MilitaryPlatform"
+    ],
+    "airlifters": [
+        "MilitaryPlatform"
+    ],
+    "The Foreign Secretary": [
+        "Person"
+    ],
+    "the US Secretary of State": [
+        "Person"
+    ],
+    "the tanks": [
+        "MilitaryPlatform"
+    ],
+    "other military hardware": [
+        "Weapon"
+    ],
+    "Tiyas Military Airfield": [
+        "Location"
+    ],
+    "11 - 13 Dec.": [
+        "Temporal"
+    ],
+    "Dabiq": [
+        "Location"
+    ],
+    "its English - language magazine": [
+        "DocumentReference"
+    ],
+    "the so - called caliphate": [
+        "Organisation"
+    ],
+    "units": [
+        "Organisation"
+    ],
+    "translators and linguists": [
+        "Organisation"
+    ],
+    "the teams": [
+        "Organisation"
+    ],
+    "Jan. 3": [
+        "Temporal"
+    ],
+    "the headquarters compound": [
+        "Location"
+    ],
+    "Zarqawi": [
+        "Person"
+    ],
+    "Ghadiya": [
+        "Person"
+    ],
+    "Abu Ayyub Al - Masri": [
+        "Person"
+    ],
+    "Sunday": [
+        "Temporal"
+    ],
+    "50": [
+        "Quantity"
+    ],
+    "former Iraqi police officers": [
+        "Organisation"
+    ],
+    "a building": [
+        "Location"
+    ],
+    "seven": [
+        "Quantity"
+    ],
+    "ISIL tactical units": [
+        "Organisation"
+    ],
+    "a fighting position": [
+        "Location"
+    ],
+    "a heavy machine gun": [
+        "Weapon"
+    ],
+    "ISIL - held buildings": [
+        "Location"
+    ],
+    "VBIEDs": [
+        "Weapon"
+    ],
+    "tactical vehicles": [
+        "MilitaryPlatform"
+    ],
+    "a tunnel entrance": [
+        "Location"
+    ],
+    "a mortar": [
+        "Weapon"
+    ],
+    "18": [
+        "Quantity"
+    ],
+    "mortar teams": [
+        "Organisation"
+    ],
+    "the government": [
+        "Organisation"
+    ],
+    "people of Iraq": [
+        "Organisation"
+    ],
+    "' Z '": [
+        "Temporal"
+    ],
+    "Greenwich Mean Time": [
+        "Temporal"
+    ],
+    "Pentagon Press": [
+        "Organisation"
+    ],
+    "the Press Briefing Room": [
+        "Location"
+    ],
+    "Navy Capt.": [
+        "Person"
+    ],
+    "Jeff Davis": [
+        "Person"
+    ],
+    "the room": [
+        "Location"
+    ],
+    "the Pentagon": [
+        "Organisation",
+        "Location"
+    ],
+    "Noncommissioned officers": [
+        "Organisation"
+    ],
+    "unit": [
+        "Organisation"
+    ],
+    "subject matter experts": [
+        "Organisation"
+    ],
+    "101 munitions": [
+        "Weapon"
+    ],
+    "the U.S. military": [
+        "Organisation"
+    ],
+    "October 26 , 2008": [
+        "Temporal"
+    ],
+    "Syrian": [
+        "Nationality"
+    ],
+    "HRW": [
+        "Organisation"
+    ],
+    "the woman ' s section of the al - Khani mosque": [
+        "Location"
+    ],
+    "Daquq": [
+        "Location"
+    ],
+    "a Kurdish - controlled town about 30km ( 19 miles ) south of Kirkuk": [
+        "Location"
+    ],
+    "Shia Muslim worshippers": [
+        "Organisation"
+    ],
+    "graduate doctors": [
+        "Organisation"
+    ],
+    "Syrian universities": [
+        "Organisation"
+    ],
+    "70": [
+        "Quantity"
+    ],
+    "members": [
+        "Organisation"
+    ],
+    "the Al Bu Nimr tribe": [
+        "Organisation"
+    ],
+    "Anbar province": [
+        "Location"
+    ],
+    "Boris Johnson": [
+        "Person"
+    ],
+    "SRTF": [
+        "Organisation"
+    ],
+    "our international": [
+        "Organisation"
+    ],
+    "partners": [
+        "Organisation"
+    ],
+    "the SRTF": [
+        "Organisation"
+    ],
+    "nine members": [
+        "Organisation"
+    ],
+    "Caughlin": [
+        "Person"
+    ],
+    "Abu Jandal": [
+        "Person"
+    ],
+    "suicide vehicles": [
+        "MilitaryPlatform"
+    ],
+    "IEDs": [
+        "Weapon"
+    ],
+    "media": [
+        "Organisation"
+    ],
+    "U.S. Army Special Operations Command Public Affairs Office": [
+        "Organisation"
+    ],
+    "media reports": [
+        "DocumentReference"
+    ],
+    "international forces": [
+        "Organisation"
+    ],
+    "the Foreign Ministers of Iran , Saudi Arabia , Emirates , Turkey , Lebanon , Egypt , Jordan , Qatar": [
+        "Organisation"
+    ],
+    "the end of the year": [
+        "Temporal"
+    ],
+    "these people": [
+        "Organisation"
+    ],
+    "millions of dollars": [
+        "Money"
+    ],
+    "October 27": [
+        "Temporal"
+    ],
+    "the market": [
+        "Location"
+    ],
+    "The fortified city": [
+        "Location"
+    ],
+    "seven days": [
+        "Temporal"
+    ],
+    "one hostage": [
+        "Person"
+    ],
+    "crowds": [
+        "Organisation"
+    ],
+    "its network": [
+        "Organisation"
+    ],
+    "Turkey \u2019 s democratically elected government": [
+        "Organisation"
+    ],
+    "Turkey \u2019 s constitution": [
+        "DocumentReference"
+    ],
+    "early hours of Sunday": [
+        "Temporal"
+    ],
+    "the Mosul Dam": [
+        "Location"
+    ],
+    "dams in Turkey": [
+        "Location"
+    ],
+    "the airfield": [
+        "Location"
+    ],
+    "northeast of the city": [
+        "Location"
+    ],
+    "a highway": [
+        "Location"
+    ],
+    "mourners": [
+        "Organisation"
+    ],
+    "a funeral tent": [
+        "Location"
+    ],
+    "this Thanksgiving Day": [
+        "Temporal"
+    ],
+    "one of our brave service members": [
+        "Person"
+    ],
+    "a Nov. 24 statement": [
+        "DocumentReference"
+    ],
+    "one": [
+        "Quantity"
+    ],
+    "tank": [
+        "MilitaryPlatform"
+    ],
+    "Alsumaria News": [
+        "Organisation"
+    ],
+    "\u0627 \u0644 \u0633 \u0648 \u0645 \u0631 \u064a \u0629 \u0646 \u064a \u0648 \u0632": [
+        "Organisation"
+    ],
+    "Nilesat": [
+        "Organisation"
+    ],
+    "Hotbird": [
+        "Organisation"
+    ],
+    "Noorsat": [
+        "Organisation"
+    ],
+    "Eurobird": [
+        "Organisation"
+    ],
+    "Ziad Khalaf al - Karbouly": [
+        "Person"
+    ],
+    "Al - Qa ' im": [
+        "Location"
+    ],
+    "an Iraqi tribal sheikh": [
+        "Person"
+    ],
+    "the Al - Karabla clan": [
+        "Organisation"
+    ],
+    "the Dulaim": [
+        "Organisation"
+    ],
+    "enthusiasts": [
+        "Organisation"
+    ],
+    "an underground library": [
+        "Location"
+    ],
+    "users": [
+        "Organisation"
+    ],
+    "The American people": [
+        "Organisation"
+    ],
+    "their": [
+        "Organisation"
+    ],
+    "an Arab audience": [
+        "Organisation"
+    ],
+    "the Americas": [
+        "Location"
+    ],
+    "myTV": [
+        "Organisation"
+    ],
+    "the terrorist group ISIL": [
+        "Organisation"
+    ],
+    "the Assad regime": [
+        "Organisation"
+    ],
+    "The Syrian army": [
+        "Organisation"
+    ],
+    "23 May 2006": [
+        "Temporal"
+    ],
+    "citizens from Jordan and Iraq": [
+        "Organisation"
+    ],
+    "two Moroccans": [
+        "Organisation"
+    ],
+    "October 2005": [
+        "Temporal"
+    ],
+    "The U.S. government": [
+        "Organisation"
+    ],
+    "Qanbar": [
+        "Person"
+    ],
+    "the navy": [
+        "Organisation"
+    ],
+    "1980 - 88": [
+        "Temporal"
+    ],
+    "Kuwait": [
+        "Location"
+    ],
+    "1990 - 91": [
+        "Temporal"
+    ],
+    "Witnesses": [
+        "Organisation"
+    ],
+    "air strike": [
+        "Weapon"
+    ],
+    "aircraft": [
+        "MilitaryPlatform"
+    ],
+    "The full report": [
+        "DocumentReference"
+    ],
+    "the Human Rights Council": [
+        "Organisation"
+    ],
+    "the Syrian Arab Republic": [
+        "Organisation"
+    ],
+    "30 percent": [
+        "Quantity"
+    ],
+    "the territory": [
+        "Location"
+    ],
+    "The enemy": [
+        "Organisation"
+    ],
+    "our forces": [
+        "Organisation"
+    ],
+    "Maj. Gen. Gary J. Volesky": [
+        "Person"
+    ],
+    "Combined Joint Forces Land Component Command": [
+        "Organisation"
+    ],
+    "the global coalition": [
+        "Organisation"
+    ],
+    "6 , 602": [
+        "Quantity"
+    ],
+    "the Foreign Secretary": [
+        "Person"
+    ],
+    "the Gulf": [
+        "Location"
+    ],
+    "11 December": [
+        "Temporal"
+    ],
+    "coalition": [
+        "Organisation"
+    ],
+    "this terrorist group": [
+        "Organisation"
+    ],
+    "The city of Mosul": [
+        "Location"
+    ],
+    "Minister for the Middle East Tobias Ellwood": [
+        "Person"
+    ],
+    "29 December": [
+        "Temporal"
+    ],
+    "the Iraqi mission": [
+        "Organisation"
+    ],
+    "the city of Mosul": [
+        "Location"
+    ],
+    "a courthouse": [
+        "Location"
+    ],
+    "7km": [
+        "Quantity"
+    ],
+    "four miles": [
+        "Quantity"
+    ],
+    "the Turkish frontier": [
+        "Location"
+    ],
+    "Shia Muslim paramilitary groups": [
+        "Organisation"
+    ],
+    "the Iraqi Security Forces": [
+        "Organisation"
+    ],
+    "the location": [
+        "Location"
+    ],
+    "enemy fighters": [
+        "Organisation"
+    ],
+    "Iraqi forces": [
+        "Organisation"
+    ],
+    "developers , proliferators and users": [
+        "Organisation"
+    ],
+    "businessmen": [
+        "Organisation"
+    ],
+    "companies": [
+        "Organisation"
+    ],
+    "shabiha militias": [
+        "Organisation"
+    ],
+    "the scenes of bombings": [
+        "Location"
+    ],
+    "this city": [
+        "Location"
+    ],
+    "Australian": [
+        "Nationality"
+    ],
+    "Mosul district": [
+        "Location"
+    ],
+    "past 24 hours": [
+        "Temporal"
+    ],
+    "defensive positions": [
+        "Location"
+    ],
+    "Islamic State of Iraq and the Levant fighters": [
+        "Organisation"
+    ],
+    "the country \u2019 s second - largest city": [
+        "Location"
+    ],
+    "Pentagon press operations director Navy Capt.": [
+        "Person"
+    ],
+    "the UN High Commissioner for Refugees": [
+        "Person"
+    ],
+    "Camp Hurriya residents": [
+        "Organisation"
+    ],
+    "a permanent and safe location": [
+        "Location"
+    ],
+    "Hospital": [
+        "Location"
+    ],
+    "Dayr Az Zayr": [
+        "Location"
+    ],
+    "its communities": [
+        "Organisation"
+    ],
+    "bombed - out buildings": [
+        "Location"
+    ],
+    "ourselves": [
+        "Organisation"
+    ],
+    "snipers": [
+        "Organisation"
+    ],
+    "At least 10": [
+        "Quantity"
+    ],
+    "U.S. Marines": [
+        "Organisation"
+    ],
+    "Iraqi soldiers": [
+        "Organisation"
+    ],
+    "A local physician": [
+        "Person"
+    ],
+    "Zahid Mohammed Rawi": [
+        "Person"
+    ],
+    "medical workers": [
+        "Organisation"
+    ],
+    "97 civilians": [
+        "Organisation"
+    ],
+    "the first week": [
+        "Temporal"
+    ],
+    "its allies": [
+        "Organisation"
+    ],
+    "the moderate Syrian Opposition": [
+        "Organisation"
+    ],
+    "a rifle": [
+        "Weapon"
+    ],
+    "counter - ISIL coalition": [
+        "Organisation"
+    ],
+    "this hero": [
+        "Person"
+    ],
+    "Army Lt. Gen. Stephen J. Townsend": [
+        "Person"
+    ],
+    "Combined Joint Task Force - Operation Inherent Resolve": [
+        "Organisation"
+    ],
+    "Foreign Secretary": [
+        "Person"
+    ],
+    "Assad \u2019 s brutal regime": [
+        "Organisation"
+    ],
+    "Iraqi officials": [
+        "Organisation"
+    ],
+    "the IS group": [
+        "Organisation"
+    ],
+    "the university complex": [
+        "Location"
+    ],
+    "Bassel al - Assad": [
+        "Person"
+    ],
+    "1989": [
+        "Temporal"
+    ],
+    "Bashar al - Assad": [
+        "Person"
+    ],
+    "the President of Syria": [
+        "Person"
+    ],
+    "this barbaric group": [
+        "Organisation"
+    ],
+    "a bomb - damaged building": [
+        "Location"
+    ],
+    "library": [
+        "Location"
+    ],
+    "suburb of Darayya": [
+        "Location"
+    ],
+    "the University of Mosul": [
+        "Location"
+    ],
+    "Al Assad University Hospital": [
+        "Location"
+    ],
+    "the CJTF": [
+        "Organisation"
+    ],
+    "Omar": [
+        "Person"
+    ],
+    "his fellow fighters": [
+        "Organisation"
+    ],
+    "the people of Darayya": [
+        "Organisation"
+    ],
+    "Shia Arab": [
+        "Nationality"
+    ],
+    "Philip Hammond": [
+        "Person"
+    ],
+    "Kurdistan Regional governments": [
+        "Organisation"
+    ],
+    "One man": [
+        "Person"
+    ],
+    "nearly four long years": [
+        "Temporal"
+    ],
+    "Keating": [
+        "Person"
+    ],
+    "the terrorists associated with ISIL": [
+        "Organisation"
+    ],
+    "Badran Turki Hishan al - Mazidi": [
+        "Person"
+    ],
+    "1977 - 1979": [
+        "Temporal"
+    ],
+    "al - Qaeda in Iraq": [
+        "Organisation"
+    ],
+    "ISIL - held building": [
+        "Location"
+    ],
+    "UK": [
+        "Organisation"
+    ],
+    "Australia": [
+        "Organisation"
+    ],
+    "The command": [
+        "Organisation"
+    ],
+    "next year": [
+        "Temporal"
+    ],
+    "the civilian workforce": [
+        "Organisation"
+    ],
+    "ministers": [
+        "Organisation"
+    ],
+    "8 , 000": [
+        "Quantity"
+    ],
+    "Darayya ' s population": [
+        "Organisation"
+    ],
+    "80 , 000": [
+        "Quantity"
+    ],
+    "Brussels": [
+        "Location"
+    ],
+    "mid January": [
+        "Temporal"
+    ],
+    "Geneva": [
+        "Location"
+    ],
+    "the EU": [
+        "Organisation"
+    ],
+    "spring": [
+        "Temporal"
+    ],
+    "the eve of a New Year": [
+        "Temporal"
+    ],
+    "Petty Officer Keating": [
+        "Person"
+    ],
+    "our Kurdish partners": [
+        "Organisation"
+    ],
+    "War Council": [
+        "Organisation"
+    ],
+    "the West": [
+        "Organisation",
+        "Location"
+    ],
+    "journalists": [
+        "Organisation"
+    ],
+    "Arabic - language manual": [
+        "DocumentReference"
+    ],
+    "logo": [
+        "DocumentReference"
+    ],
+    "the Brandbergen Mosque": [
+        "Location"
+    ],
+    "SECRETARY KERRY": [
+        "Person"
+    ],
+    "the morning": [
+        "Temporal"
+    ],
+    "May 2013": [
+        "Temporal"
+    ],
+    "700 domains": [
+        "Quantity"
+    ],
+    "the Syrian Computer Society": [
+        "Organisation"
+    ],
+    "U.S. DNS infrastructure operator Network Solutions": [
+        "Organisation"
+    ],
+    "OFAC": [
+        "Organisation"
+    ],
+    "the U.S. federal government ' s Office of Foreign Assets Control": [
+        "Organisation"
+    ],
+    "weeks": [
+        "Temporal"
+    ],
+    "months": [
+        "Temporal"
+    ],
+    "3 , 000 to 5 , 000": [
+        "Quantity"
+    ],
+    "Saturday": [
+        "Temporal"
+    ],
+    "Rufaila": [
+        "Location"
+    ],
+    "group of other people": [
+        "Organisation"
+    ],
+    "another area": [
+        "Location"
+    ],
+    "all parties": [
+        "Organisation"
+    ],
+    "American forces": [
+        "Organisation"
+    ],
+    "Saddam": [
+        "Person"
+    ],
+    "the island": [
+        "Location"
+    ],
+    "Basra": [
+        "Location"
+    ],
+    "new commands": [
+        "Organisation"
+    ],
+    "1991": [
+        "Temporal"
+    ],
+    "Shiite": [
+        "Nationality"
+    ],
+    "allies": [
+        "Organisation"
+    ],
+    "Coalition nations": [
+        "Organisation"
+    ],
+    "Bahrain": [
+        "Organisation"
+    ],
+    "Canada": [
+        "Organisation"
+    ],
+    "Netherlands": [
+        "Organisation"
+    ],
+    "the United Kingdom": [
+        "Organisation"
+    ],
+    "Abboud Qanbar": [
+        "Person"
+    ],
+    "Abu Haidar": [
+        "Person"
+    ],
+    "MR KIRBY": [
+        "Person"
+    ],
+    "the ISIL ' s War Committee": [
+        "Organisation"
+    ],
+    "Tabqa": [
+        "Location"
+    ],
+    "the Syrian Democratic Forces": [
+        "Organisation"
+    ],
+    "the international community": [
+        "Organisation"
+    ],
+    "A Foreign Office spokesman": [
+        "Person"
+    ],
+    "My": [
+        "Person"
+    ],
+    "the family and friends": [
+        "Organisation"
+    ],
+    "those who have been killed and injured": [
+        "Organisation"
+    ],
+    "This week": [
+        "Temporal"
+    ],
+    "European Union": [
+        "Organisation"
+    ],
+    "High Representative Federica Mogherini": [
+        "Person"
+    ],
+    "the mountains": [
+        "Location"
+    ],
+    "the frontier region": [
+        "Location"
+    ],
+    "Babylonia": [
+        "Location"
+    ],
+    "Assyria": [
+        "Location"
+    ],
+    "The Syrian Democratic Forces": [
+        "Organisation"
+    ],
+    "Nov. 6 , 2016": [
+        "Temporal"
+    ],
+    "the dam": [
+        "Location"
+    ],
+    "the Tigris River": [
+        "Location"
+    ],
+    "Lake Tharthar": [
+        "Location"
+    ],
+    "the Tharthar depression": [
+        "Location"
+    ],
+    "hydro - electricity station": [
+        "Location"
+    ],
+    "Islamic State of Iraq and Levant": [
+        "Organisation"
+    ],
+    "Fialaka": [
+        "Location"
+    ],
+    "Jan. 10": [
+        "Temporal"
+    ],
+    "The Coalition": [
+        "Organisation"
+    ],
+    "April 2015": [
+        "Temporal"
+    ],
+    "the Tharthar Barrage": [
+        "Location"
+    ],
+    "The Islamic State": [
+        "Organisation"
+    ],
+    "120 Iraqi soldiers": [
+        "Organisation"
+    ],
+    "a senior Iraqi general": [
+        "Person"
+    ],
+    "Camp Hurriya": [
+        "Location"
+    ],
+    "camp residents": [
+        "Organisation"
+    ],
+    "the others": [
+        "Organisation"
+    ],
+    "operations teams": [
+        "Organisation"
+    ],
+    "The UN Security Council": [
+        "Organisation"
+    ],
+    "populated areas": [
+        "Location"
+    ],
+    "Joseph Votel": [
+        "Person"
+    ],
+    "commander of U.S. Central Command": [
+        "Person"
+    ],
+    "Qamenas": [
+        "Location"
+    ],
+    "Sarmin": [
+        "Location"
+    ],
+    "Talamenes": [
+        "Location"
+    ],
+    "all five chapters of this book": [
+        "DocumentReference"
+    ],
+    "senior U.S. military officials": [
+        "Organisation"
+    ],
+    "the Iraqi Armed Forces": [
+        "Organisation"
+    ],
+    "Popular Mobilization Forces": [
+        "Organisation"
+    ],
+    "others": [
+        "Organisation"
+    ],
+    "the studio": [
+        "Location"
+    ],
+    "foreign militias": [
+        "Organisation"
+    ],
+    "Russian air support": [
+        "Organisation"
+    ],
+    "two years": [
+        "Temporal"
+    ],
+    "the Iraqis": [
+        "Organisation"
+    ],
+    "15 to 20 percent": [
+        "Quantity"
+    ],
+    "enemy forces": [
+        "Organisation"
+    ],
+    "Oct. 17": [
+        "Temporal"
+    ],
+    "Navy Special Warfare Operator 1st Class Charles H. Keating IV": [
+        "Person"
+    ],
+    "city of Mosul": [
+        "Location"
+    ],
+    "neighborhoods": [
+        "Location"
+    ],
+    "areas already liberated": [
+        "Location"
+    ],
+    "his nephews": [
+        "Organisation"
+    ],
+    "the family ' s clothing business": [
+        "Organisation"
+    ],
+    "their wives and children": [
+        "Organisation"
+    ],
+    "Prime Minister Abadi": [
+        "Person"
+    ],
+    "his government": [
+        "Organisation"
+    ],
+    "today \u2019 s announcement": [
+        "DocumentReference"
+    ],
+    "FS Forbin": [
+        "MilitaryPlatform"
+    ],
+    "U.S. , U.K. and French maritime security operations": [
+        "Organisation"
+    ],
+    "Burns": [
+        "Person"
+    ],
+    "every day": [
+        "Temporal"
+    ],
+    "next door": [
+        "Location"
+    ],
+    "Al Huwayjah": [
+        "Location"
+    ],
+    "two bridges": [
+        "Location"
+    ],
+    "1956": [
+        "Temporal"
+    ],
+    "German": [
+        "Nationality"
+    ],
+    "Z\u00fcblin": [
+        "Organisation"
+    ],
+    "the Karrada district of Baghdad": [
+        "Location"
+    ],
+    "myself": [
+        "Person"
+    ],
+    "an art space": [
+        "Location"
+    ],
+    "young poets": [
+        "Organisation"
+    ],
+    "painters": [
+        "Organisation"
+    ],
+    "musicians": [
+        "Organisation"
+    ],
+    "The Israeli government": [
+        "Organisation"
+    ],
+    "ten": [
+        "Quantity"
+    ],
+    "vulnerable people": [
+        "Organisation"
+    ],
+    "Cook": [
+        "Person"
+    ],
+    "11": [
+        "Quantity"
+    ],
+    "attack , bomber , fighter , and remotely piloted aircraft": [
+        "MilitaryPlatform"
+    ],
+    "rocket artillery": [
+        "Weapon"
+    ],
+    "hundreds of people": [
+        "Organisation"
+    ],
+    "Hezbollah movement": [
+        "Organisation"
+    ],
+    "2011": [
+        "Temporal"
+    ],
+    "FCO Minister Tobias Ellwood": [
+        "Person"
+    ],
+    "12 months": [
+        "Temporal"
+    ],
+    "guarantors of the ceasefire": [
+        "Organisation"
+    ],
+    "Minister Tobias Ellwood": [
+        "Person"
+    ],
+    "organisations": [
+        "Organisation"
+    ],
+    "five million": [
+        "Quantity"
+    ],
+    "foreign terrorist fighters": [
+        "Organisation"
+    ],
+    "liberated areas": [
+        "Location"
+    ],
+    "Hibhib": [
+        "Location"
+    ],
+    "Hibhib Village": [
+        "Location"
+    ],
+    "8 km": [
+        "Quantity"
+    ],
+    "5 . 0 mi": [
+        "Quantity"
+    ],
+    "Baquba": [
+        "Location"
+    ],
+    "tens of thousands": [
+        "Quantity"
+    ],
+    "innocent people": [
+        "Organisation"
+    ],
+    "Last month": [
+        "Temporal"
+    ],
+    "Jordanian factories": [
+        "Organisation"
+    ],
+    "the European Union": [
+        "Organisation"
+    ],
+    "the Iraq people": [
+        "Organisation"
+    ],
+    "our men and women in uniform": [
+        "Organisation"
+    ],
+    "Albert Connelly": [
+        "Person"
+    ],
+    "an artillery crew chief in Abel Battery , 3rd Battalion": [
+        "Person"
+    ],
+    "the two nations": [
+        "Organisation"
+    ],
+    "Tikrit": [
+        "Location"
+    ],
+    "a group of professional businessmen": [
+        "Organisation"
+    ],
+    "700 employees": [
+        "Organisation"
+    ],
+    "the United Arab Emirates": [
+        "Location"
+    ],
+    "al - Qaida": [
+        "Organisation"
+    ],
+    "NATO": [
+        "Organisation"
+    ],
+    "Mr Johnson": [
+        "Person"
+    ],
+    "Ukraine": [
+        "Location"
+    ],
+    "the Minsk agreements": [
+        "DocumentReference"
+    ],
+    "Eastern Ukraine": [
+        "Location"
+    ],
+    "2 . 5 million square miles": [
+        "Quantity"
+    ],
+    "area": [
+        "Location"
+    ],
+    "the Arabian Gulf": [
+        "Location"
+    ],
+    "Gulf of Oman": [
+        "Location"
+    ],
+    "North Arabian Sea": [
+        "Location"
+    ],
+    "Gulf of Aden": [
+        "Location"
+    ],
+    "the Red Sea": [
+        "Location"
+    ],
+    "Special Advisor Thames": [
+        "Person"
+    ],
+    "the Department": [
+        "Organisation"
+    ],
+    "religious minorities": [
+        "Organisation"
+    ],
+    "the G - 20 Interfaith Conference": [
+        "Organisation"
+    ],
+    "European leaders": [
+        "Organisation"
+    ],
+    "Syrian Government": [
+        "Organisation"
+    ],
+    "The reservoir": [
+        "Location"
+    ],
+    "150 , 000 , 000 m3": [
+        "Quantity"
+    ],
+    "121 , 607 acre \u00b7 ft": [
+        "Quantity"
+    ],
+    "books": [
+        "DocumentReference"
+    ],
+    "bomb": [
+        "Weapon"
+    ],
+    "shell": [
+        "Weapon"
+    ],
+    "damaged homes": [
+        "Location"
+    ],
+    "the authorities": [
+        "Organisation"
+    ],
+    "a sun - baked field": [
+        "Location"
+    ],
+    "the Jordanian city of Ramtha": [
+        "Location"
+    ],
+    "a young group of Syrian men and women": [
+        "Organisation"
+    ],
+    "the ancient site of Palmyra": [
+        "Location"
+    ],
+    "all Syrians": [
+        "Organisation"
+    ],
+    "Our": [
+        "Organisation"
+    ],
+    "ordinary citizens": [
+        "Organisation"
+    ],
+    "repressive regimes": [
+        "Organisation"
+    ],
+    "their people": [
+        "Organisation"
+    ],
+    "Foreign Secretary Philip Hammond": [
+        "Person"
+    ],
+    "the families": [
+        "Organisation"
+    ],
+    "U.S. Air Forces Central Command": [
+        "Organisation"
+    ],
+    "September 17": [
+        "Temporal"
+    ],
+    "Dayr az Zawr , Syria": [
+        "Location"
+    ],
+    "10 a.m.": [
+        "Temporal"
+    ],
+    "Nov. 29 , 2016": [
+        "Temporal"
+    ],
+    "al - Qaida operatives": [
+        "Organisation"
+    ],
+    "this week": [
+        "Temporal"
+    ],
+    "northwestern Syria": [
+        "Location"
+    ],
+    "Idlib province": [
+        "Location"
+    ],
+    "more than 20": [
+        "Quantity"
+    ],
+    "nine": [
+        "Quantity"
+    ],
+    "structures": [
+        "Location"
+    ],
+    "Pentagon Press Secretary Peter Cook": [
+        "Person"
+    ],
+    "reporters": [
+        "Organisation"
+    ],
+    "Mosul University": [
+        "Location"
+    ],
+    "so - called Islamic State": [
+        "Organisation"
+    ],
+    "Iraqi state television": [
+        "Organisation"
+    ],
+    "Brig.": [
+        "Person"
+    ],
+    "Richard ' Tex ' Coe": [
+        "Person"
+    ],
+    "The bridges": [
+        "Location"
+    ],
+    "their positions in the east": [
+        "Location"
+    ],
+    "Coalition Commanders": [
+        "Organisation"
+    ],
+    "one of the SNCOs": [
+        "Person"
+    ],
+    "Pittsburgh Steelers": [
+        "Organisation"
+    ],
+    "Syrian news agency Sana": [
+        "Organisation"
+    ],
+    "the Mezzeh military airport": [
+        "Location"
+    ],
+    "the last year": [
+        "Temporal"
+    ],
+    "Many of his comrades": [
+        "Organisation"
+    ],
+    "every defence point": [
+        "Location"
+    ],
+    "50m": [
+        "Quantity"
+    ],
+    "Elite troops": [
+        "Organisation"
+    ],
+    "the compound": [
+        "Location"
+    ],
+    "their country": [
+        "Location"
+    ],
+    "the Department of Defense": [
+        "Organisation"
+    ],
+    "Istanbul": [
+        "Location"
+    ],
+    "the secretary": [
+        "Person"
+    ],
+    "Mr Alzoubi": [
+        "Person"
+    ],
+    "Dec. 5": [
+        "Temporal"
+    ],
+    "922": [
+        "Quantity"
+    ],
+    "Ambassador Robert Ford": [
+        "Person"
+    ],
+    "Washington": [
+        "Location"
+    ],
+    "The Brandbergen Mosque": [
+        "Location"
+    ],
+    "the Islamic Association in Brandbergen": [
+        "Organisation"
+    ],
+    "Brandbergen , Haninge Municipality": [
+        "Location"
+    ],
+    "south of Stockholm , Sweden": [
+        "Location"
+    ],
+    "the site": [
+        "Location"
+    ],
+    "Syrian children": [
+        "Organisation"
+    ],
+    "independent media": [
+        "Organisation"
+    ],
+    "civil society": [
+        "Organisation"
+    ],
+    "their local governments": [
+        "Organisation"
+    ],
+    "the moderate opposition": [
+        "Organisation"
+    ],
+    "The United Nations Security Council": [
+        "Organisation"
+    ],
+    "the United Nations": [
+        "Organisation"
+    ],
+    "children": [
+        "Organisation"
+    ],
+    "Iraq ' s National Symphony Orchestra": [
+        "Organisation"
+    ],
+    "Turkish allies": [
+        "Organisation"
+    ],
+    "our Coalition partners": [
+        "Organisation"
+    ],
+    "the Turks": [
+        "Organisation"
+    ],
+    "ISIL \u2019 s self - proclaimed capital": [
+        "Location"
+    ],
+    "Last year": [
+        "Temporal"
+    ],
+    "Europe": [
+        "Location"
+    ],
+    "Monday , Dec. 26": [
+        "Temporal"
+    ],
+    "Abu Jandal al - Kuwaiti": [
+        "Person"
+    ],
+    "airstrike": [
+        "Weapon"
+    ],
+    "Tabqa Dam , Syria": [
+        "Location"
+    ],
+    "The Iraqi military": [
+        "Organisation"
+    ],
+    "the river": [
+        "Location"
+    ],
+    "western Mosul": [
+        "Location"
+    ],
+    "Donors": [
+        "Organisation"
+    ],
+    "handouts": [
+        "Money"
+    ],
+    "The Secretary of State": [
+        "Person"
+    ],
+    "$ 5 million": [
+        "Money"
+    ],
+    "DAESH": [
+        "Organisation"
+    ],
+    "residents of Mosul": [
+        "Organisation"
+    ],
+    "terrorist organisation": [
+        "Organisation"
+    ],
+    "gun butts": [
+        "Weapon"
+    ],
+    "the wider Global Coalition": [
+        "Organisation"
+    ],
+    "these terrorists": [
+        "Organisation"
+    ],
+    "25 %": [
+        "Quantity"
+    ],
+    "Iraqi territory": [
+        "Location"
+    ],
+    "Egyptians": [
+        "Organisation"
+    ],
+    "two Jordanian dinars": [
+        "Money"
+    ],
+    "\u00a3 2 . 10": [
+        "Money"
+    ],
+    "$ 2 . 80": [
+        "Money"
+    ],
+    "senior Iraqi officials": [
+        "Organisation"
+    ],
+    "religious and civic leaders": [
+        "Organisation"
+    ],
+    "the Lebanese religious communities": [
+        "Organisation"
+    ],
+    "religious minority refugee populations": [
+        "Organisation"
+    ],
+    "last December": [
+        "Temporal"
+    ],
+    "FS Charles de Gaulle": [
+        "MilitaryPlatform"
+    ],
+    "Some members": [
+        "Organisation"
+    ],
+    "the Syrian Electronic Army": [
+        "Organisation"
+    ],
+    "The Prime Minister": [
+        "Person"
+    ],
+    "President Hollande": [
+        "Person"
+    ],
+    "the Jordanians": [
+        "Organisation"
+    ],
+    "UN Security Council Resolution 2254": [
+        "DocumentReference"
+    ],
+    "donor countries": [
+        "Organisation"
+    ],
+    "2 million": [
+        "Quantity"
+    ],
+    "a besieged town": [
+        "Location"
+    ],
+    "nearly four years": [
+        "Temporal"
+    ],
+    "The French anti - air frigate FS Forbin": [
+        "MilitaryPlatform"
+    ],
+    "U.S. Naval Forces Central Command": [
+        "Organisation"
+    ],
+    "Task Force ( CTF ) 50": [
+        "Organisation"
+    ],
+    "Dec. 27": [
+        "Temporal"
+    ],
+    "Alsumaria": [
+        "Organisation"
+    ],
+    "The UN": [
+        "Organisation"
+    ],
+    "650 , 000": [
+        "Quantity"
+    ],
+    "EU markets": [
+        "Organisation"
+    ],
+    "Jan. 1": [
+        "Temporal"
+    ],
+    "a large al - Qaida headquarters": [
+        "Location"
+    ],
+    "Sarmada , Syria": [
+        "Location"
+    ],
+    "snipers ' bullets": [
+        "Weapon"
+    ],
+    "EU": [
+        "Organisation"
+    ],
+    "Tal Afar": [
+        "Location"
+    ],
+    "an ISIL - held building": [
+        "Location"
+    ],
+    "UAV construction facilities": [
+        "Location"
+    ],
+    "Vienna": [
+        "Location"
+    ],
+    "the International Syria Support Group": [
+        "Organisation"
+    ],
+    "January": [
+        "Temporal"
+    ],
+    "the Geneva Communique of 2012": [
+        "DocumentReference"
+    ],
+    "the UN Security Council": [
+        "Organisation"
+    ],
+    "other international players": [
+        "Organisation"
+    ],
+    "Astana": [
+        "Location"
+    ],
+    "Turkish Foreign Minister Mevl \u00fc t \u00c7 avu \u015f o \u011f lu": [
+        "Person"
+    ],
+    "the UN Special Envoy Staffan de Mistura": [
+        "Person"
+    ],
+    "The European Union": [
+        "Organisation"
+    ],
+    "the regional parties": [
+        "Organisation"
+    ],
+    "Iraqi military officials": [
+        "Organisation"
+    ],
+    "the city ' s eastern half": [
+        "Location"
+    ],
+    "local and provincial councils": [
+        "Organisation"
+    ],
+    "civil society activists": [
+        "Organisation"
+    ],
+    "emergency first responders": [
+        "Organisation"
+    ],
+    "2 , 000": [
+        "Quantity"
+    ],
+    "Knox Thames": [
+        "Person"
+    ],
+    "the Special Advisor to Ambassador Saperstein for Religious Minorities in the Near East and South and Central Asia": [
+        "Person"
+    ],
+    "November 16 - 17": [
+        "Temporal"
+    ],
+    "November 18 - 19": [
+        "Temporal"
+    ],
+    "the coming days and weeks": [
+        "Temporal"
+    ],
+    "allies and partners": [
+        "Organisation"
+    ],
+    "a big area": [
+        "Location"
+    ],
+    "the Iraqi Foreign Minister": [
+        "Person"
+    ],
+    "Ibrahim al - Jaafari": [
+        "Person"
+    ],
+    "About 30 , 000 Iraqi security force personnel": [
+        "Organisation"
+    ],
+    "Kurdish fighters": [
+        "Organisation"
+    ],
+    "Sunni Arab tribesmen": [
+        "Organisation"
+    ],
+    "Shia militiamen": [
+        "Organisation"
+    ],
+    "US - led coalition": [
+        "Organisation"
+    ],
+    "eight days ago": [
+        "Temporal"
+    ],
+    "2 December": [
+        "Temporal"
+    ],
+    "the Federal Government of Iraq": [
+        "Organisation"
+    ],
+    "Prime Minister Haider Al Abadi": [
+        "Person"
+    ],
+    "Prime Minister Nechirvan Barzani": [
+        "Person"
+    ],
+    "Syrian opposition forces": [
+        "Organisation"
+    ],
+    "the Syrian town of Dabiq": [
+        "Location"
+    ],
+    "our international coalition": [
+        "Organisation"
+    ],
+    "bomber": [
+        "MilitaryPlatform"
+    ],
+    "fighter": [
+        "MilitaryPlatform"
+    ],
+    "remotely piloted aircraft": [
+        "MilitaryPlatform"
+    ],
+    "UN Security Council resolutions": [
+        "DocumentReference"
+    ],
+    "The westernmost ripple of the greater Zagros mountains": [
+        "Location"
+    ],
+    "the Hamrin mountains": [
+        "Location"
+    ],
+    "the Diyala Province": [
+        "Location"
+    ],
+    "the Tigris river": [
+        "Location"
+    ],
+    "northern Salah ad Din Province": [
+        "Location"
+    ],
+    "southern Kirkuk Province": [
+        "Location"
+    ],
+    "Istanbul , Turkey": [
+        "Location"
+    ],
+    "December": [
+        "Temporal"
+    ],
+    "Syrian state media": [
+        "Organisation"
+    ],
+    "Israeli": [
+        "Nationality"
+    ],
+    "the airport": [
+        "Location"
+    ],
+    "Mezzeh": [
+        "Location"
+    ],
+    "Al - Raqqa province": [
+        "Location"
+    ],
+    "December 2014": [
+        "Temporal"
+    ],
+    "Calais region": [
+        "Location"
+    ],
+    "Karim Wasifi": [
+        "Person"
+    ],
+    "musicians and other artists": [
+        "Organisation"
+    ],
+    "the resident leader of anti - coalition forces": [
+        "Person"
+    ],
+    "al - Zarqawi": [
+        "Person"
+    ],
+    "Iraq \u2019 s Security Forces": [
+        "Organisation"
+    ],
+    "the police": [
+        "Organisation"
+    ],
+    "The UK Government": [
+        "Organisation"
+    ],
+    "Monday 19 December": [
+        "Temporal"
+    ],
+    "Resolution 2328": [
+        "DocumentReference"
+    ],
+    "the past two weeks": [
+        "Temporal"
+    ],
+    "Syrian government forces": [
+        "Organisation"
+    ],
+    "their Hezbollah allies": [
+        "Organisation"
+    ],
+    "all the farmland around the suburb": [
+        "Location"
+    ],
+    "some outlying residential areas": [
+        "Location"
+    ],
+    "a kidney transplant unit": [
+        "Location"
+    ],
+    "a physiotherapy unit": [
+        "Location"
+    ],
+    "the Ishtar Gate": [
+        "Location"
+    ],
+    "the Future of Babylon project": [
+        "Organisation"
+    ],
+    "the Governments of Iraq": [
+        "Organisation"
+    ],
+    "the ancient city": [
+        "Location"
+    ],
+    "all international forces": [
+        "Organisation"
+    ],
+    "both parties": [
+        "Organisation"
+    ],
+    "The group of Reserve Airmen": [
+        "Organisation"
+    ],
+    "operations group": [
+        "Organisation"
+    ],
+    "maintenance group": [
+        "Organisation"
+    ],
+    "Tinker": [
+        "Location"
+    ],
+    "Last week": [
+        "Temporal"
+    ],
+    "\u00a3 20 million": [
+        "Money"
+    ],
+    "\u00a3 59 . 5 million": [
+        "Money"
+    ],
+    "the Prime Minister - designate , Haider al - Abadi": [
+        "Person"
+    ],
+    "a French unit": [
+        "MilitaryPlatform"
+    ],
+    "the task force": [
+        "Organisation"
+    ],
+    "the Royal Navy": [
+        "Organisation"
+    ],
+    "Shakespeare": [
+        "Person"
+    ],
+    "The Army of the Victorious Sect": [
+        "Organisation"
+    ],
+    "its": [
+        "Organisation"
+    ],
+    "Monotheism Supporters Brigades": [
+        "Organisation"
+    ],
+    "Saray al - Jihad Group": [
+        "Organisation"
+    ],
+    "al - Ghuraba Brigades": [
+        "Organisation"
+    ],
+    "al - Ahwal Brigades": [
+        "Organisation"
+    ],
+    "The U.S.": [
+        "Organisation"
+    ],
+    "Global Coalition": [
+        "Organisation"
+    ],
+    "Chapter four": [
+        "DocumentReference"
+    ],
+    "holy books": [
+        "DocumentReference"
+    ],
+    "Muslims": [
+        "Nationality"
+    ],
+    "the Australian Government": [
+        "Organisation"
+    ],
+    "$ 135 million": [
+        "Money"
+    ],
+    "other volunteers": [
+        "Organisation"
+    ],
+    "14 , 000": [
+        "Quantity"
+    ],
+    "The COI": [
+        "Organisation"
+    ],
+    "Asad": [
+        "Person"
+    ],
+    "other perpetrators of human rights abuses": [
+        "Organisation"
+    ],
+    "60": [
+        "Quantity"
+    ],
+    "regional and international nations": [
+        "Organisation"
+    ],
+    "the Men and Women": [
+        "Organisation"
+    ],
+    "407th AEG": [
+        "Organisation"
+    ],
+    "Joint and Coalition partners": [
+        "Organisation"
+    ],
+    "Lyons": [
+        "Person"
+    ],
+    "a VBIED storage facility": [
+        "Location"
+    ],
+    "the Syrians": [
+        "Organisation"
+    ],
+    "wages": [
+        "Money"
+    ],
+    "people from all communities in both Iraq and Syria": [
+        "Organisation"
+    ],
+    "the Board of Inquiry \u2019 s report": [
+        "DocumentReference"
+    ],
+    "the aid convoy": [
+        "Organisation"
+    ],
+    "Asad regime": [
+        "Organisation"
+    ],
+    "Ministers": [
+        "Organisation"
+    ],
+    "the young man": [
+        "Person"
+    ],
+    "the Middle East": [
+        "Location"
+    ],
+    "the basement": [
+        "Location"
+    ],
+    "bombs": [
+        "Weapon"
+    ],
+    "Anas Ahmad": [
+        "Person"
+    ],
+    "a former civil engineering student": [
+        "Person"
+    ],
+    "the founders": [
+        "Organisation"
+    ],
+    "The Book of Revelation": [
+        "DocumentReference"
+    ],
+    "chapters": [
+        "DocumentReference"
+    ],
+    "these brutal terrorists": [
+        "Organisation"
+    ],
+    "a 63 nation coalition": [
+        "Organisation"
+    ],
+    "Gen. Coe": [
+        "Person"
+    ],
+    "Col. John J. Thomas": [
+        "Person"
+    ],
+    "Central Command spokesman": [
+        "Person"
+    ],
+    "2017": [
+        "Temporal"
+    ],
+    "Assad \u2019 s regime": [
+        "Organisation"
+    ],
+    "Syrian regime aircrew": [
+        "Organisation"
+    ],
+    "helicopters": [
+        "MilitaryPlatform"
+    ],
+    "A spokesman": [
+        "Person"
+    ],
+    "the UN High Commissioner for Human Rights": [
+        "Person"
+    ],
+    "Rupert Colville": [
+        "Person"
+    ],
+    "a news conference": [
+        "Organisation"
+    ],
+    "Tuesday": [
+        "Temporal"
+    ],
+    "children and women": [
+        "Organisation"
+    ],
+    "male civilians": [
+        "Organisation"
+    ],
+    "the U.S.": [
+        "Organisation"
+    ],
+    "Royal Navy": [
+        "Organisation"
+    ],
+    "Capt.": [
+        "Person"
+    ],
+    "Christophe Cluzel": [
+        "Person"
+    ],
+    "this place": [
+        "Location"
+    ],
+    "10 November": [
+        "Temporal"
+    ],
+    "the coalition forces": [
+        "Organisation"
+    ],
+    "the city of Husaybah": [
+        "Location"
+    ],
+    "Jaish al - Ta ' ifa al - Mansurah": [
+        "Organisation"
+    ],
+    "Army of the Victorious Sect": [
+        "Organisation"
+    ],
+    "a militant Sunni group": [
+        "Organisation"
+    ],
+    "the Iraqi insurgency": [
+        "Organisation"
+    ],
+    "The ministers": [
+        "Organisation"
+    ],
+    "recent days": [
+        "Temporal"
+    ],
+    "DFAT \u2019 s Middle East Branch": [
+        "Organisation"
+    ],
+    "ODE": [
+        "Organisation"
+    ],
+    "Northern Iraq": [
+        "Location"
+    ],
+    "Rabiyah": [
+        "Location"
+    ],
+    "Zumar": [
+        "Location"
+    ],
+    "Yazidis": [
+        "Nationality"
+    ],
+    "Mount Sinjar": [
+        "Location"
+    ],
+    "Kobane": [
+        "Location"
+    ],
+    "6 , 000": [
+        "Quantity"
+    ],
+    "USCENTCOM": [
+        "Organisation"
+    ],
+    "the carpenter": [
+        "Person"
+    ],
+    "40 , 000 civilians": [
+        "Organisation"
+    ],
+    "the Foreign Secretary Boris Johnson": [
+        "Person"
+    ],
+    "tanks": [
+        "MilitaryPlatform"
+    ],
+    "Mohammed": [
+        "Person"
+    ],
+    "Deputy Secretary of State Antony Blinken": [
+        "Person"
+    ],
+    "the Manama Dialogue": [
+        "Organisation"
+    ],
+    "$ 100 million": [
+        "Money"
+    ],
+    "2012": [
+        "Temporal"
+    ],
+    "$ 500 million": [
+        "Money"
+    ],
+    "Arab writers": [
+        "Organisation"
+    ],
+    "Ahmed Shawqi": [
+        "Person"
+    ],
+    "al - Tanawi": [
+        "Person"
+    ],
+    "15": [
+        "Quantity"
+    ],
+    "dozens": [
+        "Quantity"
+    ],
+    "villages": [
+        "Location"
+    ],
+    "700 square miles": [
+        "Quantity"
+    ],
+    "ISIL - held terrain": [
+        "Location"
+    ],
+    "the SAC": [
+        "Organisation"
+    ],
+    "other users": [
+        "Organisation"
+    ],
+    "Darayya ' s attackers": [
+        "Organisation"
+    ],
+    "al - Rahman Farms": [
+        "Organisation"
+    ],
+    "Foreign Minister Al - Jubeir": [
+        "Person"
+    ],
+    "Saudi Arabia \u2019 s leadership": [
+        "Organisation"
+    ],
+    "group of 116 participants": [
+        "Organisation"
+    ],
+    "Dayton": [
+        "Person"
+    ],
+    "the vicinity of Ayn Issa": [
+        "Location"
+    ],
+    "northern Syria": [
+        "Location"
+    ],
+    "Combined Joint Task Force": [
+        "Organisation"
+    ],
+    "the Yazidi village of Ba ' idn": [
+        "Location"
+    ],
+    "the Yazidi Black Book": [
+        "DocumentReference"
+    ],
+    "the village of Qasr ' tzz at - Din": [
+        "Location"
+    ],
+    "U.S. forces": [
+        "Organisation"
+    ],
+    "Syrian Democratic Forces": [
+        "Organisation"
+    ],
+    "Syrian Arab forces": [
+        "Organisation"
+    ],
+    "the northern part of the country": [
+        "Location"
+    ],
+    "government forces": [
+        "Organisation"
+    ],
+    "their allies": [
+        "Organisation"
+    ],
+    "their fighters": [
+        "Organisation"
+    ],
+    "the civilians who escape": [
+        "Organisation"
+    ],
+    "areas under IS control": [
+        "Location"
+    ],
+    "suspected IS fighters": [
+        "Organisation"
+    ],
+    "Spokesperson John Kirby": [
+        "Person"
+    ],
+    "suicide attacks": [
+        "Weapon"
+    ],
+    "the town of Tel Tamer": [
+        "Location"
+    ],
+    "Hasaka Province": [
+        "Location"
+    ],
+    "Syrian civilians": [
+        "Organisation"
+    ],
+    "marketplace": [
+        "Location"
+    ],
+    "my wife": [
+        "Person"
+    ],
+    "3 March": [
+        "Temporal"
+    ],
+    "2016": [
+        "Temporal"
+    ],
+    "UK - France Summit": [
+        "Organisation"
+    ],
+    "Amiens": [
+        "Location"
+    ],
+    "September": [
+        "Temporal"
+    ],
+    "Arab citizens": [
+        "Organisation"
+    ],
+    "villages around Raqqa": [
+        "Location"
+    ],
+    "Ar Raqqah": [
+        "Location"
+    ],
+    "Passcode 3080897": [
+        "DocumentReference"
+    ],
+    "neighbouring countries": [
+        "Location"
+    ],
+    "other terrorists": [
+        "Organisation"
+    ],
+    "a Russian military spokesman": [
+        "Person"
+    ],
+    "the US - led coalition": [
+        "Organisation"
+    ],
+    "200 others": [
+        "Organisation"
+    ],
+    "the past three days": [
+        "Temporal"
+    ],
+    "at least 35 more innocent civilians": [
+        "Organisation"
+    ],
+    "scores of others": [
+        "Organisation"
+    ],
+    "Russian Foreign Minister Sergei Lavrov": [
+        "Person"
+    ],
+    "UNGA": [
+        "Organisation"
+    ],
+    "Dae \u2019 sh": [
+        "Organisation"
+    ],
+    "Al - Sinek neighborhood": [
+        "Location"
+    ],
+    "28": [
+        "Quantity"
+    ],
+    "2 years": [
+        "Temporal"
+    ],
+    "the people of Mosul": [
+        "Organisation"
+    ],
+    "Her": [
+        "Person"
+    ],
+    "33 \u00b0 30 \u2032 21 \u2033 N 36 \u00b0 16 \u2032 11 \u2033 E": [
+        "Location"
+    ],
+    "33 . 505716 \u00b0 N 36 . 269635 \u00b0 E": [
+        "Location"
+    ],
+    "Karim ' s own family": [
+        "Organisation"
+    ],
+    "a garrison on the Kuwaiti island of Failaka": [
+        "Location"
+    ],
+    "the night of the attack": [
+        "Temporal"
+    ],
+    "all political parties": [
+        "Organisation"
+    ],
+    "their supporters": [
+        "Organisation"
+    ],
+    "the Constitution": [
+        "DocumentReference"
+    ],
+    "300 square miles": [
+        "Quantity"
+    ],
+    "The salaries": [
+        "Money"
+    ],
+    "A man": [
+        "Person"
+    ],
+    "sister": [
+        "Person"
+    ],
+    "the campaign group": [
+        "Organisation"
+    ],
+    "plane": [
+        "MilitaryPlatform"
+    ],
+    "his home": [
+        "Location"
+    ],
+    "300m": [
+        "Quantity"
+    ],
+    "984ft": [
+        "Quantity"
+    ],
+    "645 beds": [
+        "Quantity"
+    ],
+    "36": [
+        "Quantity"
+    ],
+    "the enemy": [
+        "Organisation"
+    ],
+    "chemicals": [
+        "Weapon"
+    ],
+    "the Iraqi Museum": [
+        "Location"
+    ],
+    "Jonathan Cohen": [
+        "Person"
+    ],
+    "Dr. Ahmed Kamil Murad": [
+        "Person"
+    ],
+    "Acting General Director of the Office of Museums": [
+        "Person"
+    ],
+    "Iraqi Ministry of Culture": [
+        "Organisation"
+    ],
+    "State Board of Antiquities and Heritage": [
+        "Organisation"
+    ],
+    "SBAH": [
+        "Organisation"
+    ],
+    "city of Babylon": [
+        "Location"
+    ],
+    "45 minutes": [
+        "Temporal"
+    ],
+    "2008": [
+        "Temporal"
+    ],
+    "US Special Operations": [
+        "Organisation"
+    ],
+    "Syrian territory": [
+        "Location"
+    ],
+    "16": [
+        "Quantity"
+    ],
+    "22": [
+        "Quantity"
+    ],
+    "Sadiq Maroof": [
+        "Person"
+    ],
+    "member states": [
+        "Organisation"
+    ],
+    "13": [
+        "Quantity"
+    ],
+    "Resolution 2249": [
+        "DocumentReference"
+    ],
+    "13 November": [
+        "Temporal"
+    ],
+    "Sousse": [
+        "Location"
+    ],
+    "25 June": [
+        "Temporal"
+    ],
+    "Chapter two": [
+        "DocumentReference"
+    ],
+    "base": [
+        "Location"
+    ],
+    "government officials": [
+        "Organisation"
+    ],
+    "the following day": [
+        "Temporal"
+    ],
+    "their position": [
+        "Location"
+    ],
+    "daylight hours from late morning to early evening": [
+        "Temporal"
+    ],
+    "Thursday": [
+        "Temporal"
+    ],
+    "Defence Secretary": [
+        "Person"
+    ],
+    "unmanned aircraft": [
+        "MilitaryPlatform"
+    ],
+    "the farms": [
+        "Location"
+    ],
+    "Jamal Alzoubi": [
+        "Person"
+    ],
+    "Samarra Barrage": [
+        "Location"
+    ],
+    "Tharthar Barrage": [
+        "Location"
+    ],
+    "Samarra": [
+        "Location"
+    ],
+    "Baghdad , Iraq": [
+        "Location"
+    ],
+    "coalition counterparts": [
+        "Organisation"
+    ],
+    "the US Defense Secretary Ash Carter": [
+        "Person"
+    ],
+    "a base": [
+        "Location"
+    ],
+    "Kurdish Peshmerga fighters": [
+        "Organisation"
+    ],
+    "IS - controlled territory": [
+        "Location"
+    ],
+    "15km": [
+        "Quantity"
+    ],
+    "Al Shadaddi": [
+        "Location"
+    ],
+    "ISIL tactical unit": [
+        "Organisation"
+    ],
+    "Karrada neighbourhood": [
+        "Location"
+    ],
+    "The Yazidi community": [
+        "Organisation"
+    ],
+    "their homes": [
+        "Location"
+    ],
+    "The Arab element of the SDF": [
+        "Organisation"
+    ],
+    "Shi ' ite civilians": [
+        "Organisation"
+    ],
+    "Badr": [
+        "Organisation"
+    ],
+    "Interior Ministry officers": [
+        "Organisation"
+    ],
+    "Doura district of Baghdad": [
+        "Location"
+    ],
+    "both countries": [
+        "Organisation"
+    ],
+    "January 13 , 2007": [
+        "Temporal"
+    ],
+    "Prime Minister Nouri Maliki": [
+        "Person"
+    ],
+    "the Iraqi commander": [
+        "Person"
+    ],
+    "the Baghdad Operational Command": [
+        "Organisation"
+    ],
+    "14 - year - old": [
+        "Quantity"
+    ],
+    "Amjad": [
+        "Person"
+    ],
+    "barrel bomb": [
+        "Weapon"
+    ],
+    "UN Board of Inquiry \u2019 s summary of its investigation": [
+        "DocumentReference"
+    ],
+    "an aid convoy": [
+        "Organisation"
+    ],
+    "Urem al - Kubra , northern Syria": [
+        "Location"
+    ],
+    "19 September": [
+        "Temporal"
+    ],
+    "the musician": [
+        "Person"
+    ],
+    "Government of Iraq": [
+        "Organisation"
+    ],
+    "Madaya": [
+        "Location"
+    ],
+    "The following day": [
+        "Temporal"
+    ],
+    "70 civilians": [
+        "Organisation"
+    ],
+    "houses": [
+        "Location"
+    ],
+    "the village of Tuloul Naser": [
+        "Location"
+    ],
+    "35km south of Mosul": [
+        "Location"
+    ],
+    "The former leader of Al Qaeda in Iraq": [
+        "Person"
+    ],
+    "a safehouse": [
+        "Location"
+    ],
+    "the village": [
+        "Location"
+    ],
+    "Damascus University": [
+        "Organisation"
+    ],
+    "Prime Minister": [
+        "Person"
+    ],
+    "60 - plus": [
+        "Quantity"
+    ],
+    "Counter - Daesh Coalition": [
+        "Organisation"
+    ],
+    "the past 20 - plus months": [
+        "Temporal"
+    ],
+    "more than 18 , 000 square kilometers of territory": [
+        "Location"
+    ],
+    "all Iraqi leaders": [
+        "Organisation"
+    ],
+    "a common enemy": [
+        "Organisation"
+    ],
+    "Isiah L . Booker": [
+        "Person"
+    ],
+    "Cibolo , Texas": [
+        "Location"
+    ],
+    "Jan. 7": [
+        "Temporal"
+    ],
+    "one year": [
+        "Temporal"
+    ],
+    "Dec. 6th": [
+        "Temporal"
+    ],
+    "Iraqi Security Forces": [
+        "Organisation"
+    ],
+    "the Al Salem hospital complex": [
+        "Location"
+    ],
+    "ISIL fighters": [
+        "Organisation"
+    ],
+    "the heart of East Mosul": [
+        "Location"
+    ],
+    "Daraya": [
+        "Location"
+    ],
+    "Islamic State of Iraq and the Levant": [
+        "Organisation"
+    ],
+    "Dec. 7th": [
+        "Temporal"
+    ],
+    "machine gun": [
+        "Weapon"
+    ],
+    "rocket propelled grenade": [
+        "Weapon"
+    ],
+    "a building on the hospital complex": [
+        "Location"
+    ],
+    "a spokesman": [
+        "Person"
+    ],
+    "the Associated Press": [
+        "Organisation"
+    ],
+    "Ninety - Four Citizen Airmen": [
+        "Organisation"
+    ],
+    "the 507th Air Refueling Wing": [
+        "Organisation"
+    ],
+    "Incirlik Air Base , Turkey": [
+        "Location"
+    ],
+    "KC - 135R Stratotanker": [
+        "MilitaryPlatform"
+    ],
+    "Abdulbaset Alahmar": [
+        "Person"
+    ],
+    "State television": [
+        "Organisation"
+    ],
+    "the army": [
+        "Organisation"
+    ],
+    "rockets": [
+        "Weapon"
+    ],
+    "the airport compound": [
+        "Location"
+    ],
+    "Reuters news agency": [
+        "Organisation"
+    ],
+    "The report by the UN Independent Commission of Inquiry ( CoI ) on Syria": [
+        "DocumentReference"
+    ],
+    "citizens": [
+        "Organisation"
+    ],
+    "SDF forces": [
+        "Organisation"
+    ],
+    "7 . 5 kilometers": [
+        "Quantity"
+    ],
+    "Tabqa Dam": [
+        "Location"
+    ],
+    "areas north and west of Raqqah": [
+        "Location"
+    ],
+    "Special Presidential Envoy for the Global Coalition to Counter ISIL Brett McGurk": [
+        "Person"
+    ],
+    "an interagency delegation": [
+        "Organisation"
+    ],
+    "Berlin , Germany": [
+        "Location"
+    ],
+    "November 17": [
+        "Temporal"
+    ],
+    "key members of the Counter ISIL Coalition": [
+        "Organisation"
+    ],
+    "the Syrian side of the Iraqi border": [
+        "Location"
+    ],
+    "the fighters": [
+        "Organisation"
+    ],
+    "Refugees": [
+        "Organisation"
+    ],
+    "farms": [
+        "Location"
+    ],
+    "Battle positions": [
+        "Location"
+    ],
+    "the insurgency": [
+        "Organisation"
+    ],
+    "a rocket - propelled grenade launcher": [
+        "Weapon"
+    ],
+    "39": [
+        "Quantity"
+    ],
+    "tunnels": [
+        "Location"
+    ],
+    "Navy Senior Chief Petty Officer Scott C . Dayton": [
+        "Person"
+    ],
+    "42": [
+        "Quantity"
+    ],
+    "Woodbridge , Virginia": [
+        "Location"
+    ],
+    "Nov. 24": [
+        "Temporal"
+    ],
+    "improvised explosive device": [
+        "Weapon"
+    ],
+    "DoD": [
+        "Organisation"
+    ],
+    "the permits": [
+        "DocumentReference"
+    ],
+    "young Iraqis": [
+        "Organisation"
+    ],
+    "the Minister": [
+        "Person"
+    ],
+    "an oil - rich land": [
+        "Location"
+    ],
+    "35 . 0325 \u00b0 N 43 . 6463889 \u00b0 E": [
+        "Location"
+    ],
+    "35 . 0325 ; 43 . 6463889": [
+        "Location"
+    ],
+    "U.S. companies": [
+        "Organisation"
+    ],
+    "the Syrian government": [
+        "Organisation"
+    ],
+    "Executive Order 13582": [
+        "DocumentReference"
+    ],
+    "the Department of the Treasury": [
+        "Organisation"
+    ],
+    "The camp": [
+        "Location"
+    ],
+    "Dec. 10": [
+        "Temporal"
+    ],
+    "The Resolution": [
+        "DocumentReference"
+    ],
+    "those who opted to remain": [
+        "Organisation"
+    ],
+    "Ground - based artillery": [
+        "Weapon"
+    ],
+    "Over half a million": [
+        "Quantity"
+    ],
+    "June": [
+        "Temporal"
+    ],
+    "the fund": [
+        "Organisation"
+    ],
+    "the camp \u2019 s residents": [
+        "Organisation"
+    ],
+    "the perpetrators": [
+        "Organisation"
+    ],
+    "December 25 , 2011": [
+        "Temporal"
+    ],
+    "Operation Inherent Resolve": [
+        "Organisation"
+    ],
+    "Explosive Ordnance Disposal Mobile Unit Two": [
+        "Organisation"
+    ],
+    "Virginia Beach , Virginia": [
+        "Location"
+    ],
+    "the UN Special Envoy de Mistura": [
+        "Person"
+    ],
+    "the UN Security Council Resolutions 2254 and 2118": [
+        "DocumentReference"
+    ],
+    "the city of Raqqah": [
+        "Location"
+    ],
+    "territory in Syria": [
+        "Location"
+    ],
+    "a VBIED factory": [
+        "Location"
+    ],
+    "2 . 4 % a year": [
+        "Quantity"
+    ],
+    "BAGHDAD": [
+        "Location"
+    ],
+    "24 , 000": [
+        "Quantity"
+    ],
+    "the Iraqi security forces": [
+        "Organisation"
+    ],
+    "507th ARW": [
+        "Organisation"
+    ],
+    "a large contingent of the wing": [
+        "Organisation"
+    ],
+    "the summer of 2017": [
+        "Temporal"
+    ],
+    "the people who use Syria ' s Secret Library": [
+        "Organisation"
+    ],
+    "Radio 4": [
+        "Organisation"
+    ],
+    "11am on Thursday 28 July": [
+        "Temporal"
+    ],
+    "The two men": [
+        "Organisation"
+    ],
+    "2001": [
+        "Temporal"
+    ],
+    "Marea": [
+        "Location"
+    ],
+    "all Iraqis": [
+        "Organisation"
+    ],
+    "its partners in the international community": [
+        "Organisation"
+    ],
+    "U.S. service members": [
+        "Organisation"
+    ],
+    "the Kurdish YPG": [
+        "Organisation"
+    ],
+    "A police officer": [
+        "Person"
+    ],
+    "mortar": [
+        "Weapon"
+    ],
+    "a Peshmerga frontline position": [
+        "Location"
+    ],
+    "6km": [
+        "Quantity"
+    ],
+    "The operations ward": [
+        "Location"
+    ],
+    "three of the five": [
+        "Quantity"
+    ],
+    "key bridges crossing the river Tigris": [
+        "Location"
+    ],
+    "The area of Mosul district , Ninewa province": [
+        "Location"
+    ],
+    "section 119 . 3 of the Criminal Code": [
+        "DocumentReference"
+    ],
+    "The manual": [
+        "DocumentReference"
+    ],
+    "simple chemical weapons": [
+        "Weapon"
+    ],
+    "an ordinary artillery round": [
+        "Weapon"
+    ],
+    "December 7 , 2006": [
+        "Temporal"
+    ],
+    "the Swedish citizen Mohamed Moumou": [
+        "Person"
+    ],
+    "the United States Department of the Treasury": [
+        "Organisation"
+    ],
+    "an extremist group centered around the Brandbergen Mosque in Stockholm": [
+        "Organisation"
+    ],
+    "the United Nations Security Council Committee 1267 list": [
+        "DocumentReference"
+    ],
+    "Since 2009": [
+        "Temporal"
+    ],
+    "the Department of State": [
+        "Organisation"
+    ],
+    "more than $ 4 million": [
+        "Money"
+    ],
+    "Belgium": [
+        "Organisation"
+    ],
+    "this terrorist organization": [
+        "Organisation"
+    ],
+    "the U.S. Secretary of State": [
+        "Person"
+    ],
+    "a terrorist organization": [
+        "Organisation"
+    ],
+    "a few thousand": [
+        "Quantity"
+    ],
+    "core texts of the religion": [
+        "DocumentReference"
+    ],
+    "the hymns known as qewl": [
+        "DocumentReference"
+    ],
+    "the State Department": [
+        "Organisation"
+    ],
+    "Iraq ' s famed National Symphony Orchestra": [
+        "Organisation"
+    ],
+    "the neighbouring countries": [
+        "Location"
+    ],
+    "over 9 billion euros": [
+        "Money"
+    ],
+    "Prime Minister Al - Abadi": [
+        "Person"
+    ],
+    "The Combined Joint Task Force": [
+        "Organisation"
+    ],
+    "Inherent Resolve Commander": [
+        "Person"
+    ],
+    "Bayji": [
+        "Location"
+    ],
+    "a front - end loader": [
+        "Weapon"
+    ],
+    "the highway from Lebanon to Damascus": [
+        "Location"
+    ],
+    "attack": [
+        "MilitaryPlatform"
+    ],
+    "targets": [
+        "Location"
+    ],
+    "a river": [
+        "Location"
+    ],
+    "The UN commission of Inquiry on Syria": [
+        "Organisation"
+    ],
+    "a report on the human rights situation in Syria": [
+        "DocumentReference"
+    ],
+    "Security Council members": [
+        "Organisation"
+    ],
+    "23 December": [
+        "Temporal"
+    ],
+    "Iraqi Prime Minister Nouri al - Maliki": [
+        "Person"
+    ],
+    "2007": [
+        "Temporal"
+    ],
+    "February 2007": [
+        "Temporal"
+    ],
+    "Maliki": [
+        "Person"
+    ],
+    "Mohan al - Freiji": [
+        "Person"
+    ],
+    "Iraqi television": [
+        "Organisation"
+    ],
+    "February 13": [
+        "Temporal"
+    ],
+    "the Hashemite Kingdom of Jordan": [
+        "Location"
+    ],
+    "May 15 - 24": [
+        "Temporal"
+    ],
+    "The U.S. Department of State ' s Rewards for Justice program": [
+        "Organisation"
+    ],
+    "work permits": [
+        "DocumentReference"
+    ],
+    "The cultural center": [
+        "Location"
+    ],
+    "assembly hall": [
+        "Location"
+    ],
+    "gyms": [
+        "Location"
+    ],
+    "baths": [
+        "Location"
+    ],
+    "a meeting place": [
+        "Location"
+    ],
+    "the area ' s Muslims": [
+        "Organisation"
+    ],
+    "other residents": [
+        "Organisation"
+    ],
+    "this weekend": [
+        "Temporal"
+    ],
+    "Najaf": [
+        "Location"
+    ],
+    "armed forces": [
+        "Organisation"
+    ],
+    "Lama Fakih": [
+        "Person"
+    ],
+    "HRW ' s deputy Middle East director": [
+        "Person"
+    ],
+    "the U.S. 5th Fleet area of operations": [
+        "Location"
+    ],
+    "Mogherini": [
+        "Person"
+    ],
+    "EU leaders": [
+        "Organisation"
+    ],
+    "the end of last year": [
+        "Temporal"
+    ],
+    "Booker": [
+        "Person"
+    ],
+    "2nd Battalion": [
+        "Organisation"
+    ],
+    "5th Special Forces Group": [
+        "Organisation"
+    ],
+    "Fort Campbell , Kentucky": [
+        "Location"
+    ],
+    "our land": [
+        "Location"
+    ],
+    "the Deputy Secretary": [
+        "Person"
+    ],
+    "@ ABlinken": [
+        "Person"
+    ],
+    "State Department": [
+        "Organisation"
+    ],
+    "the Pentagon Press": [
+        "Organisation"
+    ],
+    "the investigating officer will follow Brig .": [
+        "Person"
+    ],
+    "1988": [
+        "Temporal"
+    ],
+    "the Ministry of Higher Education": [
+        "Organisation"
+    ],
+    "this expeditionary fighter squadron": [
+        "Organisation"
+    ],
+    "Col. David C. Lyons": [
+        "Person"
+    ],
+    "407th AEG commander": [
+        "Person"
+    ],
+    "two months": [
+        "Temporal"
+    ],
+    "Air Force Reserve Command": [
+        "Organisation"
+    ],
+    "Our two countries": [
+        "Organisation"
+    ],
+    "violent extremist groups": [
+        "Organisation"
+    ],
+    "group of Syrians": [
+        "Organisation"
+    ],
+    "the very site": [
+        "Location"
+    ],
+    "a group": [
+        "Organisation"
+    ],
+    "members of the Al bu Nimr tribe": [
+        "Organisation"
+    ],
+    "Anbar , Iraq": [
+        "Location"
+    ],
+    "3 August 2016": [
+        "Temporal"
+    ],
+    "pro - Assad forces": [
+        "Organisation"
+    ],
+    "our coalition partners": [
+        "Organisation"
+    ],
+    "Russell": [
+        "Person"
+    ],
+    "the Iraqi Kurdistan Region": [
+        "Location"
+    ],
+    "November 23": [
+        "Temporal"
+    ],
+    "senior regional government officials": [
+        "Organisation"
+    ],
+    "The Yazidi Book of Revelation": [
+        "DocumentReference"
+    ],
+    "Kitab Al Jilwah": [
+        "DocumentReference"
+    ],
+    "two books": [
+        "DocumentReference"
+    ],
+    "Kurmanji": [
+        "Nationality"
+    ],
+    "Northern Kurdish": [
+        "Nationality"
+    ],
+    "a library": [
+        "Location"
+    ],
+    "Later in the day": [
+        "Temporal"
+    ],
+    "Qayyarah Airfield West": [
+        "Location"
+    ],
+    "Q - West": [
+        "Location"
+    ],
+    "The army": [
+        "Organisation"
+    ],
+    "Reuters": [
+        "Organisation"
+    ],
+    "six or seven hours": [
+        "Temporal"
+    ],
+    "ISIL vehicles": [
+        "MilitaryPlatform"
+    ],
+    "rocket - propelled grenades": [
+        "Weapon"
+    ],
+    "vehicle - borne homemade bombs": [
+        "Weapon"
+    ],
+    "front - end loaders": [
+        "Weapon"
+    ],
+    "a tunnel": [
+        "Location"
+    ],
+    "a land bridge": [
+        "Location"
+    ],
+    "supply routes": [
+        "Location"
+    ],
+    "rocket propelled grenade launcher": [
+        "Weapon"
+    ],
+    "a": [
+        "Quantity"
+    ],
+    "VBIED staging facility": [
+        "Location"
+    ],
+    "VBIED": [
+        "Weapon"
+    ],
+    "29": [
+        "Quantity"
+    ],
+    "an": [
+        "Quantity"
+    ],
+    "mortar team": [
+        "Organisation"
+    ],
+    "Jordanian planning minister , Imad Fakhoury": [
+        "Person"
+    ],
+    "This great scientific and cultural building": [
+        "Location"
+    ],
+    "the heroes": [
+        "Organisation"
+    ],
+    "Lt Gen Talib Shaghati": [
+        "Person"
+    ],
+    "the warfighter": [
+        "Organisation"
+    ],
+    "the world community": [
+        "Organisation"
+    ],
+    "UNSC": [
+        "Organisation"
+    ],
+    "a single aircraft": [
+        "MilitaryPlatform"
+    ],
+    "a single weapon": [
+        "Weapon"
+    ],
+    "multiple": [
+        "Quantity"
+    ],
+    "a group of buildings": [
+        "Location"
+    ],
+    "weapon systems": [
+        "Weapon"
+    ],
+    "a compound": [
+        "Location"
+    ],
+    "that facility": [
+        "Location"
+    ],
+    "facilities": [
+        "Location"
+    ],
+    "our Syrian partners": [
+        "Organisation"
+    ],
+    "heavy weapons": [
+        "Weapon"
+    ],
+    "fortifications": [
+        "Location"
+    ],
+    "IED facilities": [
+        "Location"
+    ],
+    "armored vehicles": [
+        "MilitaryPlatform"
+    ],
+    "technical vehicles": [
+        "MilitaryPlatform"
+    ],
+    "bridges": [
+        "Location"
+    ],
+    "the victims \u2019 families and friends": [
+        "Organisation"
+    ],
+    "U.S. , German , and Canadian companies": [
+        "Organisation"
+    ],
+    "$ 15 million": [
+        "Money"
+    ],
+    "the Syria Recovery Trust Fund": [
+        "Organisation"
+    ],
+    "donor contributions": [
+        "Money"
+    ],
+    "12": [
+        "Quantity"
+    ],
+    "IED": [
+        "Weapon"
+    ],
+    "an ISIL tactical vehicle": [
+        "MilitaryPlatform"
+    ],
+    "Iraqi Prime Minister \u200e Haider al - Abadi": [
+        "Person"
+    ],
+    "the Iraqi city of Mosul": [
+        "Location"
+    ],
+    "Islamic State of Iraq and the Levant terrorists": [
+        "Organisation"
+    ],
+    "Defense Department news release": [
+        "DocumentReference"
+    ],
+    "Syrians at the farm": [
+        "Organisation"
+    ],
+    "refugee camp": [
+        "Location"
+    ],
+    "The Syrian Computer Society": [
+        "Organisation"
+    ],
+    "the tribunal": [
+        "Organisation"
+    ],
+    "May 6": [
+        "Temporal"
+    ],
+    "two weeks": [
+        "Temporal"
+    ],
+    "Spc. Lorraine Walsh": [
+        "Person"
+    ],
+    "artillery": [
+        "Weapon"
+    ],
+    "Vermillion , South Dakota": [
+        "Location"
+    ],
+    "Amnesty International": [
+        "Organisation"
+    ],
+    "Sunni Arabs": [
+        "Organisation"
+    ],
+    "Coalition foreign ministers": [
+        "Organisation"
+    ],
+    "Rome , Italy": [
+        "Location"
+    ],
+    "February 2 , 2016": [
+        "Temporal"
+    ],
+    "defense ministers": [
+        "Organisation"
+    ],
+    "Brussels , Belgium": [
+        "Location"
+    ],
+    "February 11 , 2016": [
+        "Temporal"
+    ],
+    "five ISIL tactical units": [
+        "Organisation"
+    ],
+    "three supply caches": [
+        "Location"
+    ],
+    "artillery systems": [
+        "Weapon"
+    ],
+    "bulldozer": [
+        "MilitaryPlatform"
+    ],
+    "UAV": [
+        "MilitaryPlatform"
+    ],
+    "dump truck": [
+        "MilitaryPlatform"
+    ],
+    "pontoon bridge": [
+        "MilitaryPlatform"
+    ],
+    "armored vehicle": [
+        "MilitaryPlatform"
+    ],
+    "a supply route": [
+        "Location"
+    ],
+    "the city of Raqqa": [
+        "Location"
+    ],
+    "our allies and friends": [
+        "Organisation"
+    ],
+    "The Coalition \u2019 s Small Group": [
+        "Organisation"
+    ],
+    "vehicle": [
+        "MilitaryPlatform"
+    ],
+    "20 , 000": [
+        "Quantity"
+    ],
+    "Royal Air Force": [
+        "Organisation"
+    ],
+    "other Coalition forces": [
+        "Organisation"
+    ],
+    "local , legitimate ground forces": [
+        "Organisation"
+    ],
+    "Al - Qaida": [
+        "Organisation"
+    ],
+    "foreign terrorist fighter network": [
+        "Organisation"
+    ],
+    "this headquarters": [
+        "Location"
+    ],
+    "this location": [
+        "Location"
+    ],
+    "300": [
+        "Quantity"
+    ],
+    "850": [
+        "Quantity"
+    ],
+    "its partners on the ground": [
+        "Organisation"
+    ],
+    "33 \u00b0 47 \u2032 N 44 \u00b0 30 \u2032 E": [
+        "Location"
+    ],
+    "33 . 783 \u00b0 N 44 . 500 \u00b0 E": [
+        "Location"
+    ],
+    "33 . 783 ; 44 . 500": [
+        "Location"
+    ],
+    "Ramadan": [
+        "Temporal"
+    ],
+    "his friends": [
+        "Organisation"
+    ],
+    "the devastated streets": [
+        "Location"
+    ],
+    "Foreign Minister Julie Bishop": [
+        "Person"
+    ],
+    "Minister of Foreign Affairs of Iraq": [
+        "Person"
+    ],
+    "HE Dr Ibrahim Al - Ja \u2019 afari": [
+        "Person"
+    ],
+    "Canberra": [
+        "Location"
+    ],
+    "12 February": [
+        "Temporal"
+    ]
+}

@@ -1,0 +1,7 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Chinese",1,0,0,0,0,0
+"Liens Borrower",0,0,0,1,0,0
+"Liens",0,0,0,1,0,0
+"French",1,0,0,0,0,0
+"Lien",0,0,0,1,0,0
+*TOTAL*,2,0,0,3,0,0

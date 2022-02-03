@@ -1,0 +1,11 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"4:30 p.m.",0,0,0,0,1,0
+"midnight",1,0,0,0,0,0
+"afternoon",0,0,0,1,0,0
+"8 p.m. ET",0,0,0,0,1,0
+"9 p.m.",0,0,0,0,1,0
+"sundown",0,0,0,0,1,0
+"evening",0,0,0,1,0,0
+"placeSaturday night",0,0,0,1,0,0
+"2 p.m.",0,0,0,0,1,0
+*TOTAL*,1,0,0,3,10,0

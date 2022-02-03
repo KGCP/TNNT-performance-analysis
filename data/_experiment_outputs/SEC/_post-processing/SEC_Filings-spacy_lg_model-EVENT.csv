@@ -1,0 +1,9 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"the Event of Default",0,0,0,0,0,1
+"the Effective Date",0,0,0,0,0,1
+"Business Day",0,0,0,0,0,1
+"the Repayment Period",0,0,0,0,0,1
+"Beijing 100086",0,1,0,0,0,0
+"the Funding Date",0,0,0,0,0,1
+"the Federal Fair Labor Standards Act",0,0,0,0,0,1
+*TOTAL*,0,1,0,0,0,6

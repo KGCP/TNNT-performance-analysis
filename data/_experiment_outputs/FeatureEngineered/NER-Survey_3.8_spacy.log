@@ -1,0 +1,47 @@
+[2021-04-21 09:29:33,454] [root � INFO] � [<module>:2605]
+******************************************************************************
+[2021-04-21 09:29:33,454] [root � INFO] � [<module>:2606]
+Loading NLP/NER models...
+[2021-04-21 09:29:33,454] [root � INFO] � [output:224]
+
+2021-04-21 09:29:33.454492> @<static_method>.models:
+NER.processing_blocks=['spacy']
+NER.models=['spacy_sm_model', 'spacy_md_model', 'spacy_lg_model']
+[2021-04-21 09:30:22,443] [root � INFO] � [<module>:2608]
+NLP/NER models loaded!
+[2021-04-21 09:30:22,443] [root � INFO] � [<module>:2609]
+******************************************************************************
+
+[2021-04-21 09:30:22,443] [root � INFO] � [output:224]
+
+2021-04-21 09:30:22.443732> @<static_method>.displayConfigFile:
+* Already using configuration file: /data/python-resources/AGRIF/mapping-services/MEL/config-NER-Survey.json
+  (nothing to do)
+[2021-04-21 09:30:22,443] [root � INFO] � [header:2696]
+******************************************************************************
+[2021-04-21 09:30:22,443] [root � INFO] � [header:2697]
+Project AGRIF | MEL: Metadata Extractor & Loader --> @dataset=NER-Survey
+[2021-04-21 09:30:22,444] [root � INFO] � [printStartTimeStamp:235]
+Start time: [2021-04-21 09:30:22.444075]
+[2021-04-21 09:30:22,444] [root � INFO] � [header:2700]
+platform: [Linux]; __name__: [MEL]; __package__: [MEL]
+[2021-04-21 09:30:22,444] [root � INFO] � [shortPrint:441]
+CouchDB Processing: [False], NLP-NER Processing: [True]
+[2021-04-21 09:30:22,444] [root � INFO] � [shortPrint:442]
+Input Folder: [/data/python-resources/AGRIF/docs-repo/NER-Survey/]
+
+
+[2021-04-21 09:30:22,444] [root � INFO] � [header:2702]
+******************************************************************************
+[2021-04-21 13:08:15,851] [root � INFO] � [output:224]
+
+2021-04-21 13:08:15.851443> @<static_method>.writeOutputFile:
+[/data/python-resources/AGRIF/docs-repo/NER-Survey/_output/Feature_engineered_corpus.txt-MEL+NER_output.json]
+[2021-04-21 13:08:15,867] [root � INFO] � [footer:2715]
+******************************************************************************
+[2021-04-21 13:08:15,868] [root � INFO] � [printEndTimeStamp:240]
+
+
+End time: [2021-04-21 13:08:15.867997]
+[2021-04-21 13:08:15,868] [root � INFO] � [printEndTimeStamp:241]
+Execution time: 13073.424412 seconds.

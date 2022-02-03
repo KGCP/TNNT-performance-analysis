@@ -1,0 +1,5 @@
+{
+    "PER": [ "tnnt:Person"       ],
+	"ORG": [ "tnnt:Organisation" ],
+	"LOC": [ "tnnt:Location"     ]
+}

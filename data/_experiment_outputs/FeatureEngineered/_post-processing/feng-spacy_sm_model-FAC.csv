@@ -1,0 +1,433 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Auschwitz",0,1,0,0,0,0
+"al-Jazeera",0,0,0,0,1,0
+"the Spin Boldak",0,0,0,1,0,0
+"Notting Hill",0,0,0,0,1,0
+"Guantanamo Bay",0,1,0,0,0,0
+"Andar district",0,0,0,1,0,0
+"the Akrotiri Sovereign Base Area",0,0,0,1,0,0
+"Spin Boldak",0,1,0,0,0,0
+"Date Doctor",0,0,0,0,1,0
+"Urbi et Orbi",0,0,0,0,1,0
+"the Traders Hotel",0,0,0,1,0,0
+"Yongbyon",0,1,0,0,0,0
+"Kabul Declaration",0,0,0,0,1,0
+"Thales Spectrum",0,1,0,0,0,0
+"Mall",0,1,0,0,0,0
+"Mecca Mashjid mosque",0,0,0,1,0,0
+"the Baghdad Convention Center",0,0,1,0,0,0
+"Deir al Balah",0,0,0,0,1,0
+"the Park Avenue Armory",0,0,0,1,0,0
+"Paya Lebar Air Base",0,0,0,1,0,0
+"the Naval Criminal Investigative Service",0,0,0,1,0,0
+"the U. S. A",0,0,0,1,0,0
+"the Japanese Embassy",0,0,1,0,0,0
+"Palestine Hotel",0,1,0,0,0,0
+"the Prudential Building",0,0,0,1,0,0
+"Quagga Zebra",0,1,0,0,0,0
+"Davis Cup",0,1,0,0,0,0
+"the Sigou Coal Mine",0,0,0,1,0,0
+"Sarabjit Singh",0,1,0,0,0,0
+"Gold Coast",0,1,0,0,0,0
+"the Nad e Ali district",0,0,0,1,0,0
+"Karen State",0,1,0,0,0,0
+"the Chittagong Hill",0,0,1,0,0,0
+"Babri mosque",0,0,0,1,0,0
+"Great Hall of the People",0,0,0,1,0,0
+"the Tomb of Poland 's Unknown Soldier",0,0,0,1,0,0
+"the Western Wall",0,0,1,0,0,0
+"the Panama Canal Zone",0,0,1,0,0,0
+"the Great Wall of China",0,0,0,1,0,0
+"the Legg Mason Tennis Classic",0,0,1,0,0,0
+"al Azhar",0,0,0,1,0,0
+"al Aqsa mosque",0,0,0,1,0,0
+"Beijing International Airport",0,1,0,0,0,0
+"the South Bank Arts Center",0,0,0,1,0,0
+"Miltzow",0,0,0,0,1,0
+"Alloceans Shipping",0,1,0,0,0,0
+"Red Solidaria",0,1,0,0,0,0
+"the Queensland Museum",0,0,0,1,0,0
+"Emmy",0,0,0,0,1,0
+"Telegraph",1,0,0,0,0,0
+"the Shenzhou Five",0,0,0,1,0,0
+"the Great Lakes",0,0,0,1,0,0
+"Culture Minister",0,0,0,0,1,0
+"the Woodrow Wilson Center",0,0,1,0,0,0
+"the Line of Control",0,0,1,0,0,0
+"The Kandill Observatory",0,0,0,1,0,0
+"iTunes",0,0,0,0,1,0
+"Kam Air",0,1,0,0,0,0
+"Newlands in Cape Town",0,0,0,1,0,0
+"Huygens space",0,0,1,0,0,0
+"al Aqsa",0,0,0,1,0,0
+"the Arc de Triomphe",0,0,1,0,0,0
+"the U. military",0,0,0,1,0,0
+"al Faraa",0,0,0,1,0,0
+"Facebook",1,0,0,0,0,0
+"al Qaida",0,1,0,0,0,0
+"the John F. Kennedy Hospital",0,0,0,1,0,0
+"Shahab 3",0,0,0,1,0,0
+"the Antarctic portion",0,0,1,0,0,0
+"the Baja California Peninsula",0,0,0,1,0,0
+"La Paz 's",0,0,0,1,0,0
+"Hubble Telescope",1,0,0,0,0,0
+"the Hanoi Botanical Garden",0,0,0,1,0,0
+"Baku T'bilisi Ceyhan",0,0,0,1,0,0
+"the Beijing Zoo",0,0,1,0,0,0
+"the White House",0,0,0,1,0,0
+"Olympic Stadium",1,0,0,0,0,0
+"Guantanamo Bay US Naval Base",0,1,0,0,0,0
+"Main Street",0,1,0,0,0,0
+"the John F. Kennedy Presidential Library and Museum",0,0,1,0,0,0
+"Agha Shah 's",0,0,0,1,0,0
+"Fort Sam Houston",0,1,0,0,0,0
+"O'Hare International Airport",0,1,0,0,0,0
+"the Lincoln Memorial",0,0,0,1,0,0
+"Cassini",0,0,0,0,1,0
+"the Al Azhar mosque",0,0,0,1,0,0
+"the 2012 London Games",0,0,1,0,0,0
+"the Mahendranagar highway",0,0,0,1,0,0
+"Category 1",0,0,0,1,0,0
+"the Iraq Syria",0,0,0,1,0,0
+"Shabab",0,1,0,0,0,0
+"the Lynn Rival",0,1,0,0,0,0
+"the Florida Keys",0,0,0,1,0,0
+"Zhulyany airport",0,1,0,0,0,0
+"Groundhog Day",1,0,0,0,0,0
+"the John F. Kennedy",0,0,0,1,0,0
+"the Al Nida Mosque",0,0,0,1,0,0
+"Grand Ayatollah Mohammed Hussein Fadlallah",0,0,0,1,0,0
+"Hobart International",0,1,0,0,0,0
+"GDP",0,0,0,0,1,0
+"The Kiel Canal Germany",0,0,1,0,0,0
+"Jolo island",0,0,0,1,0,0
+"the Berlin Wall",0,0,0,1,0,0
+"Convention Palace",0,1,0,0,0,0
+"the Abu Ghraib",0,0,1,0,0,0
+"Wolf Trap National Park for the Performing Arts",0,0,1,0,0,0
+"Golden State",0,1,0,0,0,0
+"Akhalkalaki Monday",0,0,1,0,0,0
+"Semlow",1,0,0,0,0,0
+"Burma Thailand",0,0,0,1,0,0
+"beatboxing",0,0,0,0,1,0
+"al Azhar Mosque",0,0,0,1,0,0
+"the Abu Ghraib prison",0,0,1,0,0,0
+"Typhoon Peipah",0,1,0,0,0,0
+"Mariam",0,1,0,0,0,0
+"the Kennedy Space Center",0,0,0,1,0,0
+"Folha de Sao Paolo",0,1,0,0,0,0
+"the Great Smoky Mountains National Park",0,0,1,0,0,0
+"the Swiss Embassy",0,0,0,1,0,0
+"Olympic Flame",0,0,0,1,0,0
+"legitimizing King Gyanendra 's",0,0,0,1,0,0
+"Tiananmen Square",0,1,0,0,0,0
+"the Mutahida Majlis e Amal",0,0,0,1,0,0
+"Blue Star",0,1,0,0,0,0
+"Tal Afar",0,1,0,0,0,0
+"Yankee Stadium",0,1,0,0,0,0
+"Graceland mansion",0,0,1,0,0,0
+"Boots Ball",0,0,0,1,0,0
+"Madison Square Garden",0,1,0,0,0,0
+"Nest Stadium",0,0,0,1,0,0
+"the Information Superhighway",0,0,1,0,0,0
+"Buddhism",0,0,0,0,1,0
+"Topol-M",0,0,0,0,1,0
+"Dignity on",0,0,0,0,1,0
+"the U. S. S. military war crimes tribunal",0,0,0,1,0,0
+"Khan Younis",0,1,0,0,0,0
+"Camp David",1,0,0,0,0,0
+"the Sydney International Tournament",0,0,1,0,0,0
+"Edgware Road Tube Station",0,1,0,0,0,0
+"Endeavor",0,0,0,0,1,0
+"Bushehr nuclear power",0,0,0,1,0,0
+"Lagos airport",0,1,0,0,0,0
+"the Falash Mura",0,0,0,1,0,0
+"Fort Hood",0,1,0,0,0,0
+"Prestwick",0,0,0,1,0,0
+"mbalax",0,0,0,0,1,0
+"the Great Hall of the Supreme Court",0,0,0,1,0,0
+"El~Commercio",0,0,0,0,1,0
+"Baghdad International Airport",1,0,0,0,0,0
+"Red Fort",0,1,0,0,0,0
+"Tsvetana Pironkova",0,1,0,0,0,0
+"hip-hop",0,0,0,0,1,0
+"the Canberra International",0,0,1,0,0,0
+"Great Moravia",0,1,0,0,0,0
+"Al Aqsa",1,0,0,0,0,0
+"the U. N.",0,0,0,1,0,0
+"the Panama Canal",0,0,1,0,0,0
+"the Camp David",0,0,1,0,0,0
+"al Hadhar",0,0,0,1,0,0
+"the United Nations",0,0,1,0,0,0
+"the Israel Embassy",0,0,0,1,0,0
+"Jebaliya refugee camp",0,0,0,1,0,0
+"Russia 06",0,0,0,1,0,0
+"Herald Square",0,1,0,0,0,0
+"Female Vocalist",0,1,0,0,0,0
+"the Val de Grace hospital",0,0,0,1,0,0
+"Dodge",0,0,0,0,1,0
+"the U. embassy",0,0,0,1,0,0
+"Pearl Harbor",0,1,0,0,0,0
+"Hampton Court Palace",0,1,0,0,0,0
+"The English Roses",0,0,0,0,1,0
+"G7",0,1,0,0,0,0
+"Drapchi Prison",0,1,0,0,0,0
+"Camp Sara",0,1,0,0,0,0
+"Balad Air Base",1,0,0,0,0,0
+"the Khyber Pass",0,0,0,1,0,0
+"Sideways",0,0,0,1,0,0
+"Hubble",1,0,0,0,0,0
+"the Austro Hungarian Empire",0,0,1,0,0,0
+"the U. S. Naval base",0,0,0,1,0,0
+"Farmer",0,1,0,0,0,0
+"Chechen",0,1,0,0,0,0
+"the San Diego Zoo",0,0,1,0,0,0
+"the Universidad de los Andes",0,0,0,1,0,0
+"Torgelow",0,0,0,0,1,0
+"the U. S.",0,0,0,1,0,0
+"Los Glacieres National Park",0,1,0,0,0,0
+"Nobel-Prize",0,0,0,0,1,0
+"Hurricane Karl",0,0,0,1,0,0
+"Sakhalin 2",0,0,0,1,0,0
+"the Palace of the Revolution",0,0,1,0,0,0
+"Heathrow Airport",1,0,0,0,0,0
+"the Mars Reconnaissance Orbiter",0,0,1,0,0,0
+"the National Botanical Gardens",0,0,1,0,0,0
+"Camp Cropper",0,1,0,0,0,0
+"Qatar Bahrain",0,0,0,1,0,0
+"Khyber",0,1,0,0,0,0
+"the 380th Air Expeditionary Wing",0,0,1,0,0,0
+"Faro Island",0,1,0,0,0,0
+"Revolution Square",0,1,0,0,0,0
+"El Hadj Omar BONGO Ondimba",0,1,0,0,0,0
+"Mir",0,0,1,0,0,0
+"Port au Prince",0,0,0,1,0,0
+"When We Left Earth :",0,0,0,0,1,0
+"Tropical Storm Bilis",0,1,0,0,0,0
+"MacArthur Park",0,1,0,0,0,0
+"Tirin Kot",0,1,0,0,0,0
+"the Diaoyu State Guest House",0,0,1,0,0,0
+"the Charleston Gazette",0,0,1,0,0,0
+"17th Street",0,1,0,0,0,0
+"the Spin Boldak district",0,0,0,1,0,0
+"Qur'an",0,0,0,0,1,0
+"the Radisson Hotel",0,0,1,0,0,0
+"the Mayo Clinic",0,0,0,1,0,0
+"International Space Station",1,0,0,0,0,0
+"Bagram air base",0,0,0,1,0,0
+"Shannon",0,1,0,0,0,0
+"Panama Canal",1,0,0,0,0,0
+"Western Bahr al Ghazal",0,0,1,0,0,0
+"Port au",0,0,0,1,0,0
+"the Oil Ministry",0,0,0,1,0,0
+"Norte del Valle",0,1,0,0,0,0
+"the P. S. Jim Bertel",0,0,0,1,0,0
+"the Pakistan Electronic Media Regulatory Authority",0,0,1,0,0,0
+"Virunga National Park",0,1,0,0,0,0
+"Baghdad international airport",0,0,1,0,0,0
+"Category Two",0,0,0,1,0,0
+"the Israeli Consulate",0,0,1,0,0,0
+"Zaragoza",0,1,0,0,0,0
+"The Western Wall",0,0,1,0,0,0
+"the Vatican Sunday",0,0,0,1,0,0
+"Eagle Base",0,1,0,0,0,0
+"The Hezb e Islami",0,0,1,0,0,0
+"Hadassah",0,0,0,0,1,0
+"Glasgow airport",0,1,0,0,0,0
+"North Waziristan 's",0,0,0,1,0,0
+"Literature",0,0,0,0,1,0
+"the U. S. Capitol",0,0,1,0,0,0
+"Irwindale Speedway",1,0,0,0,0,0
+"Redline",0,0,0,0,1,0
+"the Solar Dynamics Observatory",0,0,0,1,0,0
+"Elmendorf air base",0,0,0,1,0,0
+"the New Stone Age",0,0,1,0,0,0
+"Falklands",0,1,0,0,0,0
+"the U. S. Olympic",0,0,0,1,0,0
+"the Tomb of the Unknowns",0,0,0,1,0,0
+"Ills",0,0,0,0,1,0
+"Bushehr",0,1,0,0,0,0
+"Group-B",0,0,0,0,1,0
+"the Gomoa Buduburam Refugee Camp",0,0,0,1,0,0
+"Keesler Air Base",0,1,0,0,0,0
+"Blueberry Hill",0,0,0,0,1,0
+"Saint Croix",0,1,0,0,0,0
+"the Lago Agrio",0,0,0,1,0,0
+"Christmas Eve",0,1,0,0,0,0
+"the Delray Beach Tennis Center",0,0,0,1,0,0
+"The Hubble Space Telescope",0,0,1,0,0,0
+"Ramstein Air Base",0,1,0,0,0,0
+"Independence Day",0,1,0,0,0,0
+"the Pul i Charki prison",0,0,1,0,0,0
+"Dodger Stadium",0,1,0,0,0,0
+"Easter",0,1,0,0,0,0
+"Gazan",0,1,0,0,0,0
+"Old Town",0,1,0,0,0,0
+"the House Of Blues",0,0,0,1,0,0
+"Kommersant",0,0,0,0,1,0
+"Camp al Tahreer",0,0,0,1,0,0
+"Abu Ghraib",1,0,0,0,0,0
+"Farther east",0,0,0,1,0,0
+"Bagram Air Base",0,1,0,0,0,0
+"Capitol",1,0,0,0,0,0
+"capitol building",0,0,0,1,0,0
+"Swallow",0,0,0,1,0,0
+"Baku T'bilisi",0,0,0,1,0,0
+"the mosquito borne disease",0,0,0,1,0,0
+"al Wefaq bloc",0,0,0,1,0,0
+"Eid al Fitr",0,0,0,1,0,0
+"Pentagon",0,1,0,0,0,0
+"Kozloduy",0,1,0,0,0,0
+"Lambeth Palace",0,1,0,0,0,0
+"Bunia airport",0,1,0,0,0,0
+"Firebase Ripley",0,1,0,0,0,0
+"Enzos",0,0,0,0,1,0
+"Louis Armstrong International Airport",0,1,0,0,0,0
+"the Haifa Street",0,0,0,1,0,0
+"Derg",0,1,0,0,0,0
+"the Sydney International",0,1,0,0,0,0
+"St. Peter 's Square",0,0,0,1,0,0
+"Central Cemetery",0,1,0,0,0,0
+"AB H M",0,0,0,1,0,0
+"the Washington Monument",0,0,1,0,0,0
+"the Pul",0,0,0,1,0,0
+"Jeep",0,0,0,0,1,0
+"CRJ 200s",0,0,0,1,0,0
+"Destiny",0,0,0,0,1,0
+"Iraqi National Guardsmen",0,0,1,0,0,0
+"Saberi",0,1,0,0,0,0
+"Malwiya mosque tower",0,0,0,1,0,0
+"the Perito Moreno Glacier",0,0,0,1,0,0
+"the Adelaide International men 's hardcourt tennis championships",0,0,1,0,0,0
+"Wat Tham Krabok",0,1,0,0,0,0
+"the All Africa Games",0,0,0,1,0,0
+"Holocaust",0,1,0,0,0,0
+"Roosevelt Hotel",0,0,0,1,0,0
+"Sudan Media Center",0,1,0,0,0,0
+"Rose Garden",0,1,0,0,0,0
+"DN",0,0,0,1,0,0
+"Panjwayi",0,1,0,0,0,0
+"Vatican",0,1,0,0,0,0
+"Citicorp Building",0,0,0,1,0,0
+"mosques",0,0,0,1,0,0
+"the Small Magellanic Cloud",0,0,0,1,0,0
+"the U. S. Gulf Coast",0,0,0,1,0,0
+"Pudong International Airport",0,1,0,0,0,0
+"the Siachen glacier",0,0,0,1,0,0
+"the Jabaliya refugee camp",0,0,0,1,0,0
+"Camp Buehring",0,1,0,0,0,0
+"Sydney Harbor",0,1,0,0,0,0
+"the Wannabe Award",0,0,1,0,0,0
+"Seismological Center",0,1,0,0,0,0
+"the Kabul International Airport",0,0,1,0,0,0
+"mosque",0,1,0,0,0,0
+"the National Mall",0,0,1,0,0,0
+"British pound",0,0,0,0,1,0
+"Finsbury Park",0,1,0,0,0,0
+"Twitter",1,0,0,0,0,0
+"Camp Pendleton",0,1,0,0,0,0
+"Guantanamo",0,1,0,0,0,0
+"Andhra Pradesh",0,1,0,0,0,0
+"Ha Tay province",0,0,0,1,0,0
+"the Notre Dame Cathedral",0,0,1,0,0,0
+"Matesi",0,1,0,0,0,0
+"the Palmer Theological Seminary",0,0,0,1,0,0
+"the Northern Alliance",0,0,0,1,0,0
+"Arlington National Cemetery",0,1,0,0,0,0
+"Crittercam",0,0,0,0,1,0
+"Camp Butmir",0,0,0,1,0,0
+"the F. B.",0,0,0,1,0,0
+"Joseph 's Tomb",0,1,0,0,0,0
+"the Peace Memorial Park",0,0,0,1,0,0
+"Crane",0,0,0,1,0,0
+"Disneyland",0,1,0,0,0,0
+"Camp X Ray",0,0,0,1,0,0
+"Sydney International",0,0,1,0,0,0
+"the Glen Canyon Dam",0,0,1,0,0,0
+"La Paz",0,1,0,0,0,0
+"National Mall",0,1,0,0,0,0
+"Felipe Calderon",0,1,0,0,0,0
+"Classic",0,0,0,1,0,0
+"Port au Prince prison",0,0,1,0,0,0
+"the U. S. Embassy",0,0,0,1,0,0
+"@dalailama",0,0,0,0,1,0
+"the Vatican",0,0,0,1,0,0
+"Haitian Creole",0,0,0,0,1,0
+"the Pacific Remote Islands National",0,0,1,0,0,0
+"the U. S. prison",0,0,1,0,0,0
+"Saint Peter 's Square",0,0,0,1,0,0
+"La Paz Officials",0,0,0,1,0,0
+"Style Icon",0,0,1,0,0,0
+"Nathan King",0,1,0,0,0,0
+"Line of Control",0,1,0,0,0,0
+"Bow Street",0,1,0,0,0,0
+"the Munich Security Conference",0,0,1,0,0,0
+"French Quarter",0,0,1,0,0,0
+"Peace Memorial Park",0,1,0,0,0,0
+"Haqooq-i-Zan",0,0,0,0,1,0
+"Espiritu Santo",0,1,0,0,0,0
+"Topol M",0,0,1,0,0,0
+"the Olympic Park",0,0,0,1,0,0
+"Grand Candy",0,1,0,0,0,0
+"F 16",0,0,0,1,0,0
+"the Vincent van Gogh",0,0,0,1,0,0
+"Martyrs Square",0,1,0,0,0,0
+"Kandili observatory",0,0,0,1,0,0
+"Than Him",0,0,0,0,1,0
+"Tropical Storm Rita",0,1,0,0,0,0
+"Manger Square",0,1,0,0,0,0
+"the Hyderabad mosque",0,0,0,1,0,0
+"Switzerland 06",0,0,0,1,0,0
+"the U. S. Police",0,0,0,1,0,0
+"NRC Handelsblad",0,0,0,0,1,0
+"Boao Forum",0,0,0,1,0,0
+"Capitol Building",0,1,0,0,0,0
+"Iron Lady",0,0,0,0,1,0
+"metro",0,0,0,1,0,0
+"the Eid al Fitr",0,0,0,1,0,0
+"the Tian Neng Battery Company",0,0,0,1,0,0
+"Apr 29",0,0,0,1,0,0
+"Downing Street",1,0,0,0,0,0
+"London Avenue Canals",0,1,0,0,0,0
+"Maywand district",0,0,0,1,0,0
+"Khori Garden",0,0,0,1,0,0
+"the Hubble Space Telescope",0,0,1,0,0,0
+"the Shabat al Basra canal",0,0,0,1,0,0
+"Red Mosque",0,1,0,0,0,0
+"Nuclear Non-Proliferation",0,0,0,0,1,0
+"MTV Base",0,1,0,0,0,0
+"Brigadier Amer Nayef",0,1,0,0,0,0
+"the USS Arizona Memorial",0,0,1,0,0,0
+"Silk Road",0,1,0,0,0,0
+"Nike Bent",0,1,0,0,0,0
+"the Caracas airport",0,0,0,1,0,0
+"the National Palace",0,0,1,0,0,0
+"Caesar 's Palace Hotel Casino",0,0,0,1,0,0
+"the Silk Road",0,0,0,1,0,0
+"Kennedy Center",0,1,0,0,0,0
+"the International Space Station",0,1,0,0,0,0
+"La Palma",0,0,0,1,0,0
+"Ivica Dacic",0,1,0,0,0,0
+"Asgiriya Stadium",0,1,0,0,0,0
+"Broadway",0,1,0,0,0,0
+"the King Center",0,0,0,1,0,0
+"Endless Wire",0,0,0,0,1,0
+"Tenzin Taklha",0,1,0,0,0,0
+"McCloud",0,0,0,0,1,0
+"settlement",0,0,0,0,1,0
+"the Madrid Masters",0,0,0,1,0,0
+"the World Stem Cell Hub",0,0,0,1,0,0
+"Buyat Bay",0,1,0,0,0,0
+"Da Vinci Code",0,0,0,0,1,0
+"Luton railway station",0,0,1,0,0,0
+"the Stade de France",0,0,1,0,0,0
+"the British Embassy",0,0,0,1,0,0
+"Guantanamo Naval Base",0,1,0,0,0,0
+"Latest News",0,0,0,0,1,0
+"Batticaloa district",0,0,0,1,0,0
+"Ellsworth Air Force Base",0,0,0,1,0,0
+"Camp Bucca",0,1,0,0,0,0
+"Ellsworth Air Base",0,1,0,0,0,0
+"the Golden State Warriors",0,0,0,1,0,0
+"the Georgia Dome",0,0,1,0,0,0
+*TOTAL*,19,137,69,156,300,0

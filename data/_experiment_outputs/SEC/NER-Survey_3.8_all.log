@@ -1,0 +1,1075 @@
+[2021-04-19 09:00:41,734] [root � INFO] � [<module>:2605]
+******************************************************************************
+[2021-04-19 09:00:41,734] [root � INFO] � [<module>:2606]
+Loading NLP/NER models...
+[2021-04-19 09:00:41,734] [root � INFO] � [output:224]
+
+2021-04-19 09:00:41.734502> @<static_method>.models:
+NER.processing_blocks=['spacy', 'stanford', 'heavy!', 'flair', 'allennlp', 'fast']
+NER.models=['spacy_sm_model', 'spacy_md_model', 'spacy_lg_model', 'stanford_class3_model', 'stanford_class4_model', 'stanford_class7_model', 'stanza_model', 'nltk_model', 'bert_model', 'flair_model', 'flair_ontonotes_model', 'flair_fast_model', 'flair_fast_ontonotes_model', 'flair_pooled_model', 'allennlp_ner', 'allennlp-finegrained-ner', 'polyglot_model']
+[2021-04-19 09:00:41,745] [stanza � INFO] � [__init__:87]
+Loading these models for language: en (English):
+=========================
+| Processor | Package   |
+-------------------------
+| tokenize  | ewt       |
+| pos       | ewt       |
+| lemma     | ewt       |
+| depparse  | ewt       |
+| sentiment | sstplus   |
+| ner       | ontonotes |
+=========================
+
+[2021-04-19 09:00:41,745] [stanza � INFO] � [__init__:98]
+Use device: cpu
+[2021-04-19 09:00:41,746] [stanza � INFO] � [__init__:104]
+Loading: tokenize
+[2021-04-19 09:00:41,837] [stanza � INFO] � [__init__:104]
+Loading: pos
+[2021-04-19 09:00:43,466] [stanza � INFO] � [__init__:104]
+Loading: lemma
+[2021-04-19 09:00:43,738] [stanza � INFO] � [__init__:104]
+Loading: depparse
+[2021-04-19 09:00:45,240] [stanza � INFO] � [__init__:104]
+Loading: sentiment
+[2021-04-19 09:00:46,563] [stanza � INFO] � [__init__:104]
+Loading: ner
+[2021-04-19 09:00:48,518] [stanza � INFO] � [__init__:126]
+Done loading processors!
+[2021-04-19 09:01:37,498] [pytorch_transformers.modeling_utils � INFO] � [from_pretrained:196]
+loading configuration file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/config.json
+[2021-04-19 09:01:37,499] [pytorch_transformers.modeling_utils � INFO] � [from_pretrained:216]
+Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": "ner",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 12,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+[2021-04-19 09:01:37,500] [pytorch_transformers.modeling_utils � INFO] � [from_pretrained:530]
+loading weights file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/pytorch_model.bin
+[2021-04-19 09:01:47,561] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:313]
+Model name '/data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc). Assuming '/data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/' is a path or url to a directory containing tokenizer files.
+[2021-04-19 09:01:47,561] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/vocab.txt
+[2021-04-19 09:01:47,561] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/added_tokens.json
+[2021-04-19 09:01:47,562] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/special_tokens_map.json
+[2021-04-19 09:01:47,562] [pytorch_transformers.tokenization_utils � INFO] � [_from_pretrained:381]
+loading file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/bert-ner/tokenizer_config.json
+[2021-04-19 09:02:32,762] [allennlp.models.archival � INFO] � [load_archive:162]
+loading archive file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10
+[2021-04-19 09:02:32,788] [allennlp.common.params � INFO] � [pop:247]
+type = from_instances
+[2021-04-19 09:02:32,788] [allennlp.data.vocabulary � INFO] � [from_files:321]
+Loading token dictionary from /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10/vocabulary.
+[2021-04-19 09:02:32,789] [filelock � INFO] � [acquire:274]
+Lock 140120122130976 acquired on /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10/vocabulary/.lock
+[2021-04-19 09:02:32,819] [filelock � INFO] � [release:318]
+Lock 140120122130976 released on /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10/vocabulary/.lock
+[2021-04-19 09:02:32,820] [allennlp.common.params � INFO] � [pop:247]
+model.type = crf_tagger
+[2021-04-19 09:02:32,821] [allennlp.common.params � INFO] � [pop:247]
+model.regularizer.regexes.0.1.type = l2
+[2021-04-19 09:02:32,821] [allennlp.common.params � INFO] � [pop:247]
+model.regularizer.regexes.0.1.alpha = 0.1
+[2021-04-19 09:02:32,822] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.type = basic
+[2021-04-19 09:02:32,822] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.type = elmo_token_embedder
+[2021-04-19 09:02:32,822] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.options_file = https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json
+[2021-04-19 09:02:32,822] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.weight_file = https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5
+[2021-04-19 09:02:32,823] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.do_layer_norm = False
+[2021-04-19 09:02:32,823] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.dropout = 0
+[2021-04-19 09:02:32,823] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.requires_grad = False
+[2021-04-19 09:02:32,823] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.projection_dim = None
+[2021-04-19 09:02:32,823] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.vocab_to_cache = None
+[2021-04-19 09:02:32,823] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.scalar_mix_parameters = None
+[2021-04-19 09:02:32,823] [allennlp.modules.elmo � INFO] � [__init__:110]
+Initializing ELMo
+[2021-04-19 09:02:33,550] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json at /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:02:33,550] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:02:33,551] [filelock � INFO] � [acquire:274]
+Lock 140120847809120 acquired on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:02:33,552] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json is up-to-date
+[2021-04-19 09:02:33,552] [filelock � INFO] � [release:318]
+Lock 140120847809120 released on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:02:34,250] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:34,250] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:34,250] [filelock � INFO] � [acquire:274]
+Lock 140120125672992 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:34,250] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:34,251] [filelock � INFO] � [release:318]
+Lock 140120125672992 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:34,955] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:34,955] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:34,956] [filelock � INFO] � [acquire:274]
+Lock 140120125670160 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:34,956] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:34,956] [filelock � INFO] � [release:318]
+Lock 140120125670160 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:35,658] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:35,658] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:35,659] [filelock � INFO] � [acquire:274]
+Lock 140120125670928 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:35,659] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:35,659] [filelock � INFO] � [release:318]
+Lock 140120125670928 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:36,358] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:36,359] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:36,359] [filelock � INFO] � [acquire:274]
+Lock 140120802268496 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:36,359] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:36,359] [filelock � INFO] � [release:318]
+Lock 140120802268496 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:37,059] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:37,059] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:37,059] [filelock � INFO] � [acquire:274]
+Lock 140120122707632 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:37,059] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:37,060] [filelock � INFO] � [release:318]
+Lock 140120122707632 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:37,799] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:37,800] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:37,800] [filelock � INFO] � [acquire:274]
+Lock 140120122707440 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:37,800] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:37,800] [filelock � INFO] � [release:318]
+Lock 140120122707440 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:38,502] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:38,503] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:38,503] [filelock � INFO] � [acquire:274]
+Lock 140120600410768 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:38,503] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:38,503] [filelock � INFO] � [release:318]
+Lock 140120600410768 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:39,208] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:39,209] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:39,209] [filelock � INFO] � [acquire:274]
+Lock 140120600408944 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:39,209] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:39,209] [filelock � INFO] � [release:318]
+Lock 140120600408944 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:40,056] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:40,056] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:40,056] [filelock � INFO] � [acquire:274]
+Lock 140120600410816 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:40,056] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:40,057] [filelock � INFO] � [release:318]
+Lock 140120600410816 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:41,065] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:41,065] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:41,065] [filelock � INFO] � [acquire:274]
+Lock 140120600411872 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:41,065] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:41,065] [filelock � INFO] � [release:318]
+Lock 140120600411872 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:41,984] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:41,985] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:41,985] [filelock � INFO] � [acquire:274]
+Lock 140120094000896 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:41,985] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:41,985] [filelock � INFO] � [release:318]
+Lock 140120094000896 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:42,724] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json at /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:02:42,725] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:02:42,725] [filelock � INFO] � [acquire:274]
+Lock 140120125670352 acquired on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:02:42,725] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json is up-to-date
+[2021-04-19 09:02:42,725] [filelock � INFO] � [release:318]
+Lock 140120125670352 released on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:02:49,091] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:49,091] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:49,091] [filelock � INFO] � [acquire:274]
+Lock 140120093999936 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:49,091] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:49,092] [filelock � INFO] � [release:318]
+Lock 140120093999936 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:52,265] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.type = character_encoding
+[2021-04-19 09:02:52,265] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.embedding_dim = 16
+[2021-04-19 09:02:52,265] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.num_embeddings = None
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.projection_dim = None
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.weight = None
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.padding_index = None
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.trainable = True
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.max_norm = None
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.norm_type = 2.0
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.scale_grad_by_freq = False
+[2021-04-19 09:02:52,266] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.sparse = False
+[2021-04-19 09:02:52,267] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.vocab_namespace = token_characters
+[2021-04-19 09:02:52,267] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.pretrained_file = None
+[2021-04-19 09:02:52,267] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.type = cnn
+[2021-04-19 09:02:52,268] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.embedding_dim = 16
+[2021-04-19 09:02:52,268] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.num_filters = 128
+[2021-04-19 09:02:52,268] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.ngram_filter_sizes = [3]
+[2021-04-19 09:02:52,268] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.conv_layer_activation = relu
+[2021-04-19 09:02:52,268] [allennlp.common.params � INFO] � [pop:247]
+type = relu
+[2021-04-19 09:02:52,268] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.output_dim = None
+[2021-04-19 09:02:52,269] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.dropout = 0.0
+[2021-04-19 09:02:52,270] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.type = embedding
+[2021-04-19 09:02:52,270] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.embedding_dim = 50
+[2021-04-19 09:02:52,270] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+[2021-04-19 09:02:52,270] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.projection_dim = None
+[2021-04-19 09:02:52,270] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.weight = None
+[2021-04-19 09:02:52,270] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.padding_index = None
+[2021-04-19 09:02:52,271] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.trainable = True
+[2021-04-19 09:02:52,271] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.max_norm = None
+[2021-04-19 09:02:52,271] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+[2021-04-19 09:02:52,271] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+[2021-04-19 09:02:52,271] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.sparse = False
+[2021-04-19 09:02:52,271] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+[2021-04-19 09:02:52,271] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+[2021-04-19 09:02:52,286] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.type = lstm
+[2021-04-19 09:02:52,286] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.input_size = 1202
+[2021-04-19 09:02:52,286] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.hidden_size = 200
+[2021-04-19 09:02:52,286] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.num_layers = 2
+[2021-04-19 09:02:52,287] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.bias = True
+[2021-04-19 09:02:52,287] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.dropout = 0.5
+[2021-04-19 09:02:52,287] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.bidirectional = True
+[2021-04-19 09:02:52,287] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.stateful = False
+[2021-04-19 09:02:52,315] [allennlp.common.params � INFO] � [pop:247]
+model.label_namespace = labels
+[2021-04-19 09:02:52,315] [allennlp.common.params � INFO] � [pop:247]
+model.feedforward = None
+[2021-04-19 09:02:52,315] [allennlp.common.params � INFO] � [pop:247]
+model.label_encoding = BIOUL
+[2021-04-19 09:02:52,315] [allennlp.common.params � INFO] � [pop:247]
+model.include_start_end_transitions = False
+[2021-04-19 09:02:52,315] [allennlp.common.params � INFO] � [pop:247]
+model.constrain_crf_decoding = None
+[2021-04-19 09:02:52,316] [allennlp.common.params � INFO] � [pop:247]
+model.calculate_span_f1 = None
+[2021-04-19 09:02:52,316] [allennlp.common.params � INFO] � [pop:247]
+model.dropout = 0.5
+[2021-04-19 09:02:52,316] [allennlp.common.params � INFO] � [pop:247]
+model.verbose_metrics = False
+[2021-04-19 09:02:52,316] [allennlp.common.params � INFO] � [pop:247]
+model.initializer = <allennlp.nn.initializers.InitializerApplicator object at 0x7f711d7d8e80>
+[2021-04-19 09:02:52,316] [allennlp.common.params � INFO] � [pop:247]
+model.top_k = 1
+[2021-04-19 09:02:52,320] [allennlp.nn.initializers � INFO] � [__call__:471]
+Initializing parameters
+[2021-04-19 09:02:52,321] [allennlp.nn.initializers � INFO] � [__call__:489]
+Done initializing parameters; the following parameters are using their default initialization from their code
+[2021-04-19 09:02:52,321] [allennlp.nn.initializers � INFO] � [__call__:496]
+   crf._constraint_mask
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   crf.transitions
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l0
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l0_reverse
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l1
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l1_reverse
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l0
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l0_reverse
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l1
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l1_reverse
+[2021-04-19 09:02:52,322] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l0
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l0_reverse
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l1
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l1_reverse
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l0
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l0_reverse
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l1
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l1_reverse
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   tag_projection_layer._module.bias
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   tag_projection_layer._module.weight
+[2021-04-19 09:02:52,323] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.input_linearity.weight
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.state_linearity.bias
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.state_linearity.weight
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.state_projection.weight
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.input_linearity.weight
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.state_linearity.bias
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.state_linearity.weight
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.state_projection.weight
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.input_linearity.weight
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.state_linearity.bias
+[2021-04-19 09:02:52,324] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.state_linearity.weight
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.state_projection.weight
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.input_linearity.weight
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.state_linearity.bias
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.state_linearity.weight
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.state_projection.weight
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._char_embedding_weights
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.0.bias
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.0.weight
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.1.bias
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.1.weight
+[2021-04-19 09:02:52,325] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._projection.bias
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._projection.weight
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_0.bias
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_0.weight
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_1.bias
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_1.weight
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_2.bias
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_2.weight
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_3.bias
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_3.weight
+[2021-04-19 09:02:52,326] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_4.bias
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_4.weight
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_5.bias
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_5.weight
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_6.bias
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_6.weight
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.gamma
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.scalar_parameters.0
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.scalar_parameters.1
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.scalar_parameters.2
+[2021-04-19 09:02:52,327] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_token_characters._embedding._module.weight
+[2021-04-19 09:02:52,328] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_token_characters._encoder._module.conv_layer_0.bias
+[2021-04-19 09:02:52,328] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_token_characters._encoder._module.conv_layer_0.weight
+[2021-04-19 09:02:52,328] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_tokens.weight
+[2021-04-19 09:02:54,210] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.type = conll2003
+[2021-04-19 09:02:54,210] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.lazy = False
+[2021-04-19 09:02:54,211] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.cache_directory = None
+[2021-04-19 09:02:54,211] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.max_instances = None
+[2021-04-19 09:02:54,211] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.manual_distributed_sharding = False
+[2021-04-19 09:02:54,211] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.manual_multi_process_sharding = False
+[2021-04-19 09:02:54,211] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.type = elmo_characters
+[2021-04-19 09:02:54,212] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.namespace = elmo_characters
+[2021-04-19 09:02:54,212] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.tokens_to_add = None
+[2021-04-19 09:02:54,212] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.token_min_padding_length = 0
+[2021-04-19 09:02:54,212] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.type = characters
+[2021-04-19 09:02:54,212] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.namespace = token_characters
+[2021-04-19 09:02:54,212] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.character_tokenizer = <allennlp.data.tokenizers.character_tokenizer.CharacterTokenizer object at 0x7f711d9b2c70>
+[2021-04-19 09:02:54,213] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.start_tokens = None
+[2021-04-19 09:02:54,213] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.end_tokens = None
+[2021-04-19 09:02:54,213] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.min_padding_length = 0
+[2021-04-19 09:02:54,213] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.token_min_padding_length = 0
+[2021-04-19 09:02:54,214] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.type = single_id
+[2021-04-19 09:02:54,215] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.namespace = tokens
+[2021-04-19 09:02:54,215] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.lowercase_tokens = True
+[2021-04-19 09:02:54,215] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.start_tokens = None
+[2021-04-19 09:02:54,215] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.end_tokens = None
+[2021-04-19 09:02:54,215] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.feature_name = text
+[2021-04-19 09:02:54,215] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+[2021-04-19 09:02:54,216] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+[2021-04-19 09:02:54,216] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.tag_label = ner
+[2021-04-19 09:02:54,216] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.feature_labels = ()
+[2021-04-19 09:02:54,216] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.coding_scheme = BIOUL
+[2021-04-19 09:02:54,216] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.label_namespace = labels
+[2021-04-19 09:02:54,994] [allennlp.models.archival � INFO] � [load_archive:162]
+loading archive file /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10
+[2021-04-19 09:02:55,018] [allennlp.common.params � INFO] � [pop:247]
+type = from_instances
+[2021-04-19 09:02:55,018] [allennlp.data.vocabulary � INFO] � [from_files:321]
+Loading token dictionary from /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10/vocabulary.
+[2021-04-19 09:02:55,018] [filelock � INFO] � [acquire:274]
+Lock 140120645427456 acquired on /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10/vocabulary/.lock
+[2021-04-19 09:02:55,046] [filelock � INFO] � [release:318]
+Lock 140120645427456 released on /data/python-resources/AGRIF/mapping-services/NLP_NER/tools-models/allennlp/ner-model-2020.02.10/vocabulary/.lock
+[2021-04-19 09:02:55,047] [allennlp.common.params � INFO] � [pop:247]
+model.type = crf_tagger
+[2021-04-19 09:02:55,048] [allennlp.common.params � INFO] � [pop:247]
+model.regularizer.regexes.0.1.type = l2
+[2021-04-19 09:02:55,048] [allennlp.common.params � INFO] � [pop:247]
+model.regularizer.regexes.0.1.alpha = 0.1
+[2021-04-19 09:02:55,048] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.type = basic
+[2021-04-19 09:02:55,049] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.type = elmo_token_embedder
+[2021-04-19 09:02:55,049] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.options_file = https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json
+[2021-04-19 09:02:55,049] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.weight_file = https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5
+[2021-04-19 09:02:55,049] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.do_layer_norm = False
+[2021-04-19 09:02:55,049] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.dropout = 0
+[2021-04-19 09:02:55,050] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.requires_grad = False
+[2021-04-19 09:02:55,050] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.projection_dim = None
+[2021-04-19 09:02:55,050] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.vocab_to_cache = None
+[2021-04-19 09:02:55,050] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.elmo.scalar_mix_parameters = None
+[2021-04-19 09:02:55,050] [allennlp.modules.elmo � INFO] � [__init__:110]
+Initializing ELMo
+[2021-04-19 09:02:55,761] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json at /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:02:55,762] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:02:55,762] [filelock � INFO] � [acquire:274]
+Lock 140120645430000 acquired on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:02:55,762] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json is up-to-date
+[2021-04-19 09:02:55,762] [filelock � INFO] � [release:318]
+Lock 140120645430000 released on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:02:56,458] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:56,458] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:56,459] [filelock � INFO] � [acquire:274]
+Lock 140120122131264 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:56,459] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:56,459] [filelock � INFO] � [release:318]
+Lock 140120122131264 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:57,158] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:57,159] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:57,159] [filelock � INFO] � [acquire:274]
+Lock 140121927812384 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:57,159] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:57,159] [filelock � INFO] � [release:318]
+Lock 140121927812384 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:57,860] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:57,861] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:57,861] [filelock � INFO] � [acquire:274]
+Lock 140120645431152 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:57,861] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:57,861] [filelock � INFO] � [release:318]
+Lock 140120645431152 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:58,568] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:58,569] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:58,569] [filelock � INFO] � [acquire:274]
+Lock 140120645429472 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:58,569] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:58,569] [filelock � INFO] � [release:318]
+Lock 140120645429472 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:59,272] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:59,272] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:59,273] [filelock � INFO] � [acquire:274]
+Lock 140120645430528 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:59,273] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:59,273] [filelock � INFO] � [release:318]
+Lock 140120645430528 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:59,971] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:59,972] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:02:59,972] [filelock � INFO] � [acquire:274]
+Lock 140120645430240 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:02:59,972] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:02:59,972] [filelock � INFO] � [release:318]
+Lock 140120645430240 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:00,674] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:00,674] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:00,675] [filelock � INFO] � [acquire:274]
+Lock 140120495645696 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:00,675] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:03:00,675] [filelock � INFO] � [release:318]
+Lock 140120495645696 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:01,384] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:01,384] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:01,384] [filelock � INFO] � [acquire:274]
+Lock 140120495646320 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:01,385] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:03:01,385] [filelock � INFO] � [release:318]
+Lock 140120495646320 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:02,223] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:02,224] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:02,224] [filelock � INFO] � [acquire:274]
+Lock 140120645429904 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:02,224] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:03:02,224] [filelock � INFO] � [release:318]
+Lock 140120645429904 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:03,051] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:03,051] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:03,052] [filelock � INFO] � [acquire:274]
+Lock 140120645430576 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:03,052] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:03:03,052] [filelock � INFO] � [release:318]
+Lock 140120645430576 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:03,871] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:03,872] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:03,872] [filelock � INFO] � [acquire:274]
+Lock 140120645430768 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:03,872] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:03:03,872] [filelock � INFO] � [release:318]
+Lock 140120645430768 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:04,579] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json at /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:03:04,579] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66
+[2021-04-19 09:03:04,580] [filelock � INFO] � [acquire:274]
+Lock 140120645429808 acquired on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:03:04,580] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json is up-to-date
+[2021-04-19 09:03:04,580] [filelock � INFO] � [release:318]
+Lock 140120645429808 released on /root/.allennlp/cache/c45ba807fc3368c761c5effbe59c21e13dde7f13778f238d1c2a0acec66c5722.15c465f454169b1ddb0b7f0d48dca2484f5b3350e81e870a0c3a797233eaac66.lock
+[2021-04-19 09:03:10,764] [allennlp.common.file_utils � INFO] � [get_from_cache:339]
+checking cache for https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 at /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:10,765] [allennlp.common.file_utils � INFO] � [get_from_cache:340]
+waiting to acquire lock on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7
+[2021-04-19 09:03:10,765] [filelock � INFO] � [acquire:274]
+Lock 140120645430000 acquired on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:10,765] [allennlp.common.file_utils � INFO] � [get_from_cache:343]
+cache of https://allennlp.s3.amazonaws.com/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5 is up-to-date
+[2021-04-19 09:03:10,765] [filelock � INFO] � [release:318]
+Lock 140120645430000 released on /root/.allennlp/cache/2a11b63baaa61c59d833d62d19ec9d1fe39ddc87a457ea9e0667752928cda08c.e6623c55f61b49e14a2ef0881ac5dbe85b2bfe9fb014760bc706855d4f7f48b7.lock
+[2021-04-19 09:03:13,026] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.type = character_encoding
+[2021-04-19 09:03:13,027] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.embedding_dim = 16
+[2021-04-19 09:03:13,027] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.num_embeddings = None
+[2021-04-19 09:03:13,027] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.projection_dim = None
+[2021-04-19 09:03:13,027] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.weight = None
+[2021-04-19 09:03:13,027] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.padding_index = None
+[2021-04-19 09:03:13,027] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.trainable = True
+[2021-04-19 09:03:13,028] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.max_norm = None
+[2021-04-19 09:03:13,028] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.norm_type = 2.0
+[2021-04-19 09:03:13,028] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.scale_grad_by_freq = False
+[2021-04-19 09:03:13,028] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.sparse = False
+[2021-04-19 09:03:13,028] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.vocab_namespace = token_characters
+[2021-04-19 09:03:13,028] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.embedding.pretrained_file = None
+[2021-04-19 09:03:13,029] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.type = cnn
+[2021-04-19 09:03:13,029] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.embedding_dim = 16
+[2021-04-19 09:03:13,029] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.num_filters = 128
+[2021-04-19 09:03:13,029] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.ngram_filter_sizes = [3]
+[2021-04-19 09:03:13,030] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.conv_layer_activation = relu
+[2021-04-19 09:03:13,030] [allennlp.common.params � INFO] � [pop:247]
+type = relu
+[2021-04-19 09:03:13,030] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.encoder.output_dim = None
+[2021-04-19 09:03:13,031] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.token_characters.dropout = 0.0
+[2021-04-19 09:03:13,031] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.type = embedding
+[2021-04-19 09:03:13,031] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.embedding_dim = 50
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.projection_dim = None
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.weight = None
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.padding_index = None
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.trainable = True
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.max_norm = None
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+[2021-04-19 09:03:13,032] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+[2021-04-19 09:03:13,033] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.sparse = False
+[2021-04-19 09:03:13,033] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+[2021-04-19 09:03:13,033] [allennlp.common.params � INFO] � [pop:247]
+model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+[2021-04-19 09:03:13,047] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.type = lstm
+[2021-04-19 09:03:13,048] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.input_size = 1202
+[2021-04-19 09:03:13,048] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.hidden_size = 200
+[2021-04-19 09:03:13,048] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.num_layers = 2
+[2021-04-19 09:03:13,048] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.bias = True
+[2021-04-19 09:03:13,048] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.dropout = 0.5
+[2021-04-19 09:03:13,048] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.bidirectional = True
+[2021-04-19 09:03:13,048] [allennlp.common.params � INFO] � [pop:247]
+model.encoder.stateful = False
+[2021-04-19 09:03:13,078] [allennlp.common.params � INFO] � [pop:247]
+model.label_namespace = labels
+[2021-04-19 09:03:13,078] [allennlp.common.params � INFO] � [pop:247]
+model.feedforward = None
+[2021-04-19 09:03:13,078] [allennlp.common.params � INFO] � [pop:247]
+model.label_encoding = BIOUL
+[2021-04-19 09:03:13,078] [allennlp.common.params � INFO] � [pop:247]
+model.include_start_end_transitions = False
+[2021-04-19 09:03:13,078] [allennlp.common.params � INFO] � [pop:247]
+model.constrain_crf_decoding = None
+[2021-04-19 09:03:13,079] [allennlp.common.params � INFO] � [pop:247]
+model.calculate_span_f1 = None
+[2021-04-19 09:03:13,079] [allennlp.common.params � INFO] � [pop:247]
+model.dropout = 0.5
+[2021-04-19 09:03:13,079] [allennlp.common.params � INFO] � [pop:247]
+model.verbose_metrics = False
+[2021-04-19 09:03:13,079] [allennlp.common.params � INFO] � [pop:247]
+model.initializer = <allennlp.nn.initializers.InitializerApplicator object at 0x7f711d7d8e80>
+[2021-04-19 09:03:13,079] [allennlp.common.params � INFO] � [pop:247]
+model.top_k = 1
+[2021-04-19 09:03:13,083] [allennlp.nn.initializers � INFO] � [__call__:471]
+Initializing parameters
+[2021-04-19 09:03:13,084] [allennlp.nn.initializers � INFO] � [__call__:489]
+Done initializing parameters; the following parameters are using their default initialization from their code
+[2021-04-19 09:03:13,084] [allennlp.nn.initializers � INFO] � [__call__:496]
+   crf._constraint_mask
+[2021-04-19 09:03:13,084] [allennlp.nn.initializers � INFO] � [__call__:496]
+   crf.transitions
+[2021-04-19 09:03:13,084] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l0
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l0_reverse
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l1
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_hh_l1_reverse
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l0
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l0_reverse
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l1
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.bias_ih_l1_reverse
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l0
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l0_reverse
+[2021-04-19 09:03:13,085] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l1
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_hh_l1_reverse
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l0
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l0_reverse
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l1
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   encoder._module.weight_ih_l1_reverse
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   tag_projection_layer._module.bias
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   tag_projection_layer._module.weight
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.input_linearity.weight
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.state_linearity.bias
+[2021-04-19 09:03:13,086] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.state_linearity.weight
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_0.state_projection.weight
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.input_linearity.weight
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.state_linearity.bias
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.state_linearity.weight
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.backward_layer_1.state_projection.weight
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.input_linearity.weight
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.state_linearity.bias
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.state_linearity.weight
+[2021-04-19 09:03:13,087] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_0.state_projection.weight
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.input_linearity.weight
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.state_linearity.bias
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.state_linearity.weight
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._elmo_lstm.forward_layer_1.state_projection.weight
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._char_embedding_weights
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.0.bias
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.0.weight
+[2021-04-19 09:03:13,088] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.1.bias
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._highways._layers.1.weight
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._projection.bias
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder._projection.weight
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_0.bias
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_0.weight
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_1.bias
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_1.weight
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_2.bias
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_2.weight
+[2021-04-19 09:03:13,089] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_3.bias
+[2021-04-19 09:03:13,090] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_3.weight
+[2021-04-19 09:03:13,090] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_4.bias
+[2021-04-19 09:03:13,090] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_4.weight
+[2021-04-19 09:03:13,090] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_5.bias
+[2021-04-19 09:03:13,090] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_5.weight
+[2021-04-19 09:03:13,091] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_6.bias
+[2021-04-19 09:03:13,091] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo._elmo_lstm._token_embedder.char_conv_6.weight
+[2021-04-19 09:03:13,091] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.gamma
+[2021-04-19 09:03:13,091] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.scalar_parameters.0
+[2021-04-19 09:03:13,091] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.scalar_parameters.1
+[2021-04-19 09:03:13,091] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_elmo._elmo.scalar_mix_0.scalar_parameters.2
+[2021-04-19 09:03:13,091] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_token_characters._embedding._module.weight
+[2021-04-19 09:03:13,092] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_token_characters._encoder._module.conv_layer_0.bias
+[2021-04-19 09:03:13,092] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_token_characters._encoder._module.conv_layer_0.weight
+[2021-04-19 09:03:13,092] [allennlp.nn.initializers � INFO] � [__call__:496]
+   text_field_embedder.token_embedder_tokens.weight
+[2021-04-19 09:03:13,331] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.type = conll2003
+[2021-04-19 09:03:13,332] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.lazy = False
+[2021-04-19 09:03:13,332] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.cache_directory = None
+[2021-04-19 09:03:13,332] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.max_instances = None
+[2021-04-19 09:03:13,332] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.manual_distributed_sharding = False
+[2021-04-19 09:03:13,332] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.manual_multi_process_sharding = False
+[2021-04-19 09:03:13,333] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.type = elmo_characters
+[2021-04-19 09:03:13,333] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.namespace = elmo_characters
+[2021-04-19 09:03:13,333] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.tokens_to_add = None
+[2021-04-19 09:03:13,333] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.elmo.token_min_padding_length = 0
+[2021-04-19 09:03:13,333] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.type = characters
+[2021-04-19 09:03:13,334] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.namespace = token_characters
+[2021-04-19 09:03:13,334] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.character_tokenizer = <allennlp.data.tokenizers.character_tokenizer.CharacterTokenizer object at 0x7f711d9b2c70>
+[2021-04-19 09:03:13,334] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.start_tokens = None
+[2021-04-19 09:03:13,334] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.end_tokens = None
+[2021-04-19 09:03:13,334] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.min_padding_length = 0
+[2021-04-19 09:03:13,334] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.token_characters.token_min_padding_length = 0
+[2021-04-19 09:03:13,335] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.type = single_id
+[2021-04-19 09:03:13,335] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.namespace = tokens
+[2021-04-19 09:03:13,335] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.lowercase_tokens = True
+[2021-04-19 09:03:13,335] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.start_tokens = None
+[2021-04-19 09:03:13,335] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.end_tokens = None
+[2021-04-19 09:03:13,335] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.feature_name = text
+[2021-04-19 09:03:13,335] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+[2021-04-19 09:03:13,336] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+[2021-04-19 09:03:13,336] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.tag_label = ner
+[2021-04-19 09:03:13,336] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.feature_labels = ()
+[2021-04-19 09:03:13,336] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.coding_scheme = BIOUL
+[2021-04-19 09:03:13,336] [allennlp.common.params � INFO] � [pop:247]
+dataset_reader.label_namespace = labels
+[2021-04-19 09:03:13,337] [root � INFO] � [<module>:2608]
+NLP/NER models loaded!
+[2021-04-19 09:03:13,337] [root � INFO] � [<module>:2609]
+******************************************************************************
+
+[2021-04-19 09:03:13,337] [root � INFO] � [output:224]
+
+2021-04-19 09:03:13.337943> @<static_method>.displayConfigFile:
+* Already using configuration file: /data/python-resources/AGRIF/mapping-services/MEL/config-NER-Survey.json
+  (nothing to do)
+[2021-04-19 09:03:13,338] [root � INFO] � [header:2696]
+******************************************************************************
+[2021-04-19 09:03:13,338] [root � INFO] � [header:2697]
+Project AGRIF | MEL: Metadata Extractor & Loader --> @dataset=NER-Survey
+[2021-04-19 09:03:13,338] [root � INFO] � [printStartTimeStamp:235]
+Start time: [2021-04-19 09:03:13.338280]
+[2021-04-19 09:03:13,338] [root � INFO] � [header:2700]
+platform: [Linux]; __name__: [MEL]; __package__: [MEL]
+[2021-04-19 09:03:13,338] [root � INFO] � [shortPrint:441]
+CouchDB Processing: [False], NLP-NER Processing: [True]
+[2021-04-19 09:03:13,338] [root � INFO] � [shortPrint:442]
+Input Folder: [/data/python-resources/AGRIF/docs-repo/NER-Survey/]
+
+
+[2021-04-19 09:03:13,338] [root � INFO] � [header:2702]
+******************************************************************************
+[2021-04-19 10:26:13,031] [polyglot.mapping.expansion � INFO] � [expand:79]
+We have 100004 original words.
+[2021-04-19 10:26:13,031] [polyglot.mapping.expansion � INFO] � [expand:80]
+Added 144984 new words.
+[2021-04-19 10:26:13,031] [polyglot.mapping.expansion � INFO] � [expand:81]
+The new total number of words is 244988
+[2021-04-19 10:26:13,346] [polyglot.mapping.expansion � INFO] � [expand:79]
+We have 244988 original words.
+[2021-04-19 10:26:13,346] [polyglot.mapping.expansion � INFO] � [expand:80]
+Added 3 new words.
+[2021-04-19 10:26:13,346] [polyglot.mapping.expansion � INFO] � [expand:81]
+The new total number of words is 244991
+[2021-04-19 11:49:57,322] [root � INFO] � [output:224]
+
+2021-04-19 11:49:57.322821> @<static_method>.writeOutputFile:
+[/data/python-resources/AGRIF/docs-repo/NER-Survey/_output/SEC_filings.txt-MEL+NER_output.json]
+[2021-04-19 11:49:57,325] [root � INFO] � [footer:2715]
+******************************************************************************
+[2021-04-19 11:49:57,325] [root � INFO] � [printEndTimeStamp:240]
+
+
+End time: [2021-04-19 11:49:57.325439]
+[2021-04-19 11:49:57,325] [root � INFO] � [printEndTimeStamp:241]
+Execution time: 10003.987634 seconds.

@@ -1,0 +1,54 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Charles E. Brinley",0,0,1,0,0,0
+"corre",0,0,0,0,1,0
+"George Town",0,1,0,0,0,0
+"Michael Moretti",0,0,0,0,1,0
+"Frank Wouters",1,0,0,0,0,0
+"Chen Shuning",1,0,0,0,0,0
+"Ashford",0,1,0,0,0,0
+"Zhang Jilun",1,0,0,0,0,0
+"Richard Chleboski",1,0,0,0,0,0
+"U. A.",0,0,0,1,0,0
+"Bing Yu "" Borrower """,0,0,1,0,0,0
+"David Brooks",1,0,0,0,0,0
+"BORROWER",0,0,0,0,1,0
+"LENDER",0,0,0,0,1,0
+"E. S. T. Beneficiary",0,0,0,1,0,0
+"DFischer",0,0,0,0,1,0
+"Bing Yu Tel",0,0,1,0,0,0
+"David Fischer",1,0,0,0,0,0
+"Sidney X. Huang",0,0,0,1,0,0
+"Riemer Braunstein",0,0,0,1,0,0
+"P. R. China. Whereas",0,0,0,1,0,0
+"Paul Sagan",1,0,0,0,0,0
+"Jonathan Medved",1,0,0,0,0,0
+"David A. Ephraim",0,0,1,0,0,0
+"Michael Morreti",1,0,0,0,0,0
+"Worksoft",0,1,0,0,0,0
+"Peter Case Peter Case",1,0,0,0,0,0
+"C. F. R. 2510.",0,0,0,1,0,0
+"Saint Auban",0,1,0,0,0,0
+"Douglas S. Lambell Douglas S. Lambell",0,0,1,0,0,0
+"Bing Yu",1,0,0,0,0,0
+"B. Borrower",0,0,1,0,0,0
+"Servicer",0,0,0,1,0,0
+"Richard G. Chleboski",0,0,1,0,0,0
+"P. R. 1",0,0,0,1,0,0
+"Bizexpress",0,1,0,0,0,0
+"Shi Rongbin",1,0,0,0,0,0
+"lender",0,0,0,0,1,0
+"David Corre",1,0,0,0,0,0
+"James P. Walker",0,0,1,0,0,0
+"Sidney X . Huang",0,0,0,0,1,0
+"Richard G.",0,0,1,0,0,0
+"HERBERT SMITH",1,0,0,0,0,0
+"Nancy E.",0,0,1,0,0,0
+"DEphraim",0,0,0,0,1,0
+"Keith Love",1,0,0,0,0,0
+"L. P. 3",0,0,0,1,0,0
+"Douglas S. Lambell",0,0,1,0,0,0
+"david",0,0,0,0,1,0
+"U. S. A.",0,0,0,1,0,0
+"MMoretti",0,0,0,0,1,0
+"Yigal Allon",0,0,0,1,0,0
+*TOTAL*,15,5,11,11,20,0

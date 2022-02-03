@@ -1,0 +1,7 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Filipino",0,0,0,0,0,1
+"Spanish",0,1,0,0,0,0
+"English",0,1,0,0,0,0
+"Russian",0,1,0,0,0,0
+"russian",0,0,0,0,0,1
+*TOTAL*,0,3,0,0,0,2

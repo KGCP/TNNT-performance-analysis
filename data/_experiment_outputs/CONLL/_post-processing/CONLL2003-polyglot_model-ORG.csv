@@ -1,0 +1,1729 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Apic",0,0,1,0,0,0
+"PMI",0,0,0,1,0,0
+"William",0,0,0,1,0,0
+"Mining",0,0,1,0,0,0
+"Bund",0,0,1,0,0,0
+"Kansas City",1,0,0,0,0,0
+"Mariners",1,0,0,0,0,0
+"Nantes",1,0,0,0,0,0
+"Darlington",1,0,0,0,0,0
+"Mobil",1,0,0,0,0,0
+"SOCCER AUSTRIA",0,0,0,1,0,0
+"Mark McNulty Zimbabwe",0,0,0,1,0,0
+"Lech",0,0,0,0,1,0
+"Herri Batasuna",0,0,0,0,1,0
+"FIVE",0,0,0,1,0,0
+"Interfax",0,0,0,0,1,0
+"Ryan Johnson Canada",0,0,0,1,0,0
+"Gold",0,0,1,0,0,0
+"Juventus",1,0,0,0,0,0
+"Mana",0,0,1,0,0,0
+"Baltimore",1,0,0,0,0,0
+"Pirelli",1,0,0,0,0,0
+"Tampa",0,0,1,0,0,0
+"Cincinnati",1,0,0,0,0,0
+"Vebjoen Rodal",0,1,0,0,0,0
+"WBC",1,0,0,0,0,0
+"Tychy",0,0,0,0,1,0
+"ETA",1,0,0,0,0,0
+"MILWAUKEE CLEVELAND AT",0,0,1,0,0,0
+"Zelenskaja",0,0,0,1,0,0
+"OIC",1,0,0,0,0,0
+"ATALANTA",1,0,0,0,0,0
+"Stansted",0,1,0,0,0,0
+"Foreign",0,0,1,0,0,0
+"Force",0,0,1,0,0,0
+"Singer",0,1,0,0,0,0
+"Paulo Bento Oviedo",0,0,1,0,0,0
+"Lillehammer",0,1,0,0,0,0
+"Gazzetta dello Sport",1,0,0,0,0,0
+"PAP",0,0,0,0,1,0
+"PAKISTAN WIN",0,0,1,0,0,0
+"Ottawa",1,0,0,0,0,0
+"Moldova",0,1,0,0,0,0
+"Yugoslavia",0,1,0,0,0,0
+"BOSTON BUFFALO AT HARTFORD WASHINGTON AT NY ISLANDERS CHICAGO",0,0,1,0,0,0
+"TORONTO MINNESOTA",0,0,1,0,0,0
+"JERSEY AT BOSTON CLEVELAND",0,0,1,0,0,0
+"Vitor Baia Barcelona",0,0,1,0,0,0
+"MIAMI PHOENIX",0,0,1,0,0,0
+"Automakers",0,0,0,1,0,0
+"Prince",0,0,0,1,0,0
+"Japhet",0,0,0,1,0,0
+"CONCACAF",1,0,0,0,0,0
+"RIO",0,0,0,1,0,0
+"Fortuna Sittard",1,0,0,0,0,0
+"CNB",0,0,0,0,1,0
+"Nortel",0,0,0,1,0,0
+"Dinamo",1,0,0,0,0,0
+"Carlsberg",1,0,0,0,0,0
+"NA",0,0,1,0,0,0
+"Whittingham",0,1,0,0,0,0
+"ILO",1,0,0,0,0,0
+"Maccabi Tel Aviv",1,0,0,0,0,0
+"CFDT",0,0,0,0,1,0
+"BellSouth",0,0,0,1,0,0
+"Intelligence",0,0,0,1,0,0
+"Chester",1,0,0,0,0,0
+"Nationalist",0,0,1,0,0,0
+"SOCCER BELARUS",0,0,0,1,0,0
+"Wall Street",0,1,0,0,0,0
+"Creative",0,0,1,0,0,0
+"DOCSTART SOCCER IRELAND",0,0,1,0,0,0
+"AMERICAN FOOTBALL CONFERENCE",0,0,1,0,0,0
+"Alania",1,0,0,0,0,0
+"Kansas City Royals",1,0,0,0,0,0
+"GLASGOW",0,1,0,0,0,0
+"Europe OSCE",0,0,1,0,0,0
+"SOCCER ISRAEL",0,0,0,1,0,0
+"Orioles",1,0,0,0,0,0
+"Britain",0,1,0,0,0,0
+"West Bank",0,1,0,0,0,0
+"Gremio",1,0,0,0,0,0
+"Paramilitary",0,0,0,1,0,0
+"Split Croatia",0,0,1,0,0,0
+"Red Star",1,0,0,0,0,0
+"Vancouver IndyCar",0,0,1,0,0,0
+"New York Mercantile Exchange",1,0,0,0,0,0
+"Headingley Leeds",0,0,1,0,0,0
+"Radical",0,0,1,0,0,0
+"Wales",0,1,0,0,0,0
+"Durham",1,0,0,0,0,0
+"Wellington",0,1,0,0,0,0
+"Wallabies",1,0,0,0,0,0
+"Jewish West",0,0,0,1,0,0
+"Air France",1,0,0,0,0,0
+"Maccabi Haifa",1,0,0,0,0,0
+"Budapest bourse",0,0,0,1,0,0
+"JERSEY",0,0,1,0,0,0
+"NZ",0,1,0,0,0,0
+"Aung San Suu",0,0,0,1,0,0
+"Cairns",0,1,0,0,0,0
+"International Finance Bureau",1,0,0,0,0,0
+"RKC Waalwijk",1,0,0,0,0,0
+"Kia",1,0,0,0,0,0
+"Indonesian Mines and Energy Ministry",1,0,0,0,0,0
+"Zycie",0,0,1,0,0,0
+"Otelul Galati",1,0,0,0,0,0
+"Gilbert Le Gras",0,1,0,0,0,0
+"Norilsk",0,0,0,0,1,0
+"Kurdistan Workers Party",1,0,0,0,0,0
+"X DENVER",0,0,1,0,0,0
+"VANCOUVER",1,0,0,0,0,0
+"Technogym",0,0,1,0,0,0
+"Federal Reserve",1,0,0,0,0,0
+"Padraig Harrington Ireland",0,0,0,1,0,0
+"Clinton",0,1,0,0,0,0
+"Bristol Rovers",1,0,0,0,0,0
+"Paolo Di Canio Celtic",0,0,1,0,0,0
+"SOCCER INCE",0,0,0,1,0,0
+"Phillies",1,0,0,0,0,0
+"Telegraph",0,0,1,0,0,0
+"Homestake",0,0,0,0,1,0
+"State Council",1,0,0,0,0,0
+"Dhaka",0,1,0,0,0,0
+"Benetton",1,0,0,0,0,0
+"NSW Treasury",1,0,0,0,0,0
+"Logrones",0,0,0,0,1,0
+"Mansfield",1,0,0,0,0,0
+"South Africa",0,1,0,0,0,0
+"EAGLES",1,0,0,0,0,0
+"Boroughmuir",0,0,0,0,1,0
+"EDMONTON DOCSTART NHL ICE",0,0,1,0,0,0
+"Marshall",0,1,0,0,0,0
+"Social Democrats",0,1,0,0,0,0
+"Doetinchem",1,0,0,0,0,0
+"Reform Party",1,0,0,0,0,0
+"Forfar",1,0,0,0,0,0
+"SEA",0,0,1,0,0,0
+"UAE",0,1,0,0,0,0
+"AK",0,0,1,0,0,0
+"London International Financial",0,0,1,0,0,0
+"International Monetary Fund",1,0,0,0,0,0
+"Saudi",0,1,0,0,0,0
+"Lada Togliatti",1,0,0,0,0,0
+"HOUSTON NY GIANTS",0,0,1,0,0,0
+"Toledo",0,1,0,0,0,0
+"Florence Masnada",0,1,0,0,0,0
+"Huntly",0,0,0,0,1,0
+"BALTIMORE",1,0,0,0,0,0
+"SACRAMENTO",1,0,0,0,0,0
+"Exeter",1,0,0,0,0,0
+"African",0,1,0,0,0,0
+"Circuit",0,0,0,1,0,0
+"League",1,0,0,0,0,0
+"OF TIME",0,0,0,1,0,0
+"World Trade Organisation",1,0,0,0,0,0
+"LA CLIPPERS",1,0,0,0,0,0
+"Tunbridge Wells : Nottinghamshire",0,0,1,0,0,0
+"Derby",1,0,0,0,0,0
+"Greater Milwaukee",0,0,1,0,0,0
+"Calgary",1,0,0,0,0,0
+"FC Hansa Rostock",1,0,0,0,0,0
+"Moody",0,1,0,0,0,0
+"Indies",0,0,0,1,0,0
+"Serbian",0,1,0,0,0,0
+"Lyon",1,0,0,0,0,0
+"MILWAUKEE CLEVELAND AT TEXAS BOSTON AT OAKLAND",0,0,1,0,0,0
+"East Stirling",1,0,0,0,0,0
+"NICE",1,0,0,0,0,0
+"FC St",0,0,1,0,0,0
+"Chris Walker England",0,0,0,1,0,0
+"Clyde",1,0,0,0,0,0
+"Atalanta",1,0,0,0,0,0
+"Bellerive Oval",0,1,0,0,0,0
+"Patriotic Union of",0,0,1,0,0,0
+"Borussia Neunkirchen",1,0,0,0,0,0
+"Dundee",1,0,0,0,0,0
+"BRE",1,0,0,0,0,0
+"Tenerife",1,0,0,0,0,0
+"Ramon Ramirez 15",0,0,0,1,0,0
+"Scunthorpe",1,0,0,0,0,0
+"CSKA Moscow Russia",0,0,1,0,0,0
+"Portuguesa",1,0,0,0,0,0
+"Traffic",0,0,1,0,0,0
+"Alba Berlin Germany",0,0,1,0,0,0
+"DODGE CITY",0,1,0,0,0,0
+"Lithuania",0,1,0,0,0,0
+"Commerce",1,0,0,0,0,0
+"First Bank",1,0,0,0,0,0
+"Brechin",1,0,0,0,0,0
+"Chicago White Sox",1,0,0,0,0,0
+"FLORIDA",1,0,0,0,0,0
+"Beograd",0,0,1,0,0,0
+"Bath",1,0,0,0,0,0
+"CNBC",1,0,0,0,0,0
+"Mira Kasslin",0,1,0,0,0,0
+"JAPAN WIN",0,0,1,0,0,0
+"JCPENNEY",0,0,0,1,0,0
+"Middlesex",1,0,0,0,0,0
+"NY JETS",1,0,0,0,0,0
+"Oceano Cruz Sporting",0,0,1,0,0,0
+"Canada I",0,0,0,0,1,0
+"Neath",1,0,0,0,0,0
+"Barcelona Barcelona",0,0,1,0,0,0
+"Star",0,0,1,0,0,0
+"Linfield",1,0,0,0,0,0
+"COLORADO",1,0,0,0,0,0
+"Peace",0,0,0,1,0,0
+"Swart",0,0,0,1,0,0
+"SRI LANKA",0,1,0,0,0,0
+"Miami Dolphins",1,0,0,0,0,0
+"United Arab Emirates",0,1,0,0,0,0
+"Beijing",0,1,0,0,0,0
+"Scotland",0,1,0,0,0,0
+"West Hartlepool",1,0,0,0,0,0
+"Brewers",1,0,0,0,0,0
+"NY Dow",0,1,0,0,0,0
+"DSE",1,0,0,0,0,0
+"Benetton Italy",0,0,1,0,0,0
+"Hyundai Heavy",0,0,0,0,1,0
+"Wembley",0,1,0,0,0,0
+"Dow Chemical Co",1,0,0,0,0,0
+"Norwich",1,0,0,0,0,0
+"Santander",0,1,0,0,0,0
+"DKV",0,0,0,0,1,0
+"Chicago NAPM",0,0,1,0,0,0
+"Midfielders",0,0,0,1,0,0
+"Bonn",0,1,0,0,0,0
+"Colorado Rockies",1,0,0,0,0,0
+"Congress",0,0,1,0,0,0
+"FRANCISCO MINNESOTA AT DETROIT",0,0,1,0,0,0
+"CAROLINA",1,0,0,0,0,0
+"Telecommunications",0,0,1,0,0,0
+"Socialist",0,0,0,1,0,0
+"Traders",0,0,1,0,0,0
+"Cukaricki",0,0,0,0,1,0
+"DETROIT BALTIMORE",0,0,1,0,0,0
+"Extremadura",1,0,0,0,0,0
+"Romania Cosmin Contra",0,0,1,0,0,0
+"LG",1,0,0,0,0,0
+"Luton",1,0,0,0,0,0
+"Harris",0,1,0,0,0,0
+"Chicago newsdesk",0,0,1,0,0,0
+"OFK Beograd",1,0,0,0,0,0
+"Oldham",1,0,0,0,0,0
+"Rotary Club of Houston",0,0,1,0,0,0
+"Reynard",0,0,1,0,0,0
+"GOLDEN",0,0,1,0,0,0
+"Belo",0,1,0,0,0,0
+"Roosevelt Financial",0,0,1,0,0,0
+"SEATTLE",1,0,0,0,0,0
+"Mets",1,0,0,0,0,0
+"National Tennis Centre",0,1,0,0,0,0
+"European Union",1,0,0,0,0,0
+"International",0,0,1,0,0,0
+"Hong Kong Standard",1,0,0,0,0,0
+"Russian Federation",0,1,0,0,0,0
+"Democratic Convention",0,1,0,0,0,0
+"Luis Figo",0,1,0,0,0,0
+"DOT",1,0,0,0,0,0
+"Palestine Liberation Organisation PLO",0,0,1,0,0,0
+"Pierre Van Hooydonk Celtic",0,0,1,0,0,0
+"Leyton Orient",1,0,0,0,0,0
+"Dimas Teixeira Juventus",0,0,1,0,0,0
+"Atlanta",1,0,0,0,0,0
+"Chonan",0,0,0,0,1,0
+"Santa Fe",1,0,0,0,0,0
+"Clydebank",1,0,0,0,0,0
+"Albion",1,0,0,0,0,0
+"Sangetsu",1,0,0,0,0,0
+"Bologna",1,0,0,0,0,0
+"Slovak Republic",0,1,0,0,0,0
+"SOCCER UKRAINE",0,0,0,1,0,0
+"Le Havre",1,0,0,0,0,0
+"DOCSTART School",0,0,0,1,0,0
+"TROFEJ",0,0,0,1,0,0
+"Sumitomo Bank",1,0,0,0,0,0
+"Labour Department",1,0,0,0,0,0
+"Chesterfield",1,0,0,0,0,0
+"ENGLAND",0,1,0,0,0,0
+"London Stock Exchange",1,0,0,0,0,0
+"Khmer Nation Party",1,0,0,0,0,0
+"EB",0,0,0,0,1,0
+"Hapoel Petah",0,0,1,0,0,0
+"Hull",1,0,0,0,0,0
+"All Black",0,0,0,0,1,0
+"New York Energy",0,0,1,0,0,0
+"Groningen",1,0,0,0,0,0
+"Croatian",0,1,0,0,0,0
+"Lear",0,0,0,0,1,0
+"Karlsruhe",1,0,0,0,0,0
+"Madrid",0,1,0,0,0,0
+"AMERICAN FOOTBALL OHIO STATE",0,0,1,0,0,0
+"Nielsen Denmark",0,0,0,1,0,0
+"Donovan Bailey Canada",0,0,0,1,0,0
+"NationsBank Corp",0,0,1,0,0,0
+"Hartford",1,0,0,0,0,0
+"York",1,0,0,0,0,0
+"EU",1,0,0,0,0,0
+"Bristol",1,0,0,0,0,0
+"BELGRADE",0,1,0,0,0,0
+"Treorchy",1,0,0,0,0,0
+"Sheffield Wednesday",1,0,0,0,0,0
+"Estonia",0,1,0,0,0,0
+"GREEN BAY JACKSONVILLE",0,0,1,0,0,0
+"NATIONS CUP",0,0,0,1,0,0
+"MNLF",0,0,0,0,1,0
+"Hay",0,1,0,0,0,0
+"Charlotte",1,0,0,0,0,0
+"Scottish",0,1,0,0,0,0
+"British Universities",1,0,0,0,0,0
+"Notts County",1,0,0,0,0,0
+"Athetlics",0,0,0,0,1,0
+"Panathinaikos Greece",0,0,1,0,0,0
+"Seattle",1,0,0,0,0,0
+"Exchange BSE",0,0,1,0,0,0
+"Texas Rangers",1,0,0,0,0,0
+"Finance Ministry",0,0,0,0,1,0
+"Parma",1,0,0,0,0,0
+"Atlanta Games",0,1,0,0,0,0
+"HOPE",0,0,0,1,0,0
+"CANBERRA",0,1,0,0,0,0
+"Cowdenbeath",1,0,0,0,0,0
+"Dynamo Moscow Russia",0,0,1,0,0,0
+"African Nations",0,0,0,1,0,0
+"British rugby",0,0,0,1,0,0
+"New Zealand",0,1,0,0,0,0
+"Kilmarnock",1,0,0,0,0,0
+"Central Narcotics",0,0,1,0,0,0
+"Kurdistan Workers Party PKK",0,0,1,0,0,0
+"Workers",0,0,1,0,0,0
+"Bradford",1,0,0,0,0,0
+"DIVISION",0,0,0,1,0,0
+"CHICAGO HOUSTON",0,0,1,0,0,0
+"Twente Enschede",1,0,0,0,0,0
+"Zilinskiene",0,0,0,1,0,0
+"Europa",0,0,0,1,0,0
+"Real Sociedad",1,0,0,0,0,0
+"Minsk Group",1,0,0,0,0,0
+"Ruch",1,0,0,0,0,0
+"Chilean",0,1,0,0,0,0
+"Marcin Grajewski WARSAW",0,0,0,1,0,0
+"Northampton",1,0,0,0,0,0
+"ARIZONA NY JETS",0,0,1,0,0,0
+"Chelsea",1,0,0,0,0,0
+"MONTREAL NY RANGERS",0,0,1,0,0,0
+"Mlada Fronta",0,0,1,0,0,0
+"Sheffield United",1,0,0,0,0,0
+"TORONTO ANAHEIM AT PITTSBURGH COLORADO",0,0,1,0,0,0
+"Reuters",1,0,0,0,0,0
+"Hizbollah",1,0,0,0,0,0
+"Moscow",0,1,0,0,0,0
+"SACRAMENTO VANCOUVER",0,0,1,0,0,0
+"SPANISH FIRST DIVISION",0,0,1,0,0,0
+"Mar",0,0,1,0,0,0
+"Joao Vieira Pinto Benfica",0,0,1,0,0,0
+"Municipal Police",1,0,0,0,0,0
+"Corp",0,0,1,0,0,0
+"CENTRAL",0,0,0,1,0,0
+"Cambridge",1,0,0,0,0,0
+"Federal Air Traffic Control",0,0,1,0,0,0
+"Guy Forget France",0,0,0,1,0,0
+"Bastia",1,0,0,0,0,0
+"PRIX",0,0,0,1,0,0
+"Capital Markets Corp",0,0,1,0,0,0
+"El Salvador",0,1,0,0,0,0
+"County Cricket Board",0,0,1,0,0,0
+"Fri",0,0,0,1,0,0
+"Northern",0,0,1,0,0,0
+"Los Angeles Dodgers",1,0,0,0,0,0
+"South Korean",0,1,0,0,0,0
+"Roda JC Kerkrade",1,0,0,0,0,0
+"Zemun",1,0,0,0,0,0
+"KPD",0,0,0,0,1,0
+"Scott Draper Australia",0,0,0,1,0,0
+"Premier",0,0,0,1,0,0
+"Belfast",0,1,0,0,0,0
+"International Boxing Federation",1,0,0,0,0,0
+"Wycombe",1,0,0,0,0,0
+"Jerusalem",0,1,0,0,0,0
+"Hansa Rostock",1,0,0,0,0,0
+"Verona",1,0,0,0,0,0
+"Labor",0,0,0,1,0,0
+"Mahindra International",0,1,0,0,0,0
+"OSCE",1,0,0,0,0,0
+"Charleroi",1,0,0,0,0,0
+"FOOTBALL CONFERENCE",0,0,1,0,0,0
+"Arasu",0,0,0,1,0,0
+"England",0,1,0,0,0,0
+"Sumitomo",1,0,0,0,0,0
+"Dumbarton",1,0,0,0,0,0
+"JCPenney",0,0,0,1,0,0
+"AUSTRALIA V WEST",0,0,0,1,0,0
+"Partizan Belgrade Yugoslavia",0,0,1,0,0,0
+"DOCSTART",0,0,0,1,0,0
+"Information Technology Association of America",1,0,0,0,0,0
+"Port Vale",1,0,0,0,0,0
+"Kinder Bologna Italy",0,0,1,0,0,0
+"Co",0,0,1,0,0,0
+"Arsenal",1,0,0,0,0,0
+"Springbok",1,0,0,0,0,0
+"Catholic Church",1,0,0,0,0,0
+"Enfield",0,0,0,0,1,0
+"St Johnstone",1,0,0,0,0,0
+"Hindustan Copper Ltd",1,0,0,0,0,0
+"Lola Ford Cosworth",1,0,0,0,0,0
+"UNITED STATES",0,1,0,0,0,0
+"Bangladesh Lamps",0,0,0,0,1,0
+"Berwick",1,0,0,0,0,0
+"Warne",0,1,0,0,0,0
+"Honda",1,0,0,0,0,0
+"St Louis",1,0,0,0,0,0
+"Susanti",0,0,0,1,0,0
+"Inverness Thistle",1,0,0,0,0,0
+"Volgograd",0,1,0,0,0,0
+"FC Cologne",0,0,1,0,0,0
+"Phylis Smith Britain",0,0,0,1,0,0
+"Christian Rijavec Austria",0,0,0,1,0,0
+"YORK",0,0,1,0,0,0
+"Vicenza",1,0,0,0,0,0
+"Le Matin",1,0,0,0,0,0
+"Udinese",1,0,0,0,0,0
+"Yonhap",0,0,0,0,1,0
+"New Mexico Activities",0,0,1,0,0,0
+"Ian Jones New",0,0,1,0,0,0
+"NEC Nijmegen",1,0,0,0,0,0
+"CENTRAL DIVISION HOUSTON",0,0,1,0,0,0
+"Ards",1,0,0,0,0,0
+"Liverpool",1,0,0,0,0,0
+"Lay Volunteers",0,0,1,0,0,0
+"Chicago PMI",0,1,0,0,0,0
+"Pusan",1,0,0,0,0,0
+"Enterprise",0,1,0,0,0,0
+"National Hockey League",1,0,0,0,0,0
+"Sevilla",1,0,0,0,0,0
+"Stenhousemuir",1,0,0,0,0,0
+"KNP",0,0,0,0,1,0
+"Rad",1,0,0,0,0,0
+"Chicago",1,0,0,0,0,0
+"LA LAKERS",1,0,0,0,0,0
+"Liberte",0,0,0,0,1,0
+"Warsaw",0,1,0,0,0,0
+"Berlin",0,1,0,0,0,0
+"York Newsdesk",0,0,1,0,0,0
+"LOUIS DOCSTART",0,0,0,1,0,0
+"HONG KONG",0,1,0,0,0,0
+"Nick Price Zimbabwe",0,0,0,1,0,0
+"ORLANDO",1,0,0,0,0,0
+"Mahala",0,1,0,0,0,0
+"Aberdeen",1,0,0,0,0,0
+"Telephone Corp NTT",0,0,1,0,0,0
+"Israel",0,1,0,0,0,0
+"LIFFE",0,0,0,0,1,0
+"Cannes",1,0,0,0,0,0
+"Vinson",0,1,0,0,0,0
+"Harlequins",1,0,0,0,0,0
+"Tunbridge",0,0,0,1,0,0
+"EuroLeague",0,1,0,0,0,0
+"Santiago de Cuba",0,1,0,0,0,0
+"Hobart",0,1,0,0,0,0
+"French",0,1,0,0,0,0
+"NHL ICE",0,0,1,0,0,0
+"ENGLAND V",0,0,1,0,0,0
+"CANUCKS",1,0,0,0,0,0
+"NWS",1,0,0,0,0,0
+"Champions",0,0,0,1,0,0
+"Jose Amavisca",0,1,0,0,0,0
+"Televisa",1,0,0,0,0,0
+"Fernando Couto Barcelona",0,0,1,0,0,0
+"Puchon",0,0,0,0,1,0
+"LOS ANGELES",1,0,0,0,0,0
+"Baltimore Orioles",1,0,0,0,0,0
+"DOCSTART SOCCER SWEDEN",0,0,0,1,0,0
+"Ahold",1,0,0,0,0,0
+"Somerset",1,0,0,0,0,0
+"Pontypridd",1,0,0,0,0,0
+"Pace",0,1,0,0,0,0
+"Economic",0,0,1,0,0,0
+"Hapoel Jerusalem",1,0,0,0,0,0
+"Tony Jarrett Britain",0,0,0,1,0,0
+"ALBRIGHT AS",0,0,0,1,0,0
+"British Labour Party",1,0,0,0,0,0
+"Bolton Division",0,0,1,0,0,0
+"Athletic Bilbao",1,0,0,0,0,0
+"House",0,0,1,0,0,0
+"Chonbuk",0,0,0,0,1,0
+"Raith",1,0,0,0,0,0
+"Franc",0,0,1,0,0,0
+"Rapid Vienna",1,0,0,0,0,0
+"McLean",0,1,0,0,0,0
+"Portsmouth",1,0,0,0,0,0
+"Elgin City",1,0,0,0,0,0
+"Poland",0,1,0,0,0,0
+"Soviet",0,1,0,0,0,0
+"All England Club",0,0,0,1,0,0
+"Antwerp",0,0,0,0,1,0
+"Nikkei",0,1,0,0,0,0
+"Des Terblanche",0,1,0,0,0,0
+"Greenock Morton",1,0,0,0,0,0
+"Hamilton",1,0,0,0,0,0
+"Tass",1,0,0,0,0,0
+"UNION",0,0,1,0,0,0
+"ATHLETICS",0,0,0,1,0,0
+"Bibiana Perez Italy",0,0,0,1,0,0
+"Estudiantes Madrid Spain",0,0,1,0,0,0
+"X Minerals",0,0,1,0,0,0
+"Pro European Conservative",0,0,0,1,0,0
+"Kennedy",0,1,0,0,0,0
+"MEXICO CITY",0,1,0,0,0,0
+"BBC",1,0,0,0,0,0
+"Nihon Keizai Shimbun",1,0,0,0,0,0
+"Volendam",1,0,0,0,0,0
+"NAC Breda",1,0,0,0,0,0
+"MCI Communications Corporation",1,0,0,0,0,0
+"International Confederation of Free Trade Unions ICFTU",0,0,1,0,0,0
+"Telekomunikasi Indonesia Telkom",0,0,1,0,0,0
+"LEAGUE",0,0,0,1,0,0
+"Air",0,0,1,0,0,0
+"Loznica",0,0,0,0,1,0
+"Britain I",0,0,0,0,1,0
+"National Alliance",1,0,0,0,0,0
+"Lens",1,0,0,0,0,0
+"Dallas",0,1,0,0,0,0
+"Partick",1,0,0,0,0,0
+"Ebbw Vale",1,0,0,0,0,0
+"ENGLAND BUFFALO",0,0,1,0,0,0
+"Italian",0,1,0,0,0,0
+"Jones Medical Industries Inc",1,0,0,0,0,0
+"al Laqlaq Society",0,0,0,1,0,0
+"Blue Jays",1,0,0,0,0,0
+"National Basketball Association",0,0,1,0,0,0
+"LME",0,0,0,0,1,0
+"Orlando",1,0,0,0,0,0
+"Readiness Group",0,0,1,0,0,0
+"Forwards",0,0,0,1,0,0
+"Manchester United",1,0,0,0,0,0
+"Paris Saint Germain",0,0,0,1,0,0
+"Peter Nicol of Scotland",0,0,0,1,0,0
+"Pohang",1,0,0,0,0,0
+"Millwall",1,0,0,0,0,0
+"Hong",0,0,1,0,0,0
+"SOCCER",0,0,0,1,0,0
+"Warwickshire",1,0,0,0,0,0
+"Romania",0,1,0,0,0,0
+"Belgium",0,1,0,0,0,0
+"Feyenoord",1,0,0,0,0,0
+"Rome",0,1,0,0,0,0
+"New South Wales Supreme",0,0,1,0,0,0
+"BELFAST",0,1,0,0,0,0
+"DENVER CHARLOTTE AT SEATTLE DOCSTART NBA",0,0,1,0,0,0
+"Assembly",0,0,1,0,0,0
+"El",0,0,1,0,0,0
+"Grunde Njos",0,1,0,0,0,0
+"Northern Ireland",0,1,0,0,0,0
+"Watford",1,0,0,0,0,0
+"Aliuska Lopez Cuba",0,0,0,1,0,0
+"Industry",0,0,1,0,0,0
+"SC Freiburg",1,0,0,0,0,0
+"Bristol City",1,0,0,0,0,0
+"Thomas Johansson Sweden",0,0,0,1,0,0
+"Leicestershire",1,0,0,0,0,0
+"New York Stock Exchange",1,0,0,0,0,0
+"Electronic Data Systems",1,0,0,0,0,0
+"Isel Lopez Cuba",0,0,0,1,0,0
+"Standard Liege",1,0,0,0,0,0
+"Internazionale",1,0,0,0,0,0
+"Real Madrid",1,0,0,0,0,0
+"Trust Company Prudential Securities Incorporated",0,0,1,0,0,0
+"Real Betis",1,0,0,0,0,0
+"Whelan",0,1,0,0,0,0
+"Espanyol",1,0,0,0,0,0
+"Barnet",1,0,0,0,0,0
+"Bancshares Inc",0,0,1,0,0,0
+"BJP",1,0,0,0,0,0
+"Timah",0,0,0,0,1,0
+"Ukraine",0,1,0,0,0,0
+"Republicans",0,1,0,0,0,0
+"SHIMER",0,0,0,1,0,0
+"London",0,1,0,0,0,0
+"West Bromwich",1,0,0,0,0,0
+"Headingley",0,1,0,0,0,0
+"Police",0,0,1,0,0,0
+"German",0,1,0,0,0,0
+"Oceano",0,0,0,1,0,0
+"Hereford",1,0,0,0,0,0
+"CLEVELAND",1,0,0,0,0,0
+"TWA",1,0,0,0,0,0
+"Inc",0,0,1,0,0,0
+"Pirelli Cables",1,0,0,0,0,0
+"Puerto",0,0,0,1,0,0
+"Venice Film",0,0,0,1,0,0
+"Tanjug",0,0,0,0,1,0
+"South Carolina Gov",0,0,0,1,0,0
+"British",0,1,0,0,0,0
+"Reading",1,0,0,0,0,0
+"Sun",1,0,0,0,0,0
+"Former Wallaby",0,0,1,0,0,0
+"Shi'ite",0,0,0,1,0,0
+"Pauli",0,0,1,0,0,0
+"PDI",0,0,0,0,1,0
+"muni",0,0,1,0,0,0
+"Houston Astros",1,0,0,0,0,0
+"Huddersfield",1,0,0,0,0,0
+"Schalken",0,0,1,0,0,0
+"Anthony Hill Australia",0,0,0,1,0,0
+"Syria",0,1,0,0,0,0
+"SOCCER FIFA",0,0,1,0,0,0
+"Philippoussis",0,0,0,1,0,0
+"Tignes",0,1,0,0,0,0
+"NJ",0,1,0,0,0,0
+"Reagan Communications",1,0,0,0,0,0
+"Reynard Ford Cosworth",1,0,0,0,0,0
+"PHILADELPHIA",1,0,0,0,0,0
+"SYDNEY",0,1,0,0,0,0
+"Flint",0,0,0,1,0,0
+"Southend",1,0,0,0,0,0
+"UTAH CHARLOTTE",0,0,1,0,0,0
+"Ireland",0,1,0,0,0,0
+"English National League",0,1,0,0,0,0
+"Minnesota",1,0,0,0,0,0
+"Ajax Amsterdam",1,0,0,0,0,0
+"Monaco",1,0,0,0,0,0
+"Amateur Athletic Federation",0,0,1,0,0,0
+"ORLEANS",0,0,1,0,0,0
+"Scarborough",1,0,0,0,0,0
+"WEST INDIES",0,1,0,0,0,0
+"Marseille",1,0,0,0,0,0
+"Detroit LAST",0,0,0,1,0,0
+"New York Yankees",1,0,0,0,0,0
+"Washington Redskins",1,0,0,0,0,0
+"MSV Duisburg",1,0,0,0,0,0
+"Magna",1,0,0,0,0,0
+"BENETTON",1,0,0,0,0,0
+"National Weather Service",1,0,0,0,0,0
+"Goias",1,0,0,0,0,0
+"Francisco Palencia",0,1,0,0,0,0
+"Atlantic Treaty",0,0,1,0,0,0
+"Johnson",0,1,0,0,0,0
+"League for Democracy NLD",0,0,1,0,0,0
+"Middle",0,0,1,0,0,0
+"Zairean",0,1,0,0,0,0
+"Villa",1,0,0,0,0,0
+"Carlisle",1,0,0,0,0,0
+"Fulham",1,0,0,0,0,0
+"Spanish",0,1,0,0,0,0
+"Montreal",1,0,0,0,0,0
+"Sheffield",0,0,1,0,0,0
+"Wimbledon",1,0,0,0,0,0
+"Penske",0,0,1,0,0,0
+"Hapoel Taibe",1,0,0,0,0,0
+"Norwich City",1,0,0,0,0,0
+"Iraqi News Agency INA",0,0,1,0,0,0
+"HAGUE",0,0,0,1,0,0
+"Stockport",1,0,0,0,0,0
+"Roda",0,0,1,0,0,0
+"PANAMA CITY",0,1,0,0,0,0
+"AS Roma",1,0,0,0,0,0
+"Rose Bowl",0,1,0,0,0,0
+"Gianluca Vialli Chelsea",0,0,1,0,0,0
+"Chicago NBD Corp",0,0,1,0,0,0
+"Mauritania",0,1,0,0,0,0
+"United Nations",1,0,0,0,0,0
+"of",0,0,1,0,0,0
+"Hercules",1,0,0,0,0,0
+"Deportivo",1,0,0,0,0,0
+"York Commodities",0,0,1,0,0,0
+"DOCSTART SOCCER PSV HIT VOLENDAM FOR SIX",0,0,1,0,0,0
+"AS MARLINS",0,0,1,0,0,0
+"Minneapolis",0,1,0,0,0,0
+"Anyang",1,0,0,0,0,0
+"SOCCER SPANISH FIRST",0,0,1,0,0,0
+"TURKEY",0,1,0,0,0,0
+"Trade",0,0,1,0,0,0
+"Rochester Fire Department",1,0,0,0,0,0
+"SEATTLE CAROLINA",0,0,1,0,0,0
+"Deportivo Coruna",1,0,0,0,0,0
+"Barcelona Spain",0,0,1,0,0,0
+"Andrew Park",0,1,0,0,0,0
+"Xinhua",1,0,0,0,0,0
+"Headley",0,1,0,0,0,0
+"IRELAND PREMIER DIVISION",0,0,1,0,0,0
+"Steaua Bucharest",1,0,0,0,0,0
+"CHICAGO VANCOUVER AT DALLAS PHILADELPHIA",0,0,1,0,0,0
+"Hyundai",1,0,0,0,0,0
+"Italy",0,1,0,0,0,0
+"Fair",0,0,1,0,0,0
+"Essex",1,0,0,0,0,0
+"WASHINGTON",1,0,0,0,0,0
+"ANC",1,0,0,0,0,0
+"League for Democracy",0,0,1,0,0,0
+"Borac",1,0,0,0,0,0
+"Portadown",1,0,0,0,0,0
+"Birmingham",1,0,0,0,0,0
+"Charleroi Belgium",0,0,1,0,0,0
+"Rosario",0,1,0,0,0,0
+"DETROIT CHICAGO",0,0,1,0,0,0
+"SK Rapid",1,0,0,0,0,0
+"Lord",0,0,1,0,0,0
+"Toronto Bond Traders",0,0,1,0,0,0
+"Real Madrid Real Madrid",0,0,1,0,0,0
+"HARTFORD",1,0,0,0,0,0
+"Liege",0,1,0,0,0,0
+"Hearts",1,0,0,0,0,0
+"Peter O'Malley Australia",0,0,0,1,0,0
+"INDIANS",1,0,0,0,0,0
+"Street Bank",0,0,1,0,0,0
+"Atlas Bangladesh",0,0,0,0,1,0
+"AFC",0,0,0,1,0,0
+"Whitehill",1,0,0,0,0,0
+"Panamanian Boxing Association",0,0,1,0,0,0
+"KDP",1,0,0,0,0,0
+"Bradford Bulls",1,0,0,0,0,0
+"Klas Eriksson Sweden",0,0,0,1,0,0
+"SOCCER VIEIRA",0,0,1,0,0,0
+"Argentine",0,1,0,0,0,0
+"Zywiec",0,0,0,0,1,0
+"AUCKLAND",0,1,0,0,0,0
+"REDS",1,0,0,0,0,0
+"Melrose",1,0,0,0,0,0
+"National Congress ANC",0,0,1,0,0,0
+"EPA",1,0,0,0,0,0
+"DOCSTART SOCCER LEEDS",0,0,1,0,0,0
+"New Liberty",1,0,0,0,0,0
+"English",0,1,0,0,0,0
+"Magna International Inc",1,0,0,0,0,0
+"British Broadcasting Corporation BBC",0,0,1,0,0,0
+"AMR Corp",0,0,1,0,0,0
+"Citra",0,0,1,0,0,0
+"Eagles",1,0,0,0,0,0
+"Pernilla Wiberg",0,1,0,0,0,0
+"Nippon Telegraph",0,0,1,0,0,0
+"Dinamo Russia",0,0,1,0,0,0
+"Africa",0,1,0,0,0,0
+"Houston",1,0,0,0,0,0
+"Democrat",0,1,0,0,0,0
+"Jackson",0,1,0,0,0,0
+"Technology",0,0,1,0,0,0
+"Suker",0,1,0,0,0,0
+"Republican",0,1,0,0,0,0
+"Mercantile Bancorp Inc",0,0,1,0,0,0
+"Nottinghamshire",1,0,0,0,0,0
+"Rights",0,0,1,0,0,0
+"Contractors",0,0,1,0,0,0
+"Manitoba",0,0,0,0,1,0
+"Dallas Cowboys",1,0,0,0,0,0
+"Torino",1,0,0,0,0,0
+"Fiorentina",1,0,0,0,0,0
+"WIN",0,0,0,1,0,0
+"Samsung",1,0,0,0,0,0
+"WTO",1,0,0,0,0,0
+"Hapoel Petah Tikva",1,0,0,0,0,0
+"Friday",0,0,0,1,0,0
+"Louis Merchants Exchange",0,0,0,1,0,0
+"Sevilla Spain",0,0,1,0,0,0
+"JOSE",0,0,1,0,0,0
+"Liberian",0,1,0,0,0,0
+"Dan Jenson Australia",0,0,0,1,0,0
+"APS",1,0,0,0,0,0
+"Commerce Department",1,0,0,0,0,0
+"Prensa Latina",1,0,0,0,0,0
+"Communists",0,1,0,0,0,0
+"Hawick",1,0,0,0,0,0
+"Mexico",0,1,0,0,0,0
+"Raul Rodrigo Lara 11 Cuauhtemoc Blanco",0,0,0,1,0,0
+"National League CHICAGO",0,0,1,0,0,0
+"Ruch SA",1,0,0,0,0,0
+"Limoges France",0,0,1,0,0,0
+"Coleraine",1,0,0,0,0,0
+"Khan",0,0,0,1,0,0
+"Royal Clipper",0,1,0,0,0,0
+"Pernila Wiberg",0,1,0,0,0,0
+"Lithuania Danius Gleveckas",0,0,0,1,0,0
+"Palestinian Liberation Organisation",1,0,0,0,0,0
+"PITTSBURGH WASHINGTON",0,0,1,0,0,0
+"Zywcu SA",0,0,1,0,0,0
+"Colorado",1,0,0,0,0,0
+"Motorsport",0,0,1,0,0,0
+"Japan NTT",0,0,1,0,0,0
+"Virginia Tech",1,0,0,0,0,0
+"Asia Rubber Markets",0,0,0,1,0,0
+"Department of Defense",1,0,0,0,0,0
+"Office",0,0,1,0,0,0
+"Watsonians",0,0,0,0,1,0
+"San Diego",1,0,0,0,0,0
+"Davies",0,1,0,0,0,0
+"European Commission",1,0,0,0,0,0
+"National Football League",1,0,0,0,0,0
+"Hapoel Tel",0,0,1,0,0,0
+"Gloucestershire",1,0,0,0,0,0
+"Burkina Faso",0,1,0,0,0,0
+"MILAN",1,0,0,0,0,0
+"Shell",1,0,0,0,0,0
+"Saturday",0,0,0,1,0,0
+"Russian Weather Service",1,0,0,0,0,0
+"San Marino",0,1,0,0,0,0
+"TROFEJ BEOGRAD",0,0,0,1,0,0
+"SYRIA",0,1,0,0,0,0
+"Paris St",0,0,1,0,0,0
+"Bank of Canada",1,0,0,0,0,0
+"Dionne Rose Jamaica",0,0,0,1,0,0
+"Seven",0,0,0,1,0,0
+"Leatitia Dalloz",0,1,0,0,0,0
+"Maccabi Petah Tikva",1,0,0,0,0,0
+"Zimbabwe",0,1,0,0,0,0
+"SOCCER SCOTTISH",0,0,0,1,0,0
+"Wigan",1,0,0,0,0,0
+"MINNESOTA",1,0,0,0,0,0
+"Peter Nicol Scotland",0,0,0,1,0,0
+"SAN DIEGO",1,0,0,0,0,0
+"Fortuna Dusseldorf",1,0,0,0,0,0
+"Partizan",1,0,0,0,0,0
+"Aston Villa",1,0,0,0,0,0
+"Sheringham",0,1,0,0,0,0
+"SAN MARINO",0,1,0,0,0,0
+"B Sloboda",0,0,1,0,0,0
+"Adilson da Silva Brazil",0,0,0,1,0,0
+"Forwards Antonio Folha Porto",0,0,1,0,0,0
+"PARIS",0,1,0,0,0,0
+"Waitrose",1,0,0,0,0,0
+"Fed",1,0,0,0,0,0
+"Wheat Chicago",0,0,1,0,0,0
+"McCoist",0,1,0,0,0,0
+"Arbroath",1,0,0,0,0,0
+"Telmex",1,0,0,0,0,0
+"Bayern Munich",1,0,0,0,0,0
+"Sutton",0,1,0,0,0,0
+"SOCCER ENGLAND",0,0,1,0,0,0
+"Lincoln",1,0,0,0,0,0
+"Sudbury Town",1,0,0,0,0,0
+"San Diego 6 MONTREAL",0,0,1,0,0,0
+"Organisation",0,0,1,0,0,0
+"Barcelona",1,0,0,0,0,0
+"PSV Eindhoven romped",0,0,1,0,0,0
+"Lazio",1,0,0,0,0,0
+"Boston Red Sox",1,0,0,0,0,0
+"Derek Ryan Ireland",0,0,0,1,0,0
+"National Air Traffic Services",0,0,1,0,0,0
+"Conservative Party",1,0,0,0,0,0
+"Bury",1,0,0,0,0,0
+"Hajduk",1,0,0,0,0,0
+"Rabobank",1,0,0,0,0,0
+"American League DETROIT",0,0,1,0,0,0
+"nab",0,0,0,1,0,0
+"WARSAW",0,1,0,0,0,0
+"Heli",0,0,0,1,0,0
+"DIEGO",0,0,1,0,0,0
+"Pakistan",0,1,0,0,0,0
+"Milan",1,0,0,0,0,0
+"LEAGUE WIGAN",0,0,1,0,0,0
+"Jim Courier",0,1,0,0,0,0
+"Bank",0,0,1,0,0,0
+"Intertoto",0,1,0,0,0,0
+"CARDIFF",0,1,0,0,0,0
+"Lithuania DOCSTART",0,0,0,1,0,0
+"CIS",0,1,0,0,0,0
+"Computer Systems",0,0,1,0,0,0
+"WELLINGTON",0,1,0,0,0,0
+"Boxing",0,0,1,0,0,0
+"CENTRAL DIVISION CLEVELAND",0,0,1,0,0,0
+"Paul Gascoigne Rangers",0,0,1,0,0,0
+"CITY OF",0,0,0,1,0,0
+"Glentoran",1,0,0,0,0,0
+"Santa",0,1,0,0,0,0
+"VfL Bochum",1,0,0,0,0,0
+"Partizan Dejan Koturovic",0,0,1,0,0,0
+"Radnicki",0,0,1,0,0,0
+"Luebeck",1,0,0,0,0,0
+"Neil Back",0,1,0,0,0,0
+"FDP",1,0,0,0,0,0
+"Cibona Zagreb Croatia",0,0,1,0,0,0
+"Dole",0,1,0,0,0,0
+"Damascus Radio",1,0,0,0,0,0
+"Tuesday Division",0,0,0,1,0,0
+"Sunderland",1,0,0,0,0,0
+"ORLEANS SAN DIEGO",0,0,1,0,0,0
+"Toyo Trust Banking Co",0,0,0,1,0,0
+"Shahid",0,0,0,1,0,0
+"Compostela",1,0,0,0,0,0
+"HOUSTON UTAH",0,0,1,0,0,0
+"Rosenborg",1,0,0,0,0,0
+"International Labour",0,0,1,0,0,0
+"Rueckversicherungs AG",1,0,0,0,0,0
+"Internazionale Milan",1,0,0,0,0,0
+"Pittsburgh",1,0,0,0,0,0
+"Colchester",1,0,0,0,0,0
+"THE",0,0,0,1,0,0
+"Brighton",1,0,0,0,0,0
+"Gunhild Halle Norway",0,0,0,1,0,0
+"Placer Dome Inc",1,0,0,0,0,0
+"Spor Turkey",0,0,0,1,0,0
+"CALGARY",1,0,0,0,0,0
+"Korneilus Hole",0,1,0,0,0,0
+"Indosuez",0,0,0,0,1,0
+"European",0,1,0,0,0,0
+"Lille",1,0,0,0,0,0
+"TAMPA BAY",1,0,0,0,0,0
+"Blewett",0,1,0,0,0,0
+"Treasury Department",1,0,0,0,0,0
+"Swindon",1,0,0,0,0,0
+"Bharatiya Janata Party BJP",0,0,1,0,0,0
+"Pan",0,0,1,0,0,0
+"Ashford Town",1,0,0,0,0,0
+"Ohio State",1,0,0,0,0,0
+"Chonnam",0,0,0,0,1,0
+"Canada",0,1,0,0,0,0
+"St",0,0,1,0,0,0
+"Buducnost V",0,0,1,0,0,0
+"Driefontein Consolidated",0,0,1,0,0,0
+"NFC East",0,0,1,0,0,0
+"Treasury",1,0,0,0,0,0
+"Foreign Affairs",1,0,0,0,0,0
+"Hednesford",1,0,0,0,0,0
+"Montpellier",1,0,0,0,0,0
+"Haitai",1,0,0,0,0,0
+"Koram Bank",1,0,0,0,0,0
+"Civil Aviation Administration",0,0,1,0,0,0
+"Iraqi National Congress",1,0,0,0,0,0
+"Teamsystem Bologna",0,0,0,0,1,0
+"Kurdistan Democratic",0,0,1,0,0,0
+"Spartak",1,0,0,0,0,0
+"Mines and Energy Ministry",1,0,0,0,0,0
+"DOCSTART Jones",0,0,1,0,0,0
+"Kurdish",0,1,0,0,0,0
+"ANGELES",0,0,1,0,0,0
+"British Airways",1,0,0,0,0,0
+"AUSTRALIA",0,1,0,0,0,0
+"TORONTO",1,0,0,0,0,0
+"Devon",0,0,0,1,0,0
+"National Association of Purchasing Management",1,0,0,0,0,0
+"SHEFFIELD",0,0,0,1,0,0
+"Games",0,0,0,1,0,0
+"Barrick Gold Corp",1,0,0,0,0,0
+"Darren Jackson Hibernian",0,0,1,0,0,0
+"fob Med",0,0,0,1,0,0
+"Kurdistan Democratic Party",1,0,0,0,0,0
+"Becej",0,0,0,0,1,0
+"ATHLETICS BERLIN",0,0,0,1,0,0
+"Aaa",0,0,0,1,0,0
+"CINCINNATI",1,0,0,0,0,0
+"AUSTRALIA V SRI LANKA",0,0,1,0,0,0
+"Michigan Corp",0,0,1,0,0,0
+"Maccabi Herzliya",1,0,0,0,0,0
+"Wrexham Division",0,0,1,0,0,0
+"Red Cross",1,0,0,0,0,0
+"Central African",0,0,0,1,0,0
+"Vojvodina",1,0,0,0,0,0
+"Russian",0,1,0,0,0,0
+"ANAHEIM AT BUFFALO TORONTO AT NY RANGERS PITTSBURGH AT WASHINGTON MONTREAL AT CHICAGO PHILADELPHIA AT DALLAS ST LOUIS AT COLORADO OTTAWA",0,0,1,0,0,0
+"Norwest Corp",0,0,1,0,0,0
+"Republic of",0,0,0,1,0,0
+"Miller",0,1,0,0,0,0
+"Petroleum",0,0,1,0,0,0
+"El Mundo",1,0,0,0,0,0
+"First Albany Corp",0,0,1,0,0,0
+"SOCCER SHEARER",0,0,0,1,0,0
+"Peter van Vossen Rangers",0,0,1,0,0,0
+"Bournemouth",1,0,0,0,0,0
+"DINAMO",1,0,0,0,0,0
+"TAMPA BAY DALLAS",0,0,1,0,0,0
+"Los",0,0,1,0,0,0
+"Bank Rozwoju Exportu SA",1,0,0,0,0,0
+"CLUB",0,0,0,1,0,0
+"Indonesia",0,1,0,0,0,0
+"Daniels Pharmaceuticals Inc",1,0,0,0,0,0
+"Dublin",0,1,0,0,0,0
+"Logu RIO",0,0,0,1,0,0
+"Civil Aviation Authority",1,0,0,0,0,0
+"Falkirk",1,0,0,0,0,0
+"Rennes",1,0,0,0,0,0
+"LATVIA",0,1,0,0,0,0
+"Croatia Switzerland",0,0,0,1,0,0
+"Berne Convention",0,1,0,0,0,0
+"PSV",1,0,0,0,0,0
+"Metz",1,0,0,0,0,0
+"Pilsen",0,0,1,0,0,0
+"SCORE",0,0,0,1,0,0
+"Pau Orthez",0,0,0,1,0,0
+"SOCCER WALES",0,0,0,1,0,0
+"St Albans",1,0,0,0,0,0
+"Roman Catholic",0,1,0,0,0,0
+"Bochum",1,0,0,0,0,0
+"National League San Diego",0,0,1,0,0,0
+"Switzerland",0,1,0,0,0,0
+"Shrewsbury",1,0,0,0,0,0
+"Wasps",1,0,0,0,0,0
+"CONFERENCE MIDWEST",0,0,0,1,0,0
+"Daniels Pharmaceuticals",1,0,0,0,0,0
+"Queens Park Rangers",1,0,0,0,0,0
+"Perugia",1,0,0,0,0,0
+"Moro",0,0,1,0,0,0
+"Tigers",1,0,0,0,0,0
+"Tasmania",1,0,0,0,0,0
+"Cos Inc",0,0,1,0,0,0
+"Yangon Institute of Technology",1,0,0,0,0,0
+"Michigan National Bank",1,0,0,0,0,0
+"Sylvain Bouchard Canada",0,0,0,1,0,0
+"San Diego Padres",1,0,0,0,0,0
+"Duma",0,0,0,0,1,0
+"New York Cotton Exchange",1,0,0,0,0,0
+"Spain",0,1,0,0,0,0
+"Salem Bitar",0,1,0,0,0,0
+"Frankfurt",0,1,0,0,0,0
+"LITHUANIA",0,1,0,0,0,0
+"Maccabi Tel Aviv Israel",0,0,1,0,0,0
+"Boston",1,0,0,0,0,0
+"Rishon Lezion",0,0,1,0,0,0
+"Hungarian Democratic Union UDMR",0,0,1,0,0,0
+"AAA",0,0,1,0,0,0
+"KCBT",0,0,0,0,1,0
+"Sydney Newsroom",1,0,0,0,0,0
+"Cincinnati Reds",1,0,0,0,0,0
+"Manitoba Pork",1,0,0,0,0,0
+"Brian Laudrup Rangers",0,0,1,0,0,0
+"Pro Moscow",0,0,0,1,0,0
+"National",1,0,0,0,0,0
+"NFL",1,0,0,0,0,0
+"Front",0,0,1,0,0,0
+"Liechtenstein",0,1,0,0,0,0
+"Administration of Customs",0,0,1,0,0,0
+"Sparta Rotterdam",1,0,0,0,0,0
+"Bosnian",0,1,0,0,0,0
+"Vancouver Canucks",1,0,0,0,0,0
+"San Francisco",1,0,0,0,0,0
+"SPC",1,0,0,0,0,0
+"Piacenza",1,0,0,0,0,0
+"Gabriela Sabatini Argentina",0,0,0,1,0,0
+"British Airways Plc",1,0,0,0,0,0
+"AS RANGERS",0,0,1,0,0,0
+"Angeles",0,0,1,0,0,0
+"Carlos Secretario",0,1,0,0,0,0
+"NY RANGERS",1,0,0,0,0,0
+"Zulu",0,1,0,0,0,0
+"Buducnost ( V )",0,0,0,0,1,0
+"Kristie Marshall Australia",0,0,0,1,0,0
+"Busang",0,0,0,0,1,0
+"Yangon Institute of Technology YIT",0,0,1,0,0,0
+"Hapoel Beit She'an",1,0,0,0,0,0
+"Crystal Palace",1,0,0,0,0,0
+"DUBLIN",0,1,0,0,0,0
+"Bnei Yehuda",1,0,0,0,0,0
+"Colts",1,0,0,0,0,0
+"Itar Tass",0,0,1,0,0,0
+"DOCSTART Soccer",0,0,0,1,0,0
+"Mercantile , Commerce",0,0,1,0,0,0
+"Oviedo",1,0,0,0,0,0
+"East Dries",0,0,0,0,1,0
+"Panionios Greece",0,0,1,0,0,0
+"Motherwell",1,0,0,0,0,0
+"Airdrieonians",1,0,0,0,0,0
+"Warner Bros",1,0,0,0,0,0
+"Israeli",0,1,0,0,0,0
+"Robert Kitson LONDON",0,0,0,1,0,0
+"Ling Company Ltd",0,0,1,0,0,0
+"Juergen Schult",0,1,0,0,0,0
+"Blacks",0,0,1,0,0,0
+"Martin Londgaard Hansen Denmark",0,0,0,1,0,0
+"Steve McManaman Liverpool",0,0,1,0,0,0
+"African Breweries Ltd SAB",0,0,1,0,0,0
+"TVM",0,0,0,0,1,0
+"World",0,0,1,0,0,0
+"FIFA",1,0,0,0,0,0
+"Strasbourg",1,0,0,0,0,0
+"India",0,1,0,0,0,0
+"Shipping",0,0,1,0,0,0
+"Croft",0,1,0,0,0,0
+"Burnley",1,0,0,0,0,0
+"Racing Santander",1,0,0,0,0,0
+"Hamburger SV",1,0,0,0,0,0
+"PLO",1,0,0,0,0,0
+"HOUSTON",1,0,0,0,0,0
+"Dundee United",1,0,0,0,0,0
+"Crystal",0,0,1,0,0,0
+"Helder",0,0,0,1,0,0
+"Twickenham",0,1,0,0,0,0
+"Stirling",1,0,0,0,0,0
+"Cooperation",0,0,1,0,0,0
+"Pilkington",0,0,0,1,0,0
+"Utrecht",1,0,0,0,0,0
+"SCOTTISH PREMIER DIVISION",0,1,0,0,0,0
+"Association",1,0,0,0,0,0
+"Hibernian",1,0,0,0,0,0
+"Royals",1,0,0,0,0,0
+"MONTREAL COLORADO",0,0,1,0,0,0
+"Kuwait Jassem",0,0,0,1,0,0
+"Barbarians",1,0,0,0,0,0
+"Old",0,0,1,0,0,0
+"PHOENIX",1,0,0,0,0,0
+"of Islamic",0,0,1,0,0,0
+"France",0,1,0,0,0,0
+"Air Force",1,0,0,0,0,0
+"VANCOUVER INDYCAR",0,0,1,0,0,0
+"Paulo",0,0,0,1,0,0
+"Fernando Redondo",0,1,0,0,0,0
+"Canadian",0,1,0,0,0,0
+"PT Tambang Timah",0,0,0,0,1,0
+"Middlesbrough",1,0,0,0,0,0
+"Derbyshire",1,0,0,0,0,0
+"Radio Romania",1,0,0,0,0,0
+"Bank of Japan",1,0,0,0,0,0
+"PRESSE",0,0,1,0,0,0
+"Victoria",1,0,0,0,0,0
+"ESSEX",1,0,0,0,0,0
+"CHARLOTTE",1,0,0,0,0,0
+"Albania",0,1,0,0,0,0
+"Borussia Monchengladbach",1,0,0,0,0,0
+"WIGAN",1,0,0,0,0,0
+"WESTERN DIVISION TEXAS",0,0,1,0,0,0
+"EDS",1,0,0,0,0,0
+"Japan Spain",0,0,0,1,0,0
+"LIECHTENSTEIN",0,1,0,0,0,0
+"Treasuries",0,0,0,0,1,0
+"CEFTA",0,0,0,0,1,0
+"Robert Winters Dundee United",0,0,1,0,0,0
+"Giovanni Lombardi Italy Polti",0,0,1,0,0,0
+"Rubber Board",1,0,0,0,0,0
+"Union",0,0,1,0,0,0
+"Reich",0,1,0,0,0,0
+"Rochdale",1,0,0,0,0,0
+"PaineWebber",0,0,0,0,1,0
+"Duke",0,0,1,0,0,0
+"Arizona",0,0,0,0,1,0
+"W224 Mobil",0,0,1,0,0,0
+"RAI",0,1,0,0,0,0
+"Barcelona Real Madrid",0,0,1,0,0,0
+"Meiluawati Indonesia",0,0,0,1,0,0
+"DALLAS",1,0,0,0,0,0
+"All-England Club",0,0,0,0,1,0
+"OAKLAND BALTIMORE",0,0,1,0,0,0
+"Ferguson",0,1,0,0,0,0
+"Elbrewery Company",0,0,1,0,0,0
+"SOFIA",0,1,0,0,0,0
+"Rubber",0,0,1,0,0,0
+"MONTREAL",1,0,0,0,0,0
+"Gillespie",0,1,0,0,0,0
+"Midwest",0,1,0,0,0,0
+"Glamorgan",1,0,0,0,0,0
+"MELBOURNE",0,1,0,0,0,0
+"Braves",1,0,0,0,0,0
+"NY ISLANDERS",1,0,0,0,0,0
+"WBA",1,0,0,0,0,0
+"MIAMI",1,0,0,0,0,0
+"OFK Kikinda",1,0,0,0,0,0
+"HAMBURG",0,1,0,0,0,0
+"Jorge Cadete Celtic",0,0,1,0,0,0
+"UNITED",0,0,1,0,0,0
+"Conservatives",0,0,0,1,0,0
+"DOCSTART HK",0,0,0,1,0,0
+"Woking",1,0,0,0,0,0
+"Juan Pizzi",0,1,0,0,0,0
+"Latvia",0,1,0,0,0,0
+"of Corrections",0,0,1,0,0,0
+"NCAA",0,0,0,0,1,0
+"Walsall",1,0,0,0,0,0
+"Philadelphia Eagles",1,0,0,0,0,0
+"Warsaw Pact",0,1,0,0,0,0
+"WBO",1,0,0,0,0,0
+"Ljubljana Slovenia",0,0,1,0,0,0
+"TENNIS",0,0,0,1,0,0
+"Inter",1,0,0,0,0,0
+"U",0,0,1,0,0,0
+"American Airlines",1,0,0,0,0,0
+"BRADFORD",1,0,0,0,0,0
+"Pirates",1,0,0,0,0,0
+"Dwight Yorke Aston Villa",0,0,1,0,0,0
+"interior ministry",0,0,0,0,1,0
+"American",1,0,0,0,0,0
+"NATO",1,0,0,0,0,0
+"Brentford",1,0,0,0,0,0
+"Spela Bracun",0,1,0,0,0,0
+"Robert Allenby Australia",0,0,0,1,0,0
+"WINNIPEG",0,1,0,0,0,0
+"Belgrade",0,1,0,0,0,0
+"United States",0,1,0,0,0,0
+"Supplies",0,0,0,1,0,0
+"Agriculture Department",1,0,0,0,0,0
+"MILWAUKEE OPEN",0,0,1,0,0,0
+"Sampdoria",1,0,0,0,0,0
+"LOUIS",0,0,1,0,0,0
+"Mijatovic",0,1,0,0,0,0
+"Livingston",1,0,0,0,0,0
+"newsdesk",0,0,0,1,0,0
+"JERSEY MIAMI",0,0,1,0,0,0
+"State",0,0,1,0,0,0
+"BOMBAY",0,1,0,0,0,0
+"OTTAWA",1,0,0,0,0,0
+"STATE",0,0,1,0,0,0
+"Exxon",1,0,0,0,0,0
+"Turkey",0,1,0,0,0,0
+"SEATTLE NATIONAL LEAGUE",0,0,1,0,0,0
+"DOCSTART Scottish Labour Party",0,0,1,0,0,0
+"Yehuda",0,0,1,0,0,0
+"Chad Ogea",0,1,0,0,0,0
+"Moravcik",0,0,0,1,0,0
+"Securities Inc",0,0,1,0,0,0
+"SCOTLAND",0,1,0,0,0,0
+"YORK FLORIDA",0,0,1,0,0,0
+"Cubs",1,0,0,0,0,0
+"Chicago Newsdesk",1,0,0,0,0,0
+"IDLC",0,0,0,0,1,0
+"Blackburn",1,0,0,0,0,0
+"Indiana",1,0,0,0,0,0
+"Transportation Ministry",0,0,1,0,0,0
+"Wood",0,1,0,0,0,0
+"Newbridge",1,0,0,0,0,0
+"Hapoel Taiba",1,0,0,0,0,0
+"White Sox",1,0,0,0,0,0
+"Ayr",1,0,0,0,0,0
+"Kate Pace Lindsay Canada",0,0,0,1,0,0
+"OB",1,0,0,0,0,0
+"Vialli",0,1,0,0,0,0
+"Mark Cairns England",0,0,0,1,0,0
+"BUFFALO",1,0,0,0,0,0
+"Minor Counties",1,0,0,0,0,0
+"UK Department of Transport",0,0,1,0,0,0
+"Ally McCoist Rangers",0,0,1,0,0,0
+"Philadelphia",1,0,0,0,0,0
+"Dent",0,0,0,1,0,0
+"PGA",1,0,0,0,0,0
+"Lancashire",1,0,0,0,0,0
+"Schalke",1,0,0,0,0,0
+"New York",1,0,0,0,0,0
+"Tokyo Stock Exchange",1,0,0,0,0,0
+"Freiburg",1,0,0,0,0,0
+"Inc Underwriters",0,0,0,1,0,0
+"University of Michigan",1,0,0,0,0,0
+"CITIC Pacific",0,0,0,0,1,0
+"Cliftonville",1,0,0,0,0,0
+"FBI",1,0,0,0,0,0
+"Montrose",1,0,0,0,0,0
+"ATLANTA",1,0,0,0,0,0
+"SOCCER ROMANIA",0,0,1,0,0,0
+"KOREA",0,0,0,1,0,0
+"Romania Viorel Moldovan",0,0,1,0,0,0
+"Zeleznik ( B )",0,0,0,0,1,0
+"Hooper",0,1,0,0,0,0
+"Rayo Vallecano",1,0,0,0,0,0
+"IBF",1,0,0,0,0,0
+"Caen",1,0,0,0,0,0
+"Agency",0,0,1,0,0,0
+"BARBARIANS",1,0,0,0,0,0
+"PGA Tour",0,1,0,0,0,0
+"Party",0,0,1,0,0,0
+"MONTREAL LOS ANGELES",0,0,1,0,0,0
+"Mauritian",0,1,0,0,0,0
+"Timor",0,0,1,0,0,0
+"NTT",1,0,0,0,0,0
+"Canadian Wheat Board",1,0,0,0,0,0
+"Orrell",1,0,0,0,0,0
+"Kia Motor Corp of South",0,0,1,0,0,0
+"Boatmen 's",0,0,0,0,1,0
+"East Timorese Roman Catholic",0,0,1,0,0,0
+"Belarus",0,1,0,0,0,0
+"National Bank of",0,0,1,0,0,0
+"British Masters",0,1,0,0,0,0
+"Costantino Rocca Italy",0,0,0,1,0,0
+"CHICAGO",1,0,0,0,0,0
+"Emese Bartha",0,1,0,0,0,0
+"Texas",1,0,0,0,0,0
+"Norwegian",0,1,0,0,0,0
+"Yorkshire",1,0,0,0,0,0
+"PRESS",0,0,1,0,0,0
+"IAAF",0,0,1,0,0,0
+"Cambridge United",1,0,0,0,0,0
+"Kraft",0,1,0,0,0,0
+"National League",0,1,0,0,0,0
+"Banking Committee",0,0,1,0,0,0
+"Welsh rugby",0,0,0,1,0,0
+"Nice",1,0,0,0,0,0
+"West Ham",1,0,0,0,0,0
+"Lebanese",0,1,0,0,0,0
+"Sergi Barjuan",0,1,0,0,0,0
+"Cross",0,0,1,0,0,0
+"South Korea",0,1,0,0,0,0
+"Wrexham",1,0,0,0,0,0
+"KENT",0,0,0,0,1,0
+"SOCCER CANADA",0,0,1,0,0,0
+"FAROES",0,1,0,0,0,0
+"Bordeaux",1,0,0,0,0,0
+"West Indies",0,1,0,0,0,0
+"Rui Costa Fiorentina",0,0,1,0,0,0
+"SHANGHAI",0,1,0,0,0,0
+"Ranji",0,0,0,1,0,0
+"birdies",0,0,0,1,0,0
+"El Al",1,0,0,0,0,0
+"China Steel",1,0,0,0,0,0
+"Edgbaston",0,1,0,0,0,0
+"Social",0,0,1,0,0,0
+"Ogun Temizkanoglu",0,1,0,0,0,0
+"Mike Clayton Australia",0,0,0,1,0,0
+"ESTONIA",0,1,0,0,0,0
+"JOSE OTTAWA AT VANCOUVER DOCSTART NHL ICE",0,0,1,0,0,0
+"First Chicago",0,0,0,0,1,0
+"Townsend",0,1,0,0,0,0
+"Jed Forest",0,0,0,1,0,0
+"Al-Akhbar",0,0,0,0,1,0
+"PHILADELPHIA SAN DIEGO",0,0,1,0,0,0
+"Palestinian",0,1,0,0,0,0
+"of Democratic",0,0,1,0,0,0
+"Rotherham",1,0,0,0,0,0
+"Tottenham",1,0,0,0,0,0
+"Palestinian Authority",1,0,0,0,0,0
+"Pinas",0,1,0,0,0,0
+"EDMONTON",1,0,0,0,0,0
+"South Lebanon Army",1,0,0,0,0,0
+"Chamber",0,0,0,0,1,0
+"bourse",0,0,0,1,0,0
+"John",0,1,0,0,0,0
+"Alloa",1,0,0,0,0,0
+"Shimer",0,1,0,0,0,0
+"NHL",1,0,0,0,0,0
+"Timor Putra Nasional",0,0,1,0,0,0
+"Zealand",0,0,1,0,0,0
+"LOUIS AT CHICAGO BALTIMORE AT CINCINNATI DENVER",0,0,1,0,0,0
+"Saracens",1,0,0,0,0,0
+"Belgian",0,1,0,0,0,0
+"MILWAUKEE",1,0,0,0,0,0
+"Chittagong Cement",0,0,0,0,1,0
+"New",0,0,1,0,0,0
+"Olaf Ludwig Germany Telekom",0,0,1,0,0,0
+"Austin",0,0,0,1,0,0
+"Azerbaijan",0,1,0,0,0,0
+"Grimsby",1,0,0,0,0,0
+"Phoenix",1,0,0,0,0,0
+"United",0,0,1,0,0,0
+"Sydney Cricket",0,0,0,1,0,0
+"Valencia",1,0,0,0,0,0
+"Milan Italy",0,0,1,0,0,0
+"PITTSBURGH SAN FRANCISCO",0,0,1,0,0,0
+"Newport",1,0,0,0,0,0
+"Northamptonshire",1,0,0,0,0,0
+"Heerenveen",1,0,0,0,0,0
+"PANAMA",0,1,0,0,0,0
+"Oats Chicago",0,0,1,0,0,0
+"Valladolid",1,0,0,0,0,0
+"Doncaster",1,0,0,0,0,0
+"Vitesse Arnhem",1,0,0,0,0,0
+"Paulo Alves Sporting",0,0,1,0,0,0
+"Wright",0,1,0,0,0,0
+"Organisation for Security",0,0,1,0,0,0
+"NBA",1,0,0,0,0,0
+"Betar Jerusalem",1,0,0,0,0,0
+"DOCSTART SOCCER",0,0,0,1,0,0
+"New South",0,0,1,0,0,0
+"Islamic",0,1,0,0,0,0
+"Currie",1,0,0,0,0,0
+"Cleveland Indians",1,0,0,0,0,0
+"JACKSONVILLE",1,0,0,0,0,0
+"Top",0,0,0,1,0,0
+"Conservative",0,1,0,0,0,0
+"ARIZONA",1,0,0,0,0,0
+"Budapest",0,1,0,0,0,0
+"Coast",0,0,0,1,0,0
+"Commission",1,0,0,0,0,0
+"Der Spiegel",1,0,0,0,0,0
+"Caltex Petroleum Corp",1,0,0,0,0,0
+"Administration",0,0,1,0,0,0
+"CHICAGO FLORIDA",0,0,1,0,0,0
+"Goran Ivanisevic Croatia",0,0,0,1,0,0
+"Springboks",1,0,0,0,0,0
+"Yugoslav",0,1,0,0,0,0
+"Australia",0,1,0,0,0,0
+"Cardinals",1,0,0,0,0,0
+"FRANCISCO",0,0,1,0,0,0
+"South",0,1,0,0,0,0
+"Carlos Secretario Real",0,0,1,0,0,0
+"Dong",0,0,0,1,0,0
+"Roma",1,0,0,0,0,0
+"AC Milan",1,0,0,0,0,0
+"Ny Islanders",1,0,0,0,0,0
+"Torquay",1,0,0,0,0,0
+"Walsh",0,1,0,0,0,0
+"Kremlin",0,1,0,0,0,0
+"INDIANAPOLIS",1,0,0,0,0,0
+"ARSENAL",1,0,0,0,0,0
+"Pelham",0,1,0,0,0,0
+"Islamic Conference",0,0,1,0,0,0
+"Adams",0,1,0,0,0,0
+"Washington",0,1,0,0,0,0
+"Sheffield Shield",0,1,0,0,0,0
+"Claudia Riegler New Zealand",0,0,0,1,0,0
+"Olympiakos Greece",0,0,1,0,0,0
+"Serie",0,0,0,1,0,0
+"titans",0,0,0,1,0,0
+"Motorola",1,0,0,0,0,0
+"Inter Milan",1,0,0,0,0,0
+"Heineken",1,0,0,0,0,0
+"Crusaders",1,0,0,0,0,0
+"LM Ericsson",0,0,1,0,0,0
+"Napoli",1,0,0,0,0,0
+"Lahd",0,1,0,0,0,0
+"JERSEY CALGARY",0,0,1,0,0,0
+"Manolo Sanchis",0,1,0,0,0,0
+"Federal",0,0,1,0,0,0
+"Ajax",1,0,0,0,0,0
+"Southampton",1,0,0,0,0,0
+"Asian",0,1,0,0,0,0
+"Democratic",0,1,0,0,0,0
+"PT Panutan",0,0,0,1,0,0
+"National Congress",0,0,1,0,0,0
+"Labour",1,0,0,0,0,0
+"OAKLAND",1,0,0,0,0,0
+"Communist",0,1,0,0,0,0
+"United City Bank",1,0,0,0,0,0
+"Boreham Wood",0,0,0,0,1,0
+"Panama",0,1,0,0,0,0
+"Toronto",1,0,0,0,0,0
+"Olympic Airways",1,0,0,0,0,0
+"Rugby Football Union",1,0,0,0,0,0
+"Vaughan",0,1,0,0,0,0
+"Yankee",0,0,1,0,0,0
+"Stevenage",1,0,0,0,0,0
+"SV",0,0,1,0,0,0
+"Interrosimpex",0,0,0,0,1,0
+"Preston",1,0,0,0,0,0
+"Ipswich",1,0,0,0,0,0
+"Algerian",0,1,0,0,0,0
+"Palestine Liberation Organisation",1,0,0,0,0,0
+"Wolverhampton",1,0,0,0,0,0
+"Bolton F",0,0,1,0,0,0
+"Nottingham Forest",1,0,0,0,0,0
+"Hapoel Beersheba",1,0,0,0,0,0
+"Bay Packers",0,0,1,0,0,0
+"Leicester",1,0,0,0,0,0
+"Everton",1,0,0,0,0,0
+"PACIFIC",0,1,0,0,0,0
+"DOCSTART Boxing",0,0,0,1,0,0
+"Sporting Gijon",0,0,1,0,0,0
+"Buffalo Sabres",1,0,0,0,0,0
+"Atletico Mineiro 0",0,0,1,0,0,0
+"State Department",1,0,0,0,0,0
+"Plymouth",1,0,0,0,0,0
+"Paul McGinley Ireland",0,0,0,1,0,0
+"Albanian Football Association",1,0,0,0,0,0
+"Zeitung",0,0,1,0,0,0
+"Sunseeds",0,0,1,0,0,0
+"Radio Red",1,0,0,0,0,0
+"Pro",0,0,1,0,0,0
+"Nancy",1,0,0,0,0,0
+"Barnett Banks Inc",0,0,1,0,0,0
+"Milwaukee",1,0,0,0,0,0
+"INDIANA",1,0,0,0,0,0
+"AS ENGLAND",0,0,1,0,0,0
+"China",0,1,0,0,0,0
+"Sloboda",1,0,0,0,0,0
+"Air Cargo",0,0,1,0,0,0
+"University of Yangon",1,0,0,0,0,0
+"UTAH",1,0,0,0,0,0
+"Michael Andersson Sweden Telekom",0,0,1,0,0,0
+"SANTIAGO",0,1,0,0,0,0
+"Irish Republican Army",1,0,0,0,0,0
+"Bologna Italy",0,0,1,0,0,0
+"Wednesday",1,0,0,0,0,0
+"BOSTON",1,0,0,0,0,0
+"League of Women Voters",1,0,0,0,0,0
+"St Mirren",1,0,0,0,0,0
+"Moroccan",0,1,0,0,0,0
+"Philip Walton Ireland",0,0,0,1,0,0
+"West",0,1,0,0,0,0
+"Paris St Germain",1,0,0,0,0,0
+"CONFERENCE ATLANTIC",0,0,1,0,0,0
+"Caerphilly",0,0,0,0,1,0
+"MADRID V",0,0,0,1,0,0
+"Major League Baseball",0,1,0,0,0,0
+"ILO Workers Group",1,0,0,0,0,0
+"Hachette",1,0,0,0,0,0
+"Miguel Nadal",0,1,0,0,0,0
+"Tranmere",1,0,0,0,0,0
+"Cleveland",1,0,0,0,0,0
+"Manchester City",1,0,0,0,0,0
+"Astle",0,1,0,0,0,0
+"Fernando Hierro",0,1,0,0,0,0
+"Mladost",0,0,1,0,0,0
+"Ian Wright Arsenal",0,0,1,0,0,0
+"COLOMBO",0,1,0,0,0,0
+"ANTONIO",0,0,1,0,0,0
+"Chen Gang",0,1,0,0,0,0
+"Hampshire",1,0,0,0,0,0
+"Sodigraf",1,0,0,0,0,0
+"Ulsan",1,0,0,0,0,0
+"Irani",0,1,0,0,0,0
+"NY GIANTS",1,0,0,0,0,0
+"Los Angeles",1,0,0,0,0,0
+"Briton",0,1,0,0,0,0
+"Private Finance Initiative",0,0,1,0,0,0
+"Minerals Ltd",0,0,1,0,0,0
+"Cardiff",1,0,0,0,0,0
+"Lee Westwood",0,1,0,0,0,0
+"Hub",0,0,0,1,0,0
+"AMERICAN FOOTBALL",0,0,1,0,0,0
+"AA",1,0,0,0,0,0
+"Sunday",0,0,1,0,0,0
+"GATT",0,1,0,0,0,0
+"Surrey",1,0,0,0,0,0
+"Werder Bremen",1,0,0,0,0,0
+"Florida",1,0,0,0,0,0
+"Leeds",1,0,0,0,0,0
+"Union Bank of Switzerland",1,0,0,0,0,0
+"AMERICAN LEAGUE",0,1,0,0,0,0
+"Reuters Ottawa Bureau",1,0,0,0,0,0
+"Roberto Carretero Spain",0,0,0,1,0,0
+"Hove :",0,0,0,1,0,0
+"Arundel",0,1,0,0,0,0
+"Swansea",1,0,0,0,0,0
+"USDA",1,0,0,0,0,0
+"Multico",0,0,0,0,1,0
+"Lehmann",0,1,0,0,0,0
+"North American Equity Services",1,0,0,0,0,0
+"MGR",0,0,0,1,0,0
+"Kuwait",0,1,0,0,0,0
+"Statistics",0,0,1,0,0,0
+"East Timorese",0,1,0,0,0,0
+"Ahold NV",0,0,0,0,1,0
+"GOLDEN STATE",1,0,0,0,0,0
+"I.D.E.A",0,0,0,0,1,0
+"TEAM",0,0,0,1,0,0
+"Bayer Leverkusen Germany",0,0,1,0,0,0
+"Erik Breukink Netherlands Rabobank",0,0,1,0,0,0
+"Division",0,0,0,1,0,0
+"Lola Honda",0,0,0,0,1,0
+"Plastic Surgery Society",0,0,1,0,0,0
+"Celta Vigo",1,0,0,0,0,0
+"Mercantile",1,0,0,0,0,0
+"DETROIT",1,0,0,0,0,0
+"Angels",1,0,0,0,0,0
+"Ross County",1,0,0,0,0,0
+"Miguel Angel Martin Spain",0,0,0,1,0,0
+"Tours",0,0,0,1,0,0
+"Penske Mercedes Benz",0,0,0,1,0,0
+"Zaragoza",1,0,0,0,0,0
+"rugby",0,0,0,1,0,0
+"London Irish",1,0,0,0,0,0
+"MIAMI ATLANTA",0,0,1,0,0,0
+"Ross",0,1,0,0,0,0
+"NEW YORK MILWAUKEE AT WASHINGTON DETROIT",0,0,1,0,0,0
+"Munich",0,0,1,0,0,0
+"Budapest Bank",0,0,0,1,0,0
+"Czech Civic Democratic Party",1,0,0,0,0,0
+"CUP",0,1,0,0,0,0
+"NZ First",1,0,0,0,0,0
+"Bellerive",0,0,0,1,0,0
+"Crewe",1,0,0,0,0,0
+"Bratislava Rabbi police",0,0,0,1,0,0
+"Arizona State",1,0,0,0,0,0
+"Guingamp",1,0,0,0,0,0
+"BAT",0,0,1,0,0,0
+"Sweden",0,1,0,0,0,0
+"Ally",0,0,0,1,0,0
+"airdrops",0,0,0,1,0,0
+"Real Madrid Barcelona",0,0,1,0,0,0
+"Hapoel Kfar",0,0,1,0,0,0
+"Dunfermline",1,0,0,0,0,0
+"Indianapolis Colts",1,0,0,0,0,0
+"ATLANTIC",0,1,0,0,0,0
+"Clinical Hospital",0,0,0,1,0,0
+"Rolf Sorensen Denmark Rabobank",0,0,1,0,0,0
+"PSV Eindhoven",1,0,0,0,0,0
+"Foreign Affairs Department",1,0,0,0,0,0
+"East Fife",1,0,0,0,0,0
+"Rwandan",0,1,0,0,0,0
+"VfB Stuttgart",1,0,0,0,0,0
+"Coventry",1,0,0,0,0,0
+"Cagliari",1,0,0,0,0,0
+"Human Rights",0,0,1,0,0,0
+"NFC",0,0,0,1,0,0
+"Gillingham",1,0,0,0,0,0
+"Minnesota Twins",1,0,0,0,0,0
+"AZ Alkmaar",1,0,0,0,0,0
+"ANTONIO MINNESOTA",0,0,1,0,0,0
+"Russia",0,1,0,0,0,0
+"Peterborough",1,0,0,0,0,0
+"Chicago archdiocese",0,0,1,0,0,0
+"PAKISTAN V NEW",0,0,1,0,0,0
+"Credit Suisse",1,0,0,0,0,0
+"Florida Marlins",1,0,0,0,0,0
+"American Stock",0,0,1,0,0,0
+"Brechin 1 Livingston",0,0,1,0,0,0
+"Poul Erik Hoyer Larsen Denmark",0,0,0,1,0,0
+"Pentagon",1,0,0,0,0,0
+"YORK COLORADO",0,0,1,0,0,0
+"WEST",0,0,0,1,0,0
+"Med",0,0,1,0,0,0
+"ATLANTA LA CLIPPERS",0,0,1,0,0,0
+"Hartlepool",1,0,0,0,0,0
+"Reds",1,0,0,0,0,0
+"Borussia Dortmund",1,0,0,0,0,0
+"Worcestershire",1,0,0,0,0,0
+"Institute of Policy Studies",1,0,0,0,0,0
+"China Daily",1,0,0,0,0,0
+"KANSAS CITY",1,0,0,0,0,0
+"Anaheim",1,0,0,0,0,0
+"Torrance",0,0,0,1,0,0
+"Cabinet",0,0,0,0,1,0
+"Newcastle",1,0,0,0,0,0
+"Gloucester",1,0,0,0,0,0
+"Pavel Buran",0,1,0,0,0,0
+"Minor",0,0,1,0,0,0
+"TBN",0,0,0,1,0,0
+"PORTLAND",1,0,0,0,0,0
+"PITTSBURGH",1,0,0,0,0,0
+"Squash Association",0,0,1,0,0,0
+"Italian Roman Catholic",0,0,1,0,0,0
+"White",0,0,1,0,0,0
+"and Democracy",0,0,1,0,0,0
+"New York Jets",1,0,0,0,0,0
+"Barrick",1,0,0,0,0,0
+"LA",0,0,1,0,0,0
+"Communications",0,0,1,0,0,0
+"Auxerre",1,0,0,0,0,0
+"Cricket Pakistan",0,0,0,1,0,0
+"La Clippers",1,0,0,0,0,0
+"Olympic",0,1,0,0,0,0
+"ANAHEIM",1,0,0,0,0,0
+"Bridgend",1,0,0,0,0,0
+"Popular Revolutionary Army",1,0,0,0,0,0
+"PACE FIRST",0,0,1,0,0,0
+"Chicago Board of",0,0,1,0,0,0
+"SALVADOR",0,0,0,1,0,0
+"Dow",0,1,0,0,0,0
+"Mladost BJ",0,0,0,1,0,0
+"Sri",0,0,0,1,0,0
+"Fife",0,0,0,0,1,0
+"CALIFORNIA NATIONAL LEAGUE",0,0,1,0,0,0
+"PORTLAND INDIANA",0,0,1,0,0,0
+"The",0,0,1,0,0,0
+"FIRST",0,0,0,1,0,0
+"Estudiantes",1,0,0,0,0,0
+"Hapoel Haifa",1,0,0,0,0,0
+"Melbourne Cricket Ground",0,1,0,0,0,0
+"Llanelli",1,0,0,0,0,0
+"Rangoon University",1,0,0,0,0,0
+"Douglas & Lomason",0,0,0,0,1,0
+"Arminia Bielefeld",1,0,0,0,0,0
+"Dhaka Stock Exchange DSE",0,0,1,0,0,0
+"Communist Party",1,0,0,0,0,0
+"Ye",0,0,1,0,0,0
+"Social Democratic Union",1,0,0,0,0,0
+"MAHINDRA INTERNATIONAL",0,1,0,0,0,0
+"Dynamo Moscow",1,0,0,0,0,0
+"Security",0,0,1,0,0,0
+"Oxford",1,0,0,0,0,0
+"Ericsson",1,0,0,0,0,0
+"REUTER DOCSTART SOCCER",0,0,1,0,0,0
+"Scottish National Party",1,0,0,0,0,0
+"National University of Singapore",1,0,0,0,0,0
+"Dow Chemical",1,0,0,0,0,0
+"Santiago Bernabeu",0,0,0,1,0,0
+"La Stampa",1,0,0,0,0,0
+"Melbourne Cricket",0,0,0,1,0,0
+"Foreign Ministry",1,0,0,0,0,0
+"Buducnost",1,0,0,0,0,0
+"Ronaldo",0,1,0,0,0,0
+"Vieira",0,1,0,0,0,0
+"Bristol :",0,0,1,0,0,0
+"Buenos Aires",0,1,0,0,0,0
+"Glenn Somerville WASHINGTON",0,0,1,0,0,0
+"Apic Yamada Corp",1,0,0,0,0,0
+"UEFA",1,0,0,0,0,0
+"Fleming",0,1,0,0,0,0
+"Harry Milling , New York Energy",0,0,1,0,0,0
+"Humane Society of",0,0,0,1,0,0
+"UWP Hachette",0,0,1,0,0,0
+"Democratic Left Alliance",1,0,0,0,0,0
+"St Pius X High School",1,0,0,0,0,0
+"Anke Baler",0,1,0,0,0,0
+"SEATTLE CHICAGO",0,0,1,0,0,0
+"Seattle Mariners",1,0,0,0,0,0
+"Giants",1,0,0,0,0,0
+"Bolton",1,0,0,0,0,0
+"Itar-Tass",0,0,0,0,1,0
+"Kent",1,0,0,0,0,0
+"Stranraer",1,0,0,0,0,0
+"Willem II Tilburg",1,0,0,0,0,0
+"Primoz Peterka",0,1,0,0,0,0
+"PHILADELPHIA HOUSTON",0,0,1,0,0,0
+"Atletico Madrid",1,0,0,0,0,0
+"Yankees",1,0,0,0,0,0
+"Charlton",1,0,0,0,0,0
+"Millar",0,1,0,0,0,0
+"Delphis",0,0,1,0,0,0
+"Hong Kong Financial",0,0,0,1,0,0
+"Duisburg",1,0,0,0,0,0
+"Bayer Leverkusen",1,0,0,0,0,0
+"Catholic",0,0,1,0,0,0
+"Chicago Board of Trade",1,0,0,0,0,0
+"Blackpool",1,0,0,0,0,0
+"Sale Grammar School",1,0,0,0,0,0
+"BULGARIA",0,1,0,0,0,0
+"Refugees",0,0,1,0,0,0
+"Stirling County",0,0,1,0,0,0
+"Leeds United",1,0,0,0,0,0
+"Widnes",1,0,0,0,0,0
+"Germany France",0,0,0,1,0,0
+"DNIB",0,0,0,0,1,0
+"Porlan",0,0,0,1,0,0
+"Japan",0,1,0,0,0,0
+"FOUR",0,0,0,1,0,0
+"LEICESTERSHIRE",1,0,0,0,0,0
+"Irish",0,1,0,0,0,0
+"Maccabi Tel",0,0,1,0,0,0
+"Albanian",0,1,0,0,0,0
+"Rafael Alkorta",0,1,0,0,0,0
+"Barnsley",1,0,0,0,0,0
+"American League",0,1,0,0,0,0
+"Rodney Eyles Australia",0,0,0,1,0,0
+"Real",1,0,0,0,0,0
+"Expos",1,0,0,0,0,0
+"Dunvant",1,0,0,0,0,0
+"O Globo",1,0,0,0,0,0
+"Rangers",1,0,0,0,0,0
+"Corn Chicago",0,0,1,0,0,0
+"National Animal Control Association",1,0,0,0,0,0
+"N'Djamena University",1,0,0,0,0,0
+"SOUTH",0,0,0,1,0,0
+"Wen Hui Bao",1,0,0,0,0,0
+"Tambang Timah",1,0,0,0,0,0
+"Surinam",0,1,0,0,0,0
+"Red Star Yugoslavia",0,0,1,0,0,0
+"Stoke",1,0,0,0,0,0
+"Lotte",1,0,0,0,0,0
+"DENVER",1,0,0,0,0,0
+"Wallaby",1,0,0,0,0,0
+"FIRST DIVISION",0,0,0,1,0,0
+"Celtic",1,0,0,0,0,0
+"Northern League",1,0,0,0,0,0
+"Villeurbanne France",0,0,1,0,0,0
+"Oceanic Control",0,0,0,1,0,0
+"Zafririm Holon",1,0,0,0,0,0
+*TOTAL*,714,308,404,219,164,0

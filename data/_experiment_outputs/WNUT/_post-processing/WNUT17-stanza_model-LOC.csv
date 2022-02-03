@@ -1,0 +1,36 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Siachen Glacier",0,1,0,0,0,0
+"the Middle East",0,0,0,0,0,1
+"Western Europe",0,1,0,0,0,0
+"Eastern Europe",0,1,0,0,0,0
+"Earth",0,1,0,0,0,0
+"Jersey Shore",0,1,0,0,0,0
+"the River Beam",0,0,0,0,0,1
+"South Park",0,0,0,0,0,1
+"BoardwalkEmpire JodiWonderland",0,0,0,0,0,1
+"N Alta",0,0,0,0,0,1
+"Capricorn",0,0,0,0,0,1
+"the River",0,0,0,0,0,1
+"Europa",0,1,0,0,0,0
+"Beast",0,1,0,0,0,0
+"Europe",0,1,0,0,0,0
+"Waldorf Salad",0,0,0,0,0,1
+"Taurus",0,0,0,0,0,1
+"West Nile",0,0,0,0,0,1
+"Colorado Palisades",0,0,0,0,0,1
+"the Dark Side",0,0,0,0,0,1
+"Milford Rd",0,1,0,0,0,0
+"Middle earth",0,0,0,0,0,1
+"North",0,0,0,0,0,1
+"the Washington Cascades",0,0,0,0,0,1
+"Arthurs Pass",0,1,0,0,0,0
+"Liffey valley",0,0,0,0,0,1
+"Eastern Bloc",0,1,0,0,0,0
+"Gemini",0,0,0,0,0,1
+"Fermi",0,0,0,0,0,1
+"Huron",0,1,0,0,0,0
+"Buck mountain",0,1,0,0,0,0
+"Park",0,0,0,0,0,1
+"Jupiter",0,1,0,0,0,0
+"East Slopes",0,0,0,0,0,1
+*TOTAL*,0,14,0,0,0,20

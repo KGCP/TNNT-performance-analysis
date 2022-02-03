@@ -1,0 +1,450 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Finland",0,0,0,0,1,0
+"Taiwan",0,0,0,0,1,0
+"Burkina Faso",0,0,0,0,1,0
+"The Oval",0,0,0,0,1,0
+"El Salvador",0,0,0,0,1,0
+"Manila",0,0,0,0,1,0
+"Surcin",0,0,0,0,1,0
+"Blida",0,0,0,0,1,0
+"Worthing",0,0,0,0,1,0
+"Las Vegas",0,0,0,0,1,0
+"San Marino",0,0,0,0,1,0
+"Landgraaf",0,0,0,0,1,0
+"MONTE CARLO",0,0,0,0,1,0
+"Burj al-Laqlaq Society",0,0,0,0,1,0
+"Kuala Lumpur",0,0,0,0,1,0
+"Freiburg",0,0,0,0,1,0
+"Pretoria",0,0,0,0,1,0
+"Barvikha",0,0,0,0,1,0
+"the East Coast",0,0,1,0,0,0
+"Central Asia",1,0,0,0,0,0
+"Arbil",0,0,0,0,1,0
+"Casa de Narino",0,0,0,0,1,0
+"Zhejiang",0,0,0,0,1,0
+"Missouri",0,0,0,0,1,0
+"BELFAST",0,0,0,0,1,0
+"Benin",0,0,0,0,1,0
+"Arctic",0,1,0,0,0,0
+"Moengo",0,0,0,0,1,0
+"Libya",0,0,0,0,1,0
+"NEW ORLEANS",0,0,0,0,1,0
+"Middle East",1,0,0,0,0,0
+"Morocco",0,0,0,0,1,0
+"Sinaloa",0,0,0,0,1,0
+"Wis",0,0,0,0,1,0
+"Zaire",0,0,0,0,1,0
+"British Columbia",0,0,0,0,1,0
+"Mongolia",0,0,0,0,1,0
+"Ethiopia",0,0,0,0,1,0
+"East Jerusalem",0,0,0,0,1,0
+"JAPAN",0,0,0,0,1,0
+"Tehran",0,0,0,0,1,0
+"Chatelineaux",0,0,0,0,1,0
+"Bulgaria",0,0,0,0,1,0
+"Caribbean",0,0,0,0,1,0
+"Bistrita",0,0,0,0,1,0
+"WALES",0,0,0,0,1,0
+"TOFTIR",0,0,0,0,1,0
+"Chile",0,0,0,0,1,0
+"Thunder Bay",1,0,0,0,0,0
+"Tanzania",0,0,0,0,1,0
+"Tennessee",0,0,0,0,1,0
+"Kampala",0,0,0,0,1,0
+"New Hampshire",0,0,0,0,1,0
+"the Faroe Islands",0,0,1,0,0,0
+"Brussels",0,0,0,0,1,0
+"STOCKHOLM",0,0,0,0,1,0
+"New York City",0,0,0,0,1,0
+"Benghazi",0,0,0,0,1,0
+"Borodino",0,0,0,0,1,0
+"Jebel al-Akhdar",0,0,0,0,1,0
+"Jamaica",0,0,0,0,1,0
+"Sharqiyah",0,0,0,0,1,0
+"Tajikistan",0,0,0,0,1,0
+"Lord 's",0,0,0,0,1,0
+"Seoul",0,0,0,0,1,0
+"South",1,0,0,0,0,0
+"Bombay",0,0,0,0,1,0
+"South America",1,0,0,0,0,0
+"Bellerive Oval",0,0,0,0,1,0
+"Walikale",0,0,0,0,1,0
+"FAROES",0,0,0,0,1,0
+"Surinam",0,0,0,0,1,0
+"Balkan",1,0,0,0,0,0
+"Sudan",0,0,0,0,1,0
+"Beirut",0,0,0,0,1,0
+"Sonora",0,0,0,0,1,0
+"Tignes",0,0,0,0,1,0
+"Murrayfield",0,0,0,0,1,0
+"Bogota",0,0,0,0,1,0
+"Chechnya",0,0,0,0,1,0
+"Whitewater",0,0,0,0,1,0
+"Jakarta",0,0,0,0,1,0
+"NJ",0,0,0,0,1,0
+"Edgbaston",0,0,0,0,1,0
+"TIRANA",0,0,0,0,1,0
+"Conn",0,0,0,0,1,0
+"Copenhagen",0,0,0,0,1,0
+"La Plagne",0,0,0,0,1,0
+"Mexico City",0,0,0,0,1,0
+"Ohio",0,0,0,0,1,0
+"Warsaw",0,0,0,0,1,0
+"Berlin",0,0,0,0,1,0
+"North West",0,0,0,0,1,0
+"K.T. Arasu",0,0,0,0,1,0
+"ARMENIA",0,0,0,0,1,0
+"Ankara",0,0,0,0,1,0
+"Baghdad",0,0,0,0,1,0
+"Paramaribo",0,0,0,0,1,0
+"Vietnam",0,0,0,0,1,0
+"Pacific Coast",1,0,0,0,0,0
+"Panhandle",1,0,0,0,0,0
+"Prestwick",0,0,0,0,1,0
+"Changi Prison",0,0,0,0,1,0
+"Salzburg",0,0,0,0,1,0
+"Staoueli",0,0,0,0,1,0
+"Wuhan",0,0,0,0,1,0
+"Pontypridd",0,0,0,0,1,0
+"Beijing",0,0,0,0,1,0
+"Macedonia",0,0,0,0,1,0
+"Azerbaijan",0,0,0,0,1,0
+"Trinidad",0,0,0,0,1,0
+"Argentina",0,0,0,0,1,0
+"The Curragh",0,0,0,0,1,0
+"Kisangani",0,0,0,0,1,0
+"Scotland",0,0,0,0,1,0
+"Ottawa",0,0,0,0,1,0
+"Cochabamba",0,0,0,0,1,0
+"Aerodrom Beograd",0,0,0,0,1,0
+"North Caucasus",0,0,0,0,1,0
+"ROME",0,0,0,0,1,0
+"Maracaibo",0,0,0,0,1,0
+"Wembley",0,0,0,0,1,0
+"Kazakhstan",0,0,0,0,1,0
+"Timisoara",0,0,0,0,1,0
+"Whistler Mountain",1,0,0,0,0,0
+"Montreal",0,0,0,0,1,0
+"the Middle East",0,0,1,0,0,0
+"Santander",0,0,0,0,1,0
+"Twickenham",0,0,0,0,1,0
+"Zurich",0,0,0,0,1,0
+"the West Coast",0,0,1,0,0,0
+"Mauritania",0,0,0,0,1,0
+"Wall Street",0,0,0,0,1,0
+"HARARE",0,0,0,0,1,0
+"al-Aqsa",0,0,0,0,1,0
+"Mindanao",1,0,0,0,0,0
+"New Caledonia",0,0,0,0,1,0
+"Cape Town",0,0,0,0,1,0
+"ARIZONA",0,0,0,0,1,0
+"Arad",0,0,0,0,1,0
+"SIALKOT",0,0,0,0,1,0
+"Kazanluk",0,0,0,0,1,0
+"Burundi",0,0,0,0,1,0
+"HERZLIYA",0,0,0,0,1,0
+"Onarheim",0,0,0,0,1,0
+"Tuzla",0,0,0,0,1,0
+"Jacksonville",0,0,0,0,1,0
+"Trent Bridge",0,0,0,0,1,0
+"HK",0,0,0,0,1,0
+"Tripoli",0,0,0,0,1,0
+"Far North",0,0,1,0,0,0
+"Northern Cape province",0,0,1,0,0,0
+"Kremlin",0,0,0,0,1,0
+"APPLETON",0,0,0,0,1,0
+"Red Sea",0,0,0,0,1,0
+"Alsace",0,0,0,0,1,0
+"ISRAEL",0,0,0,0,1,0
+"Old Trafford",0,0,0,0,1,0
+"HOBART",0,0,0,0,1,0
+"Karachi",0,0,0,0,1,0
+"Washington",0,0,0,0,1,0
+"Ecuador",0,0,0,0,1,0
+"BRAZIL",0,0,0,0,1,0
+"Atlanta",0,0,0,0,1,0
+"Rosario",0,0,0,0,1,0
+"LIECHTENSTEIN",0,0,0,0,1,0
+"Birmingham",0,0,0,0,1,0
+"Staouelli",0,0,0,0,1,0
+"Tamaulipas",0,0,0,0,1,0
+"Slovak Republic",0,0,0,0,1,0
+"West",1,0,0,0,0,0
+"Lockerbie",0,0,0,0,1,0
+"Liege",0,0,0,0,1,0
+"CAPE TOWN",0,0,0,0,1,0
+"Chesterfield",0,0,0,0,1,0
+"Hebron",0,0,0,0,1,0
+"Auckland",0,0,0,0,1,0
+"Malaysia",0,0,0,0,1,0
+"Bucharest",0,0,0,0,1,0
+"Hainan",0,0,0,0,1,0
+"Rome",0,0,0,0,1,0
+"Mauritius",0,0,0,0,1,0
+"MANAMA",0,0,0,0,1,0
+"Tampico",0,0,0,0,1,0
+"Hove",0,0,0,0,1,0
+"Hartford",0,0,0,0,1,0
+"YEREVAN",0,0,0,0,1,0
+"Estonia",0,0,0,0,1,0
+"Qalandia",0,0,0,0,1,0
+"Kanpur",0,0,0,0,1,0
+"Sri Lanka",0,0,0,0,1,0
+"Tavildara",0,0,0,0,1,0
+"Latin America",0,0,0,0,1,0
+"Bahamas",0,0,0,0,1,0
+"Croatia",0,0,0,0,1,0
+"SPAIN",0,0,0,0,1,0
+"MIAMI",0,0,0,0,1,0
+"Michoacan",0,0,0,0,1,0
+"Quintana Roo",0,0,0,0,1,0
+"BALI",0,0,0,0,1,0
+"S. Gulf",0,0,1,0,0,0
+"Latvia",0,0,0,0,1,0
+"Pyramiden",0,0,0,0,1,0
+"Amsterdam",0,0,0,0,1,0
+"MEXICO",0,0,0,0,1,0
+"TRIPOLI",0,0,0,0,1,0
+"the Po River",0,0,1,0,0,0
+"Nairobi",0,0,0,0,1,0
+"SAN JOSE",0,0,0,0,1,0
+"Prince Rupert",0,0,0,0,1,0
+"Kinshasa",0,0,0,0,1,0
+"Ariz",0,0,0,0,1,0
+"Toledo",0,0,0,0,1,0
+"Lisbon",0,0,0,0,1,0
+"Ramallah",0,0,0,0,1,0
+"Mantua",0,0,0,0,1,0
+"WHISTLER",0,0,0,0,1,0
+"Calcutta",0,0,0,0,1,0
+"Oval",0,0,0,0,1,0
+"Leicester",0,0,0,0,1,0
+"Tunisia",0,0,0,0,1,0
+"Nevada",0,0,0,0,1,0
+"New Zealand",0,0,0,0,1,0
+"Luxembourg",0,0,0,0,1,0
+"Indianapolis",0,0,0,0,1,0
+"Frankfurt",0,0,0,0,1,0
+"Qinglan",0,0,0,0,1,0
+"Wall St",0,0,0,0,1,0
+"Amman",0,0,0,0,1,0
+"Prague",0,0,0,0,1,0
+"Canberra",0,0,0,0,1,0
+"Bali",0,0,0,0,1,0
+"Madagascar",0,0,0,0,1,0
+"Kazakstan",0,0,0,0,1,0
+"Chuman",0,0,0,0,1,0
+"Manchester",0,0,0,0,1,0
+"SARAJEVO",0,0,0,0,1,0
+"Thailand",0,0,0,0,1,0
+"Waha",0,0,0,0,1,0
+"HANOVER",0,0,0,0,1,0
+"ROMANIA",0,0,0,0,1,0
+"Oradea",0,0,0,0,1,0
+"Great Lakes",1,0,0,0,0,0
+"Flachau",0,0,0,0,1,0
+"Vatican",0,0,0,0,1,0
+"PARAMARIBO",0,0,0,0,1,0
+"Tunbridge Wells",0,0,0,0,1,0
+"Soveit bloc",0,0,0,1,0,0
+"Stockholm",0,0,0,0,1,0
+"NFC East",0,0,0,1,0,0
+"OTTAWA",0,0,0,0,1,0
+"Montana",0,0,0,0,1,0
+"San Francisco",0,0,0,0,1,0
+"Izingolweni",0,0,0,0,1,0
+"Panama City",0,0,0,0,1,0
+"PHNOM PENH",0,0,0,0,1,0
+"Pamir",0,0,0,0,1,0
+"Afghanistan",0,0,0,0,1,0
+"Newfoundland",0,0,0,0,1,0
+"National stadium",0,0,0,0,1,0
+"al-Ram",0,0,0,0,1,0
+"Cambodia",0,0,0,0,1,0
+"Far East",1,0,0,0,0,0
+"Malysia",0,0,0,0,1,0
+"South China coast",0,0,1,0,0,0
+"Philippine",0,0,0,0,1,0
+"Egypt",0,0,0,0,1,0
+"Oakland",0,0,0,0,1,0
+"Kehl",0,0,0,0,1,0
+"Bou Haroun",0,0,0,0,1,0
+"Vienna",0,0,0,0,1,0
+"Layron",0,0,0,0,1,0
+"Buenos Aires",0,0,0,0,1,0
+"Portugal",0,0,0,0,1,0
+"Stephenville",0,0,0,0,1,0
+"KwaZulu-Natal",0,0,0,0,1,0
+"East Kalimantan",0,0,0,0,1,0
+"IRVINE",0,0,0,0,1,0
+"Midwest",1,0,0,0,0,0
+"Cardiff",0,0,0,0,1,0
+"Quequen",0,0,0,0,1,0
+"Gulf Coast",1,0,0,0,0,0
+"Rotterdam",0,0,0,0,1,0
+"SYRIA",0,0,0,0,1,0
+"Transvaal",0,0,0,0,1,0
+"Bangui",0,0,0,0,1,0
+"TALLINN",0,0,0,0,1,0
+"Belfast",0,0,0,0,1,0
+"South Carolina",0,0,0,0,1,0
+"Strasbourg",0,0,0,0,1,0
+"Nottingham",0,0,0,0,1,0
+"Shanghai",0,0,0,0,1,0
+"AL-AIN",0,0,0,0,1,0
+"Tirana",0,0,0,0,1,0
+"North America",1,0,0,0,0,0
+"ROCHESTER",0,0,0,0,1,0
+"Africa",1,0,0,0,0,0
+"the Canadian West Coast",0,0,1,0,0,0
+"Brno",0,0,0,0,1,0
+"Morelia",0,0,0,0,1,0
+"BENIN",0,0,0,0,1,0
+"Tel Aviv",0,0,0,0,1,0
+"Saladdin",0,0,0,0,1,0
+"STEPHENVILLE",0,0,0,0,1,0
+"Northeastern",0,0,1,0,0,0
+"Cairo",0,0,0,0,1,0
+"Belorus",0,0,0,0,1,0
+"Arundel",0,0,0,0,1,0
+"PANAMA CITY",0,0,0,0,1,0
+"SAN MARINO",0,0,0,0,1,0
+"Zambia",0,0,0,0,1,0
+"Athens",0,0,0,0,1,0
+"Algiers",0,0,0,0,1,0
+"Colombia",0,0,0,0,1,0
+"Kuwait",0,0,0,0,1,0
+"Turin",0,0,0,0,1,0
+"Bolivia",0,0,0,0,1,0
+"BERLIN",0,0,0,0,1,0
+"Fla",0,0,0,0,1,0
+"Cyprus",0,0,0,0,1,0
+"Breisach",0,0,0,0,1,0
+"Krasnoyarsk",0,0,0,0,1,0
+"Minneapolis",0,0,0,0,1,0
+"Fla.",0,0,0,0,1,0
+"Europe",1,0,0,0,0,0
+"BONN",0,0,0,0,1,0
+"Winnipeg",0,0,0,0,1,0
+"ANKARA",0,0,0,0,1,0
+"Algeria",0,0,0,0,1,0
+"Johannesburg",0,0,0,0,1,0
+"Honduras",0,0,0,0,1,0
+"Tacambaro",0,0,0,0,1,0
+"Indian Ocean",1,0,0,0,0,0
+"Port Louis",0,0,0,0,1,0
+"Hay Point",0,0,0,0,1,0
+"Kaohsiung",0,0,0,0,1,0
+"Troy",0,0,0,0,1,0
+"Brunei",0,0,0,0,1,0
+"Conakry",0,0,0,0,1,0
+"Ras Tanura",0,0,0,0,1,0
+"Yunnan",0,0,0,0,1,0
+"Chisinau",0,0,0,0,1,0
+"Gulf",1,0,0,0,0,0
+"New Haven",0,0,0,0,1,0
+"St Louis",0,0,0,0,1,0
+"Victoria",0,0,0,0,1,0
+"Albania",0,0,0,0,1,0
+"Slovenia",0,0,0,0,1,0
+"ITALY",0,0,0,0,1,0
+"Pakistan",0,0,0,0,1,0
+"Khartoum",0,0,0,0,1,0
+"Nagorno-Karabakh",0,0,0,0,1,0
+"Tanjung Priok",0,0,0,0,1,0
+"Illinois",0,0,0,0,1,0
+"Philippines",0,0,0,0,1,0
+"Chester-le-Street",0,0,0,0,1,0
+"CIS",0,0,0,0,1,0
+"London Heathrow",0,0,0,0,1,0
+"Lanarkshire",0,0,0,0,1,0
+"Arab East Jerusalem",0,0,0,0,1,0
+"Pamplona",0,0,0,0,1,0
+"West Indies",0,0,0,0,1,0
+"Nebraska",0,0,0,0,1,0
+"Tunis",0,0,0,0,1,0
+"Iran",0,0,0,0,1,0
+"Shul'ala",0,0,0,0,1,0
+"RAI",0,0,0,0,1,0
+"Florence",0,0,0,0,1,0
+"Mediterranean",0,1,0,0,0,0
+"Karlsruhe",0,0,0,0,1,0
+"Nagoya",0,0,0,0,1,0
+"ESTONIA",0,0,0,0,1,0
+"Oslo",0,0,0,0,1,0
+"Naples",0,0,0,0,1,0
+"MONTREAL",0,0,0,0,1,0
+"Roermond",0,0,0,0,1,0
+"Spitzbergen",1,0,0,0,0,0
+"Mahala",0,0,0,0,1,0
+"Sarajevo",0,0,0,0,1,0
+"Bristol",0,0,0,0,1,0
+"Southwest",0,0,1,0,0,0
+"Venezuela",0,0,0,0,1,0
+"Eschen",0,0,0,0,1,0
+"Hangzhou",0,0,0,0,1,0
+"Paris",0,0,0,0,1,0
+"Asia",1,0,0,0,0,0
+"Santiago de Cuba",0,0,0,0,1,0
+"Hobart",0,0,0,0,1,0
+"Atlantic",0,0,1,0,0,0
+"Pittsburgh",0,0,0,0,1,0
+"Kenya",0,0,0,0,1,0
+"Kindu",0,0,0,0,1,0
+"Hamburg",0,0,0,0,1,0
+"Saint-Bernard",0,0,0,0,1,0
+"VIENNA",0,0,0,0,1,0
+"Naqoura",0,0,0,0,1,0
+"Bahia Blanca",0,0,0,0,1,0
+"Newcastle",0,0,0,0,1,0
+"Barentsburg",0,0,0,0,1,0
+"Moldova",0,0,0,0,1,0
+"MANCHESTER",0,0,0,0,1,0
+"Kecskemet",0,0,0,0,1,0
+"CAIRO",0,0,0,0,1,0
+"OMAHA",0,0,0,0,1,0
+"Portsmouth",0,0,0,0,1,0
+"HELSINKI",0,0,0,0,1,0
+"Ellis Park",0,0,0,0,1,0
+"Korydallos",0,0,0,0,1,0
+"Chatelet",0,0,0,0,1,0
+"Baja California",1,0,0,0,0,0
+"Manama",0,0,0,0,1,0
+"BOMBAY",0,0,0,0,1,0
+"Jebel al Akhdar",0,0,0,1,0,0
+"MEXICO CITY",0,0,0,0,1,0
+"Mafikeng",0,0,0,0,1,0
+"TEXAS",0,0,0,0,1,0
+"the Far East",0,0,1,0,0,0
+"SAN FRANCISCO",0,0,0,0,1,0
+"Jackson Hole",0,0,0,1,0,0
+"Wisconsin",0,0,0,0,1,0
+"Johor Bahru",0,0,0,0,1,0
+"Britain",0,0,0,0,1,0
+"Armenia",0,0,0,0,1,0
+"Balkans",1,0,0,0,0,0
+"Abidjan",0,0,0,0,1,0
+"Oxford",0,0,0,0,1,0
+"Nandrin",0,0,0,0,1,0
+"VAIL",0,0,0,0,1,0
+"ALBANIA",0,0,0,0,1,0
+"Sergiyev Posad",0,0,0,0,1,0
+"Tambang Timah",0,1,0,0,0,0
+"St. Petersburg",0,0,0,0,1,0
+"Rio de Janeiro",0,0,0,0,1,0
+"the Northern Cape",0,0,1,0,0,0
+"Sibiu",0,0,0,0,1,0
+"Let",0,0,0,0,1,0
+"Batajnica",0,0,0,0,1,0
+"AL-RAM",0,0,0,0,1,0
+"ESCHEN",0,0,0,0,1,0
+"Columbus",0,0,0,0,1,0
+"AZERBAIJAN",0,0,0,0,1,0
+"Bratislava",0,0,0,0,1,0
+"Wellington",0,0,0,0,1,0
+"Albuquerque",0,0,0,0,1,0
+"The Netherlands",0,0,0,0,1,0
+"Ayodhya",0,0,0,0,1,0
+"Nablus",0,0,0,0,1,0
+"Bahraini",0,0,0,0,1,0
+*TOTAL*,24,3,15,4,804,0

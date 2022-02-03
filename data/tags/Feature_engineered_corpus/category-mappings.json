@@ -1,0 +1,10 @@
+{
+    "geo": [ "tnnt:GPE"    ],
+    "gpe": [ "tnnt:NORP", "tnnt:GPE" ],
+    "per": [ "tnnt:Person" ],
+    "org": [ "tnnt:Organisation"     ],
+    "tim": [ "tnnt:Date"   ],
+    "art": [ "tnnt:FAC", "tnnt:Product", "tnnt:WorkOfArt", "tnnt:Law", "tnnt:Language" ],
+    "nat": [ "tnnt:Event"  ],
+    "eve": [ "tnnt:Event"  ]
+}

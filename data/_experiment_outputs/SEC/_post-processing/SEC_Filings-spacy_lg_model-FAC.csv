@@ -1,0 +1,21 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Broadway",0,0,0,0,0,1
+"George Town",0,1,0,0,0,0
+"Cricket Square",0,1,0,0,0,0
+"Zhongguancun Software Park",0,1,0,0,0,0
+"sublicenses",0,0,0,0,0,1
+"Tianlin East Road",0,1,0,0,0,0
+"Washington Street",0,0,0,0,0,1
+"40 William St .",0,0,0,0,0,1
+"Piers 14",0,0,0,0,0,1
+"Usine de Saint Auban",0,1,0,0,0,0
+"Abbott Building Road Town",0,1,0,0,0,0
+"Hutchins Drive",0,1,0,0,0,0
+"P. O. Box",0,0,0,0,0,1
+"Fifth Avenue",0,0,0,0,0,1
+"Pier 14",0,0,0,0,0,1
+"shiploader pier",0,0,0,0,0,1
+"Guidu Road",0,1,0,0,0,0
+"27th Floor",0,1,0,0,0,0
+"Harbor Road",0,1,0,0,0,0
+*TOTAL*,0,10,0,0,0,9

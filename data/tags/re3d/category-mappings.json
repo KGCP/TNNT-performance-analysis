@@ -1,0 +1,12 @@
+{
+    "Person"           : [ "tnnt:Person"       ],
+    "Organisation"     : [ "tnnt:Organisation" ],
+    "Location"         : [ "tnnt:Location"     ],
+    "Temporal"         : [ "tnnt:Date", "tnnt:Time"     ],
+    "Quantity"         : [ "tnnt:Quantity"     ],
+    "MilitaryPlatform" : [ "tnnt:Product"      ],
+    "Weapon"           : [ "tnnt:Product"      ],
+    "DocumentReference": [ "tnnt:WorkOfArt", "tnnt:Law" ],
+    "Money"            : [ "tnnt:Money"        ],
+    "Nationality"      : [ "tnnt:NORP"         ]
+}

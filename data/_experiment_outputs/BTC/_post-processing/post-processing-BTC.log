@@ -1,0 +1,374 @@
+The *mappings* file was not found.
+The *merged tags* file was not found.
+Loading the *tags* from E:/_temp/NER-Survey/tags/BTC/...
++ Adding E:\_temp\NER-Survey\tags\BTC\a_tags.json...
++ Adding E:\_temp\NER-Survey\tags\BTC\b_tags.json...
++ Adding E:\_temp\NER-Survey\tags\BTC\e_tags.json...
++ Adding E:\_temp\NER-Survey\tags\BTC\f_tags.json...
++ Adding E:\_temp\NER-Survey\tags\BTC\g_tags.json...
++ Adding E:\_temp\NER-Survey\tags\BTC\h_tags.json...
+All *tags* have been loaded.  Total number of *tags*: 18573
+Merging the *tags*...
+Generating merged tags file (E:\_temp\NER-Survey\tags\BTC\merged-tags.json)...
+All *tags* have been merged.  8043 elements were created.
+Generated file: E:\_temp\NER-Survey\tags\BTC\merged-tags.json
+Generating initial mappings file (E:\_temp\NER-Survey\tags\BTC\category-mappings.json)...
+3 mapping elements were created.
+
+
+Loaded *Mappings*:
+{
+    "PER": [
+        "PER",
+        "PERSON"
+    ],
+    "ORG": [
+        "ORG",
+        "ORGANISATION"
+    ],
+    "LOC": [
+        "LOC"
+    ]
+}
+
+
+*** Processing result file [BTC.txt-MEL+NER_output_3.7_deeppavlov.json] ***
+
+Processing entities... Done.  30459 tuples were added in a total of 44 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: deeppavlov_conll2003_model
+Number of matched tags _______: 5496
+Number of NOT MATCHED tags ___: 2547
+Processing MISSING entities __: 2559
+
+MODEL: deeppavlov_onto_bert_model
+Number of matched tags _______: 5383
+Number of NOT MATCHED tags ___: 2660
+Processing MISSING entities __: 2683
+
+MODEL: deeppavlov_conll2003_bert_model
+Number of matched tags _______: 5810
+Number of NOT MATCHED tags ___: 2233
+Processing MISSING entities __: 2245
+
+MODEL: deeppavlov_onto_model
+Number of matched tags _______: 4651
+Number of NOT MATCHED tags ___: 3392
+Processing MISSING entities __: 3419
+
+
+*** Processing result file [BTC.txt-MEL+NER_output_3.8_all.json] ***
+
+Processing entities... Done.  139703 tuples were added in a total of 196 CSV files
+
+List of tags that were NOT MATCHED for each model:
+
+MODEL: spacy_md_model
+Number of matched tags _______: 5923
+Number of NOT MATCHED tags ___: 2120
+Processing MISSING entities __: 2139
+
+MODEL: deeppavlov_onto_bert_model
+Number of matched tags _______: 5383
+Number of NOT MATCHED tags ___: 2660
+Processing MISSING entities __: 2683
+
+MODEL: spacy_sm_model
+Number of matched tags _______: 6597
+Number of NOT MATCHED tags ___: 1446
+Processing MISSING entities __: 1460
+
+MODEL: stanford_class4_model
+Number of matched tags _______: 3135
+Number of NOT MATCHED tags ___: 4908
+Processing MISSING entities __: 2609
+
+MODEL: flair_fast_ontonotes_model
+Number of matched tags _______: 4326
+Number of NOT MATCHED tags ___: 3717
+Processing MISSING entities __: 3747
+
+MODEL: polyglot_model
+Number of matched tags _______: 6099
+Number of NOT MATCHED tags ___: 1944
+Processing MISSING entities __: 1957
+
+MODEL: spacy_lg_model
+Number of matched tags _______: 5886
+Number of NOT MATCHED tags ___: 2157
+Processing MISSING entities __: 2178
+
+MODEL: bert_model
+Number of matched tags _______: 5860
+Number of NOT MATCHED tags ___: 2183
+Processing MISSING entities __: 2196
+
+MODEL: flair_pooled_model
+Number of matched tags _______: 3892
+Number of NOT MATCHED tags ___: 4151
+Processing MISSING entities __: 4170
+
+MODEL: flair_fast_model
+Number of matched tags _______: 4054
+Number of NOT MATCHED tags ___: 3989
+Processing MISSING entities __: 4008
+
+MODEL: stanza_model
+Number of matched tags _______: 4494
+Number of NOT MATCHED tags ___: 3549
+Processing MISSING entities __: 3576
+
+MODEL: stanford_class3_model
+Number of matched tags _______: 2115
+Number of NOT MATCHED tags ___: 5928
+Processing MISSING entities __: 3027
+
+MODEL: stanford_class7_model
+Number of matched tags _______: 2257
+Number of NOT MATCHED tags ___: 5786
+Processing MISSING entities __: 3078
+
+MODEL: deeppavlov_conll2003_model
+Number of matched tags _______: 5496
+Number of NOT MATCHED tags ___: 2547
+Processing MISSING entities __: 2559
+
+MODEL: nltk_model
+Number of matched tags _______: 4620
+Number of NOT MATCHED tags ___: 3423
+Processing MISSING entities __: 2023
+
+MODEL: deeppavlov_onto_model
+Number of matched tags _______: 4651
+Number of NOT MATCHED tags ___: 3392
+Processing MISSING entities __: 3419
+
+MODEL: deeppavlov_conll2003_bert_model
+Number of matched tags _______: 5810
+Number of NOT MATCHED tags ___: 2233
+Processing MISSING entities __: 2245
+
+MODEL: allennlp_ner
+Number of matched tags _______: 5067
+Number of NOT MATCHED tags ___: 2976
+Processing MISSING entities __: 2992
+
+MODEL: flair_model
+Number of matched tags _______: 4388
+Number of NOT MATCHED tags ___: 3655
+Processing MISSING entities __: 3672
+
+MODEL: flair_ontonotes_model
+Number of matched tags _______: 3929
+Number of NOT MATCHED tags ___: 4114
+Processing MISSING entities __: 4144
+
+MODEL: allennlp-finegrained-ner
+Number of matched tags _______: 2741
+Number of NOT MATCHED tags ___: 5302
+Processing MISSING entities __: 1861
+
+
+Generating CSVs:
+-> BTC-deeppavlov_onto_model-PERSON.csv ... Done. (5754 lines)
+-> BTC-deeppavlov_onto_bert_model-PERSON.csv ... Done. (5127 lines)
+-> BTC-deeppavlov_conll2003_model-PER.csv ... Done. (5554 lines)
+-> BTC-deeppavlov_conll2003_bert_model-PER.csv ... Done. (5013 lines)
+-> BTC-deeppavlov_onto_bert_model-ORG.csv ... Done. (3066 lines)
+-> BTC-deeppavlov_conll2003_model-ORG.csv ... Done. (3719 lines)
+-> BTC-deeppavlov_conll2003_model-LOC.csv ... Done. (2141 lines)
+-> BTC-deeppavlov_conll2003_bert_model-ORG.csv ... Done. (4606 lines)
+-> BTC-deeppavlov_onto_model-PRODUCT.csv ... Done. (311 lines)
+-> BTC-deeppavlov_onto_model-ORG.csv ... Done. (3328 lines)
+-> BTC-deeppavlov_conll2003_model-MISC.csv ... Done. (1676 lines)
+-> BTC-deeppavlov_conll2003_bert_model-LOC.csv ... Done. (1544 lines)
+-> BTC-deeppavlov_onto_model-GPE.csv ... Done. (717 lines)
+-> BTC-deeppavlov_onto_bert_model-GPE.csv ... Done. (718 lines)
+-> BTC-deeppavlov_onto_model-FAC.csv ... Done. (165 lines)
+-> BTC-deeppavlov_onto_bert_model-WORK_OF_ART.csv ... Done. (368 lines)
+-> BTC-deeppavlov_conll2003_bert_model-MISC.csv ... Done. (1113 lines)
+-> BTC-deeppavlov_onto_bert_model-PRODUCT.csv ... Done. (218 lines)
+-> BTC-deeppavlov_onto_model-WORK_OF_ART.csv ... Done. (864 lines)
+-> BTC-deeppavlov_onto_bert_model-FAC.csv ... Done. (194 lines)
+-> BTC-deeppavlov_onto_bert_model-NORP.csv ... Done. (170 lines)
+-> BTC-deeppavlov_onto_model-DATE.csv ... Done. (572 lines)
+-> BTC-deeppavlov_onto_model-CARDINAL.csv ... Done. (520 lines)
+-> BTC-deeppavlov_onto_bert_model-EVENT.csv ... Done. (127 lines)
+-> BTC-deeppavlov_onto_bert_model-LOC.csv ... Done. (1220 lines)
+-> BTC-deeppavlov_onto_model-NORP.csv ... Done. (231 lines)
+-> BTC-deeppavlov_onto_model-LOC.csv ... Done. (1533 lines)
+-> BTC-deeppavlov_onto_model-LAW.csv ... Done. (35 lines)
+-> BTC-deeppavlov_onto_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-deeppavlov_onto_bert_model-LANGUAGE.csv ... Done. (6 lines)
+-> BTC-deeppavlov_onto_bert_model-DATE.csv ... Done. (502 lines)
+-> BTC-deeppavlov_onto_model-EVENT.csv ... Done. (105 lines)
+-> BTC-deeppavlov_onto_bert_model-CARDINAL.csv ... Done. (435 lines)
+-> BTC-deeppavlov_onto_bert_model-ORDINAL.csv ... Done. (37 lines)
+-> BTC-deeppavlov_onto_bert_model-TIME.csv ... Done. (206 lines)
+-> BTC-deeppavlov_onto_bert_model-MONEY.csv ... Done. (22 lines)
+-> BTC-deeppavlov_onto_bert_model-LAW.csv ... Done. (16 lines)
+-> BTC-deeppavlov_onto_bert_model-QUANTITY.csv ... Done. (35 lines)
+-> BTC-deeppavlov_onto_model-ORDINAL.csv ... Done. (39 lines)
+-> BTC-deeppavlov_onto_model-TIME.csv ... Done. (191 lines)
+-> BTC-deeppavlov_onto_model-PERCENT.csv ... Done. (57 lines)
+-> BTC-deeppavlov_onto_bert_model-PERCENT.csv ... Done. (43 lines)
+-> BTC-deeppavlov_onto_model-MONEY.csv ... Done. (12 lines)
+-> BTC-deeppavlov_onto_model-QUANTITY.csv ... Done. (42 lines)
+-> BTC-stanford_class7_model-LOCATION.csv ... Done. (618 lines)
+-> BTC-stanford_class4_model-LOCATION.csv ... Done. (999 lines)
+-> BTC-stanford_class3_model-LOCATION.csv ... Done. (675 lines)
+-> BTC-stanza_model-PERSON.csv ... Done. (4240 lines)
+-> BTC-spacy_sm_model-ORG.csv ... Done. (2359 lines)
+-> BTC-spacy_md_model-ORG.csv ... Done. (2955 lines)
+-> BTC-spacy_lg_model-GPE.csv ... Done. (709 lines)
+-> BTC-nltk_model-PERSON.csv ... Done. (5196 lines)
+-> BTC-bert_model-LOC.csv ... Done. (1212 lines)
+-> BTC-flair_model-ORG.csv ... Done. (2345 lines)
+-> BTC-flair_ontonotes_model-ORG.csv ... Done. (2688 lines)
+-> BTC-flair_fast_model-ORG.csv ... Done. (3229 lines)
+-> BTC-flair_fast_ontonotes_model-GPE.csv ... Done. (595 lines)
+-> BTC-flair_pooled_model-ORG.csv ... Done. (3085 lines)
+-> BTC-allennlp_ner-LOC.csv ... Done. (1502 lines)
+-> BTC-allennlp-finegrained-ner-LOC.csv ... Done. (1689 lines)
+-> BTC-polyglot_model-LOC.csv ... Done. (1131 lines)
+-> BTC-spacy_sm_model-PERSON.csv ... Done. (3026 lines)
+-> BTC-spacy_lg_model-ORG.csv ... Done. (3029 lines)
+-> BTC-bert_model-MISC.csv ... Done. (1088 lines)
+-> BTC-flair_model-MISC.csv ... Done. (765 lines)
+-> BTC-flair_fast_model-MISC.csv ... Done. (775 lines)
+-> BTC-flair_pooled_model-MISC.csv ... Done. (668 lines)
+-> BTC-allennlp_ner-MISC.csv ... Done. (1603 lines)
+-> BTC-stanford_class4_model-ORGANIZATION.csv ... Done. (1963 lines)
+-> BTC-stanford_class3_model-ORGANIZATION.csv ... Done. (965 lines)
+-> BTC-stanza_model-ORG.csv ... Done. (2550 lines)
+-> BTC-spacy_md_model-PERSON.csv ... Done. (4484 lines)
+-> BTC-spacy_lg_model-PERSON.csv ... Done. (3876 lines)
+-> BTC-flair_fast_ontonotes_model-ORG.csv ... Done. (2551 lines)
+-> BTC-allennlp_ner-ORG.csv ... Done. (2176 lines)
+-> BTC-allennlp-finegrained-ner-ORG.csv ... Done. (2598 lines)
+-> BTC-polyglot_model-ORG.csv ... Done. (1832 lines)
+-> BTC-stanford_class7_model-ORGANIZATION.csv ... Done. (1364 lines)
+-> BTC-stanford_class4_model-PERSON.csv ... Done. (4403 lines)
+-> BTC-spacy_sm_model-GPE.csv ... Done. (671 lines)
+-> BTC-spacy_md_model-GPE.csv ... Done. (692 lines)
+-> BTC-nltk_model-ORGANIZATION.csv ... Done. (2824 lines)
+-> BTC-nltk_model-FACILITY.csv ... Done. (39 lines)
+-> BTC-nltk_model-GPE.csv ... Done. (819 lines)
+-> BTC-bert_model-ORG.csv ... Done. (3194 lines)
+-> BTC-flair_ontonotes_model-GPE.csv ... Done. (536 lines)
+-> BTC-flair_model-LOC.csv ... Done. (1371 lines)
+-> BTC-flair_fast_model-LOC.csv ... Done. (1477 lines)
+-> BTC-flair_pooled_model-PER.csv ... Done. (4080 lines)
+-> BTC-bert_model-PER.csv ... Done. (3320 lines)
+-> BTC-flair_ontonotes_model-PERSON.csv ... Done. (3942 lines)
+-> BTC-flair_fast_ontonotes_model-PERSON.csv ... Done. (3818 lines)
+-> BTC-allennlp_ner-PER.csv ... Done. (4685 lines)
+-> BTC-polyglot_model-PER.csv ... Done. (3538 lines)
+-> BTC-stanza_model-GPE.csv ... Done. (672 lines)
+-> BTC-flair_pooled_model-LOC.csv ... Done. (1343 lines)
+-> BTC-nltk_model-LOCATION.csv ... Done. (39 lines)
+-> BTC-spacy_lg_model-NORP.csv ... Done. (215 lines)
+-> BTC-flair_fast_ontonotes_model-LOC.csv ... Done. (877 lines)
+-> BTC-stanford_class3_model-PERSON.csv ... Done. (4367 lines)
+-> BTC-stanza_model-FAC.csv ... Done. (167 lines)
+-> BTC-spacy_sm_model-FAC.csv ... Done. (213 lines)
+-> BTC-spacy_md_model-FAC.csv ... Done. (145 lines)
+-> BTC-spacy_lg_model-FAC.csv ... Done. (204 lines)
+-> BTC-flair_ontonotes_model-FAC.csv ... Done. (118 lines)
+-> BTC-flair_fast_ontonotes_model-FAC.csv ... Done. (183 lines)
+-> BTC-flair_model-PER.csv ... Done. (3916 lines)
+-> BTC-flair_fast_model-PER.csv ... Done. (4081 lines)
+-> BTC-spacy_lg_model-LOC.csv ... Done. (687 lines)
+-> BTC-flair_ontonotes_model-NORP.csv ... Done. (147 lines)
+-> BTC-spacy_sm_model-NORP.csv ... Done. (220 lines)
+-> BTC-flair_fast_ontonotes_model-NORP.csv ... Done. (138 lines)
+-> BTC-stanza_model-PRODUCT.csv ... Done. (128 lines)
+-> BTC-flair_ontonotes_model-PRODUCT.csv ... Done. (108 lines)
+-> BTC-flair_fast_ontonotes_model-PRODUCT.csv ... Done. (119 lines)
+-> BTC-stanza_model-LOC.csv ... Done. (894 lines)
+-> BTC-flair_ontonotes_model-LOC.csv ... Done. (936 lines)
+-> BTC-spacy_sm_model-LOC.csv ... Done. (495 lines)
+-> BTC-stanford_class4_model-MISC.csv ... Done. (625 lines)
+-> BTC-spacy_md_model-LOC.csv ... Done. (639 lines)
+-> BTC-stanza_model-NORP.csv ... Done. (166 lines)
+-> BTC-spacy_md_model-NORP.csv ... Done. (231 lines)
+-> BTC-spacy_sm_model-PRODUCT.csv ... Done. (246 lines)
+-> BTC-spacy_lg_model-WORK_OF_ART.csv ... Done. (337 lines)
+-> BTC-flair_ontonotes_model-WORK_OF_ART.csv ... Done. (449 lines)
+-> BTC-stanford_class7_model-PERSON.csv ... Done. (4115 lines)
+-> BTC-spacy_md_model-TIME.csv ... Done. (205 lines)
+-> BTC-spacy_sm_model-WORK_OF_ART.csv ... Done. (300 lines)
+-> BTC-flair_fast_ontonotes_model-WORK_OF_ART.csv ... Done. (254 lines)
+-> BTC-stanza_model-EVENT.csv ... Done. (98 lines)
+-> BTC-spacy_md_model-EVENT.csv ... Done. (86 lines)
+-> BTC-spacy_lg_model-EVENT.csv ... Done. (83 lines)
+-> BTC-flair_ontonotes_model-EVENT.csv ... Done. (52 lines)
+-> BTC-flair_fast_ontonotes_model-EVENT.csv ... Done. (80 lines)
+-> BTC-spacy_lg_model-PRODUCT.csv ... Done. (193 lines)
+-> BTC-spacy_md_model-PRODUCT.csv ... Done. (231 lines)
+-> BTC-spacy_md_model-LANGUAGE.csv ... Done. (8 lines)
+-> BTC-stanza_model-WORK_OF_ART.csv ... Done. (352 lines)
+-> BTC-spacy_lg_model-TIME.csv ... Done. (209 lines)
+-> BTC-spacy_md_model-WORK_OF_ART.csv ... Done. (256 lines)
+-> BTC-stanza_model-DATE.csv ... Done. (539 lines)
+-> BTC-stanza_model-LAW.csv ... Done. (15 lines)
+-> BTC-spacy_lg_model-LAW.csv ... Done. (21 lines)
+-> BTC-spacy_sm_model-CARDINAL.csv ... Done. (429 lines)
+-> BTC-spacy_sm_model-LAW.csv ... Done. (40 lines)
+-> BTC-spacy_md_model-LAW.csv ... Done. (32 lines)
+-> BTC-flair_ontonotes_model-LAW.csv ... Done. (14 lines)
+-> BTC-spacy_lg_model-DATE.csv ... Done. (622 lines)
+-> BTC-stanford_class7_model-MONEY.csv ... Done. (13 lines)
+-> BTC-stanza_model-MONEY.csv ... Done. (18 lines)
+-> BTC-spacy_sm_model-MONEY.csv ... Done. (28 lines)
+-> BTC-spacy_md_model-MONEY.csv ... Done. (29 lines)
+-> BTC-spacy_lg_model-MONEY.csv ... Done. (23 lines)
+-> BTC-flair_ontonotes_model-MONEY.csv ... Done. (40 lines)
+-> BTC-flair_fast_ontonotes_model-MONEY.csv ... Done. (25 lines)
+-> BTC-stanza_model-CARDINAL.csv ... Done. (318 lines)
+-> BTC-spacy_md_model-CARDINAL.csv ... Done. (393 lines)
+-> BTC-spacy_lg_model-CARDINAL.csv ... Done. (421 lines)
+-> BTC-flair_fast_ontonotes_model-CARDINAL.csv ... Done. (361 lines)
+-> BTC-spacy_sm_model-QUANTITY.csv ... Done. (49 lines)
+-> BTC-flair_ontonotes_model-CARDINAL.csv ... Done. (353 lines)
+-> BTC-stanford_class7_model-PERCENT.csv ... Done. (46 lines)
+-> BTC-stanza_model-PERCENT.csv ... Done. (56 lines)
+-> BTC-spacy_sm_model-PERCENT.csv ... Done. (54 lines)
+-> BTC-spacy_md_model-PERCENT.csv ... Done. (52 lines)
+-> BTC-spacy_lg_model-PERCENT.csv ... Done. (53 lines)
+-> BTC-flair_ontonotes_model-PERCENT.csv ... Done. (64 lines)
+-> BTC-flair_fast_ontonotes_model-PERCENT.csv ... Done. (66 lines)
+-> BTC-stanford_class7_model-DATE.csv ... Done. (208 lines)
+-> BTC-spacy_sm_model-DATE.csv ... Done. (597 lines)
+-> BTC-spacy_md_model-DATE.csv ... Done. (574 lines)
+-> BTC-flair_ontonotes_model-DATE.csv ... Done. (486 lines)
+-> BTC-flair_fast_ontonotes_model-DATE.csv ... Done. (476 lines)
+-> BTC-stanza_model-TIME.csv ... Done. (206 lines)
+-> BTC-spacy_sm_model-TIME.csv ... Done. (165 lines)
+-> BTC-flair_ontonotes_model-TIME.csv ... Done. (185 lines)
+-> BTC-flair_fast_ontonotes_model-TIME.csv ... Done. (174 lines)
+-> BTC-spacy_md_model-ORDINAL.csv ... Done. (28 lines)
+-> BTC-stanford_class7_model-TIME.csv ... Done. (15 lines)
+-> BTC-spacy_sm_model-EVENT.csv ... Done. (61 lines)
+-> BTC-stanza_model-LANGUAGE.csv ... Done. (6 lines)
+-> BTC-flair_ontonotes_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-flair_fast_ontonotes_model-LANGUAGE.csv ... Done. (6 lines)
+-> BTC-spacy_sm_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-spacy_md_model-QUANTITY.csv ... Done. (75 lines)
+-> BTC-spacy_lg_model-LANGUAGE.csv ... Done. (7 lines)
+-> BTC-spacy_lg_model-ORDINAL.csv ... Done. (30 lines)
+-> BTC-flair_fast_ontonotes_model-LAW.csv ... Done. (11 lines)
+-> BTC-spacy_lg_model-QUANTITY.csv ... Done. (90 lines)
+-> BTC-stanza_model-ORDINAL.csv ... Done. (28 lines)
+-> BTC-spacy_sm_model-ORDINAL.csv ... Done. (42 lines)
+-> BTC-flair_ontonotes_model-ORDINAL.csv ... Done. (23 lines)
+-> BTC-flair_fast_ontonotes_model-ORDINAL.csv ... Done. (31 lines)
+-> BTC-flair_fast_ontonotes_model-QUANTITY.csv ... Done. (48 lines)
+-> BTC-flair_ontonotes_model-QUANTITY.csv ... Done. (49 lines)
+-> BTC-stanza_model-QUANTITY.csv ... Done. (94 lines)
+-> BTC-RESULTS-ExactMatchMetrics-post-processing-fact-table.csv ... Done.
+-> BTC-RESULTS-post-processing-fact-table.csv ... Done.
+
+TOTAL: 199446 tuples were added in a total of 196 CSV files

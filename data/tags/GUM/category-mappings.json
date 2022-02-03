@@ -1,0 +1,13 @@
+{
+    "person"      : [ "tnnt:Person"  ],
+    "substance"   : [ "tnnt:Product", "tnnt:Quantity"  ],
+    "object"      : [ "tnnt:Organisation", "tnnt:GPE", "tnnt:FAC", "tnnt:Product", "tnnt:WorkOfArt", "tnnt:Law" ],
+    "organization": [ "tnnt:Organisation", "tnnt:NORP" ],
+    "time"        : [ "tnnt:Date", "tnnt:Time", "tnnt:Quantity" ],
+    "abstract"    : [ "tnnt:Person", "tnnt:NORP", "tnnt:Product", "tnnt:Event", "tnnt:WorkOfArt", "tnnt:Law", "tnnt:Language", "tnnt:Quantity" ],
+    "place"       : [ "tnnt:Location", "tnnt:GPE", "tnnt:FAC", "tnnt:Product", "tnnt:Quantity" ],
+    "event"       : [ "tnnt:Event"   ],
+    "animal"      : [ "tnnt:Product" ],
+    "plant"       : [ "tnnt:Product" ],
+    "quantity"    : [ "tnnt:Money", "tnnt:Percent", "tnnt:Quantity", "tnnt:Cardinal" ]
+}

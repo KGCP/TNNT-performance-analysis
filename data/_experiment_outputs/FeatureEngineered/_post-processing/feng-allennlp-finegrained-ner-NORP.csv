@@ -1,0 +1,843 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"S. Christian",0,0,0,1,0,0
+"Saudis",1,0,0,0,0,0
+"Tutsi RPF",0,1,0,0,0,0
+"Albanians",1,0,0,0,0,0
+"Palestinian",1,0,0,0,0,0
+"Turkish Cypriots",0,0,0,0,1,0
+"Botswana",1,0,0,0,0,0
+"Arawak Indians",0,0,1,0,0,0
+"Turk",1,0,0,0,0,0
+"Macedonian American",0,0,1,0,0,0
+"Serbian Novak Djokovic",0,0,1,0,0,0
+"Democratic Senate",0,0,0,1,0,0
+"Germans Claudia Pechstein",0,0,1,0,0,0
+"Turkic",0,0,1,0,0,0
+"British Dutch Shell",0,0,1,0,0,0
+"French Indochina",0,0,1,0,0,0
+"Latvian",1,0,0,0,0,0
+"Ivorian",0,0,0,0,1,0
+"Indo Aryan",0,0,0,1,0,0
+"Afghani Pajhwok",0,1,0,0,0,0
+"Tahitian",0,0,0,1,0,0
+"Shi'te",0,1,0,0,0,0
+"French",1,0,0,0,0,0
+"Australian",1,0,0,0,0,0
+"Spaniard Rafael Nadal",0,0,1,0,0,0
+"Belgian",1,0,0,0,0,0
+"Bangladeshi",1,0,0,0,0,0
+"Swiss Roger Federer",0,0,1,0,0,0
+"Finnish",1,0,0,0,0,0
+"Borena",0,1,0,0,0,0
+"Spanish Civil War",0,0,1,0,0,0
+"Catholic",0,1,0,0,0,0
+"Hutu",0,1,0,0,0,0
+"Hindu India",0,1,0,0,0,0
+"Somalis",1,0,0,0,0,0
+"Ethiopians",1,0,0,0,0,0
+"Taiwanese",1,0,0,0,0,0
+"Honduran",1,0,0,0,0,0
+"Shi'ite",0,1,0,0,0,0
+"Baathist",0,1,0,0,0,0
+"Nepalese",1,0,0,0,0,0
+"Arab Iran",0,0,1,0,0,0
+"Mayan Indian",0,0,1,0,0,0
+"Eritrean",1,0,0,0,0,0
+"Marine",0,1,0,0,0,0
+"Iraqi",1,0,0,0,0,0
+"Saudi Arabian",0,1,0,0,0,0
+"Bosnian Croats",0,0,0,0,1,0
+"Bahamian",1,0,0,0,0,0
+"Krygyz",0,0,0,0,1,0
+"Western Serbian",0,0,1,0,0,0
+"Moroccans",1,0,0,0,0,0
+"Chileans",0,0,0,0,1,0
+"European",1,0,0,0,0,0
+"N.",0,0,0,1,0,0
+"Romanian",1,0,0,0,0,0
+"Estonian",0,0,0,0,1,0
+"New Yorkers",0,1,0,0,0,0
+"Ukrainian Natalia Dobrynska last Saturday",0,0,1,0,0,0
+"Georgians",1,0,0,0,0,0
+"Swedish King GUSTAV III",0,0,1,0,0,0
+"Ugandan Lord 's Resistance Army",0,0,1,0,0,0
+"Russian Mikhail Tyurin",0,0,1,0,0,0
+"Dominican",1,0,0,0,0,0
+"Bulgarian",0,0,0,0,1,0
+"North Koreans",0,0,0,0,1,0
+"Ukrainians",0,1,0,0,0,0
+"Tajik SSR",0,0,1,0,0,0
+"Iranian",1,0,0,0,0,0
+"Russian Nadia Petrova",0,0,1,0,0,0
+"Fijians",1,0,0,0,0,0
+"Americans this week",0,0,1,0,0,0
+"Polish",1,0,0,0,0,0
+"Americans",1,0,0,0,0,0
+"Burundians",0,0,0,0,1,0
+"Lao",1,0,0,0,0,0
+"Mauritian",0,0,0,0,1,0
+"Turkmen",1,0,0,0,0,0
+"Nazis",0,1,0,0,0,0
+"The Christian Democrats",0,0,0,1,0,0
+"Moorish",0,0,0,1,0,0
+"American Vince Spadea",0,0,1,0,0,0
+"Serbs",1,0,0,0,0,0
+"Soviet",0,1,0,0,0,0
+"Ethnic Ukrainians",0,0,1,0,0,0
+"Nicobari",0,1,0,0,0,0
+"Alawite",0,1,0,0,0,0
+"Iraqi Kurds",0,0,1,0,0,0
+"Ethnic Uzbeks",0,0,1,0,0,0
+"Icelanders",0,0,0,0,1,0
+"British Honduras",1,0,0,0,0,0
+"Turkish Egebank",0,0,1,0,0,0
+"Syrians",1,0,0,0,0,0
+"Provincial",0,0,0,1,0,0
+"Lithuanians",0,0,0,0,1,0
+"Iranians . Semi",0,0,1,0,0,0
+"Saharan",0,0,0,1,0,0
+"German Federal Prosecutor 's",0,0,1,0,0,0
+"Iranian Foreign Ministry",0,0,1,0,0,0
+"Democratic U. S.",0,0,0,1,0,0
+"Mauritanian",1,0,0,0,0,0
+"Pitcairn Islanders",0,1,0,0,0,0
+"Jordanian American",0,0,1,0,0,0
+"Islamic",0,1,0,0,0,0
+"Boers",0,1,0,0,0,0
+"Frenchmen",0,0,1,0,0,0
+"Jamaicans",0,0,0,0,1,0
+"Socialist Democrat",0,0,0,1,0,0
+"Panamanians",0,0,0,0,1,0
+"Ethiopian Islamist",0,0,1,0,0,0
+"Tutsi",0,1,0,0,0,0
+"Turkish al Qaida",0,0,1,0,0,0
+"Tajik",1,0,0,0,0,0
+"Kurdish",0,1,0,0,0,0
+"Arab Israeli",0,0,1,0,0,0
+"Orthodox",0,1,0,0,0,0
+"Kazakh",0,0,0,0,1,0
+"Greens",0,1,0,0,0,0
+"British Royal Marine",0,1,0,0,0,0
+"Hindus",0,1,0,0,0,0
+"Israeli American Robert Aumann",0,0,1,0,0,0
+"Principality of Muscovy",0,0,0,0,1,0
+"Yugoslav",1,0,0,0,0,0
+"Western European",0,1,0,0,0,0
+"Brazilians",1,0,0,0,0,0
+"Khmers",0,0,0,1,0,0
+"Russian Baltic",0,0,1,0,0,0
+"Costan Rican",0,0,1,0,0,0
+"French Colombian",0,0,1,0,0,0
+"Taino",0,0,0,0,1,0
+"Mexican",1,0,0,0,0,0
+"Flemings",0,0,0,1,0,0
+"Nepali",1,0,0,0,0,0
+"Democrat Tom Daschle",0,0,0,1,0,0
+"Nenbutsushu Buddhist",0,1,0,0,0,0
+"Balkan",0,1,0,0,0,0
+"Kremlin",0,1,0,0,0,0
+"Bosnian Croat",1,0,0,0,0,0
+"Caymanians",0,0,0,1,0,0
+"Egyptians",1,0,0,0,0,0
+"Australian Mark Philippoussis 07 Jun , 06 Jul , 06 Mar",0,0,1,0,0,0
+"Catalonians",0,0,0,0,1,0
+"Celtic Scottish",0,0,1,0,0,0
+"Italian",1,0,0,0,0,0
+"Aboriginal",0,0,0,1,0,0
+"Hamas",0,1,0,0,0,0
+"Portuguese",1,0,0,0,0,0
+"the Kingdom of Serbs",0,0,1,0,0,0
+"Christian",0,1,0,0,0,0
+"Maoist",0,1,0,0,0,0
+"Slovene",1,0,0,0,0,0
+"Huthi",0,1,0,0,0,0
+"Saudis",0,0,0,0,1,0
+"Madagonians",0,0,0,0,1,0
+"Germans Andrej Hermlin",0,0,1,0,0,0
+"Russians",1,0,0,0,0,0
+"North Africans",0,0,1,0,0,0
+"Shi'ite Arabs",0,0,1,0,0,0
+"Palestinian Israeli",0,0,1,0,0,0
+"Western",0,1,0,0,0,0
+"Lendu",0,1,0,0,0,0
+"American Rebecca Palmer",0,0,1,0,0,0
+"Madagonia",0,0,0,0,1,0
+"Papua",0,1,0,0,0,0
+"Iranian Revolutionary Guards Qods",0,0,1,0,0,0
+"Russian",1,0,0,0,0,0
+"Partisans",0,0,0,1,0,0
+"Turkish Cypriots",1,0,0,0,0,0
+"Islam",0,1,0,0,0,0
+"Salvadorans",0,0,0,0,1,0
+"Russian Iranian",0,0,1,0,0,0
+"Jordanian",1,0,0,0,0,0
+"Sikh",0,1,0,0,0,0
+"Guatemalan",1,0,0,0,0,0
+"Ugandans",1,0,0,0,0,0
+"Middle Eastern",0,1,0,0,0,0
+"Serb Republic",0,0,1,0,0,0
+"Swede",0,0,1,0,0,0
+"Mongols",1,0,0,0,0,0
+"Orthodox Shas",0,0,0,1,0,0
+"Pakistani Kashmir",0,0,1,0,0,0
+"Latvians",0,0,0,0,1,0
+"Ivorian",1,0,0,0,0,0
+"Pakistanis",1,0,0,0,0,0
+"Allied",0,1,0,0,0,0
+"U. S. Iranian",0,0,1,0,0,0
+"British Muslim",0,0,1,0,0,0
+"Democratic",0,1,0,0,0,0
+"Civilian",0,0,0,1,0,0
+"Asian",1,0,0,0,0,0
+"Canadians",1,0,0,0,0,0
+"Azeris",1,0,0,0,0,0
+"Sunni Muslim",0,1,0,0,0,0
+"Bahrainian",0,0,1,0,0,0
+"Czech",1,0,0,0,0,0
+"West Indian",0,0,1,0,0,0
+"Ibero American",0,0,1,0,0,0
+"Communist",0,1,0,0,0,0
+"Frenchman Raphael Poiree",0,1,0,0,0,0
+"Sandinista",0,1,0,0,0,0
+"Californian",0,0,0,1,0,0
+"Indonesians",0,0,0,0,1,0
+"Axis",0,0,0,1,0,0
+"South African Reinhold Rau",0,0,1,0,0,0
+"Cambodian",1,0,0,0,0,0
+"Armenian",1,0,0,0,0,0
+"Turkish Iraqi",0,0,1,0,0,0
+"Philippine communist",0,0,1,0,0,0
+"Bosnian Croats",1,0,0,0,0,0
+"Syrian Al Ahbash Sunni Muslim Orthodox",0,0,1,0,0,0
+"Iraqi National Guardsman",0,0,1,0,0,0
+"Melanesian",0,0,0,0,1,0
+"Sadrists",0,0,0,1,0,0
+"Aussies",1,0,0,0,0,0
+"Persian",1,0,0,0,0,0
+"Taino Indians",0,0,1,0,0,0
+"Chaldean",0,0,0,1,0,0
+"Puerto Ricans",0,0,1,0,0,0
+"Asians",1,0,0,0,0,0
+"Walloons",0,0,0,1,0,0
+"Malaysian",1,0,0,0,0,0
+"Marines",0,1,0,0,0,0
+"Pashtun",0,1,0,0,0,0
+"Democrat Jim Martin",0,0,0,1,0,0
+"Bedouin",0,1,0,0,0,0
+"Spaniard Feliciano Lopez",0,0,1,0,0,0
+"Sudanese Darfur",0,0,1,0,0,0
+"American Steve Centanni",0,0,1,0,0,0
+"South Asian",0,1,0,0,0,0
+"Macedonians",0,0,0,0,1,0
+"Roman Catholic",0,1,0,0,0,0
+"Lebanese this year",0,0,1,0,0,0
+"Croats",1,0,0,0,0,0
+"Japanese",1,0,0,0,0,0
+"Social Democrats",0,1,0,0,0,0
+"Vietnamese",1,0,0,0,0,0
+"Slovak",1,0,0,0,0,0
+"Guatemalans",0,0,0,0,1,0
+"Separatist Basque",0,1,0,0,0,0
+"Republicans",0,1,0,0,0,0
+"Islamic Sharia",0,1,0,0,0,0
+"Cypriot",1,0,0,0,0,0
+"South Africans",0,0,1,0,0,0
+"Samoan",0,1,0,0,0,0
+"Kurdish Muslim",0,1,0,0,0,0
+"Swedes",1,0,0,0,0,0
+"Thai",1,0,0,0,0,0
+"Venezuelans",1,0,0,0,0,0
+"Venezuelan",1,0,0,0,0,0
+"Saudi",0,1,0,0,0,0
+"Lithuanians",1,0,0,0,0,0
+"Algerian",1,0,0,0,0,0
+"African",1,0,0,0,0,0
+"Pakistani",1,0,0,0,0,0
+"The Social Democrats",0,0,0,1,0,0
+"Tuareg",0,1,0,0,0,0
+"Stalinist",0,0,0,1,0,0
+"Muslims",0,1,0,0,0,0
+"German",1,0,0,0,0,0
+"Ethiopian",1,0,0,0,0,0
+"Pashtuns",0,0,0,1,0,0
+"French Southern",0,0,1,0,0,0
+"Thais",0,0,0,0,1,0
+"Yemenis",1,0,0,0,0,0
+"Haitians",1,0,0,0,0,0
+"Chadians",1,0,0,0,0,0
+"Cambodians",1,0,0,0,0,0
+"Lankan",0,0,0,0,1,0
+"Rican",0,0,0,0,1,0
+"Panamanians",1,0,0,0,0,0
+"Namibian",1,0,0,0,0,0
+"U. S. Democratic",0,0,0,1,0,0
+"American U 2",0,0,1,0,0,0
+"Andean",0,0,0,1,0,0
+"Bolivian",1,0,0,0,0,0
+"Bengalis",1,0,0,0,0,0
+"Mexican American",0,0,1,0,0,0
+"Urdu",0,1,0,0,0,0
+"The Polynesian Maori",0,0,0,1,0,0
+"U. S. Iraqi",0,0,1,0,0,0
+"Finns",0,0,0,0,1,0
+"Arabic",0,1,0,0,0,0
+"Serbian",1,0,0,0,0,0
+"Kazakh",1,0,0,0,0,0
+"Burkinabe",0,1,0,0,0,0
+"Kiwis",0,0,0,0,1,0
+"Marxist",0,0,0,1,0,0
+"Brazilian",1,0,0,0,0,0
+"American Thomas Schelling",0,0,1,0,0,0
+"British",1,0,0,0,0,0
+"Danish Muslims",0,0,1,0,0,0
+"Muslims Thursday",0,0,0,1,0,0
+"Scythians",1,0,0,0,0,0
+"Socialist Michelle Bachelet",0,1,0,0,0,0
+"Kashmiri",1,0,0,0,0,0
+"Militants",0,0,0,1,0,0
+"Burundian",0,0,0,0,1,0
+"Gibraltarians",0,1,0,0,0,0
+"Muslim Dagestan",0,0,0,1,0,0
+"Zapatista",0,1,0,0,0,0
+"U. S. Republicans",0,0,0,1,0,0
+"Contra",0,0,0,1,0,0
+"Sudan",1,0,0,0,0,0
+"Syrian",1,0,0,0,0,0
+"Tribal",0,0,0,1,0,0
+"Siberian",0,0,0,1,0,0
+"Bosnian",1,0,0,0,0,0
+"Lucayan Indians",0,0,0,0,1,0
+"Italians",1,0,0,0,0,0
+"Arabs",1,0,0,0,0,0
+"Kazakhs",1,0,0,0,0,0
+"Icelandic",0,0,0,0,1,0
+"Roman Catholicism",0,1,0,0,0,0
+"Lebanese Christian",0,0,1,0,0,0
+"Greeks",1,0,0,0,0,0
+"West African",1,0,0,0,0,0
+"Novakatkans",0,0,0,0,1,0
+"Libyan",1,0,0,0,0,0
+"Chinese",1,0,0,0,0,0
+"Mongolians",1,0,0,0,0,0
+"Gulf Arab",0,1,0,0,0,0
+"Kashmiris",0,0,0,0,1,0
+"Colombian",1,0,0,0,0,0
+"Togo",1,0,0,0,0,0
+"Moroccan",1,0,0,0,0,0
+"Somali",1,0,0,0,0,0
+"Iraqis",1,0,0,0,0,0
+"International",0,1,0,0,0,0
+"Latin American",1,0,0,0,0,0
+"Turkish Armenian",0,0,1,0,0,0
+"Malays",0,1,0,0,0,0
+"Mongolian",1,0,0,0,0,0
+"Afghan Pakistani",0,0,1,0,0,0
+"Kyrgyz",1,0,0,0,0,0
+"Taiwanese Defense Ministry",0,0,1,0,0,0
+"Jamaican",1,0,0,0,0,0
+"Kenyans",1,0,0,0,0,0
+"Saudi Interior Ministry",0,1,0,0,0,0
+"Philippine",1,0,0,0,0,0
+"Nationalists",0,0,0,1,0,0
+"Maronite Christians",0,1,0,0,0,0
+"Southeast Asian",0,1,0,0,0,0
+"Christian Democratic",0,0,0,1,0,0
+"Himalayan",0,1,0,0,0,0
+"Basotho",0,1,0,0,0,0
+"Polynesian",0,1,0,0,0,0
+"Sunni Arab",1,0,0,0,0,0
+"Europeans",1,0,0,0,0,0
+"Filipino",1,0,0,0,0,0
+"American Shi'ite",0,0,1,0,0,0
+"Malawian",1,0,0,0,0,0
+"animist",0,0,0,1,0,0
+"U. S. S.",0,0,0,1,0,0
+"South American",0,1,0,0,0,0
+"Turkish Foreign Ministry",0,0,1,0,0,0
+"Russian Black Sea",0,0,1,0,0,0
+"Nicaraguans",1,0,0,0,0,0
+"West Africans",0,0,1,0,0,0
+"Yugoslavian",0,0,1,0,0,0
+"Ottoman",0,1,0,0,0,0
+"Russian National Security Council",0,0,1,0,0,0
+"Melanesian",1,0,0,0,0,0
+"U. S. Russian",0,0,1,0,0,0
+"Opposition",0,0,0,1,0,0
+"Israeli",1,0,0,0,0,0
+"Rebel",0,0,0,1,0,0
+"the Roman Catholic",0,0,1,0,0,0
+"Israeli Israeli",0,0,0,0,1,0
+"Andorrans",1,0,0,0,0,0
+"Hellenic",0,1,0,0,0,0
+"Chechen",1,0,0,0,0,0
+"Slovakian",0,0,0,0,1,0
+"Syrian Emile Lahoud",0,0,1,0,0,0
+"Government",0,1,0,0,0,0
+"Agrarian",0,0,0,1,0,0
+"Briton",1,0,0,0,0,0
+"Slovenian",0,0,1,0,0,0
+"Amerindian",0,0,0,1,0,0
+"S.",0,0,1,0,0,0
+"Norwegian Petter Solberg",0,0,1,0,0,0
+"Dutch Caribbean",0,0,1,0,0,0
+"Norwegians",1,0,0,0,0,0
+"Carib Indians",0,0,1,0,0,0
+"Midwestern",0,0,0,1,0,0
+"Georgian",1,0,0,0,0,0
+"Somali Ethiopian",0,0,1,0,0,0
+"Ottoman Turkish",0,0,1,0,0,0
+"Guinean",0,0,0,0,1,0
+"Protestants",0,1,0,0,0,0
+"Gazans",0,0,0,1,0,0
+"Spaniard David Ferrer",0,0,1,0,0,0
+"Baptist",0,0,0,1,0,0
+"Bedfordshire",0,0,0,0,1,0
+"North African",0,0,1,0,0,0
+"Mongol",1,0,0,0,0,0
+"Belgians",0,0,0,0,1,0
+"Sri Lankans",0,0,0,0,1,0
+"Shi'ite Muslims",0,1,0,0,0,0
+"Israeli Arab",0,0,1,0,0,0
+"Angolan",1,0,0,0,0,0
+"Socialists",0,0,0,1,0,0
+"British Caribbean",0,0,1,0,0,0
+"Spanish",1,0,0,0,0,0
+"Algerians",1,0,0,0,0,0
+"KIBAKI",0,1,0,0,0,0
+"Washingtonians",0,0,0,0,1,0
+"Jordanian Red Sea",0,1,0,0,0,0
+"Shi'ites",0,1,0,0,0,0
+"North Korean",1,0,0,0,0,0
+"Malay",0,1,0,0,0,0
+"Tibetan",1,0,0,0,0,0
+"Iranian American",1,0,0,0,0,0
+"Rwandan Hutu",0,0,1,0,0,0
+"Soviets",0,0,0,0,1,0
+"Bengali",0,1,0,0,0,0
+"Indonesian",1,0,0,0,0,0
+"Jordanians",1,0,0,0,0,0
+"Italian Foreign Ministry",0,0,1,0,0,0
+"Some Sunni Arab",0,0,1,0,0,0
+"American Bode Miller",0,0,1,0,0,0
+"Viking",0,0,0,1,0,0
+"Chadians",0,0,0,0,1,0
+"Tibetans",0,0,0,0,1,0
+"Slovenes",1,0,0,0,0,0
+"Socialist",0,0,0,1,0,0
+"Eastern",0,1,0,0,0,0
+"Islamist",0,1,0,0,0,0
+"Swazis",1,0,0,0,0,0
+"Cuban",1,0,0,0,0,0
+"Parisian",0,0,0,1,0,0
+"Muslim Islamic",0,0,0,1,0,0
+"Austrians",1,0,0,0,0,0
+"Westerners",0,1,0,0,0,0
+"Nazi",0,1,0,0,0,0
+"Shi'ite Muslim",0,1,0,0,0,0
+"Ghanaian",1,0,0,0,0,0
+"Central Asian",0,1,0,0,0,0
+"Afghan Muslim",0,0,1,0,0,0
+"Shi'ite Turkmen",0,0,1,0,0,0
+"Colombian Marxist",0,0,1,0,0,0
+"Muslim Prophet Momammad",0,1,0,0,0,0
+"Secularists",0,0,0,1,0,0
+"Democrat Neil Abercrombie",0,0,0,1,0,0
+"communist",0,0,0,1,0,0
+"Jewish",0,1,0,0,0,0
+"Coalition",0,1,0,0,0,0
+"Danish",1,0,0,0,0,0
+"Haitian American",0,0,1,0,0,0
+"Hindu",0,1,0,0,0,0
+"Mexicans",0,0,0,0,1,0
+"SOME White Christians",0,0,0,1,0,0
+"Maltese",1,0,0,0,0,0
+"Latin Americans",0,0,1,0,0,0
+"Thai Buddhist",0,0,1,0,0,0
+"Palestinian Americans",0,0,1,0,0,0
+"Slavic",0,0,0,1,0,0
+"Canadian",1,0,0,0,0,0
+"Roman Catholics",0,1,0,0,0,0
+"Sh'ite",0,0,0,1,0,0
+"Dominicans",0,0,0,0,1,0
+"Spaniard",1,0,0,0,0,0
+"European Union",0,1,0,0,0,0
+"Nigerians",1,0,0,0,0,0
+"Iraqi Americans",0,0,1,0,0,0
+"Brazilian Jean Charles de Menezes",0,0,1,0,0,0
+"Communism",0,1,0,0,0,0
+"Lucayan Indians",1,0,0,0,0,0
+"Popular",0,0,0,1,0,0
+"Afghan Communist",0,0,1,0,0,0
+"Icelandic",1,0,0,0,0,0
+"German Defense Ministry",0,0,1,0,0,0
+"Republican John McCain",0,0,0,1,0,0
+"Rizeigat",0,1,0,0,0,0
+"European Parliament",0,1,0,0,0,0
+"Darfuri Arab",0,1,0,0,0,0
+"Greek Orthodox",0,1,0,0,0,0
+"French News",0,1,0,0,0,0
+"Crimean",1,0,0,0,0,0
+"palestinian",0,0,0,0,1,0
+"Anatolia",0,1,0,0,0,0
+"Comoran",0,1,0,0,0,0
+"Zambian",1,0,0,0,0,0
+"Christians",0,1,0,0,0,0
+"Latin",0,1,0,0,0,0
+"D.",0,0,0,1,0,0
+"Acehnese",0,1,0,0,0,0
+"Democrats last week",0,0,0,1,0,0
+"Basque",0,1,0,0,0,0
+"Turkish",1,0,0,0,0,0
+"Orthodox Christmas today",0,1,0,0,0,0
+"Iranian Cuban",0,0,1,0,0,0
+"Orthodox Christmas",0,1,0,0,0,0
+"Baltic",0,1,0,0,0,0
+"Nigerian",1,0,0,0,0,0
+"Greek",1,0,0,0,0,0
+"Indo Fijian",0,0,0,1,0,0
+"Indian Sikhs",0,0,0,0,1,0
+"Filipinos",0,0,0,0,1,0
+"Congolese",1,0,0,0,0,0
+"Muslim Arabs",0,0,1,0,0,0
+"Iranian Americans",0,0,1,0,0,0
+"DRUNKEN",0,0,0,1,0,0
+"French Canadian",0,0,1,0,0,0
+"Democrats",0,1,0,0,0,0
+"Malta",0,0,0,0,1,0
+"Protestant",0,1,0,0,0,0
+"Uzbek SSR",0,0,1,0,0,0
+"unionist",0,0,0,1,0,0
+"Croatian",1,0,0,0,0,0
+"Kazakhstani",0,1,0,0,0,0
+"six Bosnian Muslims",0,0,1,0,0,0
+"U.",0,0,1,0,0,0
+"Roma Gypsies",0,0,0,1,0,0
+"Austrian Michael Walchhofer",0,0,1,0,0,0
+"Belarusian",1,0,0,0,0,0
+"Azeri",1,0,0,0,0,0
+"Russian seventh",0,0,1,0,0,0
+"American Indians",1,0,0,0,0,0
+"Argentine",1,0,0,0,0,0
+"Tunisians",0,0,0,1,0,0
+"Israeli Defense",0,0,1,0,0,0
+"Uzbeks",1,0,0,0,0,0
+"Tianjin",0,0,0,0,1,0
+"Afghans",1,0,0,0,0,0
+"Central American",0,0,1,0,0,0
+"Rwandan",1,0,0,0,0,0
+"Gazan",0,1,0,0,0,0
+"Jews",0,1,0,0,0,0
+"Mauritanian Algerian",0,0,1,0,0,0
+"Ecuadorian",1,0,0,0,0,0
+"Namibians",0,0,0,0,1,0
+"Fascist",0,0,0,1,0,0
+"Arab",1,0,0,0,0,0
+"Saharan African",0,0,1,0,0,0
+"Iraqi Kurd",0,0,1,0,0,0
+"Austrian Alpine",0,0,1,0,0,0
+"Peruvian",1,0,0,0,0,0
+"Hutus",0,1,0,0,0,0
+"East Asian",0,1,0,0,0,0
+"Burmese",1,0,0,0,0,0
+"Iraqi Sunni",0,0,1,0,0,0
+"French Catholic",0,0,1,0,0,0
+"European Iranian",0,0,1,0,0,0
+"Iranians",1,0,0,0,0,0
+"British India",0,0,1,0,0,0
+"Guerrillas",0,0,0,1,0,0
+"Polish Lithuanian Commonwealth",0,0,1,0,0,0
+"English",1,0,0,0,0,0
+"Macedonian",1,0,0,0,0,0
+"Islamists",0,1,0,0,0,0
+"Czechs",1,0,0,0,0,0
+"Lebanese Hezbollah",0,0,1,0,0,0
+"Kopra",0,0,0,0,1,0
+"French Foreign Ministry",0,1,0,0,0,0
+"Sa'adi",0,0,0,1,0,0
+"Greek Cypriot",0,0,0,0,1,0
+"Activists",0,0,0,1,0,0
+"Constitutional",0,0,0,1,0,0
+"Democrat",0,1,0,0,0,0
+"Scottish",1,0,0,0,0,0
+"Austro Hungarian",0,0,1,0,0,0
+"Greek Cypriots",0,0,0,0,1,0
+"Nationalist",0,0,0,1,0,0
+"Abkhaz",0,1,0,0,0,0
+"Baluch",0,1,0,0,0,0
+"Washingtonians",1,0,0,0,0,0
+"Buddhist Thailand",0,0,1,0,0,0
+"Sinn Fein",0,1,0,0,0,0
+"Buddhist",0,1,0,0,0,0
+"Somalians",0,1,0,0,0,0
+"Soviets",1,0,0,0,0,0
+"Turkish Cypriot",1,0,0,0,0,0
+"Ukrainian",1,0,0,0,0,0
+"Han",0,1,0,0,0,0
+"Ivorians",1,0,0,0,0,0
+"Afghan Interior Ministry",0,0,1,0,0,0
+"Republican",0,1,0,0,0,0
+"Swedish",1,0,0,0,0,0
+"Omanis",0,1,0,0,0,0
+"Chadian",1,0,0,0,0,0
+"Australian Schapelle Corby",0,0,1,0,0,0
+"Israeli Hizballah",0,0,1,0,0,0
+"Afars",0,0,0,1,0,0
+"Tibetans",1,0,0,0,0,0
+"Austrian",1,0,0,0,0,0
+"Welsh",1,0,0,0,0,0
+"Druze",0,1,0,0,0,0
+"Hindi",0,0,0,1,0,0
+"Bolshevik",0,0,0,1,0,0
+"American Thomas Schelling Israeli American Robert Aumann",0,0,1,0,0,0
+"French Interior",0,0,1,0,0,0
+"Europrean",0,0,0,1,0,0
+"Muslim Turkey",0,1,0,0,0,0
+"American",1,0,0,0,0,0
+"Uighurs",0,0,0,0,1,0
+"Sino American",0,0,1,0,0,0
+"Filipino Roberto Tarongoy",0,0,1,0,0,0
+"Egyptian",1,0,0,0,0,0
+"Persians",1,0,0,0,0,0
+"Muslim Pakistan",0,1,0,0,0,0
+"Israeli Defense Forces",0,0,1,0,0,0
+"Some 1,00,000 Ethiopian Jews",0,0,1,0,0,0
+"Zapatistas",0,1,0,0,0,0
+"Norwegian Frode Andresen",0,0,1,0,0,0
+"Chinese Foreign Ministry",0,0,1,0,0,0
+"Russian Empires",0,0,1,0,0,0
+"Pakistani Taliban",0,0,1,0,0,0
+"Soviet Baltic",0,0,0,1,0,0
+"Mexicans",1,0,0,0,0,0
+"Maltese",0,0,0,0,1,0
+"U. S. American",0,0,1,0,0,0
+"Liberian",1,0,0,0,0,0
+"Palestinians Tuesday",0,0,1,0,0,0
+"Czech Tomas Berdych",0,0,1,0,0,0
+"Militant",0,0,0,1,0,0
+"Colombians",0,0,1,0,0,0
+"Lithuanian",1,0,0,0,0,0
+"Korean",1,0,0,0,0,0
+"Senegalese",1,0,0,0,0,0
+"Eurasian",1,0,0,0,0,0
+"Melanesians",1,0,0,0,0,0
+"Communists",0,1,0,0,0,0
+"Cameroonian",0,0,0,0,1,0
+"Uzbek Foreign Ministry",0,0,1,0,0,0
+"Dominicans",1,0,0,0,0,0
+"Muslim Christian",0,0,0,1,0,0
+"Kurds",1,0,0,0,0,0
+"German Bjorn Phau",0,0,1,0,0,0
+"Slovaks",1,0,0,0,0,0
+"Muslim",0,1,0,0,0,0
+"Chilean",1,0,0,0,0,0
+"French Defense Ministry",0,0,1,0,0,0
+"Ecuadoreans",0,0,1,0,0,0
+"Haitian",1,0,0,0,0,0
+"Nordic",0,1,0,0,0,0
+"Qatari",0,1,0,0,0,0
+"Eastern European",0,1,0,0,0,0
+"Tamil",0,1,0,0,0,0
+"Zimbabwean",1,0,0,0,0,0
+"Syrian Islamic",0,0,1,0,0,0
+"Austrian Andreas Widhoelzl",0,0,1,0,0,0
+"Sardinian",0,0,0,1,0,0
+"Ethnic Albanians",0,0,1,0,0,0
+"Chechens",1,0,0,0,0,0
+"Sunni Arabs",0,0,1,0,0,0
+"Russian daily Izvestia",0,0,1,0,0,0
+"Turkish EU",0,0,1,0,0,0
+"Genoese",0,1,0,0,0,0
+"Sunni Muslims",0,1,0,0,0,0
+"Kosovo Albanian",0,0,1,0,0,0
+"Sudanese",1,0,0,0,0,0
+"Frenchman Michael Llodra",0,0,1,0,0,0
+"Australians",1,0,0,0,0,0
+"North",1,0,0,0,0,0
+"Kenyan",1,0,0,0,0,0
+"Indian Kashmir Wednesday",0,0,1,0,0,0
+"Faroese",0,0,0,0,1,0
+"Zimbabweans",0,0,0,0,1,0
+"Croat",1,0,0,0,0,0
+"Iraqi Kurdish",0,0,1,0,0,0
+"Russian Foreign Ministry",0,0,1,0,0,0
+"American Justin Gimelstob",0,0,1,0,0,0
+"American Andy Roddick",0,0,1,0,0,0
+"Uruguayan",1,0,0,0,0,0
+"Filipinos",1,0,0,0,0,0
+"Bolivians",1,0,0,0,0,0
+"the Bosnian Serbs",0,0,1,0,0,0
+"Syrian Lebanese",0,0,1,0,0,0
+"Anjouanais",0,1,0,0,0,0
+"Mayan",0,0,0,1,0,0
+"Bosnian Muslim",0,0,1,0,0,0
+"Liberians",0,0,0,0,1,0
+"Marxist Leninist",0,0,0,1,0,0
+"Bosnian Serbs",1,0,0,0,0,0
+"Frenchman Gael Monfils",0,1,0,0,0,0
+"Palestinians",1,0,0,0,0,0
+"Bahraini",1,0,0,0,0,0
+"East African",0,1,0,0,0,0
+"Malian",1,0,0,0,0,0
+"Marxist Sandinista",0,0,0,1,0,0
+"Poles",1,0,0,0,0,0
+"S. Iraqi",0,0,1,0,0,0
+"Azerbaijani",1,0,0,0,0,0
+"Aruban",1,0,0,0,0,0
+"Eastern Turkmenistan",0,1,0,0,0,0
+"Afghan NATO",0,0,1,0,0,0
+"Moldovan",0,0,0,0,1,0
+"Croatian Serbs",0,0,0,0,1,0
+"Kuwaiti",1,0,0,0,0,0
+"Puerto Rican",0,0,1,0,0,0
+"Monterrey",0,0,0,0,1,0
+"Yemeni",1,0,0,0,0,0
+"Indians",1,0,0,0,0,0
+"Afghan Defense Ministry",0,0,1,0,0,0
+"Togolese",0,1,0,0,0,0
+"South Korean",1,0,0,0,0,0
+"DPRK",0,1,0,0,0,0
+"African American",1,0,0,0,0,0
+"U. S.",0,0,0,1,0,0
+"Afrikaners",0,0,0,1,0,0
+"South African",1,0,0,0,0,0
+"US",1,0,0,0,0,0
+"Dynastic",0,0,0,1,0,0
+"Christianity",0,1,0,0,0,0
+"Janjaweed",0,1,0,0,0,0
+"Croatians",0,0,0,0,1,0
+"French Spanish Swiss",0,0,1,0,0,0
+"Creole",0,1,0,0,0,0
+"Dubrovka",0,1,0,0,0,0
+"Tokugawa",0,0,0,1,0,0
+"Indo-Bhutanese",0,0,0,0,1,0
+"Dutch",1,0,0,0,0,0
+"Russian Nikolay Davydenko",0,0,1,0,0,0
+"Israeli Cabinet",0,0,1,0,0,0
+"Venezuelan Jewish",0,0,1,0,0,0
+"Allies",0,1,0,0,0,0
+"Greek Cypriot",1,0,0,0,0,0
+"Tamils",0,1,0,0,0,0
+"Briton Tuesday",0,0,1,0,0,0
+"Novakatkan",0,0,0,0,1,0
+"Free Democrats",0,1,0,0,0,0
+"Ijaw",0,0,0,1,0,0
+"Greek Cypriots",1,0,0,0,0,0
+"Iraqi Shi'ite",0,0,1,0,0,0
+"Separatist",0,0,0,1,0,0
+"Israelis",1,0,0,0,0,0
+"Sikhs",0,0,0,0,1,0
+"Maldives",0,0,0,0,1,0
+"Serb",1,0,0,0,0,0
+"U. S. German",0,0,1,0,0,0
+"Australian David Hicks",0,0,1,0,0,0
+"Russian Ukrainian",0,0,1,0,0,0
+"Hispanics",0,0,0,1,0,0
+"Hungarian",1,0,0,0,0,0
+"Bosnian Serb",1,0,0,0,0,0
+"Panamanian",1,0,0,0,0,0
+"Rwandans",1,0,0,0,0,0
+"Ecuadorean",0,0,1,0,0,0
+"Germans",1,0,0,0,0,0
+"Turkish Cypriot",0,0,0,0,1,0
+"Swiss",1,0,0,0,0,0
+"Italian Fabrizio Meoni",0,0,1,0,0,0
+"Bosnian Muslims",0,0,1,0,0,0
+"Chadian",0,0,0,0,1,0
+"Chongqing",0,0,0,0,1,0
+"Bahamian",0,0,0,0,1,0
+"Kosovo Albanians",0,0,1,0,0,0
+"Democrat Barack Obama",0,0,0,1,0,0
+"Costa Rican",1,0,0,0,0,0
+"Chileans",1,0,0,0,0,0
+"Orthodox Christians",0,1,0,0,0,0
+"Copts",0,0,0,1,0,0
+"Armenians",1,0,0,0,0,0
+"Israeli Palestinian",0,0,1,0,0,0
+"Socialist Democrats",0,1,0,0,0,0
+"Yomiuri",0,1,0,0,0,0
+"Georgians",0,0,0,0,1,0
+"Danes",1,0,0,0,0,0
+"American Tom Fox",0,1,0,0,0,0
+"Argentines",1,0,0,0,0,0
+"Bulgarian",1,0,0,0,0,0
+"Spaniards",1,0,0,0,0,0
+"Jubilant Palestinians",0,0,1,0,0,0
+"Kurd",0,1,0,0,0,0
+"Foreign",0,1,0,0,0,0
+"Indian",1,0,0,0,0,0
+"French Saturday",0,0,1,0,0,0
+"Some Egyptian Christians",0,0,1,0,0,0
+"Ninh Binh",0,0,0,0,1,0
+"Martian",0,1,0,0,0,0
+"Sunnis Arabs",0,0,1,0,0,0
+"Sinhalese",0,1,0,0,0,0
+"German Tommy Haas",0,0,1,0,0,0
+"Anguillan",0,0,0,1,0,0
+"Catholics",0,1,0,0,0,0
+"Immigrant",0,0,0,1,0,0
+"Shi'ite Islam",0,1,0,0,0,0
+"Malay Muslim",0,0,0,1,0,0
+"British Honduras",0,0,0,0,1,0
+"Caribbean",0,1,0,0,0,0
+"Novakatka",0,0,0,0,1,0
+"Melanesians",0,0,0,0,1,0
+"Norwegian",1,0,0,0,0,0
+"Shiite",0,0,0,1,0,0
+"Bangladeshis",1,0,0,0,0,0
+"Cubans",1,0,0,0,0,0
+"Christian Democrats",0,1,0,0,0,0
+"Irish",1,0,0,0,0,0
+"US Middle East",0,0,1,0,0,0
+"Republican House",0,1,0,0,0,0
+"Maoists",0,1,0,0,0,0
+"Russian Teimuraz Gabashvili",0,0,1,0,0,0
+"a Tzotzil Indian",0,0,1,0,0,0
+"Albanian",1,0,0,0,0,0
+"Turks",1,0,0,0,0,0
+"Nicaraguan",1,0,0,0,0,0
+"European Muslims",0,1,0,0,0,0
+"North American",0,1,0,0,0,0
+"Tunisian",0,0,0,1,0,0
+"Pakistani Shi'ite Muslims",0,0,1,0,0,0
+"Swede Robin Soderling",0,1,0,0,0,0
+"Sri Lankan",1,0,0,0,0,0
+"Africans",1,0,0,0,0,0
+"Beja",0,1,0,0,0,0
+"Cham",0,1,0,0,0,0
+"Pakistan",1,0,0,0,0,0
+"Afghan",1,0,0,0,0,0
+"Sunni",0,1,0,0,0,0
+"U. S. Venezuelan",0,0,1,0,0,0
+"Tanzanian",0,0,0,0,1,0
+"Bengali Muslim",0,1,0,0,0,0
+"Lebanese",1,0,0,0,0,0
+"French Togoland",0,0,1,0,0,0
+"German Syrian",0,0,1,0,0,0
+"Salvadoran",1,0,0,0,0,0
+"Cajun",0,0,0,1,0,0
+"Sunnis",0,1,0,0,0,0
+"Sandanista",0,1,0,0,0,0
+"Caucasus",0,1,0,0,0,0
+"Indian Kashmir",0,1,0,0,0,0
+"Manx Gaelic",0,1,0,0,0,0
+"Taino",1,0,0,0,0,0
+"Faroese",1,0,0,0,0,0
+"Uzbek",1,0,0,0,0,0
+"Orthodox Jews",0,0,0,1,0,0
+"Leftist",0,0,0,1,0,0
+"Koreans",0,0,0,0,1,0
+"Ugandan",1,0,0,0,0,0
+"Arab East Jerusalem",0,1,0,0,0,0
+"Nepali",0,0,0,0,1,0
+"Bolivians",0,0,0,0,1,0
+"Janjaweed Arab",0,1,0,0,0,0
+"Argentine Juan Martin del Potro",0,0,1,0,0,0
+"Peruvians",1,0,0,0,0,0
+"British Muslims",0,0,1,0,0,0
+"East European",0,0,1,0,0,0
+"Tutsis",0,1,0,0,0,0
+"Taleban",0,1,0,0,0,0
+"South Vietnamese",0,0,1,0,0,0
+"Filipino Christians",0,0,1,0,0,0
+"Bhutanese",1,0,0,0,0,0
+*TOTAL*,415,258,224,114,131,0

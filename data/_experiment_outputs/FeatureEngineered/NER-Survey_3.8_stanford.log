@@ -1,0 +1,47 @@
+[2021-04-21 15:48:35,291] [root � INFO] � [<module>:2605]
+******************************************************************************
+[2021-04-21 15:48:35,291] [root � INFO] � [<module>:2606]
+Loading NLP/NER models...
+[2021-04-21 15:48:35,291] [root � INFO] � [output:224]
+
+2021-04-21 15:48:35.291616> @<static_method>.models:
+NER.processing_blocks=['stanford']
+NER.models=['stanford_class3_model', 'stanford_class4_model', 'stanford_class7_model']
+[2021-04-21 15:48:35,310] [root � INFO] � [<module>:2608]
+NLP/NER models loaded!
+[2021-04-21 15:48:35,310] [root � INFO] � [<module>:2609]
+******************************************************************************
+
+[2021-04-21 15:48:35,310] [root � INFO] � [output:224]
+
+2021-04-21 15:48:35.310960> @<static_method>.displayConfigFile:
+* Already using configuration file: /data/python-resources/AGRIF/mapping-services/MEL/config-NER-Survey.json
+  (nothing to do)
+[2021-04-21 15:48:35,311] [root � INFO] � [header:2696]
+******************************************************************************
+[2021-04-21 15:48:35,311] [root � INFO] � [header:2697]
+Project AGRIF | MEL: Metadata Extractor & Loader --> @dataset=NER-Survey
+[2021-04-21 15:48:35,311] [root � INFO] � [printStartTimeStamp:235]
+Start time: [2021-04-21 15:48:35.311281]
+[2021-04-21 15:48:35,311] [root � INFO] � [header:2700]
+platform: [Linux]; __name__: [MEL]; __package__: [MEL]
+[2021-04-21 15:48:35,311] [root � INFO] � [shortPrint:441]
+CouchDB Processing: [False], NLP-NER Processing: [True]
+[2021-04-21 15:48:35,311] [root � INFO] � [shortPrint:442]
+Input Folder: [/data/python-resources/AGRIF/docs-repo/NER-Survey/]
+
+
+[2021-04-21 15:48:35,311] [root � INFO] � [header:2702]
+******************************************************************************
+[2021-04-21 17:43:34,363] [root � INFO] � [output:224]
+
+2021-04-21 17:43:34.363856> @<static_method>.writeOutputFile:
+[/data/python-resources/AGRIF/docs-repo/NER-Survey/_output/Feature_engineered_corpus.txt-MEL+NER_output.json]
+[2021-04-21 17:43:34,374] [root � INFO] � [footer:2715]
+******************************************************************************
+[2021-04-21 17:43:34,374] [root � INFO] � [printEndTimeStamp:240]
+
+
+End time: [2021-04-21 17:43:34.374845]
+[2021-04-21 17:43:34,375] [root � INFO] � [printEndTimeStamp:241]
+Execution time: 6899.063992 seconds.

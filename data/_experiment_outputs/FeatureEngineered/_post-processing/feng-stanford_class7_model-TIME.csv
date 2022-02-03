@@ -1,0 +1,21 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"later that night",0,0,0,0,0,1
+"night",0,1,0,0,0,0
+"midday",0,1,0,0,0,0
+"late night",0,0,0,0,0,1
+"early this morning Sunday. Police",0,0,0,0,0,1
+"late Friday afternoon local time",0,0,0,0,0,1
+"mid morning",0,0,0,0,0,1
+"morning local time",0,0,0,0,0,1
+"this morning",0,1,0,0,0,0
+"midnight Thursday",0,1,0,0,0,0
+"midnight",0,1,0,0,0,0
+"midnight Tuesday",0,1,0,0,0,0
+"This morning",0,0,0,0,0,1
+"midnight Mass.",0,0,0,0,0,1
+"midday local time Thursday",0,0,0,0,0,1
+"midnight Saturday",0,1,0,0,0,0
+"midnight Sunday",0,1,0,0,0,0
+"Later in the day",0,0,0,0,0,1
+"night Friday",0,0,0,0,0,1
+*TOTAL*,0,8,0,0,0,11

@@ -1,0 +1,100 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"munitions",0,0,0,0,1,0
+"rocket - propelled grenades",0,0,0,0,1,0
+"air strike",0,0,0,0,1,0
+"rocket propelled grenade launcher",0,0,0,0,1,0
+"bulldozer",0,0,0,0,1,0
+"strike",0,0,0,0,1,0
+"bombardment",0,0,0,0,1,0
+"weapons",0,0,0,0,1,0
+"vehicles",0,0,0,0,1,0
+"simple chemical weapons",0,0,0,0,1,0
+"a rifle",0,0,0,0,1,0
+"a heavy machine gun",0,0,0,0,1,0
+"fighter",0,0,0,0,1,0
+"UAV",1,0,0,0,0,0
+"the tanks",0,0,0,0,1,0
+"vehicle - borne homemade bombs",0,0,0,0,1,0
+"HMS Ocean.",0,0,1,0,0,0
+"shell",0,0,0,0,1,0
+"chemicals",0,0,0,0,1,0
+"a mortar",0,0,0,0,1,0
+"heavy weapons",0,0,0,0,1,0
+"artillery systems",0,0,0,0,1,0
+"bombs",0,0,0,0,1,0
+"a single aircraft",0,0,0,0,1,0
+"car bomb",0,0,0,0,1,0
+"attack , bomber , fighter and remotely piloted aircraft",0,0,0,0,1,0
+"a single weapon",0,0,0,0,1,0
+"helicopters",0,0,0,0,1,0
+"FS Charles de Gaulle",0,0,0,0,1,0
+"plane",0,0,0,0,1,0
+"the aircraft",0,0,0,0,1,0
+"Operation Inherent Resolve with KC 135R Stratotanker",0,0,1,0,0,0
+"a VBIED",0,0,0,0,1,0
+"suicide attacks",0,0,0,0,1,0
+"HMS Ocean L 12",0,0,1,0,0,0
+"airstrike",0,0,0,0,1,0
+"shells",0,0,0,0,1,0
+"bombers",0,0,0,0,1,0
+"attack",0,0,0,0,1,0
+"weapon systems",0,0,0,0,1,0
+"Brimstone",0,0,0,1,0,0
+"NAVCENT Task Force CTF 50",0,0,0,1,0,0
+"rocket artillery",0,0,0,0,1,0
+"missile",0,0,0,0,1,0
+"Passcode 3080897",0,1,0,0,0,0
+"armored vehicle",0,0,0,0,1,0
+"Attribution",0,0,0,1,0,0
+"rockets",0,0,0,0,1,0
+"an ISIL tactical vehicle",0,0,0,0,1,0
+"bomb",0,0,0,0,1,0
+"unmanned aircraft",0,0,0,0,1,0
+"bomber",0,0,0,0,1,0
+"Exercise Eager Lion 16",0,0,0,1,0,0
+"ISIL vehicles",0,0,0,0,1,0
+"tactical vehicles",0,0,0,0,1,0
+"aircraft",0,0,0,0,1,0
+"such weapons",0,0,0,0,1,0
+"barrel bombs",0,0,0,0,1,0
+"anti - aircraft artillery systems",0,0,0,0,1,0
+"front - end loaders",0,0,0,0,1,0
+"Israeli jets",0,0,0,0,1,0
+"a rocket - propelled grenade launcher",0,0,0,0,1,0
+"missiles",0,0,0,0,1,0
+"pontoon bridge",0,0,0,0,1,0
+"suicide vehicles",0,0,0,0,1,0
+"attack , bomber , fighter , and remotely piloted aircraft",0,0,0,0,1,0
+"ISIL",0,1,0,0,0,0
+"dump truck",0,0,0,0,1,0
+"a front - end loader",0,0,0,0,1,0
+"artillery",0,0,0,0,1,0
+"vehicle bombs",0,0,0,0,1,0
+"other military hardware",0,0,0,0,1,0
+"airlifters",0,0,0,0,1,0
+"Ground - based artillery",0,0,0,0,1,0
+"Air Force F 16 Fighting Falcons",0,0,0,1,0,0
+"technical vehicles",0,0,0,0,1,0
+"gun butts",0,0,0,0,1,0
+"artillery and mortar systems",0,0,0,0,1,0
+"Coalition aircraft",0,0,0,0,1,0
+"armored vehicles",0,0,0,0,1,0
+"USS Hopper DDG 70",0,0,1,0,0,0
+"Explosive Ordnance Disposal Mobile Unit Two",0,1,0,0,0,0
+"ISIL tanks",0,0,0,0,1,0
+"snipers ' bullets",0,0,0,0,1,0
+"tanks",0,0,0,0,1,0
+"mortar",0,0,0,0,1,0
+"improvised explosive device",0,0,0,0,1,0
+"strikes",0,0,0,0,1,0
+"barrel bomb",0,0,0,0,1,0
+"chemical weapons",0,0,0,0,1,0
+"FS Forbin",0,0,0,0,1,0
+"jet",0,0,0,0,1,0
+"machine gun",0,0,0,0,1,0
+"an ordinary artillery round",0,0,0,0,1,0
+"air strikes",0,0,0,0,1,0
+"remotely piloted aircraft",0,0,0,0,1,0
+"vehicle",0,0,0,0,1,0
+"rocket propelled grenade",0,0,0,0,1,0
+*TOTAL*,1,3,4,5,255,0

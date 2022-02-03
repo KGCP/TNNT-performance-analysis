@@ -1,0 +1,734 @@
+{
+    "Silicium de Provence SAS": [
+        "ORG"
+    ],
+    "Evergreen Solar Inc": [
+        "ORG"
+    ],
+    "HERBERT SMITH": [
+        "PER"
+    ],
+    "SILICIUM DE PROVENCE SAS": [
+        "ORG"
+    ],
+    "EVERGREEN SOLAR": [
+        "ORG"
+    ],
+    "SILICIUM DE PROVENCE": [
+        "ORG"
+    ],
+    "France": [
+        "LOC"
+    ],
+    "Usine de Saint Auban": [
+        "LOC"
+    ],
+    "04 600 Saint Auban": [
+        "LOC"
+    ],
+    "Frank Wouters": [
+        "PER"
+    ],
+    "Borrower": [
+        "PER"
+    ],
+    "EVERGREEN SOLAR , INC": [
+        "ORG"
+    ],
+    "138 Bartlett Street": [
+        "LOC"
+    ],
+    "Marlboro": [
+        "LOC"
+    ],
+    "Massachusetts 01752": [
+        "LOC"
+    ],
+    "Richard Chleboski": [
+        "PER"
+    ],
+    "Lender": [
+        "PER"
+    ],
+    "Bank": [
+        "ORG"
+    ],
+    "Belgium": [
+        "LOC"
+    ],
+    "Immeuble Les Caryatides": [
+        "LOC"
+    ],
+    "24 / 26 boulevard Carnot": [
+        "LOC"
+    ],
+    "59042 Lille cedex": [
+        "LOC"
+    ],
+    "bank": [
+        "ORG"
+    ],
+    "Wall Street": [
+        "LOC"
+    ],
+    "French": [
+        "MISC"
+    ],
+    "Silicon Valley": [
+        "LOC"
+    ],
+    "lender": [
+        "PER"
+    ],
+    "Silicium de Provence": [
+        "ORG"
+    ],
+    "Saint Auban": [
+        "LOC"
+    ],
+    "CEO": [
+        "LOC"
+    ],
+    "138": [
+        "LOC"
+    ],
+    "Bartlett": [
+        "LOC"
+    ],
+    "Street": [
+        "LOC"
+    ],
+    "Massachusetts": [
+        "LOC"
+    ],
+    "English": [
+        "MISC"
+    ],
+    "Paris": [
+        "LOC"
+    ],
+    "SILICIUM DE PROVENCE S": [
+        "ORG"
+    ],
+    "Richard G": [
+        "PER"
+    ],
+    "Chleboski": [
+        "PER"
+    ],
+    "Ashford Venture I LLC": [
+        "ORG"
+    ],
+    "Ashford Hospitality Servicing LLC": [
+        "ORG"
+    ],
+    "ASHFORD VENTURE I": [
+        "ORG"
+    ],
+    "LLC": [
+        "ORG"
+    ],
+    "ASHFORD HOSPITALITY SERVICING LLC": [
+        "ORG"
+    ],
+    "Ashford Venture I": [
+        "ORG"
+    ],
+    "Ashford": [
+        "ORG"
+    ],
+    "Prudential Investment Management": [
+        "ORG"
+    ],
+    "PRISA III": [
+        "ORG"
+    ],
+    "United States": [
+        "LOC"
+    ],
+    "New York": [
+        "LOC"
+    ],
+    "James P": [
+        "PER"
+    ],
+    "Ashford Hospitality Finance LP": [
+        "ORG"
+    ],
+    "Ashford Hospitality Finance General Partner LLC": [
+        "ORG"
+    ],
+    "David Brooks": [
+        "PER"
+    ],
+    "Union Bank": [
+        "ORG"
+    ],
+    "California": [
+        "LOC"
+    ],
+    "UNION BANK": [
+        "ORG"
+    ],
+    "CALIFORNIA": [
+        "LOC"
+    ],
+    "Delaware": [
+        "ORG"
+    ],
+    "BORROWER": [
+        "PER"
+    ],
+    "BANK": [
+        "ORG"
+    ],
+    "Peter Case Peter Case": [
+        "PER"
+    ],
+    "6328 Monarch Park Place Niwot": [
+        "LOC"
+    ],
+    "Colorado 80503": [
+        "LOC"
+    ],
+    "Keith Love": [
+        "PER"
+    ],
+    "Douglas S": [
+        "PER"
+    ],
+    "530 B Street": [
+        "LOC"
+    ],
+    "4th Floor San Diego": [
+        "LOC"
+    ],
+    "SILICON VALLEY BANK": [
+        "ORG"
+    ],
+    "3003 Tasman Drive": [
+        "LOC"
+    ],
+    "Santa Clara": [
+        "LOC"
+    ],
+    "40 William St": [
+        "LOC"
+    ],
+    "Wellesley": [
+        "LOC"
+    ],
+    "Silicon Valley East": [
+        "LOC"
+    ],
+    "AKAMAI TECHNOLOGIES": [
+        "ORG"
+    ],
+    "201 Broadway": [
+        "LOC"
+    ],
+    "Cambridge": [
+        "LOC"
+    ],
+    "The Wall Street Journal": [
+        "ORG"
+    ],
+    "Eastern": [
+        "LOC"
+    ],
+    "Federal Reserve Board of Governors": [
+        "ORG"
+    ],
+    "ERISA": [
+        "ORG"
+    ],
+    "COMMONWEALTH OF MASSACHUSETTS": [
+        "LOC"
+    ],
+    "SANTA CLARA": [
+        "LOC"
+    ],
+    "Chief Financial Officer": [
+        "ORG"
+    ],
+    "Akamai Technologies": [
+        "ORG"
+    ],
+    "Paul Sagan": [
+        "PER"
+    ],
+    "SILICON VALLEY EAST": [
+        "LOC"
+    ],
+    "Nancy E": [
+        "PER"
+    ],
+    "Thinkplus Investments Limited": [
+        "ORG"
+    ],
+    "Airland International Limited Bizexpress Limited": [
+        "ORG"
+    ],
+    "Beijing": [
+        "LOC"
+    ],
+    "China": [
+        "LOC"
+    ],
+    "Cayman Islands": [
+        "LOC"
+    ],
+    "Codan Trust Company": [
+        "LOC"
+    ],
+    "Cayman": [
+        "LOC"
+    ],
+    "Century Yard": [
+        "LOC"
+    ],
+    "Cricket Square": [
+        "LOC"
+    ],
+    "Hutchins Drive": [
+        "LOC"
+    ],
+    "George Town": [
+        "LOC"
+    ],
+    "Grand Cayman": [
+        "LOC"
+    ],
+    "British West Indies": [
+        "LOC"
+    ],
+    "Airland International Limited": [
+        "ORG"
+    ],
+    "British Virgin Islands": [
+        "LOC"
+    ],
+    "2nd floor": [
+        "LOC"
+    ],
+    "Abbott Building Road Town": [
+        "LOC"
+    ],
+    "Tortola": [
+        "LOC"
+    ],
+    "Bizexpress Limited": [
+        "LOC",
+        "ORG"
+    ],
+    "Bizexpress": [
+        "ORG"
+    ],
+    "Airland": [
+        "ORG"
+    ],
+    "Worksoft": [
+        "ORG"
+    ],
+    "Zhang Jilun": [
+        "PER"
+    ],
+    "Shi Rongbin": [
+        "PER"
+    ],
+    "Hong Kong Special Administrative Region": [
+        "LOC"
+    ],
+    "Hong Kong": [
+        "LOC"
+    ],
+    "Shanghai Solutions": [
+        "ORG"
+    ],
+    "Worksoft Creative Software Technology Ltd": [
+        "ORG"
+    ],
+    "Shanghai Solutions Software Co": [
+        "ORG"
+    ],
+    "Republic of China": [
+        "LOC"
+    ],
+    "Macao Special Administrative Region": [
+        "LOC"
+    ],
+    "Taiwan": [
+        "LOC"
+    ],
+    "United State of America": [
+        "LOC"
+    ],
+    "Bank of China": [
+        "ORG"
+    ],
+    "Sidney X . Huang": [
+        "PER"
+    ],
+    "3F": [
+        "LOC"
+    ],
+    "Zhongguancun Software Park": [
+        "LOC"
+    ],
+    "36": [
+        "LOC"
+    ],
+    "Lane 100": [
+        "LOC"
+    ],
+    "Tianlin East Road": [
+        "LOC"
+    ],
+    "Shanghai": [
+        "LOC"
+    ],
+    "Bizexperss": [
+        "ORG"
+    ],
+    "44": [
+        "LOC"
+    ],
+    "Lane 345": [
+        "LOC"
+    ],
+    "Guidu Road": [
+        "LOC"
+    ],
+    "Hong Kong International Arbitration Center": [
+        "ORG"
+    ],
+    "Chen Shuning": [
+        "PER"
+    ],
+    "International": [
+        "ORG"
+    ],
+    "Limited": [
+        "ORG"
+    ],
+    "PENINSULA PORTS AUTHORITY": [
+        "ORG"
+    ],
+    "VIRGINIA": [
+        "LOC"
+    ],
+    "Commonwealth of Virginia": [
+        "LOC"
+    ],
+    "DOMINION TERMINAL ASSOCIATES": [
+        "ORG"
+    ],
+    "Virginia general partnership": [
+        "ORG"
+    ],
+    "Dominion Terminal Associates": [
+        "ORG"
+    ],
+    "Wachovia Bank": [
+        "ORG"
+    ],
+    "National Association": [
+        "ORG"
+    ],
+    "Commonwealth": [
+        "LOC"
+    ],
+    "Pittston Coal Terminal Corporation": [
+        "ORG"
+    ],
+    "Remarketing Agent": [
+        "ORG"
+    ],
+    "Paying Agent": [
+        "ORG"
+    ],
+    "Columbia": [
+        "LOC"
+    ],
+    "Pittston Terminal": [
+        "ORG"
+    ],
+    "Robert E": [
+        "PER"
+    ],
+    "Yancey": [
+        "PER"
+    ],
+    "Charles E": [
+        "PER"
+    ],
+    "Brinley": [
+        "PER"
+    ],
+    "The Dominion Terminal Associates": [
+        "ORG"
+    ],
+    "east": [
+        "LOC"
+    ],
+    "of": [
+        "LOC"
+    ],
+    "the": [
+        "LOC"
+    ],
+    "James": [
+        "LOC"
+    ],
+    "River": [
+        "LOC"
+    ],
+    "in": [
+        "LOC"
+    ],
+    "Newport": [
+        "LOC"
+    ],
+    "News": [
+        "LOC"
+    ],
+    "Virginia": [
+        "LOC"
+    ],
+    "northwest": [
+        "LOC"
+    ],
+    "Pier IX coal terminal": [
+        "LOC"
+    ],
+    "southeast": [
+        "LOC"
+    ],
+    "CSX Piers 14 and 15": [
+        "LOC"
+    ],
+    "Piers 14 and 15": [
+        "LOC"
+    ],
+    "Harbor Road": [
+        "LOC"
+    ],
+    "south": [
+        "LOC"
+    ],
+    "CSX Transportation": [
+        "ORG"
+    ],
+    "CSX": [
+        "ORG"
+    ],
+    "Corps of Engineers": [
+        "ORG"
+    ],
+    "central control room atop transfer tower TT2": [
+        "LOC"
+    ],
+    "coal terminal site": [
+        "LOC"
+    ],
+    "Newport News Treatment Plant": [
+        "LOC"
+    ],
+    "535 Fifth Avenue": [
+        "LOC"
+    ],
+    "27th Floor": [
+        "LOC"
+    ],
+    "GOLD HILL VENTURE LENDING": [
+        "ORG"
+    ],
+    "Gold Hill": [
+        "LOC",
+        "ORG"
+    ],
+    "VRINGO": [
+        "ORG"
+    ],
+    "Delaware corporation": [
+        "ORG"
+    ],
+    "Pension Benefit Guaranty Corporation": [
+        "ORG"
+    ],
+    "Board of Governors of the Federal Reserve System": [
+        "ORG"
+    ],
+    "Vringo": [
+        "ORG"
+    ],
+    "BIG Center": [
+        "ORG"
+    ],
+    "Bet Shemesh 1 Yigal Allon Blvd Bet Shemesh 00062 Israel": [
+        "LOC"
+    ],
+    "David Corre": [
+        "PER"
+    ],
+    "david": [
+        "PER"
+    ],
+    "corre": [
+        "PER"
+    ],
+    "vringo": [
+        "ORG"
+    ],
+    "Silicon Valley Bank": [
+        "ORG"
+    ],
+    "535": [
+        "LOC"
+    ],
+    "Fifth": [
+        "LOC"
+    ],
+    "Avenue": [
+        "LOC"
+    ],
+    "New York 10017": [
+        "LOC"
+    ],
+    "Michael Moretti": [
+        "PER"
+    ],
+    "MMoretti": [
+        "PER"
+    ],
+    "svb": [
+        "ORG"
+    ],
+    "Riemer": [
+        "ORG"
+    ],
+    "Braunstein LLP": [
+        "ORG"
+    ],
+    "Three": [
+        "LOC"
+    ],
+    "Center": [
+        "LOC",
+        "ORG"
+    ],
+    "Plaza": [
+        "LOC"
+    ],
+    "Boston": [
+        "LOC"
+    ],
+    "Massachusetts 02108": [
+        "LOC"
+    ],
+    "David A": [
+        "PER"
+    ],
+    "Ephraim": [
+        "PER"
+    ],
+    "Esquire": [
+        "LOC"
+    ],
+    "DEphraim": [
+        "PER"
+    ],
+    "riemerlaw": [
+        "ORG"
+    ],
+    "Gold Hill Venture Lending 03": [
+        "LOC"
+    ],
+    "Newton Executive Park": [
+        "LOC"
+    ],
+    "Suite 203 2227 Washington Street Newton": [
+        "LOC"
+    ],
+    "Massachusetts 02462": [
+        "LOC"
+    ],
+    "David Fischer": [
+        "PER"
+    ],
+    "DFischer": [
+        "PER"
+    ],
+    "goldhillcapital": [
+        "LOC"
+    ],
+    "Commonwealth of Massachusetts": [
+        "LOC"
+    ],
+    "Santa Clara County": [
+        "LOC"
+    ],
+    "Accounting Principles Board": [
+        "ORG"
+    ],
+    "American Institute of Certified Public Accountants": [
+        "ORG"
+    ],
+    "Financial Accounting Standards Board": [
+        "ORG"
+    ],
+    "Israel": [
+        "LOC"
+    ],
+    "Jonathan Medved": [
+        "PER"
+    ],
+    "LENDER": [
+        "PER"
+    ],
+    "Michael Morreti": [
+        "PER"
+    ],
+    "SVP GOLD HILL VENTURE LENDING 03": [
+        "LOC"
+    ],
+    "Lenovo - AsiaInfo Technologies": [
+        "ORG"
+    ],
+    "3 / F Zhongdian Information Tower": [
+        "LOC"
+    ],
+    "6 Zhongguancun South Street": [
+        "LOC"
+    ],
+    "Haidian District": [
+        "LOC"
+    ],
+    "Bing Yu": [
+        "PER"
+    ],
+    "Chinese": [
+        "MISC"
+    ],
+    "Jinjia Village": [
+        "LOC"
+    ],
+    "Fengtai District": [
+        "LOC"
+    ],
+    "Lenovo Security Technology Ltd": [
+        "ORG"
+    ],
+    "Zhongguancun South Street": [
+        "LOC"
+    ],
+    "Beijing 100086": [
+        "LOC"
+    ],
+    "Legal Department": [
+        "ORG"
+    ],
+    "Arbitration": [
+        "ORG"
+    ]
+}

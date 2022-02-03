@@ -1,0 +1,7178 @@
+{
+    "NAIROBI": [
+        "LOC"
+    ],
+    "Kenya": [
+        "LOC"
+    ],
+    "AP": [
+        "ORG"
+    ],
+    "Moi": [
+        "PER"
+    ],
+    "Daniel arap Moi": [
+        "PER"
+    ],
+    "Kivutha Kibwana": [
+        "PER"
+    ],
+    "NationalConvention Assembly": [
+        "ORG"
+    ],
+    "Finance": [
+        "ORG"
+    ],
+    "Simeon Nyachae": [
+        "PER"
+    ],
+    "Kenneth Matiba": [
+        "PER"
+    ],
+    "International Monetary Fund": [
+        "ORG"
+    ],
+    "IMF": [
+        "ORG"
+    ],
+    "Kamukunji Grounds": [
+        "LOC"
+    ],
+    "Nairobi": [
+        "LOC"
+    ],
+    "John Munuve": [
+        "PER"
+    ],
+    "OSLO": [
+        "LOC"
+    ],
+    "Norway": [
+        "LOC"
+    ],
+    "Russia": [
+        "LOC"
+    ],
+    "Alexey Prokurorov": [
+        "PER"
+    ],
+    "Holmenkollen": [
+        "LOC"
+    ],
+    "Odd Bjorn Hjelmeseth": [
+        "PER"
+    ],
+    "BjornDahlie": [
+        "PER"
+    ],
+    "Anders Aukland": [
+        "PER"
+    ],
+    "Erling Jevne": [
+        "PER"
+    ],
+    "Prokurorov": [
+        "PER"
+    ],
+    "Hjelmeseth": [
+        "PER"
+    ],
+    "Thomas Alsgaard": [
+        "PER"
+    ],
+    "Sweden": [
+        "LOC"
+    ],
+    "Dahlie": [
+        "PER"
+    ],
+    "Nagano": [
+        "LOC"
+    ],
+    "Larissa Lazutina": [
+        "PER"
+    ],
+    "Svetlana Nageykina": [
+        "PER"
+    ],
+    "Lazutina": [
+        "PER"
+    ],
+    "Anita Moen-Guidon": [
+        "PER"
+    ],
+    "Julia Chepalova": [
+        "PER"
+    ],
+    "Bente Martinsen": [
+        "PER"
+    ],
+    "Italy": [
+        "LOC"
+    ],
+    "Stefania Belmondo": [
+        "PER"
+    ],
+    "Vatican": [
+        "ORG"
+    ],
+    "VATICAN CITY": [
+        "LOC"
+    ],
+    "Second VaticanCouncil": [
+        "ORG"
+    ],
+    "Paul VI": [
+        "PER"
+    ],
+    "Jesus": [
+        "PER"
+    ],
+    "John Paul II": [
+        "PER"
+    ],
+    "Castel Gandolfo": [
+        "LOC"
+    ],
+    "Rome": [
+        "LOC"
+    ],
+    "United States": [
+        "LOC"
+    ],
+    "Kurt Waldheim": [
+        "PER"
+    ],
+    "Nazi": [
+        "ORG"
+    ],
+    "Nazis": [
+        "ORG"
+    ],
+    "John Paul": [
+        "PER"
+    ],
+    "Israel": [
+        "LOC"
+    ],
+    "Christian Lacroix": [
+        "PER"
+    ],
+    "PARIS": [
+        "LOC"
+    ],
+    "Louvre": [
+        "ORG"
+    ],
+    "Evita": [
+        "PER"
+    ],
+    "Jean-Jacques Picart": [
+        "PER"
+    ],
+    "Lacroix": [
+        "PER"
+    ],
+    "LVMH": [
+        "ORG"
+    ],
+    "Louis VuittonMoet Hennesy": [
+        "ORG"
+    ],
+    "milky way": [
+        "LOC"
+    ],
+    "Scarlet O'Hara": [
+        "PER"
+    ],
+    "Jean-Paul Gaultier": [
+        "PER"
+    ],
+    "Arctic Circle": [
+        "LOC"
+    ],
+    "Wagram dance hall": [
+        "ORG"
+    ],
+    "Naomi Campbell": [
+        "PER"
+    ],
+    "Nanook of the North": [
+        "PER"
+    ],
+    "North Pole": [
+        "LOC"
+    ],
+    "Colin McDowell": [
+        "PER"
+    ],
+    "Niemann": [
+        "PER"
+    ],
+    "HEERENVEEN": [
+        "LOC"
+    ],
+    "Netherlands": [
+        "LOC"
+    ],
+    "Germany": [
+        "LOC"
+    ],
+    "Gunda Niemann": [
+        "PER"
+    ],
+    "Claudia Pechstein": [
+        "PER"
+    ],
+    "Thialf ice stadium": [
+        "ORG"
+    ],
+    "Pechstein": [
+        "PER"
+    ],
+    "CALCUTTA": [
+        "LOC"
+    ],
+    "India": [
+        "LOC"
+    ],
+    "Firoz Ali": [
+        "PER"
+    ],
+    "Ali": [
+        "PER"
+    ],
+    "Rick Todd": [
+        "PER"
+    ],
+    "Royal Calcutta Golf Club": [
+        "ORG"
+    ],
+    "Dean Wilson": [
+        "PER"
+    ],
+    "TimStraub": [
+        "PER"
+    ],
+    "Scott Rowe": [
+        "PER"
+    ],
+    "Firoz": [
+        "PER"
+    ],
+    "Dean": [
+        "PER"
+    ],
+    "Prinosil": [
+        "PER"
+    ],
+    "Siemerink": [
+        "PER"
+    ],
+    "COPENHAGEN": [
+        "LOC"
+    ],
+    "Denmark": [
+        "LOC"
+    ],
+    "David Prinosil": [
+        "PER"
+    ],
+    "Jan Siemerink": [
+        "PER"
+    ],
+    "Magnus Gustafsson": [
+        "PER"
+    ],
+    "Kenneth Carlsen": [
+        "PER"
+    ],
+    "Thomas Johansson": [
+        "PER"
+    ],
+    "Ostrava": [
+        "LOC"
+    ],
+    "St. Petersburg": [
+        "LOC"
+    ],
+    "MOSCOW": [
+        "LOC"
+    ],
+    "ITAR-Tass": [
+        "ORG"
+    ],
+    "Institute of Urban Studies": [
+        "ORG"
+    ],
+    "Anatoly Ponidelko": [
+        "PER"
+    ],
+    "JERUSALEM": [
+        "LOC"
+    ],
+    "Afula": [
+        "LOC"
+    ],
+    "Hamas": [
+        "ORG"
+    ],
+    "Anni Friesinger": [
+        "PER"
+    ],
+    "IdsPostma": [
+        "PER"
+    ],
+    "Rintje Ritsma": [
+        "PER"
+    ],
+    "Postma": [
+        "PER"
+    ],
+    "Ritsma": [
+        "PER"
+    ],
+    "Ids": [
+        "PER"
+    ],
+    "Roberto Sighel": [
+        "PER"
+    ],
+    "U.S.": [
+        "LOC"
+    ],
+    "Chris Witty": [
+        "PER"
+    ],
+    "PRISTINA": [
+        "LOC"
+    ],
+    "Yugoslavia": [
+        "LOC"
+    ],
+    "Boban Boskovic": [
+        "PER"
+    ],
+    "Plastika": [
+        "ORG"
+    ],
+    "Ilinka Durbaba": [
+        "PER"
+    ],
+    "Kosovo": [
+        "LOC"
+    ],
+    "Serbia": [
+        "LOC"
+    ],
+    "Milica Boskovic": [
+        "PER"
+    ],
+    "Boskovic": [
+        "PER"
+    ],
+    "Tito": [
+        "PER"
+    ],
+    "Milosevic": [
+        "PER"
+    ],
+    "Rugova": [
+        "PER"
+    ],
+    "Zeljko Raznatovic": [
+        "PER"
+    ],
+    "Arkan": [
+        "PER"
+    ],
+    "Croatia": [
+        "LOC"
+    ],
+    "Bosnia": [
+        "LOC"
+    ],
+    "Albania": [
+        "LOC"
+    ],
+    "Zhivka Savic": [
+        "PER"
+    ],
+    "Savic": [
+        "PER"
+    ],
+    "Milanka Milentijevic": [
+        "PER"
+    ],
+    "Milentijevic": [
+        "PER"
+    ],
+    "Durbaba": [
+        "PER"
+    ],
+    "Knin": [
+        "LOC"
+    ],
+    "Slobodan Milosevic": [
+        "PER"
+    ],
+    "Mark Litton": [
+        "PER"
+    ],
+    "Muthaiga Golf Club": [
+        "ORG"
+    ],
+    "Litton": [
+        "PER"
+    ],
+    "Jacob Okello": [
+        "PER"
+    ],
+    "Ricardo Gonzalez": [
+        "PER"
+    ],
+    "Okello": [
+        "PER"
+    ],
+    "England": [
+        "LOC"
+    ],
+    "John Mellor": [
+        "PER"
+    ],
+    "Muthaiga": [
+        "ORG"
+    ],
+    "Seve Ballesteros": [
+        "PER"
+    ],
+    "Jose MariaCanizares": [
+        "PER"
+    ],
+    "Ian Woosnam": [
+        "PER"
+    ],
+    "Army": [
+        "ORG"
+    ],
+    "GEORGETOWN": [
+        "LOC"
+    ],
+    "Guyana": [
+        "LOC"
+    ],
+    "Second Army Batallion": [
+        "ORG"
+    ],
+    "Forestry Commission": [
+        "ORG"
+    ],
+    "Forestry": [
+        "ORG"
+    ],
+    "SatydeoSawh": [
+        "PER"
+    ],
+    "South America": [
+        "LOC"
+    ],
+    "Linden": [
+        "LOC"
+    ],
+    "Georgetown": [
+        "LOC"
+    ],
+    "Commission for Relations with Judaism": [
+        "ORG"
+    ],
+    "China": [
+        "LOC"
+    ],
+    "BEIJING": [
+        "LOC"
+    ],
+    "Communist Party": [
+        "ORG"
+    ],
+    "Beijing": [
+        "LOC"
+    ],
+    "China Democratic Justice Party": [
+        "ORG"
+    ],
+    "communists": [
+        "ORG"
+    ],
+    "Polish Solidarity union movement": [
+        "ORG"
+    ],
+    "communist": [
+        "ORG"
+    ],
+    "Chen Jin": [
+        "PER"
+    ],
+    "Tiananmen Square": [
+        "LOC"
+    ],
+    "Changchun": [
+        "LOC"
+    ],
+    "Harbin": [
+        "LOC"
+    ],
+    "New York": [
+        "LOC",
+        "ORG"
+    ],
+    "Fu Shenqi": [
+        "PER"
+    ],
+    "army": [
+        "ORG"
+    ],
+    "ROME": [
+        "LOC"
+    ],
+    "Aldo Moro": [
+        "PER"
+    ],
+    "Red Brigades": [
+        "ORG"
+    ],
+    "Moro": [
+        "PER"
+    ],
+    "Christian Democrat": [
+        "ORG"
+    ],
+    "Communist": [
+        "ORG"
+    ],
+    "Communists": [
+        "ORG"
+    ],
+    "Christian Democrats": [
+        "ORG"
+    ],
+    "Western Europe": [
+        "LOC"
+    ],
+    "Giulio Andreotti": [
+        "PER"
+    ],
+    "mafia": [
+        "ORG"
+    ],
+    "Andreotti": [
+        "PER"
+    ],
+    "Corrieredella Sera": [
+        "ORG"
+    ],
+    "Mario Moretti": [
+        "PER"
+    ],
+    "Vita": [
+        "ORG"
+    ],
+    "Anna Braghetti": [
+        "PER"
+    ],
+    "Red Brigade": [
+        "ORG"
+    ],
+    "Braghetti": [
+        "PER"
+    ],
+    "Corriere della Sera": [
+        "ORG"
+    ],
+    "Georgia": [
+        "LOC"
+    ],
+    "Turkey": [
+        "LOC"
+    ],
+    "TBILISI": [
+        "LOC"
+    ],
+    "Azerbaijan": [
+        "LOC"
+    ],
+    "Caspian": [
+        "LOC"
+    ],
+    "Caspian Sea": [
+        "LOC"
+    ],
+    "Eduard Shevardnadze": [
+        "PER"
+    ],
+    "Mesut Yilmaz": [
+        "PER"
+    ],
+    "Baku": [
+        "LOC"
+    ],
+    "Mediterranean": [
+        "LOC"
+    ],
+    "Ceyhan": [
+        "LOC"
+    ],
+    "Black Sea": [
+        "LOC"
+    ],
+    "DUNBLANE": [
+        "LOC"
+    ],
+    "Scotland": [
+        "LOC"
+    ],
+    "Mick North": [
+        "PER"
+    ],
+    "Sophie": [
+        "PER"
+    ],
+    "Thomas Hamilton": [
+        "PER"
+    ],
+    "Britain": [
+        "LOC"
+    ],
+    "Dunblane": [
+        "LOC"
+    ],
+    "National Forest": [
+        "LOC"
+    ],
+    "Lebanon": [
+        "LOC"
+    ],
+    "BEIRUT": [
+        "LOC"
+    ],
+    "Damascus": [
+        "LOC"
+    ],
+    "U.N.": [
+        "ORG"
+    ],
+    "Kofi Annan": [
+        "PER"
+    ],
+    "Beirut": [
+        "LOC"
+    ],
+    "Jerusalem": [
+        "LOC"
+    ],
+    "Hezbollah": [
+        "ORG"
+    ],
+    "Lebanese Resistance Brigades": [
+        "ORG"
+    ],
+    "Sojod": [
+        "LOC"
+    ],
+    "Hardon": [
+        "LOC"
+    ],
+    "Baarchit": [
+        "LOC"
+    ],
+    "Hadatha": [
+        "LOC"
+    ],
+    "Soweida": [
+        "LOC"
+    ],
+    "Sidon": [
+        "LOC"
+    ],
+    "Tyre": [
+        "LOC"
+    ],
+    "Nabatiyeh": [
+        "LOC"
+    ],
+    "Bahia Hariri": [
+        "PER"
+    ],
+    "U.N. Security Council": [
+        "ORG"
+    ],
+    "Mohammed Beydoun": [
+        "PER"
+    ],
+    "March 14 Solidarity Day with OccupiedSouthern Lebanon": [
+        "ORG"
+    ],
+    "The DailyStar": [
+        "ORG"
+    ],
+    "Security Council": [
+        "ORG"
+    ],
+    "Baalbek": [
+        "LOC"
+    ],
+    "Eli Bin": [
+        "PER"
+    ],
+    "Thousands": [
+        "CARDINAL"
+    ],
+    "5,000": [
+        "CARDINAL"
+    ],
+    "3.9 percent": [
+        "PERCENT"
+    ],
+    "1.7percent": [
+        "PERCENT"
+    ],
+    "dlrs 220 million": [
+        "MONEY"
+    ],
+    "dozen": [
+        "CARDINAL"
+    ],
+    "50-kilometer": [
+        "MEASURE"
+    ],
+    "Four": [
+        "CARDINAL"
+    ],
+    "50K": [
+        "MEASURE"
+    ],
+    "801": [
+        "CARDINAL"
+    ],
+    "678": [
+        "CARDINAL"
+    ],
+    "five-time": [
+        "MEASURE"
+    ],
+    "30K": [
+        "MEASURE"
+    ],
+    "773": [
+        "CARDINAL"
+    ],
+    "631": [
+        "CARDINAL"
+    ],
+    "558": [
+        "CARDINAL"
+    ],
+    "20-year": [
+        "MEASURE"
+    ],
+    "3,000-meter": [
+        "MEASURE"
+    ],
+    "two": [
+        "CARDINAL",
+        "MEASURE",
+        "DURATION"
+    ],
+    "5,000-meter": [
+        "MEASURE"
+    ],
+    "five": [
+        "CARDINAL"
+    ],
+    "3-stroke": [
+        "MEASURE"
+    ],
+    "dlrs300,000": [
+        "MONEY"
+    ],
+    "67": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "64": [
+        "CARDINAL"
+    ],
+    "one": [
+        "CARDINAL",
+        "DURATION"
+    ],
+    "204": [
+        "CARDINAL"
+    ],
+    "207": [
+        "CARDINAL"
+    ],
+    "208": [
+        "CARDINAL"
+    ],
+    "dlrs 210,000": [
+        "MONEY"
+    ],
+    "6": [
+        "CARDINAL"
+    ],
+    "3": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "7": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "5": [
+        "PERCENT",
+        "CARDINAL"
+    ],
+    "4": [
+        "CARDINAL"
+    ],
+    "2": [
+        "CARDINAL"
+    ],
+    "25-year": [
+        "MEASURE"
+    ],
+    "40 percent": [
+        "PERCENT"
+    ],
+    "six": [
+        "CARDINAL"
+    ],
+    "14-story": [
+        "MEASURE"
+    ],
+    "52": [
+        "CARDINAL"
+    ],
+    "One": [
+        "CARDINAL"
+    ],
+    "nine": [
+        "CARDINAL"
+    ],
+    "45": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "3,000 meters": [
+        "MEASURE"
+    ],
+    "1,500-meter": [
+        "MEASURE"
+    ],
+    "three": [
+        "CARDINAL"
+    ],
+    "four-distance": [
+        "MEASURE"
+    ],
+    "10,000-meter": [
+        "MEASURE"
+    ],
+    "1,500": [
+        "MEASURE",
+        "CARDINAL"
+    ],
+    "1,500 meters": [
+        "MEASURE"
+    ],
+    "9": [
+        "CARDINAL"
+    ],
+    "1": [
+        "CARDINAL"
+    ],
+    "80": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "8-year": [
+        "MEASURE"
+    ],
+    "half": [
+        "CARDINAL"
+    ],
+    "65": [
+        "MEASURE",
+        "CARDINAL"
+    ],
+    "two-chair": [
+        "MEASURE"
+    ],
+    "six-story": [
+        "MEASURE"
+    ],
+    "80 percent": [
+        "PERCENT"
+    ],
+    "one a month": [
+        "MEASURE"
+    ],
+    "95 percent": [
+        "PERCENT"
+    ],
+    "200": [
+        "CARDINAL"
+    ],
+    "50": [
+        "MEASURE",
+        "CARDINAL"
+    ],
+    "one-stroke": [
+        "MEASURE"
+    ],
+    "six-under-par": [
+        "MEASURE"
+    ],
+    "71-par": [
+        "MEASURE"
+    ],
+    "377-meter": [
+        "MEASURE"
+    ],
+    "413-yard": [
+        "MEASURE"
+    ],
+    "par-four": [
+        "MEASURE"
+    ],
+    "seven": [
+        "CARDINAL"
+    ],
+    "10-under-par": [
+        "MEASURE"
+    ],
+    "203": [
+        "CARDINAL"
+    ],
+    "26": [
+        "MEASURE"
+    ],
+    "seven-under-par": [
+        "MEASURE"
+    ],
+    "206": [
+        "CARDINAL"
+    ],
+    "Fifty-six": [
+        "CARDINAL"
+    ],
+    "146": [
+        "CARDINAL"
+    ],
+    "two-over-par": [
+        "MEASURE"
+    ],
+    "144": [
+        "CARDINAL"
+    ],
+    "6,250-meter": [
+        "MEASURE"
+    ],
+    "6,836-yard": [
+        "MEASURE"
+    ],
+    "15": [
+        "CARDINAL",
+        "DURATION"
+    ],
+    "35,000": [
+        "CARDINAL"
+    ],
+    "70 miles": [
+        "MEASURE"
+    ],
+    "113 kilometers": [
+        "MEASURE"
+    ],
+    "29-year": [
+        "MEASURE"
+    ],
+    "few hundred": [
+        "CARDINAL"
+    ],
+    "fewthousand": [
+        "CARDINAL"
+    ],
+    "several million": [
+        "CARDINAL"
+    ],
+    "several tens of million": [
+        "CARDINAL"
+    ],
+    "17": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "100": [
+        "CARDINAL"
+    ],
+    "10": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "Five": [
+        "CARDINAL"
+    ],
+    "16": [
+        "CARDINAL"
+    ],
+    "43-year": [
+        "MEASURE"
+    ],
+    "12": [
+        "CARDINAL"
+    ],
+    "25,000": [
+        "CARDINAL"
+    ],
+    "900": [
+        "CARDINAL"
+    ],
+    "10 percent": [
+        "PERCENT"
+    ],
+    "2,500": [
+        "CARDINAL"
+    ],
+    "39": [
+        "CARDINAL"
+    ],
+    "50s": [
+        "MEASURE"
+    ],
+    "Saturday": [
+        "DATE"
+    ],
+    "20 years": [
+        "DURATION"
+    ],
+    "April 3": [
+        "DATE"
+    ],
+    "1992": [
+        "DATE"
+    ],
+    "1997": [
+        "DATE"
+    ],
+    "98": [
+        "DATE"
+    ],
+    "July": [
+        "DATE"
+    ],
+    "December": [
+        "DATE"
+    ],
+    "five-year": [
+        "DURATION"
+    ],
+    "2 hours,32 minutes, 25.3 seconds": [
+        "DURATION"
+    ],
+    "1:18.9": [
+        "DURATION"
+    ],
+    "Wednesday": [
+        "DATE"
+    ],
+    "2:23.9": [
+        "DURATION"
+    ],
+    "1:41.41.2": [
+        "DURATION"
+    ],
+    "2:28.6": [
+        "DURATION"
+    ],
+    "2:53.5": [
+        "DURATION"
+    ],
+    "10 years": [
+        "DURATION"
+    ],
+    "Monday": [
+        "DATE"
+    ],
+    "1965": [
+        "DATE"
+    ],
+    "Sept. 1, 1987": [
+        "DATE"
+    ],
+    "summer": [
+        "DATE"
+    ],
+    "1987": [
+        "DATE"
+    ],
+    "1995": [
+        "DATE"
+    ],
+    "1986": [
+        "DATE"
+    ],
+    "fall": [
+        "DATE"
+    ],
+    "1940s": [
+        "DATE"
+    ],
+    "ten years": [
+        "DURATION"
+    ],
+    "1930s": [
+        "DATE"
+    ],
+    "Friday": [
+        "DATE"
+    ],
+    "4minutes 5.08 seconds": [
+        "DURATION"
+    ],
+    "4:07.13": [
+        "DURATION"
+    ],
+    "4:07.36": [
+        "DURATION"
+    ],
+    "Sunday": [
+        "DATE"
+    ],
+    "1996": [
+        "DATE"
+    ],
+    "7 hours": [
+        "DURATION"
+    ],
+    "several days": [
+        "DURATION"
+    ],
+    "April 1994": [
+        "DATE"
+    ],
+    "Jewish Sabbath": [
+        "DATE"
+    ],
+    "sundown": [
+        "TIME"
+    ],
+    "4:11.57": [
+        "DURATION"
+    ],
+    "1:48.85": [
+        "DURATION"
+    ],
+    "1:48.86": [
+        "DURATION"
+    ],
+    "1:51.19": [
+        "DURATION"
+    ],
+    "1:58.69 seconds": [
+        "DURATION"
+    ],
+    "two-minute": [
+        "DURATION"
+    ],
+    "1:59.46": [
+        "DURATION"
+    ],
+    "three years": [
+        "DURATION"
+    ],
+    "1989": [
+        "DATE"
+    ],
+    "two-week": [
+        "DURATION"
+    ],
+    "1990s": [
+        "DATE"
+    ],
+    "1983": [
+        "DATE"
+    ],
+    "1950s": [
+        "DATE"
+    ],
+    "1960s": [
+        "DATE"
+    ],
+    "1974": [
+        "DATE"
+    ],
+    "1980s": [
+        "DATE"
+    ],
+    "minute": [
+        "DURATION"
+    ],
+    "1970s": [
+        "DATE"
+    ],
+    "1991": [
+        "DATE"
+    ],
+    "Thursday": [
+        "DATE"
+    ],
+    "1999": [
+        "DATE"
+    ],
+    "month": [
+        "DURATION"
+    ],
+    "June": [
+        "DATE"
+    ],
+    "December 1993": [
+        "DATE"
+    ],
+    "50-year": [
+        "DURATION"
+    ],
+    "two-decade": [
+        "DURATION"
+    ],
+    "two decades": [
+        "DURATION"
+    ],
+    "Twenty years": [
+        "DURATION"
+    ],
+    "80s": [
+        "DATE"
+    ],
+    "March 16, 1978": [
+        "DATE"
+    ],
+    "55 days": [
+        "DURATION"
+    ],
+    "two years": [
+        "DURATION"
+    ],
+    "March 13, 1996": [
+        "DATE"
+    ],
+    "April 5": [
+        "DATE"
+    ],
+    "1978": [
+        "DATE"
+    ],
+    "March 14, 1978": [
+        "DATE"
+    ],
+    "Five days": [
+        "DURATION"
+    ],
+    "1985": [
+        "DATE"
+    ],
+    "year": [
+        "DURATION"
+    ],
+    "UNITED NATIONS": [
+        "ORG"
+    ],
+    "Africa": [
+        "LOC"
+    ],
+    "United Nations": [
+        "ORG"
+    ],
+    "Annan": [
+        "PER"
+    ],
+    "Portugal": [
+        "LOC"
+    ],
+    "AntonioMonteiro": [
+        "PER"
+    ],
+    "Monteiro": [
+        "PER"
+    ],
+    "UnitedNations": [
+        "ORG"
+    ],
+    "Somalia": [
+        "LOC"
+    ],
+    "Mogadishu": [
+        "LOC"
+    ],
+    "Congo": [
+        "LOC"
+    ],
+    "Zaire": [
+        "LOC"
+    ],
+    "Republic of Congo": [
+        "LOC"
+    ],
+    "Rwanda": [
+        "LOC"
+    ],
+    "John Weston": [
+        "PER"
+    ],
+    "Eastern Slavonia": [
+        "LOC"
+    ],
+    "Weston": [
+        "PER"
+    ],
+    "Clinton": [
+        "PER"
+    ],
+    "France": [
+        "LOC"
+    ],
+    "Alain Dejammet": [
+        "PER"
+    ],
+    "GeneralAssembly": [
+        "ORG"
+    ],
+    "Ethiopia": [
+        "LOC"
+    ],
+    "Djibouti": [
+        "LOC"
+    ],
+    "Tanzania": [
+        "LOC"
+    ],
+    "Burundi": [
+        "LOC"
+    ],
+    "Uganda": [
+        "LOC"
+    ],
+    "Eritrea": [
+        "LOC"
+    ],
+    "MALAYSIA": [
+        "LOC"
+    ],
+    "WORLDSOURCES, INC.": [
+        "ORG"
+    ],
+    "FDCH,INC.": [
+        "ORG"
+    ],
+    "WORLD TIMES, INC.": [
+        "ORG"
+    ],
+    "SHAH ALAM": [
+        "LOC"
+    ],
+    "Selangor Waterworks Department": [
+        "ORG"
+    ],
+    "Sun Metal Works Sdn Bhd": [
+        "ORG"
+    ],
+    "Wembley Industries Holdings Bhd": [
+        "ORG"
+    ],
+    "Jalan Gambus": [
+        "LOC"
+    ],
+    "Jalan BukitKemuning": [
+        "LOC"
+    ],
+    "Klang": [
+        "LOC"
+    ],
+    "Shah Alam": [
+        "LOC"
+    ],
+    "G.Selvakumar": [
+        "PER"
+    ],
+    "Selangor Menteri Besar Datuk Abu Hassan Omar": [
+        "PER"
+    ],
+    "State Waterworks Department": [
+        "ORG"
+    ],
+    "Selangor Malay Chamber of Commerceand Industry": [
+        "ORG"
+    ],
+    "Radisson Hotel": [
+        "ORG"
+    ],
+    "Abu Hassan": [
+        "PER"
+    ],
+    "State TechnicalCommittee on Water": [
+        "ORG"
+    ],
+    "Datuk Hashim Meon": [
+        "PER"
+    ],
+    "Cherating": [
+        "LOC"
+    ],
+    "Malaysia": [
+        "LOC"
+    ],
+    "Club Med": [
+        "ORG"
+    ],
+    "Pahang": [
+        "LOC"
+    ],
+    "Singapore": [
+        "LOC"
+    ],
+    "The Legend Resort": [
+        "ORG"
+    ],
+    "Kuantan": [
+        "LOC"
+    ],
+    "Kuantanairport": [
+        "LOC"
+    ],
+    "KualaLumpur": [
+        "LOC"
+    ],
+    "TheLegend": [
+        "ORG"
+    ],
+    "Impiana": [
+        "ORG"
+    ],
+    "Residence Inn": [
+        "ORG"
+    ],
+    "Holiday Villa Cherating": [
+        "ORG"
+    ],
+    "Swiss Garden": [
+        "ORG"
+    ],
+    "Kuala Kemaman": [
+        "LOC"
+    ],
+    "Terengganu": [
+        "LOC"
+    ],
+    "Cukai": [
+        "LOC"
+    ],
+    "Santhi Jayadhan": [
+        "PER"
+    ],
+    "Santhi": [
+        "PER"
+    ],
+    "Rantau Abang": [
+        "LOC"
+    ],
+    "Wan Yeh Mahmood": [
+        "PER"
+    ],
+    "PulauUlar": [
+        "LOC"
+    ],
+    "Pulau Ular": [
+        "LOC"
+    ],
+    "Wan": [
+        "PER"
+    ],
+    "The Legend": [
+        "ORG"
+    ],
+    "Kevin Loh": [
+        "PER"
+    ],
+    "Mak De": [
+        "PER"
+    ],
+    "Mak Long De": [
+        "PER"
+    ],
+    "Pak De": [
+        "PER"
+    ],
+    "Salleh": [
+        "PER"
+    ],
+    "Cherating Handicraft Centre": [
+        "ORG"
+    ],
+    "Cherating Cultural Complex": [
+        "ORG"
+    ],
+    "Kuantan Municipal Council": [
+        "ORG"
+    ],
+    "Cherating River": [
+        "LOC"
+    ],
+    "SAN`A": [
+        "LOC"
+    ],
+    "Yemen": [
+        "LOC"
+    ],
+    "San`a": [
+        "LOC"
+    ],
+    "al-Khair Mosque": [
+        "ORG"
+    ],
+    "BLANTYRE": [
+        "LOC"
+    ],
+    "Malawi": [
+        "LOC"
+    ],
+    "Bakili Muluzi": [
+        "PER"
+    ],
+    "Blantyre High Court": [
+        "ORG"
+    ],
+    "Eric Kumitsonyo": [
+        "PER"
+    ],
+    "Felix Mchamithe": [
+        "PER"
+    ],
+    "Muluzi": [
+        "PER"
+    ],
+    "Kamuzu Banda": [
+        "PER"
+    ],
+    "Kumitsonyo": [
+        "PER"
+    ],
+    "Mchamithe": [
+        "PER"
+    ],
+    "Banda": [
+        "PER"
+    ],
+    "Daily Times": [
+        "ORG"
+    ],
+    "Red Cross": [
+        "ORG"
+    ],
+    "Thomas Gurtner": [
+        "PER"
+    ],
+    "Gurtner": [
+        "PER"
+    ],
+    "Ola Skuterud": [
+        "PER"
+    ],
+    "Ibrahim Ahmad": [
+        "PER"
+    ],
+    "Toon Vandenhove": [
+        "PER"
+    ],
+    "Christoph Langenkamp": [
+        "PER"
+    ],
+    "Patrick Berner": [
+        "PER"
+    ],
+    "Markus Fasel": [
+        "PER"
+    ],
+    "Nadine Piantowsky": [
+        "PER"
+    ],
+    "Robi Byrd": [
+        "PER"
+    ],
+    "Steve Riungu": [
+        "PER"
+    ],
+    "AliMahdi Mohamed": [
+        "PER"
+    ],
+    "Bill Grant": [
+        "PER"
+    ],
+    "Florida": [
+        "LOC"
+    ],
+    "Mohamed Siad Barre": [
+        "PER"
+    ],
+    "Somali Red Crescent": [
+        "ORG"
+    ],
+    "Ali Mahdi Mohamed": [
+        "PER"
+    ],
+    "Switzerland": [
+        "LOC"
+    ],
+    "Moscow": [
+        "LOC"
+    ],
+    "Carla del Ponte": [
+        "PER"
+    ],
+    "Yuri Skuratov": [
+        "PER"
+    ],
+    "LakeGeneva": [
+        "LOC"
+    ],
+    "del Ponte": [
+        "PER"
+    ],
+    "Skuratov": [
+        "PER"
+    ],
+    "Del Ponte": [
+        "PER"
+    ],
+    "Sergei Mikhailov": [
+        "PER"
+    ],
+    "Geneva": [
+        "LOC"
+    ],
+    "Belgium": [
+        "LOC"
+    ],
+    "Mikhailov": [
+        "PER"
+    ],
+    "Sergei Kiriyenko": [
+        "PER"
+    ],
+    "Kiriyenko": [
+        "PER"
+    ],
+    "Sukhumi": [
+        "LOC"
+    ],
+    "GorkyInstitute of Water Transport Engineering": [
+        "ORG"
+    ],
+    "Moscow Academy of Economics": [
+        "ORG"
+    ],
+    "Krasnoye Sormovo": [
+        "ORG"
+    ],
+    "Gorky": [
+        "LOC"
+    ],
+    "Nizhny Novgorod": [
+        "LOC"
+    ],
+    "Young Communist League": [
+        "ORG"
+    ],
+    "Komsomol": [
+        "ORG"
+    ],
+    "Soviet Union": [
+        "LOC"
+    ],
+    "Garantia": [
+        "ORG"
+    ],
+    "NORSI": [
+        "ORG"
+    ],
+    "Yeltsin": [
+        "PER"
+    ],
+    "Datuk S. Subramaniam": [
+        "PER"
+    ],
+    "Dewan Rakyat": [
+        "ORG"
+    ],
+    "Registrar of Companies": [
+        "ORG"
+    ],
+    "Subramaniam": [
+        "PER"
+    ],
+    "Datuk Abu Zahar Ujang": [
+        "PER"
+    ],
+    "BN": [
+        "ORG"
+    ],
+    "Kuala Pilah": [
+        "LOC"
+    ],
+    "ROC": [
+        "ORG"
+    ],
+    "Lim Kit Siang": [
+        "PER"
+    ],
+    "DAP": [
+        "ORG"
+    ],
+    "Tanjung": [
+        "LOC"
+    ],
+    "Malaysia Airlines": [
+        "ORG"
+    ],
+    "Renong": [
+        "ORG"
+    ],
+    "KonsortiumPerkapalan": [
+        "ORG"
+    ],
+    "United Engineers Malaysia": [
+        "ORG"
+    ],
+    "Lim": [
+        "PER"
+    ],
+    "Ekran Bhd": [
+        "ORG"
+    ],
+    "Opposition": [
+        "ORG"
+    ],
+    "Husni Hanadzlah": [
+        "PER"
+    ],
+    "Tambun": [
+        "LOC"
+    ],
+    "Husni": [
+        "PER"
+    ],
+    "Registrar": [
+        "ORG"
+    ],
+    "Michael Lisa Kaya": [
+        "PER"
+    ],
+    "BukitMas": [
+        "LOC"
+    ],
+    "Sahabat Alam Malaysia": [
+        "ORG"
+    ],
+    "Sarawak": [
+        "LOC"
+    ],
+    "Mentakab": [
+        "LOC"
+    ],
+    "Fu Ah Kiow": [
+        "PER"
+    ],
+    "M. Kulasegaran": [
+        "PER"
+    ],
+    "Teluk Intan": [
+        "LOC"
+    ],
+    "Kelab Golf DarulRidzuan": [
+        "ORG"
+    ],
+    "Perak": [
+        "LOC"
+    ],
+    "Meru Valley Golf Club": [
+        "ORG"
+    ],
+    "Commonwealth": [
+        "ORG"
+    ],
+    "Datuk Loke Yuen Yow": [
+        "PER"
+    ],
+    "House": [
+        "ORG"
+    ],
+    "Hashim Ismail": [
+        "PER"
+    ],
+    "Ledang": [
+        "LOC"
+    ],
+    "Loke": [
+        "PER"
+    ],
+    "MAS Catering": [
+        "ORG"
+    ],
+    "Felix Mchami": [
+        "PER"
+    ],
+    "Mchami": [
+        "PER"
+    ],
+    "Housing and Local Government": [
+        "ORG"
+    ],
+    "Peter Chin FahKui": [
+        "PER"
+    ],
+    "Johor": [
+        "LOC"
+    ],
+    "Malacca": [
+        "LOC"
+    ],
+    "Datuk Mahbud Hashim": [
+        "PER"
+    ],
+    "Sabak Bernam": [
+        "LOC"
+    ],
+    "National Housing Corporation": [
+        "ORG"
+    ],
+    "Asbjoern Jensen": [
+        "PER"
+    ],
+    "Poul Nyrup Rasmussen": [
+        "PER"
+    ],
+    "European Union": [
+        "ORG"
+    ],
+    "Amsterdam": [
+        "LOC"
+    ],
+    "EU": [
+        "ORG"
+    ],
+    "Nyrup Rasmussen": [
+        "PER"
+    ],
+    "Europe": [
+        "LOC"
+    ],
+    "Copenhagen": [
+        "LOC"
+    ],
+    "Ask Hamstrup": [
+        "PER"
+    ],
+    "Central Organization of Industrial Employees": [
+        "ORG"
+    ],
+    "Confederation of DanishIndustries": [
+        "ORG"
+    ],
+    "Siberia": [
+        "LOC"
+    ],
+    "KRASNOYARSK": [
+        "LOC"
+    ],
+    "Krasnoyarsk": [
+        "LOC"
+    ],
+    "Alexander Lebed": [
+        "PER"
+    ],
+    "Lebed": [
+        "PER"
+    ],
+    "Valery Zubov": [
+        "PER"
+    ],
+    "Krasnoyarski Krai": [
+        "ORG"
+    ],
+    "Zubov": [
+        "PER"
+    ],
+    "Yuri Vasliev": [
+        "PER"
+    ],
+    "The Associated Press": [
+        "ORG"
+    ],
+    "Datuk Railey Jeffrey": [
+        "PER"
+    ],
+    "Railey": [
+        "PER"
+    ],
+    "Datuk Hon Choon Kim": [
+        "PER"
+    ],
+    "Seremban": [
+        "LOC"
+    ],
+    "National Water Council": [
+        "ORG"
+    ],
+    "Nigeria": [
+        "LOC"
+    ],
+    "LAGOS": [
+        "LOC"
+    ],
+    "Ife": [
+        "LOC"
+    ],
+    "Radio Lagos": [
+        "ORG"
+    ],
+    "Ilesha": [
+        "LOC"
+    ],
+    "Lagos": [
+        "LOC"
+    ],
+    "Sani Abacha": [
+        "PER"
+    ],
+    "Abacha": [
+        "PER"
+    ],
+    "18": [
+        "CARDINAL"
+    ],
+    "half million": [
+        "CARDINAL"
+    ],
+    "eight": [
+        "CARDINAL"
+    ],
+    "RM50,000": [
+        "MONEY"
+    ],
+    "RM1,000 a day": [
+        "MEASURE"
+    ],
+    "400": [
+        "CARDINAL"
+    ],
+    "half-a millionringgit": [
+        "MONEY"
+    ],
+    "450,000 litres of water a day": [
+        "MEASURE"
+    ],
+    "millions of ringgit": [
+        "MONEY"
+    ],
+    "47km": [
+        "MEASURE"
+    ],
+    "three-year": [
+        "MEASURE"
+    ],
+    "RM10": [
+        "MONEY"
+    ],
+    "RM1": [
+        "MONEY"
+    ],
+    "one-stop": [
+        "MEASURE"
+    ],
+    "RM1 million": [
+        "MONEY"
+    ],
+    "1.6ha": [
+        "MEASURE"
+    ],
+    "Three": [
+        "CARDINAL"
+    ],
+    "27": [
+        "CARDINAL"
+    ],
+    "scores": [
+        "CARDINAL"
+    ],
+    "ten": [
+        "CARDINAL"
+    ],
+    "17 million": [
+        "CARDINAL"
+    ],
+    "99": [
+        "MEASURE"
+    ],
+    "Two": [
+        "CARDINAL"
+    ],
+    "one million dollars": [
+        "MONEY"
+    ],
+    "20 square meters": [
+        "MEASURE"
+    ],
+    "200square feet": [
+        "MEASURE"
+    ],
+    "hundreds ofmillions of dollars": [
+        "MONEY"
+    ],
+    "28": [
+        "MEASURE"
+    ],
+    "four times a year": [
+        "MEASURE"
+    ],
+    "RM120,000": [
+        "MONEY"
+    ],
+    "RM150,000": [
+        "MONEY"
+    ],
+    "SIXTY-FIVE": [
+        "CARDINAL"
+    ],
+    "69": [
+        "CARDINAL"
+    ],
+    "272": [
+        "CARDINAL"
+    ],
+    "42": [
+        "CARDINAL"
+    ],
+    "35": [
+        "CARDINAL"
+    ],
+    "53 per cent": [
+        "PERCENT"
+    ],
+    "RM2billion": [
+        "MONEY"
+    ],
+    "RM120per day per athlete": [
+        "MEASURE"
+    ],
+    "21.3 per cent": [
+        "PERCENT"
+    ],
+    "42,051": [
+        "CARDINAL"
+    ],
+    "235,000": [
+        "CARDINAL"
+    ],
+    "47.34 per cent": [
+        "PERCENT"
+    ],
+    "41.77 per cent": [
+        "PERCENT"
+    ],
+    "40.80 per cent": [
+        "PERCENT"
+    ],
+    "39.93 per cent": [
+        "PERCENT"
+    ],
+    "30 percent": [
+        "PERCENT"
+    ],
+    "56 percent": [
+        "PERCENT"
+    ],
+    "400,000": [
+        "CARDINAL"
+    ],
+    "0.9 percent per year": [
+        "MEASURE"
+    ],
+    "2 kroner": [
+        "MONEY"
+    ],
+    "28 cents": [
+        "MONEY"
+    ],
+    "76.40 kroner (dlrs 10.6) an hour": [
+        "MEASURE"
+    ],
+    "500,000": [
+        "CARDINAL"
+    ],
+    "850,000": [
+        "CARDINAL"
+    ],
+    "39,298 million litres per day": [
+        "MEASURE"
+    ],
+    "2.5 per cent": [
+        "PERCENT"
+    ],
+    "6.7 per cent": [
+        "PERCENT"
+    ],
+    "200 kilometers": [
+        "MEASURE"
+    ],
+    "125miles": [
+        "MEASURE"
+    ],
+    "all-day": [
+        "DURATION"
+    ],
+    "1993": [
+        "DATE"
+    ],
+    "1994": [
+        "DATE"
+    ],
+    "September": [
+        "DATE"
+    ],
+    "1998": [
+        "DATE"
+    ],
+    "Thurs.": [
+        "DATE"
+    ],
+    "two days": [
+        "DURATION"
+    ],
+    "weekend": [
+        "DURATION"
+    ],
+    "45 minutes": [
+        "DURATION"
+    ],
+    "five hours": [
+        "DURATION"
+    ],
+    "several years": [
+        "DURATION"
+    ],
+    "'60s": [
+        "DATE"
+    ],
+    "day": [
+        "DURATION"
+    ],
+    "two months": [
+        "DURATION"
+    ],
+    "three-day": [
+        "DURATION"
+    ],
+    "30-minute": [
+        "DURATION"
+    ],
+    "1990": [
+        "DATE"
+    ],
+    "30-year": [
+        "DURATION"
+    ],
+    "eight hours": [
+        "DURATION"
+    ],
+    "10 days": [
+        "DURATION"
+    ],
+    "April 15": [
+        "DATE"
+    ],
+    "very few tense moments": [
+        "DURATION"
+    ],
+    "night": [
+        "DURATION"
+    ],
+    "October,1996": [
+        "DATE"
+    ],
+    "July 26,1962": [
+        "DATE"
+    ],
+    "two-year": [
+        "DURATION"
+    ],
+    "Two years": [
+        "DURATION"
+    ],
+    "May, 1997": [
+        "DATE"
+    ],
+    "November, 1997": [
+        "DATE"
+    ],
+    "March 23": [
+        "DATE"
+    ],
+    "two weeks": [
+        "DURATION"
+    ],
+    "May 28": [
+        "DATE"
+    ],
+    "March": [
+        "DATE"
+    ],
+    "2020": [
+        "DATE"
+    ],
+    "one night": [
+        "DURATION"
+    ],
+    "LOS ANGELES": [
+        "LOC"
+    ],
+    "U.S.federation": [
+        "ORG"
+    ],
+    "Chicago": [
+        "LOC"
+    ],
+    "San Francisco": [
+        "LOC"
+    ],
+    "SanJose": [
+        "LOC"
+    ],
+    "California": [
+        "LOC"
+    ],
+    "Russian": [
+        "LOC"
+    ],
+    "Mission Control": [
+        "ORG"
+    ],
+    "Baikonur": [
+        "LOC"
+    ],
+    "Kazakstan": [
+        "LOC"
+    ],
+    "BUDAPEST": [
+        "LOC"
+    ],
+    "Hungary": [
+        "LOC"
+    ],
+    "MTI": [
+        "ORG"
+    ],
+    "Gabor Tanczos": [
+        "PER"
+    ],
+    "Koermend": [
+        "LOC"
+    ],
+    "Budapest": [
+        "LOC"
+    ],
+    "Tanczos": [
+        "PER"
+    ],
+    "dlrs 18": [
+        "MONEY"
+    ],
+    "dlrs 100": [
+        "MONEY"
+    ],
+    "15percent": [
+        "PERCENT"
+    ],
+    "32-game": [
+        "MEASURE"
+    ],
+    "16-team": [
+        "MEASURE"
+    ],
+    "dlrs 36": [
+        "MONEY"
+    ],
+    "dlrs 32": [
+        "MONEY"
+    ],
+    "dlrs 190": [
+        "MONEY"
+    ],
+    "dlrs 175": [
+        "MONEY"
+    ],
+    "2.5 million": [
+        "CARDINAL"
+    ],
+    "dlrs 25": [
+        "MONEY"
+    ],
+    "dlrs 475": [
+        "MONEY"
+    ],
+    "11-year": [
+        "MEASURE"
+    ],
+    "19-year": [
+        "MEASURE"
+    ],
+    "125 miles": [
+        "MEASURE"
+    ],
+    "May 1": [
+        "DATE"
+    ],
+    "31": [
+        "DATE"
+    ],
+    "four years": [
+        "DURATION"
+    ],
+    "June 19": [
+        "DATE"
+    ],
+    "July 10, 1999": [
+        "DATE"
+    ],
+    "Bob Edwards": [
+        "PER"
+    ],
+    "National Public Radio": [
+        "ORG"
+    ],
+    "Edwards": [
+        "PER"
+    ],
+    "NPR": [
+        "ORG"
+    ],
+    "Iowa": [
+        "LOC"
+    ],
+    "Robert Siegel": [
+        "PER"
+    ],
+    "Linda Wertheimer": [
+        "PER"
+    ],
+    "Ann Taylor": [
+        "PER"
+    ],
+    "Siegel": [
+        "PER"
+    ],
+    "Wertheimer": [
+        "PER"
+    ],
+    "Taylor": [
+        "PER"
+    ],
+    "Bill Clinton": [
+        "PER"
+    ],
+    "White House": [
+        "ORG"
+    ],
+    "Mara Liasson": [
+        "PER"
+    ],
+    "Nina Totenberg": [
+        "PER"
+    ],
+    "Washington": [
+        "LOC"
+    ],
+    "DickCavett": [
+        "PER"
+    ],
+    "Jonestown": [
+        "LOC"
+    ],
+    "Terry Gross": [
+        "PER"
+    ],
+    "public radio": [
+        "ORG"
+    ],
+    "WHYY": [
+        "ORG"
+    ],
+    "Philadelphia": [
+        "LOC"
+    ],
+    "Gross": [
+        "PER"
+    ],
+    "Eddie Miller": [
+        "PER"
+    ],
+    "Miller": [
+        "PER"
+    ],
+    "Dick Clark": [
+        "PER"
+    ],
+    "John Perry Barlow": [
+        "PER"
+    ],
+    "Mike Godwin": [
+        "PER"
+    ],
+    "Electronic Frontier Foundation": [
+        "ORG"
+    ],
+    "Microsoft Corp.": [
+        "ORG"
+    ],
+    "Sidney Blumenthal": [
+        "PER"
+    ],
+    "Matt Drudge": [
+        "PER"
+    ],
+    "Drudge": [
+        "PER"
+    ],
+    "District ofColumbia": [
+        "LOC"
+    ],
+    "Los Angeles": [
+        "LOC"
+    ],
+    "America Online": [
+        "ORG"
+    ],
+    "Cindy Cohn": [
+        "PER"
+    ],
+    "Cohn": [
+        "PER"
+    ],
+    "McGlashan &AMP; Sarrail": [
+        "ORG"
+    ],
+    "San Mateo": [
+        "LOC"
+    ],
+    "Calif.": [
+        "LOC"
+    ],
+    "SenateJudiciary Committee subcommittee": [
+        "ORG"
+    ],
+    "Stewart Dalzell": [
+        "PER"
+    ],
+    "Supreme Court": [
+        "ORG"
+    ],
+    "Dalzell": [
+        "PER"
+    ],
+    "Harvard Law School": [
+        "ORG"
+    ],
+    "Jack N. Berkman": [
+        "PER"
+    ],
+    "Lillian R. Berkman": [
+        "PER"
+    ],
+    "Center forInternet and Society": [
+        "ORG"
+    ],
+    "Jonathan Zittrain": [
+        "PER"
+    ],
+    "Charles Nesson": [
+        "PER"
+    ],
+    "Lawrence Lessig": [
+        "PER"
+    ],
+    "Microsoft": [
+        "ORG"
+    ],
+    "Lessig": [
+        "PER"
+    ],
+    "Harvard": [
+        "ORG"
+    ],
+    "Yale Law School": [
+        "ORG"
+    ],
+    "JamesBoyle": [
+        "PER"
+    ],
+    "American University": [
+        "ORG"
+    ],
+    "Robert Mergess": [
+        "PER"
+    ],
+    "Berkeley Center for Law and Technology": [
+        "ORG"
+    ],
+    "University ofCalifornia": [
+        "ORG"
+    ],
+    "Yale": [
+        "ORG"
+    ],
+    "JackBalkin": [
+        "PER"
+    ],
+    "Pam Samuelson": [
+        "PER"
+    ],
+    "Berkeley": [
+        "ORG"
+    ],
+    "Mergess": [
+        "PER"
+    ],
+    "Samuelson": [
+        "PER"
+    ],
+    "MichaelFroomkin": [
+        "PER"
+    ],
+    "University of Miami": [
+        "ORG"
+    ],
+    "Dan Burk": [
+        "PER"
+    ],
+    "Seton HallUniversity": [
+        "ORG"
+    ],
+    "David Post": [
+        "PER"
+    ],
+    "Cyberspace Law Institute": [
+        "ORG"
+    ],
+    "Temple University Law School": [
+        "ORG"
+    ],
+    "Post": [
+        "PER"
+    ],
+    "FrankEasterbrook": [
+        "PER"
+    ],
+    "7th U.S. Circuit Court of Appeals": [
+        "ORG"
+    ],
+    "University of Chicago": [
+        "ORG"
+    ],
+    "University of Chicago Law Review": [
+        "ORG"
+    ],
+    "Easterbrook": [
+        "PER"
+    ],
+    "Brian Dally": [
+        "PER"
+    ],
+    "Quincy Jones": [
+        "PER"
+    ],
+    "Bill Gates": [
+        "PER"
+    ],
+    "Jones": [
+        "PER"
+    ],
+    "Qradio": [
+        "ORG"
+    ],
+    "South Africa": [
+        "LOC"
+    ],
+    "SouthAfrican Broadcasting Corp.": [
+        "ORG"
+    ],
+    "Americas": [
+        "LOC"
+    ],
+    "Adam Clayton Powell III": [
+        "PER"
+    ],
+    "Powell": [
+        "PER"
+    ],
+    "Freedom Forum": [
+        "ORG"
+    ],
+    "Arlington": [
+        "LOC"
+    ],
+    "Va.": [
+        "LOC"
+    ],
+    "Alan Brody": [
+        "PER"
+    ],
+    "Scarsdale": [
+        "LOC"
+    ],
+    "N.Y.": [
+        "LOC"
+    ],
+    "At-Plan": [
+        "ORG"
+    ],
+    "Imagine Media": [
+        "ORG"
+    ],
+    "Brisbane": [
+        "LOC"
+    ],
+    "Audio Net": [
+        "ORG"
+    ],
+    "Dallas": [
+        "LOC"
+    ],
+    "Mark Cuban": [
+        "PER"
+    ],
+    "Vern Fotheringham": [
+        "PER"
+    ],
+    "QRADIO": [
+        "ORG"
+    ],
+    "AUDIONET": [
+        "ORG"
+    ],
+    "Silicon Valley": [
+        "LOC"
+    ],
+    "Congress": [
+        "ORG"
+    ],
+    "Christopher Cox": [
+        "PER"
+    ],
+    "William Gale": [
+        "PER"
+    ],
+    "BrookingsInstitution": [
+        "ORG"
+    ],
+    "KPMG PeatMarwick": [
+        "ORG"
+    ],
+    "Ron Wyden": [
+        "PER"
+    ],
+    "Ore.": [
+        "LOC"
+    ],
+    "Cox": [
+        "PER"
+    ],
+    "Senate": [
+        "ORG"
+    ],
+    "Joel Slemrod": [
+        "PER"
+    ],
+    "University of Michigan": [
+        "ORG"
+    ],
+    "business school": [
+        "ORG"
+    ],
+    "Gale": [
+        "PER"
+    ],
+    "NewYork": [
+        "LOC"
+    ],
+    "Virginia": [
+        "LOC"
+    ],
+    "National Governors' Association": [
+        "ORG"
+    ],
+    "Michael Leavitt": [
+        "PER"
+    ],
+    "Utah": [
+        "LOC"
+    ],
+    "Roy Romer": [
+        "PER"
+    ],
+    "Colorado": [
+        "LOC"
+    ],
+    "Leavitt": [
+        "PER"
+    ],
+    "Wyden": [
+        "PER"
+    ],
+    "Trent Lott": [
+        "PER"
+    ],
+    "Miss.": [
+        "LOC"
+    ],
+    "Yahoo": [
+        "ORG"
+    ],
+    "Excite": [
+        "ORG"
+    ],
+    "Lycos": [
+        "ORG"
+    ],
+    "Infoseek": [
+        "ORG"
+    ],
+    "AlanBraverman": [
+        "PER"
+    ],
+    "Credit Suisse First Boston": [
+        "ORG"
+    ],
+    "Jerry Yang": [
+        "PER"
+    ],
+    "Santa Clara": [
+        "LOC"
+    ],
+    "Electronic Advertising andMarketplace Report": [
+        "ORG"
+    ],
+    "Goto.com": [
+        "ORG"
+    ],
+    "Idealab": [
+        "ORG"
+    ],
+    "Bill Gross": [
+        "PER"
+    ],
+    "Open TextCorp.": [
+        "ORG"
+    ],
+    "AbeKleinfield": [
+        "PER"
+    ],
+    "Open Text": [
+        "ORG"
+    ],
+    "Waterloo": [
+        "LOC"
+    ],
+    "Ontario": [
+        "LOC"
+    ],
+    "Braverman": [
+        "PER"
+    ],
+    "Peter Kaufman": [
+        "PER"
+    ],
+    "Kaufman": [
+        "PER"
+    ],
+    "TV Books LLC": [
+        "ORG"
+    ],
+    "PBS": [
+        "ORG"
+    ],
+    "A&AMP;E": [
+        "ORG"
+    ],
+    "History Channel": [
+        "ORG"
+    ],
+    "WGBH": [
+        "ORG"
+    ],
+    "Boston": [
+        "LOC"
+    ],
+    "Margaret Drain": [
+        "PER"
+    ],
+    "TV Books": [
+        "ORG"
+    ],
+    "Adriana Bosch": [
+        "PER"
+    ],
+    "Drain": [
+        "PER"
+    ],
+    "TVBooks": [
+        "ORG"
+    ],
+    "Reagan": [
+        "PER"
+    ],
+    "Michael Coffey": [
+        "PER"
+    ],
+    "Publishers Weekly": [
+        "ORG"
+    ],
+    "Coffey": [
+        "PER"
+    ],
+    "Hyperion": [
+        "ORG"
+    ],
+    "Walt DisneyCo.": [
+        "ORG"
+    ],
+    "Disney": [
+        "ORG"
+    ],
+    "Broadway Video Inc.": [
+        "ORG"
+    ],
+    "Lorne Michaels": [
+        "PER"
+    ],
+    "HarperCollins": [
+        "ORG"
+    ],
+    "News Corp.": [
+        "ORG"
+    ],
+    "Richard Overy": [
+        "PER"
+    ],
+    "Irish Republican Army": [
+        "ORG"
+    ],
+    "Peter Taylor": [
+        "PER"
+    ],
+    "Ahron Bregman": [
+        "PER"
+    ],
+    "Jihan El-Tahri": [
+        "PER"
+    ],
+    "James Billington": [
+        "PER"
+    ],
+    "Jessica Yu": [
+        "PER"
+    ],
+    "Home Box Office": [
+        "ORG"
+    ],
+    "Bradys": [
+        "PER"
+    ],
+    "Cleavers": [
+        "PER"
+    ],
+    "Munsters": [
+        "PER"
+    ],
+    "Texas": [
+        "LOC"
+    ],
+    "Oklahoma": [
+        "LOC"
+    ],
+    "Mississippi Valley": [
+        "LOC"
+    ],
+    "Louisiana": [
+        "LOC"
+    ],
+    "Tennessee Valley": [
+        "LOC"
+    ],
+    "Appalachians": [
+        "LOC"
+    ],
+    "Missouri RiverValley": [
+        "LOC"
+    ],
+    "Dakotas": [
+        "LOC"
+    ],
+    "Great Lakes": [
+        "LOC"
+    ],
+    "Atlantic": [
+        "LOC"
+    ],
+    "Rockies": [
+        "LOC"
+    ],
+    "Nevada": [
+        "LOC"
+    ],
+    "Arctic": [
+        "LOC"
+    ],
+    "sun": [
+        "LOC"
+    ],
+    "DICAPRIO": [
+        "PER"
+    ],
+    "HOLLYWOOD": [
+        "LOC"
+    ],
+    "Hollywood": [
+        "LOC"
+    ],
+    "Tom Cruise": [
+        "PER"
+    ],
+    "Mel Gibson": [
+        "PER"
+    ],
+    "Harrison Ford": [
+        "PER"
+    ],
+    "Leo": [
+        "PER"
+    ],
+    "Leonardo DiCaprio": [
+        "PER"
+    ],
+    "Sherry Lansing": [
+        "PER"
+    ],
+    "Paramount Motion Picture Group": [
+        "ORG"
+    ],
+    "20th Century Fox": [
+        "ORG"
+    ],
+    "Beatles": [
+        "ORG"
+    ],
+    "Elvis": [
+        "PER"
+    ],
+    "Frank Sinatra": [
+        "PER"
+    ],
+    "Kate Winslet": [
+        "PER"
+    ],
+    "Randall Wallace": [
+        "PER"
+    ],
+    "Dumas": [
+        "PER"
+    ],
+    "DiCaprio": [
+        "PER"
+    ],
+    "Louis XIV": [
+        "PER"
+    ],
+    "Philippe": [
+        "PER"
+    ],
+    "United Artists": [
+        "ORG"
+    ],
+    "MGM": [
+        "ORG"
+    ],
+    "Cruise": [
+        "PER"
+    ],
+    "Ford": [
+        "PER",
+        "ORG"
+    ],
+    "Gibson": [
+        "PER"
+    ],
+    "Woody Allen": [
+        "PER"
+    ],
+    "Clark Gable": [
+        "PER"
+    ],
+    "Cary Grant": [
+        "PER"
+    ],
+    "James Stewart": [
+        "PER"
+    ],
+    "Spencer Tracy": [
+        "PER"
+    ],
+    "James Cagney": [
+        "PER"
+    ],
+    "Humphrey Bogart": [
+        "PER"
+    ],
+    "Montgomery Clift": [
+        "PER"
+    ],
+    "James Dean": [
+        "PER"
+    ],
+    "Vanity Fair": [
+        "ORG"
+    ],
+    "Matthew McConaughey": [
+        "PER"
+    ],
+    "Paul Newman": [
+        "PER"
+    ],
+    "McConaughey": [
+        "PER"
+    ],
+    "Matt Damon": [
+        "PER"
+    ],
+    "Lindsay Doran": [
+        "PER"
+    ],
+    "Ellen Barkin": [
+        "PER"
+    ],
+    "Robert De Niro": [
+        "PER"
+    ],
+    "Baz Luhrmann": [
+        "PER"
+    ],
+    "MTV": [
+        "ORG"
+    ],
+    "ClaireDanes": [
+        "PER"
+    ],
+    "Laura Ziskin": [
+        "PER"
+    ],
+    "Fox 2000": [
+        "ORG"
+    ],
+    "20th CenturyFox": [
+        "ORG"
+    ],
+    "NBC": [
+        "ORG"
+    ],
+    "Winslet": [
+        "PER"
+    ],
+    "RickYorn": [
+        "PER"
+    ],
+    "Addis-Wechsler &AMP; Associates": [
+        "ORG"
+    ],
+    "Wallace": [
+        "PER"
+    ],
+    "Tom Rothman": [
+        "PER"
+    ],
+    "Romeo": [
+        "PER"
+    ],
+    "Frank": [
+        "PER"
+    ],
+    "Ireland": [
+        "LOC"
+    ],
+    "Conor McCourt": [
+        "PER"
+    ],
+    "McCourt": [
+        "PER"
+    ],
+    "Limerick": [
+        "LOC"
+    ],
+    "Frank McCourt": [
+        "PER"
+    ],
+    "Alphie": [
+        "PER"
+    ],
+    "Michael": [
+        "PER"
+    ],
+    "Malachy": [
+        "PER"
+    ],
+    "Angela": [
+        "PER"
+    ],
+    "FrankMcCourt": [
+        "PER"
+    ],
+    "McCourts": [
+        "PER"
+    ],
+    "Cinemax": [
+        "ORG"
+    ],
+    "Greg Dougherty": [
+        "PER"
+    ],
+    "Charlotte Forest": [
+        "PER"
+    ],
+    "Homestead Editorial": [
+        "ORG"
+    ],
+    "Sheila Nevins": [
+        "PER"
+    ],
+    "Jacqueline Glover": [
+        "PER"
+    ],
+    "JohnO'Neill": [
+        "PER"
+    ],
+    "Dereen Griffin": [
+        "PER"
+    ],
+    "Marian Thomas Griffin": [
+        "PER"
+    ],
+    "Tony Conniff": [
+        "PER"
+    ],
+    "Romeo &AMP; Juliet Productions Inc.": [
+        "ORG"
+    ],
+    "NEW YORK": [
+        "LOC"
+    ],
+    "Metropolitan Opera": [
+        "ORG"
+    ],
+    "RobertWilson": [
+        "PER"
+    ],
+    "Wagner": [
+        "PER"
+    ],
+    "JamesLevine": [
+        "PER"
+    ],
+    "Levine": [
+        "PER"
+    ],
+    "Wilson": [
+        "PER"
+    ],
+    "FridaParmeggiani": [
+        "PER"
+    ],
+    "Met": [
+        "ORG"
+    ],
+    "Rothko": [
+        "PER"
+    ],
+    "Virgil Thomson": [
+        "PER"
+    ],
+    "RichardStrauss": [
+        "PER"
+    ],
+    "La Scala": [
+        "ORG"
+    ],
+    "MontserratCaballe": [
+        "PER"
+    ],
+    "Philip Glass": [
+        "PER"
+    ],
+    "Brooklyn Academy of Music": [
+        "ORG"
+    ],
+    "Shakespeare": [
+        "PER"
+    ],
+    "Ibsen": [
+        "PER"
+    ],
+    "Buechner": [
+        "PER"
+    ],
+    "Brecht": [
+        "PER"
+    ],
+    "Bastille Opera": [
+        "ORG"
+    ],
+    "Paris": [
+        "LOC"
+    ],
+    "Dominique Sanda": [
+        "PER"
+    ],
+    "Milan": [
+        "LOC"
+    ],
+    "Tania Leon": [
+        "PER"
+    ],
+    "Diana Vreeland": [
+        "PER"
+    ],
+    "Bob": [
+        "PER"
+    ],
+    "WELLS BDDP": [
+        "ORG"
+    ],
+    "Wells BDDP": [
+        "ORG"
+    ],
+    "GGT Group PLC": [
+        "ORG"
+    ],
+    "Wells": [
+        "PER",
+        "ORG"
+    ],
+    "Omnicom Group": [
+        "ORG"
+    ],
+    "GGT": [
+        "ORG"
+    ],
+    "John Wren": [
+        "PER"
+    ],
+    "Omnicom": [
+        "ORG"
+    ],
+    "Bristol-MyersSquibb": [
+        "ORG"
+    ],
+    "Heineken USA Inc.": [
+        "ORG"
+    ],
+    "Liberty Mutual Insurance Co.": [
+        "ORG"
+    ],
+    "Procter &AMP;Gamble Co.": [
+        "ORG"
+    ],
+    "Tag Heuer USA": [
+        "ORG"
+    ],
+    "Alka-Seltzer": [
+        "ORG"
+    ],
+    "Benson &AMP; Hedges": [
+        "ORG"
+    ],
+    "Clairol": [
+        "ORG"
+    ],
+    "Steve Davis": [
+        "PER"
+    ],
+    "Frank Assumma": [
+        "PER"
+    ],
+    "Davis": [
+        "PER"
+    ],
+    "Moss/Dragoti": [
+        "ORG"
+    ],
+    "ChaseManhattan Corp.": [
+        "ORG"
+    ],
+    "Procter &AMP; Gamble": [
+        "ORG"
+    ],
+    "DDB Needham Worldwide": [
+        "ORG"
+    ],
+    "TBWA Chiat/Day": [
+        "ORG"
+    ],
+    "Wren": [
+        "PER"
+    ],
+    "Charlie Moss": [
+        "PER"
+    ],
+    "Wells, Rich, Greene": [
+        "ORG"
+    ],
+    "DDB Needham": [
+        "ORG"
+    ],
+    "Moss": [
+        "PER"
+    ],
+    "Stan Dragoti": [
+        "PER"
+    ],
+    "Hertz Corp.": [
+        "ORG"
+    ],
+    "Walt Disney Co.": [
+        "ORG"
+    ],
+    "Hearst Corp.": [
+        "ORG"
+    ],
+    "General Electric Co.": [
+        "ORG"
+    ],
+    "Ken Kaess": [
+        "PER"
+    ],
+    "Mary WellsLawrence": [
+        "PER"
+    ],
+    "Ford Motor Co.": [
+        "ORG"
+    ],
+    "ITT Sheraton Corp.": [
+        "ORG"
+    ],
+    "IBM": [
+        "ORG"
+    ],
+    "Miles Inc.": [
+        "ORG"
+    ],
+    "Bayer": [
+        "ORG"
+    ],
+    "Philip Morris Cos.": [
+        "ORG"
+    ],
+    "P&AMP;G": [
+        "ORG"
+    ],
+    "Mary": [
+        "PER"
+    ],
+    "BDDP": [
+        "ORG"
+    ],
+    "Lawrence": [
+        "PER"
+    ],
+    "Linda Kaplan Thaler": [
+        "PER"
+    ],
+    "Kaplan Thaler Group": [
+        "ORG"
+    ],
+    "Kaplan Thaler": [
+        "PER"
+    ],
+    "Toys ``R'' Us": [
+        "ORG"
+    ],
+    "J. Walter ThompsonNew York": [
+        "ORG"
+    ],
+    "WPP Group": [
+        "ORG"
+    ],
+    "Georgia-Pacific Corp.": [
+        "ORG"
+    ],
+    "Hertz": [
+        "ORG"
+    ],
+    "HistoryChannel": [
+        "ORG"
+    ],
+    "BBDOSouth": [
+        "ORG"
+    ],
+    "BBDO Worldwide": [
+        "ORG"
+    ],
+    "BBDO South": [
+        "ORG"
+    ],
+    "Atlanta": [
+        "LOC"
+    ],
+    "Georgia-Pacific": [
+        "ORG"
+    ],
+    "Ken Haldin": [
+        "PER"
+    ],
+    "Thomas Cahill": [
+        "PER"
+    ],
+    "Cahill": [
+        "PER"
+    ],
+    "Doubleday": [
+        "ORG"
+    ],
+    "Sarah": [
+        "PER"
+    ],
+    "Abraham": [
+        "PER"
+    ],
+    "David": [
+        "PER"
+    ],
+    "earth": [
+        "LOC"
+    ],
+    "God": [
+        "PER"
+    ],
+    "Isaac": [
+        "PER"
+    ],
+    "Elijah": [
+        "PER"
+    ],
+    "Canaan": [
+        "LOC"
+    ],
+    "Sumer": [
+        "LOC"
+    ],
+    "Moon": [
+        "LOC"
+    ],
+    "Mircea Eliade": [
+        "PER"
+    ],
+    "Avram": [
+        "PER"
+    ],
+    "Nan A. Talese": [
+        "PER"
+    ],
+    "BROADWAY": [
+        "LOC"
+    ],
+    "Broadway": [
+        "LOC"
+    ],
+    "Local 802 of the American Federation of Musicians": [
+        "ORG"
+    ],
+    "League of AmericanProducers and Theater Owners": [
+        "ORG"
+    ],
+    "Judy West": [
+        "PER"
+    ],
+    "Jed Bernstein": [
+        "PER"
+    ],
+    "10-year": [
+        "MEASURE",
+        "DURATION"
+    ],
+    "47": [
+        "MEASURE"
+    ],
+    "9,000": [
+        "CARDINAL",
+        "MONEY"
+    ],
+    "10,000": [
+        "CARDINAL"
+    ],
+    "hundreds": [
+        "CARDINAL"
+    ],
+    "millions": [
+        "CARDINAL",
+        "MONEY"
+    ],
+    "nine-tenths": [
+        "CARDINAL"
+    ],
+    "$5.4 million": [
+        "MONEY"
+    ],
+    "1,000": [
+        "CARDINAL"
+    ],
+    "$5 million": [
+        "MONEY"
+    ],
+    "1.3 million": [
+        "CARDINAL"
+    ],
+    "12 million": [
+        "CARDINAL"
+    ],
+    "20": [
+        "CARDINAL",
+        "MEASURE"
+    ],
+    "260": [
+        "CARDINAL"
+    ],
+    "30": [
+        "CARDINAL"
+    ],
+    "thousands": [
+        "CARDINAL"
+    ],
+    "$16 billion": [
+        "MONEY"
+    ],
+    "dozens": [
+        "CARDINAL"
+    ],
+    "$53.2 million": [
+        "MONEY"
+    ],
+    "180 percent": [
+        "PERCENT"
+    ],
+    "$19.0 million": [
+        "MONEY"
+    ],
+    "$40.2million": [
+        "MONEY"
+    ],
+    "four-year": [
+        "MEASURE"
+    ],
+    "11": [
+        "CARDINAL"
+    ],
+    "$2.5 million": [
+        "MONEY"
+    ],
+    "25": [
+        "CARDINAL"
+    ],
+    "$500,000": [
+        "MONEY"
+    ],
+    "3 percent": [
+        "PERCENT"
+    ],
+    "several inches": [
+        "MEASURE"
+    ],
+    "60": [
+        "MEASURE"
+    ],
+    "23-year": [
+        "MEASURE"
+    ],
+    "$1 billion": [
+        "MONEY"
+    ],
+    "$17.5 million": [
+        "MONEY"
+    ],
+    "$6 million": [
+        "MONEY"
+    ],
+    "$20 million": [
+        "MONEY"
+    ],
+    "19": [
+        "MEASURE"
+    ],
+    "14": [
+        "MEASURE"
+    ],
+    "tons": [
+        "MEASURE"
+    ],
+    "four": [
+        "CARDINAL"
+    ],
+    "one-man": [
+        "MEASURE"
+    ],
+    "133": [
+        "CARDINAL"
+    ],
+    "$200 million": [
+        "MONEY"
+    ],
+    "$330 million": [
+        "MONEY"
+    ],
+    "$125 million": [
+        "MONEY"
+    ],
+    "$40 million": [
+        "MONEY"
+    ],
+    "$30 million": [
+        "MONEY"
+    ],
+    "seven-volume": [
+        "MEASURE"
+    ],
+    "291": [
+        "CARDINAL"
+    ],
+    "$23.50": [
+        "MONEY"
+    ],
+    "36": [
+        "CARDINAL"
+    ],
+    "38": [
+        "CARDINAL"
+    ],
+    "21 percent": [
+        "PERCENT"
+    ],
+    "$1,300 a week": [
+        "MEASURE"
+    ],
+    "1979": [
+        "DATE"
+    ],
+    "1980": [
+        "DATE"
+    ],
+    "one-hour": [
+        "DURATION"
+    ],
+    "all day": [
+        "DURATION"
+    ],
+    "1975": [
+        "DATE"
+    ],
+    "few years": [
+        "DURATION"
+    ],
+    "Tuesday": [
+        "DATE"
+    ],
+    "two centuries": [
+        "DURATION"
+    ],
+    "six years": [
+        "DURATION"
+    ],
+    "21st-century": [
+        "DATE"
+    ],
+    "February": [
+        "DATE"
+    ],
+    "1920s": [
+        "DATE"
+    ],
+    "millennium": [
+        "DATE"
+    ],
+    "last quarter of 1997": [
+        "DATE"
+    ],
+    "30-day": [
+        "DURATION"
+    ],
+    "two and ahalf years": [
+        "DURATION"
+    ],
+    "50 years": [
+        "DURATION"
+    ],
+    "2004": [
+        "DATE"
+    ],
+    "January2002": [
+        "DATE"
+    ],
+    "2000": [
+        "DATE"
+    ],
+    "May": [
+        "DATE"
+    ],
+    "four-and-a-half-hour": [
+        "DURATION"
+    ],
+    "twoyears": [
+        "DURATION"
+    ],
+    "April": [
+        "DATE"
+    ],
+    "single hour": [
+        "DURATION"
+    ],
+    "10-hour": [
+        "DURATION"
+    ],
+    "three-hour": [
+        "DURATION"
+    ],
+    "spring": [
+        "DATE"
+    ],
+    "MARCH": [
+        "DATE"
+    ],
+    "hour": [
+        "DURATION"
+    ],
+    "St. Patrick's Day": [
+        "DATE"
+    ],
+    "8 p.m. ET": [
+        "TIME"
+    ],
+    "19th-century": [
+        "DATE"
+    ],
+    "five-hour": [
+        "DURATION"
+    ],
+    "32 YEARS": [
+        "DURATION"
+    ],
+    "32 years": [
+        "DURATION"
+    ],
+    "May 13": [
+        "DATE"
+    ],
+    "January": [
+        "DATE"
+    ],
+    "six months": [
+        "DURATION"
+    ],
+    "seven years": [
+        "DURATION"
+    ],
+    "November": [
+        "DATE"
+    ],
+    "three decades": [
+        "DURATION"
+    ],
+    "sixweeks": [
+        "DURATION"
+    ],
+    "Friday the 13th": [
+        "DATE"
+    ],
+    "1966": [
+        "DATE"
+    ],
+    "six-month": [
+        "DURATION"
+    ],
+    "2000 B.C.": [
+        "DATE"
+    ],
+    "March 8": [
+        "DATE"
+    ],
+    "MOODY'S": [
+        "ORG"
+    ],
+    "TOKYO": [
+        "LOC"
+    ],
+    "Japan": [
+        "LOC"
+    ],
+    "Moody's InvestorsService": [
+        "ORG"
+    ],
+    "Moody's": [
+        "ORG"
+    ],
+    "Standard &AMP; Poor's": [
+        "ORG"
+    ],
+    "Duff &AMP; Phelps": [
+        "ORG"
+    ],
+    "Nikkei": [
+        "ORG"
+    ],
+    "Xinyi Lu": [
+        "PER"
+    ],
+    "Paribas Capital Markets Ltd.": [
+        "ORG"
+    ],
+    "Toyota": [
+        "ORG"
+    ],
+    "TokyoElectric Power Company": [
+        "ORG"
+    ],
+    "Kanezo Muraoka": [
+        "PER"
+    ],
+    "NorioOhga": [
+        "PER"
+    ],
+    "Sony Corporation": [
+        "ORG"
+    ],
+    "Economic Planning Agency": [
+        "ORG"
+    ],
+    "Pfizer": [
+        "ORG"
+    ],
+    "Raymond Rosen": [
+        "PER"
+    ],
+    "Robert Wood Johnson Medical School": [
+        "ORG"
+    ],
+    "NewBrunswick": [
+        "LOC"
+    ],
+    "N.J.": [
+        "LOC"
+    ],
+    "Leonore Tiefer": [
+        "PER"
+    ],
+    "New York Medical Center": [
+        "ORG"
+    ],
+    "Tiefer": [
+        "PER"
+    ],
+    "Pepper Schwartz": [
+        "PER"
+    ],
+    "University ofWashington": [
+        "ORG"
+    ],
+    "Rosen": [
+        "PER"
+    ],
+    "University of Maryland": [
+        "ORG"
+    ],
+    "Irwin Goldstein": [
+        "PER"
+    ],
+    "Boston University School of Medicine": [
+        "ORG"
+    ],
+    "Goldstein": [
+        "PER"
+    ],
+    "Massachusetts": [
+        "LOC"
+    ],
+    "Jennifer Berman": [
+        "PER"
+    ],
+    "Universityof Maryland": [
+        "ORG"
+    ],
+    "Baltimore": [
+        "LOC"
+    ],
+    "CLINTON": [
+        "PER"
+    ],
+    "GOP": [
+        "ORG"
+    ],
+    "WASHINGTON": [
+        "LOC"
+    ],
+    "Paula Jones": [
+        "PER"
+    ],
+    "Republicans": [
+        "ORG"
+    ],
+    "Lott": [
+        "PER"
+    ],
+    "Senate Commerce Committee": [
+        "ORG"
+    ],
+    "Monica Lewinsky": [
+        "PER"
+    ],
+    "SupremeCourt": [
+        "ORG"
+    ],
+    "Al Gore": [
+        "PER"
+    ],
+    "Hugh": [
+        "PER"
+    ],
+    "Tony Rodham": [
+        "PER"
+    ],
+    "GM": [
+        "ORG"
+    ],
+    "DETROIT": [
+        "LOC"
+    ],
+    "General MotorsCorp.": [
+        "ORG"
+    ],
+    "General Motors": [
+        "ORG"
+    ],
+    "Ronald L.Zarrella": [
+        "PER"
+    ],
+    "Zarrella": [
+        "PER"
+    ],
+    "Wendy Beale Needham": [
+        "PER"
+    ],
+    "Donaldson, Lufkin &AMP;Jenrette": [
+        "ORG"
+    ],
+    "David Bradley": [
+        "PER"
+    ],
+    "J.P. Morgan Securities Inc.": [
+        "ORG"
+    ],
+    "Robert L. Rewey": [
+        "PER"
+    ],
+    "Jaguar": [
+        "ORG"
+    ],
+    "Daimler-Benz AG": [
+        "ORG"
+    ],
+    "VolkswagenAG": [
+        "ORG"
+    ],
+    "Suzuki Motor Corp.": [
+        "ORG"
+    ],
+    "Volvo": [
+        "ORG"
+    ],
+    "Volkswagen": [
+        "ORG"
+    ],
+    "Audi AG": [
+        "ORG"
+    ],
+    "BMW": [
+        "ORG"
+    ],
+    "Porsche AG": [
+        "ORG"
+    ],
+    "IsuzuMotors Ltd.": [
+        "ORG"
+    ],
+    "Chrysler Corp.": [
+        "ORG"
+    ],
+    "Michael W. McCarthy": [
+        "PER"
+    ],
+    "Merrill Lynch &AMP; Co.": [
+        "ORG"
+    ],
+    "Indian Wells": [
+        "LOC"
+    ],
+    "McCarthy": [
+        "PER"
+    ],
+    "American Stock Exchanges": [
+        "ORG"
+    ],
+    "Oakland": [
+        "LOC"
+    ],
+    "Merrill Lynch": [
+        "ORG"
+    ],
+    "Merrill": [
+        "PER",
+        "ORG"
+    ],
+    "Tokyo": [
+        "LOC"
+    ],
+    "Goldman,Sachs &AMP; Co.": [
+        "ORG"
+    ],
+    "New York Stock Exchange": [
+        "ORG"
+    ],
+    "Big Board": [
+        "ORG"
+    ],
+    "David Komansky": [
+        "PER"
+    ],
+    "MerrillLynch": [
+        "ORG"
+    ],
+    "Belle Plaine": [
+        "LOC"
+    ],
+    "Minn.": [
+        "LOC"
+    ],
+    "Beach": [
+        "LOC"
+    ],
+    "N.D.": [
+        "LOC"
+    ],
+    "Mutual Stores Grocery": [
+        "ORG"
+    ],
+    "Safeway Stores": [
+        "ORG"
+    ],
+    "Mutual": [
+        "ORG"
+    ],
+    "Charles Merrill": [
+        "PER"
+    ],
+    "Winthrop Smith": [
+        "PER"
+    ],
+    "Eisenhower Medical Center": [
+        "ORG"
+    ],
+    "American Stock Exchange": [
+        "ORG"
+    ],
+    "Association of Stock Exchange firms": [
+        "ORG"
+    ],
+    "Patrick M. McCarthy": [
+        "PER"
+    ],
+    "Margaret Grundy McCarthy": [
+        "PER"
+    ],
+    "JAPAN": [
+        "LOC"
+    ],
+    "Ryutaro Hashimoto": [
+        "PER"
+    ],
+    "Treasury": [
+        "ORG"
+    ],
+    "Robert Rubin": [
+        "PER"
+    ],
+    "Asia": [
+        "LOC"
+    ],
+    "Dow Jones": [
+        "ORG"
+    ],
+    "Southeast Asia": [
+        "LOC"
+    ],
+    "South Korea": [
+        "LOC"
+    ],
+    "Sony Corp.": [
+        "ORG"
+    ],
+    "Norio Ohga": [
+        "PER"
+    ],
+    "Hashimoto": [
+        "PER"
+    ],
+    "Hoover": [
+        "PER"
+    ],
+    "Ohga": [
+        "PER"
+    ],
+    "Moody's Investors Service": [
+        "ORG"
+    ],
+    "FinanceMinistry": [
+        "ORG"
+    ],
+    "Kunihiko Saito": [
+        "PER"
+    ],
+    "TREASURY": [
+        "ORG"
+    ],
+    "Anthony Chan": [
+        "PER"
+    ],
+    "Banc One Investment Advisors Corp.": [
+        "ORG"
+    ],
+    "Columbus": [
+        "LOC"
+    ],
+    "Ohio": [
+        "LOC"
+    ],
+    "Chan": [
+        "PER"
+    ],
+    "Fed": [
+        "ORG"
+    ],
+    "Jack Ablin": [
+        "PER"
+    ],
+    "Barnett Capital Advisors Inc.": [
+        "ORG"
+    ],
+    "Jacksonville": [
+        "LOC"
+    ],
+    "Fla.": [
+        "LOC"
+    ],
+    "UTAH": [
+        "LOC"
+    ],
+    "PRICE": [
+        "LOC"
+    ],
+    "Price River": [
+        "LOC"
+    ],
+    "FranceDavis": [
+        "PER"
+    ],
+    "Salt Lake City": [
+        "LOC"
+    ],
+    "American West": [
+        "LOC"
+    ],
+    "Martin Luther King Jr.": [
+        "PER"
+    ],
+    "Robert Marshall": [
+        "PER"
+    ],
+    "C. Matthew Gilmour": [
+        "PER"
+    ],
+    "Price": [
+        "LOC"
+    ],
+    "Salt LakeCity": [
+        "LOC"
+    ],
+    "Martin Luther King": [
+        "PER"
+    ],
+    "Memphis": [
+        "LOC"
+    ],
+    "Marshall": [
+        "PER"
+    ],
+    "Gilmour": [
+        "PER"
+    ],
+    "Kevin Ashby": [
+        "PER"
+    ],
+    "TheSun Advocate": [
+        "ORG"
+    ],
+    "Ashby": [
+        "PER"
+    ],
+    "Carbon County": [
+        "LOC"
+    ],
+    "J.Eldon Dorman": [
+        "PER"
+    ],
+    "LarryGerlach": [
+        "PER"
+    ],
+    "University of Utah": [
+        "ORG"
+    ],
+    "Utah State UniversityPress": [
+        "ORG"
+    ],
+    "Ku Klux Klan": [
+        "ORG"
+    ],
+    "Klan": [
+        "ORG"
+    ],
+    "ThePrice Sun": [
+        "ORG"
+    ],
+    "J. Bracken Lee": [
+        "PER"
+    ],
+    "Utah Fuel Co.": [
+        "ORG"
+    ],
+    "Gerlach": [
+        "PER"
+    ],
+    "BONN": [
+        "LOC"
+    ],
+    "Swiss National Bank": [
+        "ORG"
+    ],
+    "Michael Hausfeld": [
+        "PER"
+    ],
+    "Werner Abegg": [
+        "PER"
+    ],
+    "Zurich": [
+        "LOC"
+    ],
+    "National Bank": [
+        "ORG"
+    ],
+    "SwissNational Bank": [
+        "ORG"
+    ],
+    "German Reichsbank": [
+        "ORG"
+    ],
+    "World Jewish Congress": [
+        "ORG"
+    ],
+    "Elan Steinberg": [
+        "PER"
+    ],
+    "Paul Volcker": [
+        "PER"
+    ],
+    "U.S. Federal Reserve": [
+        "ORG"
+    ],
+    "Credit Suisse": [
+        "ORG"
+    ],
+    "Union Bank ofSwitzerland": [
+        "ORG"
+    ],
+    "Swiss Bank Corp.": [
+        "ORG"
+    ],
+    "Israel Singer": [
+        "PER"
+    ],
+    "World JewishCongress": [
+        "ORG"
+    ],
+    "Labor Department": [
+        "ORG"
+    ],
+    "LaborDepartment": [
+        "ORG"
+    ],
+    "Katherine Abraham": [
+        "PER"
+    ],
+    "Bureau of LaborStatistics": [
+        "ORG"
+    ],
+    "FederalReserve": [
+        "ORG"
+    ],
+    "David Wyss": [
+        "PER"
+    ],
+    "Standard&AMP; Poor's DRI": [
+        "ORG"
+    ],
+    "Bruce Steinberg": [
+        "PER"
+    ],
+    "Janet L. Yellen": [
+        "PER"
+    ],
+    "Council of Economic Advisers": [
+        "ORG"
+    ],
+    "Mitchell Fromstein": [
+        "PER"
+    ],
+    "Manpower Inc.": [
+        "ORG"
+    ],
+    "Michael Carliner": [
+        "PER"
+    ],
+    "National Association of Home Builders": [
+        "ORG"
+    ],
+    "McDonald's": [
+        "ORG"
+    ],
+    "Pepsico": [
+        "ORG"
+    ],
+    "National Federation of Independent Business": [
+        "ORG"
+    ],
+    "Wyss": [
+        "PER"
+    ],
+    "SMITHSONIAN": [
+        "ORG"
+    ],
+    "NATIONAL INDIAN MUSEUM": [
+        "ORG"
+    ],
+    "National Museum of theAmerican Indian": [
+        "ORG"
+    ],
+    "Mall": [
+        "LOC"
+    ],
+    "Douglas Cardinal": [
+        "PER"
+    ],
+    "Capitol": [
+        "ORG"
+    ],
+    "SmithsonianInstitution": [
+        "ORG"
+    ],
+    "Cardinal": [
+        "PER"
+    ],
+    "GBQC Architects": [
+        "ORG"
+    ],
+    "The WashingtonPost": [
+        "ORG"
+    ],
+    "Smithsonian": [
+        "ORG"
+    ],
+    "David Umansky": [
+        "PER"
+    ],
+    "Smithsonian Institution": [
+        "ORG"
+    ],
+    "federal Commission ofFine Arts": [
+        "ORG"
+    ],
+    "National Capital Planning Commission": [
+        "ORG"
+    ],
+    "J. Richard West": [
+        "PER"
+    ],
+    "Douglas": [
+        "PER"
+    ],
+    "Lloyd Kiva New": [
+        "PER"
+    ],
+    "Institute of AmericanIndian Art": [
+        "ORG"
+    ],
+    "Santa Fe": [
+        "LOC"
+    ],
+    "N.M.": [
+        "LOC"
+    ],
+    "GBQC": [
+        "ORG"
+    ],
+    "James Stewart Polshek and Partners": [
+        "ORG"
+    ],
+    "Tobey and Davis": [
+        "ORG"
+    ],
+    "Reston": [
+        "LOC"
+    ],
+    "Umansky": [
+        "PER"
+    ],
+    "Polshek": [
+        "PER"
+    ],
+    "Cooper-Hewitt Museum": [
+        "ORG"
+    ],
+    "Maryland": [
+        "LOC"
+    ],
+    "Washington Monument": [
+        "LOC"
+    ],
+    "Canada": [
+        "LOC"
+    ],
+    "Canadian Museum of Civilization": [
+        "ORG"
+    ],
+    "Hull": [
+        "LOC"
+    ],
+    "Quebec": [
+        "LOC"
+    ],
+    "Ottawa": [
+        "LOC"
+    ],
+    "Indian Museum": [
+        "ORG"
+    ],
+    "Museum of Canadian Civilization": [
+        "ORG"
+    ],
+    "Trevor Boddy": [
+        "PER"
+    ],
+    "Boddy": [
+        "PER"
+    ],
+    "LITTLE ROCK": [
+        "LOC"
+    ],
+    "Ark.": [
+        "LOC"
+    ],
+    "Doe's Eat Place": [
+        "ORG"
+    ],
+    "Bill": [
+        "PER"
+    ],
+    "Peter Skrivanos": [
+        "PER"
+    ],
+    "Little Rock": [
+        "LOC"
+    ],
+    "Hamptons": [
+        "LOC"
+    ],
+    "Barry Travis": [
+        "PER"
+    ],
+    "Little Rock Convention andVisitors Bureau": [
+        "ORG"
+    ],
+    "Linda Ward": [
+        "PER"
+    ],
+    "Legacy Hotel": [
+        "ORG"
+    ],
+    "Legacy": [
+        "ORG"
+    ],
+    "Ward": [
+        "PER"
+    ],
+    "Promise Keepers": [
+        "ORG"
+    ],
+    "Arkansas Excelsior Hotel": [
+        "ORG"
+    ],
+    "Kathy Grayfindley": [
+        "PER"
+    ],
+    "Grayfindley": [
+        "PER"
+    ],
+    "Excelsior": [
+        "ORG"
+    ],
+    "New Orleans": [
+        "LOC"
+    ],
+    "LittleRock Media Consortium": [
+        "ORG"
+    ],
+    "William Headline": [
+        "PER"
+    ],
+    "Headline": [
+        "PER"
+    ],
+    "CNN Washington bureau": [
+        "ORG"
+    ],
+    "Travis": [
+        "PER"
+    ],
+    "Convention andVisitors Bureau": [
+        "ORG"
+    ],
+    "PAULA JONES": [
+        "PER"
+    ],
+    "St. Louis": [
+        "LOC",
+        "PER"
+    ],
+    "8th U.S. Circuit Court of Appeals": [
+        "ORG"
+    ],
+    "Susan Webber Wright": [
+        "PER"
+    ],
+    "Wright": [
+        "PER"
+    ],
+    "Lynne Bernabei": [
+        "PER"
+    ],
+    "Bernabei": [
+        "PER"
+    ],
+    "8th Circuit": [
+        "ORG"
+    ],
+    "Roger Goldman": [
+        "PER"
+    ],
+    "St. Louis University": [
+        "ORG"
+    ],
+    "Bush": [
+        "PER"
+    ],
+    "Goldman": [
+        "PER"
+    ],
+    "Leland Ware": [
+        "PER"
+    ],
+    "Ware": [
+        "PER"
+    ],
+    "Hillary Rodham Clinton": [
+        "PER"
+    ],
+    "Kenneth Starr": [
+        "PER"
+    ],
+    "Starr": [
+        "PER"
+    ],
+    "Pasco Bowman II": [
+        "PER"
+    ],
+    "RonaldReagan": [
+        "PER"
+    ],
+    "KWAN": [
+        "PER"
+    ],
+    "MINNEAPOLIS": [
+        "LOC"
+    ],
+    "Michelle Kwan": [
+        "PER"
+    ],
+    "Kwan": [
+        "PER"
+    ],
+    "Anna Rechnio": [
+        "PER"
+    ],
+    "Poland": [
+        "LOC"
+    ],
+    "Laetitia Hubert": [
+        "PER"
+    ],
+    "Rachmaninoff": [
+        "PER"
+    ],
+    "TargetCenter": [
+        "ORG"
+    ],
+    "Tara Lipinski": [
+        "PER"
+    ],
+    "Lipinski": [
+        "PER"
+    ],
+    "Lake Arrowhead": [
+        "LOC"
+    ],
+    "Rechnio": [
+        "PER"
+    ],
+    "Hubert": [
+        "PER"
+    ],
+    "Marlboro": [
+        "LOC"
+    ],
+    "Mass.": [
+        "LOC"
+    ],
+    "Warsaw": [
+        "LOC"
+    ],
+    "Julianna Beke": [
+        "PER"
+    ],
+    "LEWINSKY": [
+        "PER"
+    ],
+    "Lewinsky": [
+        "PER"
+    ],
+    "Marcia Lewis": [
+        "PER"
+    ],
+    "Lewis": [
+        "PER"
+    ],
+    "William Ginsburg": [
+        "PER"
+    ],
+    "U.S. News &AMP; World Report": [
+        "ORG"
+    ],
+    "Arkansas": [
+        "LOC"
+    ],
+    "Norma Holloway Johnson": [
+        "PER"
+    ],
+    "Kramerbooks and Afterwords": [
+        "ORG"
+    ],
+    "Dupont Circle": [
+        "LOC"
+    ],
+    "Barnes &AMP; Noble": [
+        "ORG"
+    ],
+    "Kramerbooks": [
+        "ORG"
+    ],
+    "Nathaniel Speights": [
+        "PER"
+    ],
+    "Pamela Bethel": [
+        "PER"
+    ],
+    "Robert Bittman": [
+        "PER"
+    ],
+    "Bittman": [
+        "PER"
+    ],
+    "Johnson": [
+        "PER"
+    ],
+    "CHICAGO": [
+        "LOC"
+    ],
+    "Harry Caray": [
+        "PER"
+    ],
+    "Caray": [
+        "PER"
+    ],
+    "Cubs": [
+        "ORG"
+    ],
+    "Dutchie": [
+        "PER"
+    ],
+    "Harry": [
+        "PER"
+    ],
+    "Montreal": [
+        "LOC"
+    ],
+    "Chris Widger": [
+        "PER"
+    ],
+    "SammySosa": [
+        "PER"
+    ],
+    "Sosa": [
+        "PER"
+    ],
+    "Chip": [
+        "PER"
+    ],
+    "Chip Caray": [
+        "PER"
+    ],
+    "Ernie Banks": [
+        "PER"
+    ],
+    "Jay Leno": [
+        "PER"
+    ],
+    "Roger Ebert": [
+        "PER"
+    ],
+    "Lou Rawls": [
+        "PER"
+    ],
+    "Bonnie Blair": [
+        "PER"
+    ],
+    "Chicago Bear": [
+        "ORG"
+    ],
+    "Walter Payton": [
+        "PER"
+    ],
+    "Expos": [
+        "ORG"
+    ],
+    "Steve Trachsel": [
+        "PER"
+    ],
+    "National League": [
+        "ORG"
+    ],
+    "Trachsel": [
+        "PER"
+    ],
+    "Matt Wolf": [
+        "PER"
+    ],
+    "North Carolina": [
+        "LOC"
+    ],
+    "Laura": [
+        "PER"
+    ],
+    "Terry PACE": [
+        "PER"
+    ],
+    "Florence (Ala.) TimesDaily": [
+        "ORG"
+    ],
+    "The N.Y. Times News Service": [
+        "ORG"
+    ],
+    "FLORENCE": [
+        "LOC"
+    ],
+    "Ala.": [
+        "LOC"
+    ],
+    "Florence": [
+        "LOC"
+    ],
+    "Louis Rosenbaum": [
+        "PER"
+    ],
+    "Rosenbaum": [
+        "PER"
+    ],
+    "Frank Lloyd Wright": [
+        "PER"
+    ],
+    "Mildred Rosenbaum": [
+        "PER"
+    ],
+    "Alvin Rosenbaum": [
+        "PER"
+    ],
+    "NationalCenter for Heritage Development": [
+        "ORG"
+    ],
+    "Stanley": [
+        "PER"
+    ],
+    "601Riverview Dr.": [
+        "LOC"
+    ],
+    "Rosenbaums": [
+        "PER"
+    ],
+    "Cambridge University": [
+        "ORG"
+    ],
+    "John Sargeant": [
+        "PER"
+    ],
+    "Frank Lloyd WrightFoundation": [
+        "ORG"
+    ],
+    "Bruce Brooks Pfeiffer": [
+        "PER"
+    ],
+    "Alabama": [
+        "LOC"
+    ],
+    "AlvinRosenbaum": [
+        "PER"
+    ],
+    "Wilson Dam": [
+        "LOC"
+    ],
+    "Shoals": [
+        "LOC"
+    ],
+    "Mildred": [
+        "PER"
+    ],
+    "Frank LloydWright Rosenbaum House Foundation": [
+        "ORG"
+    ],
+    "Helen Keller": [
+        "PER"
+    ],
+    "Tuscumbia": [
+        "LOC"
+    ],
+    "J.Jackson Walter": [
+        "PER"
+    ],
+    "National Trust forHistoric Preservation": [
+        "ORG"
+    ],
+    "Walter": [
+        "PER"
+    ],
+    "WaterfordFoundation": [
+        "ORG"
+    ],
+    "Waterford": [
+        "LOC"
+    ],
+    "TVA": [
+        "ORG"
+    ],
+    "MuscleShoals": [
+        "LOC"
+    ],
+    "Stanley Rosenbaum": [
+        "PER"
+    ],
+    "University of North Alabama": [
+        "ORG"
+    ],
+    "Alabama Bureau ofTourism and Travel": [
+        "ORG"
+    ],
+    "Mimi": [
+        "PER"
+    ],
+    "STONE MOUNTAIN": [
+        "LOC"
+    ],
+    "Ga.": [
+        "LOC"
+    ],
+    "International Tennis Center": [
+        "ORG"
+    ],
+    "TomGullikson": [
+        "PER"
+    ],
+    "Jim Courier": [
+        "PER"
+    ],
+    "Andre Agassi": [
+        "PER"
+    ],
+    "YevgenyKafelnikov": [
+        "PER"
+    ],
+    "Todd Martin": [
+        "PER"
+    ],
+    "Richey Reneberg": [
+        "PER"
+    ],
+    "Shamil Tarpichev": [
+        "PER"
+    ],
+    "Kafelnikov": [
+        "PER"
+    ],
+    "Agassi": [
+        "PER"
+    ],
+    "Mexico": [
+        "LOC"
+    ],
+    "Eyad Ismoil": [
+        "PER"
+    ],
+    "Kevin T. Duffy": [
+        "PER"
+    ],
+    "U.S.District Court": [
+        "ORG"
+    ],
+    "Manhattan": [
+        "LOC"
+    ],
+    "Ismoil": [
+        "PER"
+    ],
+    "Ramzi Yousef": [
+        "PER"
+    ],
+    "Duffy": [
+        "PER"
+    ],
+    "Mary Jo White": [
+        "PER"
+    ],
+    "Louis R.Aidala": [
+        "PER"
+    ],
+    "Yousef": [
+        "PER"
+    ],
+    "Aidala": [
+        "PER"
+    ],
+    "David Kelley": [
+        "PER"
+    ],
+    "HOUSE": [
+        "ORG"
+    ],
+    "HouseTransportation Committee": [
+        "ORG"
+    ],
+    "Jerrold Nadler": [
+        "PER"
+    ],
+    "New York City": [
+        "LOC"
+    ],
+    "Staten Island": [
+        "LOC"
+    ],
+    "Calspan University of BuffaloResearch Center": [
+        "ORG"
+    ],
+    "State University at Buffalo, N.Y.": [
+        "ORG"
+    ],
+    "Center for Transportation Injury Research": [
+        "ORG"
+    ],
+    "Houston Street": [
+        "LOC"
+    ],
+    "79th Street": [
+        "LOC"
+    ],
+    "WestSide Highway": [
+        "LOC"
+    ],
+    "FrederickDouglass Circle": [
+        "LOC"
+    ],
+    "Central Park": [
+        "LOC"
+    ],
+    "Nadler": [
+        "PER"
+    ],
+    "Brooklyn": [
+        "LOC",
+        "PER"
+    ],
+    "NewJersey": [
+        "LOC"
+    ],
+    "GowanusExpressway": [
+        "LOC"
+    ],
+    "Sherwood Boehlert": [
+        "PER"
+    ],
+    "Utica": [
+        "LOC"
+    ],
+    "House Transportation Committee": [
+        "ORG"
+    ],
+    "Boehlert": [
+        "PER"
+    ],
+    "JohnLaFalce": [
+        "PER"
+    ],
+    "Buffalo": [
+        "LOC"
+    ],
+    "LaFalce": [
+        "PER"
+    ],
+    "Jack Quinn": [
+        "PER"
+    ],
+    "Transportation Committee": [
+        "ORG"
+    ],
+    "Grand Concourse": [
+        "LOC"
+    ],
+    "Bronx": [
+        "LOC"
+    ],
+    "NewYork City": [
+        "LOC"
+    ],
+    "Oneida County": [
+        "LOC"
+    ],
+    "Fordham": [
+        "ORG"
+    ],
+    "State University at Buffalo": [
+        "ORG"
+    ],
+    "National Center for Earthquake Engineering Research": [
+        "ORG"
+    ],
+    "Moe Foner": [
+        "PER"
+    ],
+    "Foner": [
+        "PER"
+    ],
+    "1199": [
+        "ORG"
+    ],
+    "King": [
+        "PER"
+    ],
+    "Tenn.": [
+        "LOC"
+    ],
+    "America": [
+        "LOC"
+    ],
+    "Stanley Levison": [
+        "PER"
+    ],
+    "NelsonRockefeller": [
+        "PER"
+    ],
+    "CHILDS": [
+        "PER"
+    ],
+    "WARD": [
+        "PER"
+    ],
+    "Chris Childs": [
+        "PER"
+    ],
+    "Nets": [
+        "ORG"
+    ],
+    "Knicks": [
+        "ORG"
+    ],
+    "Childs": [
+        "PER"
+    ],
+    "Los AngelesClippers": [
+        "ORG"
+    ],
+    "Knick": [
+        "ORG"
+    ],
+    "Patrick Ewing": [
+        "PER"
+    ],
+    "Charlie Ward": [
+        "PER"
+    ],
+    "Jeff Van Gundy": [
+        "PER"
+    ],
+    "Charlie": [
+        "PER"
+    ],
+    "Chris": [
+        "PER"
+    ],
+    "Van Gundy": [
+        "PER"
+    ],
+    "Eastern Conference": [
+        "ORG"
+    ],
+    "Ewing": [
+        "PER"
+    ],
+    "Clippers": [
+        "ORG"
+    ],
+    "YANKEES": [
+        "ORG"
+    ],
+    "OAKLAND": [
+        "LOC"
+    ],
+    "Joe Torre": [
+        "PER"
+    ],
+    "Yankee": [
+        "ORG"
+    ],
+    "Angels": [
+        "ORG"
+    ],
+    "Anaheim": [
+        "LOC"
+    ],
+    "WalterMatthau": [
+        "PER"
+    ],
+    "Bad News Bears": [
+        "ORG"
+    ],
+    "Torre": [
+        "PER"
+    ],
+    "Yankees": [
+        "ORG"
+    ],
+    "AmericanLeague": [
+        "ORG"
+    ],
+    "David Cone": [
+        "PER"
+    ],
+    "Derek Jeter": [
+        "PER"
+    ],
+    "San Diego": [
+        "LOC"
+    ],
+    "George Steinbrenner": [
+        "PER"
+    ],
+    "Seattle": [
+        "LOC"
+    ],
+    "Ramiro Mendoza": [
+        "PER"
+    ],
+    "Athletics": [
+        "ORG"
+    ],
+    "Jeter": [
+        "PER"
+    ],
+    "Paul O'Neill": [
+        "PER"
+    ],
+    "Bernie Williams": [
+        "PER"
+    ],
+    "Jim Edmonds": [
+        "PER"
+    ],
+    "Williams": [
+        "PER"
+    ],
+    "Edmonds": [
+        "PER"
+    ],
+    "DavidWells": [
+        "PER"
+    ],
+    "DaveHollins": [
+        "PER"
+    ],
+    "Tim Salmon": [
+        "PER"
+    ],
+    "Tino Martinez": [
+        "PER"
+    ],
+    "Cecil Fielder": [
+        "PER"
+    ],
+    "Garret Anderson": [
+        "PER"
+    ],
+    "Phil Nevin": [
+        "PER"
+    ],
+    "Anderson": [
+        "PER"
+    ],
+    "Hollins": [
+        "PER"
+    ],
+    "Nevin": [
+        "PER"
+    ],
+    "Darryl Strawberry": [
+        "PER"
+    ],
+    "Strawberry": [
+        "PER"
+    ],
+    "GaryDiSarcina": [
+        "PER"
+    ],
+    "Scott Brosius": [
+        "PER"
+    ],
+    "Brosius": [
+        "PER"
+    ],
+    "Carlos Garcia": [
+        "PER"
+    ],
+    "ChuckKnoblauch": [
+        "PER"
+    ],
+    "Garcia": [
+        "PER"
+    ],
+    "Chili Davis": [
+        "PER"
+    ],
+    "Orlando Hernandez": [
+        "PER"
+    ],
+    "Cuba": [
+        "LOC"
+    ],
+    "Tampa": [
+        "LOC"
+    ],
+    "$600billion": [
+        "MONEY"
+    ],
+    "135.42 yen": [
+        "MONEY"
+    ],
+    "225": [
+        "CARDINAL"
+    ],
+    "15,517.78": [
+        "MONEY"
+    ],
+    "1.685 percent": [
+        "PERCENT"
+    ],
+    "55-year": [
+        "MEASURE"
+    ],
+    "40": [
+        "MEASURE"
+    ],
+    "70": [
+        "MEASURE",
+        "CARDINAL"
+    ],
+    "300": [
+        "CARDINAL"
+    ],
+    "58 percent": [
+        "PERCENT"
+    ],
+    "$1.73 trillion": [
+        "MONEY"
+    ],
+    "$217 billion": [
+        "MONEY"
+    ],
+    "1.7 percent": [
+        "PERCENT"
+    ],
+    "3.7 percent": [
+        "PERCENT"
+    ],
+    "2.6 percent": [
+        "PERCENT"
+    ],
+    "30percent": [
+        "PERCENT"
+    ],
+    "28.7 percent": [
+        "PERCENT"
+    ],
+    "1.9 percent": [
+        "PERCENT"
+    ],
+    "11.0 percent": [
+        "PERCENT"
+    ],
+    "33 percent": [
+        "PERCENT"
+    ],
+    "31.3 percent": [
+        "PERCENT"
+    ],
+    "15.1 million": [
+        "CARDINAL"
+    ],
+    "15.5 million": [
+        "CARDINAL"
+    ],
+    "15 million": [
+        "CARDINAL"
+    ],
+    "5.9 percent": [
+        "PERCENT"
+    ],
+    "one-tenth of 1 percent": [
+        "PERCENT"
+    ],
+    "19.9 percent": [
+        "PERCENT"
+    ],
+    "69.1 percent": [
+        "PERCENT"
+    ],
+    "43.7 percent": [
+        "PERCENT"
+    ],
+    "72.6 percent": [
+        "PERCENT"
+    ],
+    "28.6 percent": [
+        "PERCENT"
+    ],
+    "17.1percent": [
+        "PERCENT"
+    ],
+    "5.7 percent": [
+        "PERCENT"
+    ],
+    "6 percent": [
+        "PERCENT"
+    ],
+    "1.5 percent": [
+        "PERCENT"
+    ],
+    "1.8 percent": [
+        "PERCENT"
+    ],
+    "94": [
+        "MEASURE"
+    ],
+    "21": [
+        "CARDINAL"
+    ],
+    "159": [
+        "CARDINAL"
+    ],
+    "$100-a-month": [
+        "MEASURE"
+    ],
+    "2 percent": [
+        "PERCENT"
+    ],
+    "hundreds of billions ofdollars": [
+        "MONEY"
+    ],
+    "hundreds of billions of dollars": [
+        "MONEY"
+    ],
+    "23/32": [
+        "MONEY"
+    ],
+    "104 23/32": [
+        "MONEY"
+    ],
+    "5.79 percent": [
+        "PERCENT"
+    ],
+    "5.84 percent": [
+        "PERCENT"
+    ],
+    "$8-billion": [
+        "MONEY"
+    ],
+    "3.64 percent": [
+        "PERCENT"
+    ],
+    "3 basis points": [
+        "PERCENT"
+    ],
+    "basis point": [
+        "PERCENT"
+    ],
+    "one-hundredth of a percentage point": [
+        "PERCENT"
+    ],
+    "88": [
+        "MEASURE"
+    ],
+    "20,000": [
+        "CARDINAL"
+    ],
+    "120 miles": [
+        "MEASURE"
+    ],
+    "88-year": [
+        "MEASURE"
+    ],
+    "124": [
+        "CARDINAL"
+    ],
+    "$20 billion": [
+        "MONEY"
+    ],
+    "$389 million": [
+        "MONEY"
+    ],
+    "$61 million": [
+        "MONEY"
+    ],
+    "$280 million": [
+        "MONEY"
+    ],
+    "$58 million": [
+        "MONEY"
+    ],
+    "$1billion": [
+        "MONEY"
+    ],
+    "$180-million": [
+        "MONEY"
+    ],
+    "36,000": [
+        "CARDINAL"
+    ],
+    "4.7 percent": [
+        "PERCENT"
+    ],
+    "4.6percent": [
+        "PERCENT"
+    ],
+    "300,000 a month": [
+        "MEASURE"
+    ],
+    "205,000 a month": [
+        "MEASURE"
+    ],
+    "356,000": [
+        "MEASURE"
+    ],
+    "125,000 newjobs or so a month": [
+        "MEASURE"
+    ],
+    "88,000": [
+        "CARDINAL"
+    ],
+    "43,000": [
+        "CARDINAL"
+    ],
+    "Twenty-eight percent": [
+        "PERCENT"
+    ],
+    "3,000": [
+        "CARDINAL"
+    ],
+    "seven-tenths of 1 percent": [
+        "PERCENT"
+    ],
+    "4.9 percent": [
+        "PERCENT"
+    ],
+    "4 cents": [
+        "MONEY"
+    ],
+    "$12.63": [
+        "MONEY"
+    ],
+    "8 cents": [
+        "MONEY"
+    ],
+    "6 cents": [
+        "MONEY"
+    ],
+    "64-year": [
+        "MEASURE"
+    ],
+    "$110 million": [
+        "MONEY"
+    ],
+    "250,000-square-foot": [
+        "MEASURE"
+    ],
+    "12 miles": [
+        "MEASURE"
+    ],
+    "$150,000": [
+        "MONEY"
+    ],
+    "$300,000": [
+        "MONEY"
+    ],
+    "$1,000": [
+        "MONEY"
+    ],
+    "$10,000a week": [
+        "MEASURE"
+    ],
+    "700": [
+        "CARDINAL"
+    ],
+    "115": [
+        "CARDINAL"
+    ],
+    "175,000": [
+        "CARDINAL"
+    ],
+    "$50,000 a day": [
+        "MEASURE"
+    ],
+    "tens ofthousands of dollars": [
+        "MONEY"
+    ],
+    "$95": [
+        "MEASURE"
+    ],
+    "$15,000": [
+        "MONEY"
+    ],
+    "$250 a day": [
+        "MEASURE"
+    ],
+    "three-fourths-inch": [
+        "MEASURE"
+    ],
+    "7-degree": [
+        "MEASURE"
+    ],
+    "several thousand dollars": [
+        "MONEY"
+    ],
+    "three-judge": [
+        "MEASURE"
+    ],
+    "two-thirds": [
+        "CARDINAL"
+    ],
+    "23": [
+        "MEASURE"
+    ],
+    "half-dozen": [
+        "CARDINAL"
+    ],
+    "83": [
+        "MEASURE",
+        "CARDINAL"
+    ],
+    "39,102": [
+        "CARDINAL"
+    ],
+    "33-year": [
+        "MEASURE"
+    ],
+    "18-mph": [
+        "MEASURE"
+    ],
+    "three games a year": [
+        "MEASURE"
+    ],
+    "800": [
+        "CARDINAL"
+    ],
+    "48": [
+        "CARDINAL"
+    ],
+    "7-year": [
+        "MEASURE"
+    ],
+    "$250,000": [
+        "MONEY"
+    ],
+    "$10 million": [
+        "MONEY"
+    ],
+    "dime": [
+        "MONEY"
+    ],
+    "21-year": [
+        "MEASURE"
+    ],
+    "47 percent": [
+        "PERCENT"
+    ],
+    "$652.2 million": [
+        "MONEY"
+    ],
+    "$9 billion": [
+        "MONEY"
+    ],
+    "$12 million": [
+        "MONEY"
+    ],
+    "337": [
+        "CARDINAL"
+    ],
+    "$2 million": [
+        "MONEY"
+    ],
+    "$9 million": [
+        "MONEY"
+    ],
+    "$14.65 million": [
+        "MONEY"
+    ],
+    "$19 million": [
+        "MONEY"
+    ],
+    "$24 million": [
+        "MONEY"
+    ],
+    "$7.34 billion": [
+        "MONEY"
+    ],
+    "$10.57 billion": [
+        "MONEY"
+    ],
+    "$65 million": [
+        "MONEY"
+    ],
+    "$16 million": [
+        "MONEY"
+    ],
+    "82": [
+        "MEASURE"
+    ],
+    "$26 a week": [
+        "MEASURE"
+    ],
+    "0": [
+        "CARDINAL"
+    ],
+    "three-turnover": [
+        "MEASURE"
+    ],
+    "3-point": [
+        "MEASURE"
+    ],
+    "three-and-a-half-game": [
+        "MEASURE"
+    ],
+    "81": [
+        "CARDINAL"
+    ],
+    "18-foot": [
+        "MEASURE"
+    ],
+    "half-speed": [
+        "MEASURE"
+    ],
+    "two-run": [
+        "MEASURE"
+    ],
+    "six-and-a-half-year": [
+        "DURATION"
+    ],
+    "18 months": [
+        "DURATION"
+    ],
+    "September 1991": [
+        "DATE"
+    ],
+    "four-month": [
+        "DURATION"
+    ],
+    "six-week": [
+        "DURATION"
+    ],
+    "weak": [
+        "DURATION"
+    ],
+    "12 days": [
+        "DURATION"
+    ],
+    "1999 fiscal year": [
+        "DATE"
+    ],
+    "six-year": [
+        "DURATION"
+    ],
+    "June 1": [
+        "DATE"
+    ],
+    "Memorial Day": [
+        "DATE"
+    ],
+    "July 2": [
+        "DATE"
+    ],
+    "June 2": [
+        "DATE"
+    ],
+    "April 1": [
+        "DATE"
+    ],
+    "1959": [
+        "DATE"
+    ],
+    "1961": [
+        "DATE"
+    ],
+    "1964": [
+        "DATE"
+    ],
+    "1960": [
+        "DATE"
+    ],
+    "1963": [
+        "DATE"
+    ],
+    "August 1963": [
+        "DATE"
+    ],
+    "37 years": [
+        "DURATION"
+    ],
+    "1924": [
+        "DATE"
+    ],
+    "Four years": [
+        "DURATION"
+    ],
+    "1940": [
+        "DATE"
+    ],
+    "1944": [
+        "DATE"
+    ],
+    "1957": [
+        "DATE"
+    ],
+    "April 1961": [
+        "DATE"
+    ],
+    "1968": [
+        "DATE"
+    ],
+    "1950": [
+        "DATE"
+    ],
+    "1956": [
+        "DATE"
+    ],
+    "1955": [
+        "DATE"
+    ],
+    "1929": [
+        "DATE"
+    ],
+    "Feb. 17": [
+        "DATE"
+    ],
+    "second quarter": [
+        "DATE"
+    ],
+    "June 18, 1925": [
+        "DATE"
+    ],
+    "73years": [
+        "DURATION"
+    ],
+    "1982": [
+        "DATE"
+    ],
+    "1922": [
+        "DATE"
+    ],
+    "spring of1925": [
+        "DATE"
+    ],
+    "1977": [
+        "DATE"
+    ],
+    "half a century": [
+        "DURATION"
+    ],
+    "eight days": [
+        "DURATION"
+    ],
+    "1946": [
+        "DATE"
+    ],
+    "24-year": [
+        "MEASURE",
+        "DURATION"
+    ],
+    "January 1996": [
+        "DATE"
+    ],
+    "few months": [
+        "DURATION"
+    ],
+    "winter": [
+        "DATE"
+    ],
+    "quarter": [
+        "DURATION"
+    ],
+    "fall quarter": [
+        "DATE"
+    ],
+    "27 weeks": [
+        "DURATION"
+    ],
+    "6.8weeks": [
+        "DURATION"
+    ],
+    "7.2": [
+        "DURATION"
+    ],
+    "summer solstices": [
+        "DATE"
+    ],
+    "2002": [
+        "DATE"
+    ],
+    "April 27": [
+        "DATE"
+    ],
+    "August": [
+        "DATE"
+    ],
+    "45 days": [
+        "DURATION"
+    ],
+    "May27": [
+        "DATE"
+    ],
+    "30 days": [
+        "DURATION"
+    ],
+    "April 1997": [
+        "DATE"
+    ],
+    "March 1996": [
+        "DATE"
+    ],
+    "two and a half years": [
+        "DURATION"
+    ],
+    "week": [
+        "DURATION"
+    ],
+    "16 years": [
+        "MEASURE",
+        "DURATION"
+    ],
+    "1939": [
+        "DATE"
+    ],
+    "1976": [
+        "DATE"
+    ],
+    "1945": [
+        "DATE"
+    ],
+    "4:30 p.m.": [
+        "TIME"
+    ],
+    "2 p.m.": [
+        "TIME"
+    ],
+    "240 YEARS": [
+        "DURATION"
+    ],
+    "240 years": [
+        "DURATION"
+    ],
+    "240-year": [
+        "DURATION"
+    ],
+    "30 years": [
+        "DURATION"
+    ],
+    "1962": [
+        "DATE"
+    ],
+    "Three and a half weeks": [
+        "DURATION"
+    ],
+    "68 minutes": [
+        "DURATION"
+    ],
+    "half an hour": [
+        "DURATION"
+    ],
+    "SUSAN SPICER": [
+        "PER"
+    ],
+    "NEW ORLEANS": [
+        "LOC"
+    ],
+    "Susan Spicer": [
+        "PER"
+    ],
+    "Emeril Legasse": [
+        "PER"
+    ],
+    "Justin Wilson": [
+        "PER"
+    ],
+    "Bayona": [
+        "ORG"
+    ],
+    "French Quarter": [
+        "LOC"
+    ],
+    "Holland": [
+        "LOC"
+    ],
+    "Spicer": [
+        "PER"
+    ],
+    "Bistro": [
+        "ORG"
+    ],
+    "Maison de Ville hotel": [
+        "ORG"
+    ],
+    "Culinary Institute ofAmerica": [
+        "ORG"
+    ],
+    "Spice Inc.": [
+        "ORG"
+    ],
+    "Shorty": [
+        "PER"
+    ],
+    "Spice": [
+        "ORG"
+    ],
+    "Alan Horn": [
+        "PER"
+    ],
+    "Castle Rock Entertainment": [
+        "ORG"
+    ],
+    "Horn": [
+        "PER"
+    ],
+    "Jerry Seinfeld": [
+        "PER"
+    ],
+    "Julia Louis-Dreyfus": [
+        "PER"
+    ],
+    "Jason Alexander": [
+        "PER"
+    ],
+    "Michael Richards": [
+        "PER"
+    ],
+    "Elizabeth Clark": [
+        "PER"
+    ],
+    "Castle Rock": [
+        "ORG"
+    ],
+    "CBS StudioCenter": [
+        "ORG"
+    ],
+    "Studio City": [
+        "LOC"
+    ],
+    "Larry David": [
+        "PER"
+    ],
+    "Ice Cube": [
+        "PER"
+    ],
+    "Diana Armstrong": [
+        "PER"
+    ],
+    "LisaRaye": [
+        "PER"
+    ],
+    "Diana": [
+        "PER"
+    ],
+    "Diamond": [
+        "PER"
+    ],
+    "Pam Grier": [
+        "PER"
+    ],
+    "Chrystale Wilson": [
+        "PER"
+    ],
+    "Rodney King": [
+        "PER"
+    ],
+    "MalikSayeed": [
+        "PER"
+    ],
+    "Suzanne Hines": [
+        "PER"
+    ],
+    "Hidden Faces": [
+        "ORG"
+    ],
+    "Dina Lipton": [
+        "PER"
+    ],
+    "Carl Craig": [
+        "PER"
+    ],
+    "PatriciaCharbonnet": [
+        "PER"
+    ],
+    "New Line Cinema": [
+        "ORG"
+    ],
+    "Bernie Mac": [
+        "PER"
+    ],
+    "Dollar Bill": [
+        "PER"
+    ],
+    "Monica Calhoun": [
+        "PER"
+    ],
+    "Ebony": [
+        "PER"
+    ],
+    "JamieFoxx": [
+        "PER"
+    ],
+    "Blue": [
+        "PER"
+    ],
+    "A.J. Johnson": [
+        "PER"
+    ],
+    "L'il Man": [
+        "PER"
+    ],
+    "Reggie": [
+        "PER"
+    ],
+    "AlexThomas": [
+        "PER"
+    ],
+    "Clyde": [
+        "PER"
+    ],
+    "Faizon Love": [
+        "PER"
+    ],
+    "Peters": [
+        "PER"
+    ],
+    "Charles Murphy": [
+        "PER"
+    ],
+    "Ronnie": [
+        "PER"
+    ],
+    "Tracy Jones": [
+        "PER"
+    ],
+    "Tina": [
+        "PER"
+    ],
+    "Terence Howard": [
+        "PER"
+    ],
+    "K.C.": [
+        "PER"
+    ],
+    "Larry McCoy": [
+        "PER"
+    ],
+    "Ronn Riser": [
+        "PER"
+    ],
+    "Mills": [
+        "PER"
+    ],
+    "DickAnthony Williams": [
+        "PER"
+    ],
+    "Armstrong": [
+        "PER"
+    ],
+    "Badja Djola": [
+        "PER"
+    ],
+    "TinyLister": [
+        "PER"
+    ],
+    "XL": [
+        "PER"
+    ],
+    "MARTIN LUTHER KING": [
+        "PER"
+    ],
+    "Charles Johnson": [
+        "PER"
+    ],
+    "Matthew Bishop": [
+        "PER"
+    ],
+    "Matthew": [
+        "PER"
+    ],
+    "Chaym Smith": [
+        "PER"
+    ],
+    "Chaym": [
+        "PER"
+    ],
+    "Cain": [
+        "PER"
+    ],
+    "Amy": [
+        "PER"
+    ],
+    "Yahya Zubena": [
+        "PER"
+    ],
+    "Caym": [
+        "PER"
+    ],
+    "Kaym": [
+        "PER"
+    ],
+    "FBI": [
+        "ORG"
+    ],
+    "Scribner": [
+        "ORG"
+    ],
+    "OttoSchenk": [
+        "PER"
+    ],
+    "Schenk": [
+        "PER"
+    ],
+    "James Levine": [
+        "PER"
+    ],
+    "James Morris": [
+        "PER"
+    ],
+    "Hans Sachs": [
+        "PER"
+    ],
+    "Nurnberg": [
+        "LOC"
+    ],
+    "Morris": [
+        "PER"
+    ],
+    "James Johnson": [
+        "PER"
+    ],
+    "Sachs": [
+        "PER"
+    ],
+    "David McClintock": [
+        "PER"
+    ],
+    "Beckmesser": [
+        "PER"
+    ],
+    "Eva": [
+        "PER"
+    ],
+    "Pogner": [
+        "PER"
+    ],
+    "Hans-Joachim Ketelsen": [
+        "PER"
+    ],
+    "Ben Heppner": [
+        "PER"
+    ],
+    "Walther": [
+        "PER"
+    ],
+    "Eva Johansson": [
+        "PER"
+    ],
+    "Gert Henning-Jensen": [
+        "PER"
+    ],
+    "Wendy White": [
+        "PER"
+    ],
+    "Magdalene": [
+        "PER"
+    ],
+    "Hans Sotin": [
+        "PER"
+    ],
+    "CAMBRIDGE": [
+        "LOC"
+    ],
+    "Media Laboratory": [
+        "ORG"
+    ],
+    "MassachusettsInstitute of Technology": [
+        "ORG"
+    ],
+    "Media Lab": [
+        "ORG"
+    ],
+    "Anthony Powell": [
+        "PER"
+    ],
+    "Joseph Jacobson": [
+        "PER"
+    ],
+    "MIT": [
+        "ORG"
+    ],
+    "Things That Think": [
+        "ORG"
+    ],
+    "News in theFuture": [
+        "ORG"
+    ],
+    "Jacobson": [
+        "PER"
+    ],
+    "U.S.Library of Congress": [
+        "ORG"
+    ],
+    "Nebraska": [
+        "LOC"
+    ],
+    "Tennessee": [
+        "LOC"
+    ],
+    "New England": [
+        "LOC"
+    ],
+    "Gulf of Mexico": [
+        "LOC"
+    ],
+    "Pacific": [
+        "LOC"
+    ],
+    "NorthPacific": [
+        "LOC"
+    ],
+    "Cascades": [
+        "LOC"
+    ],
+    "Oregon": [
+        "LOC"
+    ],
+    "Ronald Reagan WashingtonInternational Airport": [
+        "LOC"
+    ],
+    "Smithsonian Collection of Recordings": [
+        "ORG"
+    ],
+    "ConstanceBerry Newman": [
+        "PER"
+    ],
+    "TheWashington Post": [
+        "ORG"
+    ],
+    "Smithsonian Collectionof Recordings": [
+        "ORG"
+    ],
+    "DanMorgenstern": [
+        "PER"
+    ],
+    "Institute of Jazz Studies": [
+        "ORG"
+    ],
+    "RutgersUniversity": [
+        "ORG"
+    ],
+    "Robert Schelin": [
+        "PER"
+    ],
+    "Smithsonian Press/Smithsonian Productions": [
+        "ORG"
+    ],
+    "Smithsonian Books": [
+        "ORG"
+    ],
+    "Smithsonian Institution Press": [
+        "ORG"
+    ],
+    "<b_enamex type=\"ORGANIZATION\"": [
+        "ORG"
+    ],
+    "Folkways Recordings": [
+        "ORG"
+    ],
+    "Folkways": [
+        "ORG"
+    ],
+    "Newman": [
+        "PER"
+    ],
+    "Linda St. Thomas": [
+        "PER"
+    ],
+    "Peter Cannell": [
+        "PER"
+    ],
+    "BLAIR": [
+        "PER"
+    ],
+    "ULSTER": [
+        "LOC"
+    ],
+    "BELFAST": [
+        "LOC"
+    ],
+    "Northern Ireland": [
+        "LOC"
+    ],
+    "Tony Blair": [
+        "PER"
+    ],
+    "Blair": [
+        "PER"
+    ],
+    "Hillsborough": [
+        "LOC"
+    ],
+    "Belfast": [
+        "LOC"
+    ],
+    "David Trimble": [
+        "PER"
+    ],
+    "Trimble": [
+        "PER"
+    ],
+    "George Mitchell": [
+        "PER"
+    ],
+    "Maine": [
+        "LOC"
+    ],
+    "Ulster Unionist Party": [
+        "ORG"
+    ],
+    "Mitchell": [
+        "PER"
+    ],
+    "Social Democratic Labor": [
+        "ORG"
+    ],
+    "SinnFein": [
+        "ORG"
+    ],
+    "IRA": [
+        "ORG"
+    ],
+    "Sinn Fein": [
+        "ORG"
+    ],
+    "Social Democrats": [
+        "ORG"
+    ],
+    "Irish Republic": [
+        "LOC"
+    ],
+    "Bertie Ahern": [
+        "PER"
+    ],
+    "North-South Council": [
+        "ORG"
+    ],
+    "IrishRepublic": [
+        "LOC"
+    ],
+    "Dublin": [
+        "LOC"
+    ],
+    "London": [
+        "LOC"
+    ],
+    "Ahern": [
+        "PER"
+    ],
+    "Ian Paisley": [
+        "PER"
+    ],
+    "Democratic Unionist Party": [
+        "ORG"
+    ],
+    "Paisley": [
+        "PER"
+    ],
+    "Seamus Mallon": [
+        "PER"
+    ],
+    "JeffreyDonaldson": [
+        "PER"
+    ],
+    "Unionist Party": [
+        "ORG"
+    ],
+    "TREASURIES": [
+        "ORG"
+    ],
+    "Treasuries": [
+        "ORG"
+    ],
+    "Federal Loan Home Mortgage Corp.": [
+        "ORG"
+    ],
+    "FreddieMac": [
+        "ORG"
+    ],
+    "Korea": [
+        "LOC"
+    ],
+    "Freddie Mac": [
+        "ORG"
+    ],
+    "Goldman, Sachs &AMP; Co.": [
+        "ORG"
+    ],
+    "MerrillLynch &AMP; Co.": [
+        "ORG"
+    ],
+    "Salomon Smith Barney": [
+        "ORG"
+    ],
+    "Federal National Mortgage Association": [
+        "ORG"
+    ],
+    "Fannie Mae": [
+        "ORG"
+    ],
+    "Bill Gamba": [
+        "PER"
+    ],
+    "Cowen &AMP; Co.": [
+        "ORG"
+    ],
+    "Gamba": [
+        "PER"
+    ],
+    "Guinness": [
+        "ORG"
+    ],
+    "Celine Dion": [
+        "PER"
+    ],
+    "EricClapton": [
+        "PER"
+    ],
+    "VanMorrison": [
+        "PER"
+    ],
+    "Chieftains": [
+        "ORG"
+    ],
+    "Paul Simon": [
+        "PER"
+    ],
+    "James Horner": [
+        "PER"
+    ],
+    "Dion": [
+        "PER"
+    ],
+    "Clapton": [
+        "PER"
+    ],
+    "Werner Herzog": [
+        "PER"
+    ],
+    "Dieter Dengler": [
+        "PER"
+    ],
+    "Laos": [
+        "LOC"
+    ],
+    "Herzog": [
+        "PER"
+    ],
+    "Dengler": [
+        "PER"
+    ],
+    "Dieter": [
+        "PER"
+    ],
+    "Film Forum": [
+        "ORG"
+    ],
+    "Peter Zeitlinger": [
+        "PER"
+    ],
+    "Rainer Standke": [
+        "PER"
+    ],
+    "Glen Scantlebury": [
+        "PER"
+    ],
+    "Joe Bini": [
+        "PER"
+    ],
+    "Werner Herzog Filmproduktion": [
+        "ORG"
+    ],
+    "FilmForum": [
+        "ORG"
+    ],
+    "209 West Houston St.": [
+        "LOC"
+    ],
+    "YELTSIN": [
+        "PER"
+    ],
+    "Boris Yeltsin": [
+        "PER"
+    ],
+    "Kremlin": [
+        "ORG"
+    ],
+    "lower house": [
+        "ORG"
+    ],
+    "parliament": [
+        "ORG"
+    ],
+    "Yevgeny Volk": [
+        "PER"
+    ],
+    "Heritage Foundation": [
+        "ORG"
+    ],
+    "nationals": [
+        "ORG"
+    ],
+    "Volk": [
+        "PER"
+    ],
+    "Gennadi Zyuganov": [
+        "PER"
+    ],
+    "Parliament": [
+        "ORG"
+    ],
+    "Zyuganov": [
+        "PER"
+    ],
+    "Vladimir Zhirinovsky": [
+        "PER"
+    ],
+    "nationalist": [
+        "ORG"
+    ],
+    "Alexander Shokhin": [
+        "PER"
+    ],
+    "Our Home IsRussia": [
+        "ORG"
+    ],
+    "ViktorChernomyrdin": [
+        "PER"
+    ],
+    "Grigory Yavlinsky": [
+        "PER"
+    ],
+    "Yablocko Party": [
+        "ORG"
+    ],
+    "Yegor Stroyev": [
+        "PER"
+    ],
+    "upper house": [
+        "ORG"
+    ],
+    "Yuri Luzhkov": [
+        "PER"
+    ],
+    "EppieLederer": [
+        "PER"
+    ],
+    "Ann Landers": [
+        "PER"
+    ],
+    "Eppie Lederer": [
+        "PER"
+    ],
+    "Eppie": [
+        "PER"
+    ],
+    "Lake Michigan": [
+        "LOC"
+    ],
+    "Ronald Reagan": [
+        "PER"
+    ],
+    "JimmyCarter": [
+        "PER"
+    ],
+    "Truman": [
+        "PER"
+    ],
+    "Bess": [
+        "PER"
+    ],
+    "Des Moines": [
+        "LOC"
+    ],
+    "Muskegon": [
+        "LOC"
+    ],
+    "Tyler": [
+        "LOC"
+    ],
+    "Pepperdine": [
+        "ORG"
+    ],
+    "Linda Tripp": [
+        "PER"
+    ],
+    "LindaTripp": [
+        "PER"
+    ],
+    "Clintons": [
+        "PER"
+    ],
+    "Sioux City": [
+        "LOC"
+    ],
+    "Abe Friedman": [
+        "PER"
+    ],
+    "Pauline": [
+        "PER"
+    ],
+    "Saigon": [
+        "LOC"
+    ],
+    "Metropolitan Museum of Art": [
+        "ORG"
+    ],
+    "National Museum of African Art": [
+        "ORG"
+    ],
+    "Roslyn A. Walker": [
+        "PER"
+    ],
+    "MetropolitanMuseum": [
+        "ORG"
+    ],
+    "Susan Vogel": [
+        "PER"
+    ],
+    "Walker": [
+        "PER"
+    ],
+    "Olowe": [
+        "PER"
+    ],
+    "Ise": [
+        "LOC"
+    ],
+    "British Museum": [
+        "ORG"
+    ],
+    "William B. Fagg": [
+        "PER"
+    ],
+    "Ambrose": [
+        "PER"
+    ],
+    "Alisa LaGamma": [
+        "PER"
+    ],
+    "Oceania": [
+        "LOC"
+    ],
+    "Areogun": [
+        "PER"
+    ],
+    "Onabanjo": [
+        "PER"
+    ],
+    "New World": [
+        "LOC"
+    ],
+    "Bamgbose": [
+        "PER"
+    ],
+    "Fagbite Asamu": [
+        "PER"
+    ],
+    "Falola Edun": [
+        "PER"
+    ],
+    "Olabiyi Babalola Yai": [
+        "PER"
+    ],
+    "University ofMiami": [
+        "ORG"
+    ],
+    "Lamidi Fakeye": [
+        "PER"
+    ],
+    "JoseBedia": [
+        "PER"
+    ],
+    "Arturo Lindsay": [
+        "PER"
+    ],
+    "Manuel Vega": [
+        "PER"
+    ],
+    "200-year": [
+        "MEASURE"
+    ],
+    "8": [
+        "CARDINAL",
+        "DURATION"
+    ],
+    "6 ounces": [
+        "MEASURE"
+    ],
+    "1 teaspoon": [
+        "MEASURE"
+    ],
+    "2 teaspoons": [
+        "MEASURE"
+    ],
+    "2 tablespoons": [
+        "MEASURE"
+    ],
+    "} cup": [
+        "MEASURE"
+    ],
+    "3 cups": [
+        "MEASURE"
+    ],
+    "3 tablespoons": [
+        "MEASURE"
+    ],
+    "cup": [
+        "MEASURE"
+    ],
+    "12 cups": [
+        "MEASURE"
+    ],
+    "4 teaspoons": [
+        "MEASURE"
+    ],
+    "2 pounds": [
+        "MEASURE"
+    ],
+    "1{ tablespoons": [
+        "MEASURE"
+    ],
+    "[ teaspoon": [
+        "MEASURE"
+    ],
+    "375 degrees": [
+        "MEASURE"
+    ],
+    "\\ cup": [
+        "MEASURE"
+    ],
+    "1 tablespoon": [
+        "MEASURE"
+    ],
+    "1 pint": [
+        "MEASURE"
+    ],
+    "1 cup": [
+        "MEASURE"
+    ],
+    "89 million": [
+        "CARDINAL"
+    ],
+    "250": [
+        "CARDINAL"
+    ],
+    "100 percent": [
+        "PERCENT"
+    ],
+    "237": [
+        "CARDINAL"
+    ],
+    "$23": [
+        "MONEY"
+    ],
+    "75": [
+        "CARDINAL"
+    ],
+    "40 microns": [
+        "MEASURE"
+    ],
+    "several hundred": [
+        "CARDINAL"
+    ],
+    "$2": [
+        "MEASURE"
+    ],
+    "$4 per reusable page": [
+        "MEASURE"
+    ],
+    "$500": [
+        "MONEY"
+    ],
+    "5 inches": [
+        "MEASURE"
+    ],
+    "few hundred feet": [
+        "MEASURE"
+    ],
+    "tenth of an inch": [
+        "MEASURE"
+    ],
+    "6,500": [
+        "CARDINAL"
+    ],
+    "million": [
+        "CARDINAL"
+    ],
+    "$10.8million": [
+        "MONEY"
+    ],
+    "$2-million": [
+        "MONEY"
+    ],
+    "$552million": [
+        "MONEY"
+    ],
+    "3,200": [
+        "CARDINAL"
+    ],
+    "9/32": [
+        "MONEY"
+    ],
+    "104": [
+        "MONEY"
+    ],
+    "5.82 percent": [
+        "PERCENT"
+    ],
+    "$3billion": [
+        "MONEY"
+    ],
+    "8.99 percent": [
+        "PERCENT"
+    ],
+    "350 basis points": [
+        "PERCENT"
+    ],
+    "$2 billion": [
+        "MONEY"
+    ],
+    "9.14 percent": [
+        "PERCENT"
+    ],
+    "362.5 basispoints": [
+        "PERCENT"
+    ],
+    "one hundredth of apercentage point": [
+        "PERCENT"
+    ],
+    "$5 billion": [
+        "MONEY"
+    ],
+    "5.849percent": [
+        "PERCENT"
+    ],
+    "$4-billion": [
+        "MONEY"
+    ],
+    "$1.4billion": [
+        "MONEY"
+    ],
+    "PENNY": [
+        "MONEY"
+    ],
+    "penny": [
+        "MONEY"
+    ],
+    "TWO": [
+        "CARDINAL"
+    ],
+    "hundreds of pounds": [
+        "MEASURE"
+    ],
+    "35-year": [
+        "MEASURE"
+    ],
+    "seven days a week": [
+        "MEASURE"
+    ],
+    "90 million": [
+        "CARDINAL"
+    ],
+    "1,200": [
+        "CARDINAL"
+    ],
+    "2,000 letters a day": [
+        "MEASURE"
+    ],
+    "8 years": [
+        "MEASURE"
+    ],
+    "15 years": [
+        "MEASURE"
+    ],
+    "One-person": [
+        "MEASURE"
+    ],
+    "60 miles": [
+        "MEASURE"
+    ],
+    "60s": [
+        "DATE"
+    ],
+    "four months": [
+        "DURATION"
+    ],
+    "30 minutes": [
+        "DURATION"
+    ],
+    "several hours": [
+        "DURATION"
+    ],
+    "{hour": [
+        "DURATION"
+    ],
+    "6 minutes": [
+        "DURATION"
+    ],
+    "2 minutes": [
+        "DURATION"
+    ],
+    "20 minutes": [
+        "DURATION"
+    ],
+    "5 minutes": [
+        "DURATION"
+    ],
+    "10 minutes": [
+        "DURATION"
+    ],
+    "1 hour 5 minutes": [
+        "DURATION"
+    ],
+    "1 hour": [
+        "DURATION"
+    ],
+    "one minute": [
+        "DURATION"
+    ],
+    "nine years": [
+        "DURATION"
+    ],
+    "May 14": [
+        "DATE"
+    ],
+    "30-second": [
+        "DURATION"
+    ],
+    "several nights": [
+        "DURATION"
+    ],
+    "9 p.m.": [
+        "TIME"
+    ],
+    "Thursdays": [
+        "DATE"
+    ],
+    "'70s": [
+        "DATE"
+    ],
+    "103 minutes": [
+        "DURATION"
+    ],
+    "two seasons": [
+        "DURATION"
+    ],
+    "Dec. 9, 1997": [
+        "DATE"
+    ],
+    "1972": [
+        "DATE"
+    ],
+    "1973": [
+        "DATE"
+    ],
+    "73": [
+        "DATE"
+    ],
+    "1887": [
+        "DATE"
+    ],
+    "March 31": [
+        "DATE"
+    ],
+    "quarter-century": [
+        "DURATION"
+    ],
+    "decade": [
+        "DURATION"
+    ],
+    "1969": [
+        "DATE"
+    ],
+    "800 years": [
+        "DURATION"
+    ],
+    "midnight": [
+        "TIME"
+    ],
+    "one week": [
+        "DURATION"
+    ],
+    "few days": [
+        "DURATION"
+    ],
+    "April 1998": [
+        "DATE"
+    ],
+    "March1999": [
+        "DATE"
+    ],
+    "Good Friday": [
+        "DATE"
+    ],
+    "1988": [
+        "DATE"
+    ],
+    "five years": [
+        "DURATION"
+    ],
+    "80 minutes": [
+        "DURATION"
+    ],
+    "two-hour": [
+        "DURATION"
+    ],
+    "Fourth of July": [
+        "DATE"
+    ],
+    "43years": [
+        "DURATION"
+    ],
+    "1967": [
+        "DATE"
+    ],
+    "1875": [
+        "DATE"
+    ],
+    "1938": [
+        "DATE"
+    ],
+    "1927": [
+        "DATE"
+    ],
+    "Sept. 7": [
+        "DATE"
+    ],
+    "turn-of-the-century": [
+        "DATE"
+    ],
+    "1880": [
+        "DATE"
+    ],
+    "1954": [
+        "DATE"
+    ],
+    "19th century": [
+        "DATE"
+    ],
+    "20th": [
+        "DATE"
+    ],
+    "1930": [
+        "DATE"
+    ],
+    "fourdecades": [
+        "DURATION"
+    ],
+    "1971": [
+        "DATE"
+    ],
+    "July12": [
+        "DATE"
+    ]
+}

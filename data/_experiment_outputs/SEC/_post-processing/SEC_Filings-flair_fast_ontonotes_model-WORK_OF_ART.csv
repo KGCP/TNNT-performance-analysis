@@ -1,0 +1,17 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+""" Payment Date """,0,0,0,0,0,1
+""" Business Day """,0,0,0,0,0,1
+""" First Repayment Date """,0,0,0,0,0,1
+"the Funding Date if the Funding Date",0,0,0,0,0,1
+"21 "" Term Loan Maturity Date """,0,0,0,0,0,1
+"the Perfection Certificate",0,0,0,0,0,1
+"Arbitral award",0,0,0,0,0,1
+"The Parties",0,0,0,0,0,1
+""" Funding Date """,0,0,0,0,0,1
+""" Commitment Termination Date """,0,0,0,0,0,1
+""" Key Person """,0,0,0,0,0,1
+""" Principal Balance """,0,0,0,0,0,1
+""" Gold Hill """,0,0,0,0,0,1
+"First Draw Period """,0,0,0,0,0,1
+""" Confidential Information """,0,0,0,0,0,1
+*TOTAL*,0,0,0,0,0,15

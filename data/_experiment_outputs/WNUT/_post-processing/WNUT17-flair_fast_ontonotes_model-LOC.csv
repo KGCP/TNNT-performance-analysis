@@ -1,0 +1,38 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Siachen Glacier",0,1,0,0,0,0
+"River",0,0,0,0,0,1
+"Lindis Pass",0,1,0,0,0,0
+"the Middle East",0,0,0,0,0,1
+"Western Europe",0,1,0,0,0,0
+"Eastern Europe",0,1,0,0,0,0
+"Earth",0,1,0,0,0,0
+"Lake Charles",0,1,0,0,0,0
+"Jersey Shore",0,1,0,0,0,0
+"south park",0,1,0,0,0,0
+"the River Beam",0,0,0,0,0,1
+"South Park",0,0,0,0,0,1
+"Silver Falls",0,0,0,0,0,1
+"N Alta",0,0,0,0,0,1
+"Zealandia",0,1,0,0,0,0
+"Europe",0,1,0,0,0,0
+"the Upper Union",0,0,0,0,0,1
+"the Washington Cascades WA",0,0,0,0,0,1
+"North Phoenix ATA",0,1,0,0,0,0
+"West Nile",0,0,0,0,0,1
+"Colorado Palisades",0,0,0,0,0,1
+"the Dark Side",0,0,0,0,0,1
+"RavensNation Pluto",0,0,0,0,0,1
+"Milford Rd",0,1,0,0,0,0
+"Discovery Island",0,1,0,0,0,0
+"Middle earth",0,0,0,0,0,1
+"Arthurs Pass",0,1,0,0,0,0
+"NYC",0,1,0,0,0,0
+"Appalachia",0,1,0,0,0,0
+"Eastern Bloc",0,1,0,0,0,0
+"Nandi Kabras",0,0,0,0,0,1
+"Huron",0,1,0,0,0,0
+"The Bay",0,1,0,0,0,0
+"Jupiter",0,1,0,0,0,0
+"East Slopes",0,0,0,0,0,1
+"Kern Valley",0,1,0,0,0,0
+*TOTAL*,0,21,0,0,0,15

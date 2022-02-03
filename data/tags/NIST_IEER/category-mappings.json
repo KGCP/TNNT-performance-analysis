@@ -1,0 +1,12 @@
+{
+	"LOC"     : [ "tnnt:Location", "tnnt:GPE" ],
+	"ORG"     : [ "tnnt:Organisation" ],
+    "PER"     : [ "tnnt:Person"   ],
+    "CARDINAL": [ "tnnt:Cardinal" ],
+    "PERCENT" : [ "tnnt:Percent"  ],
+    "MONEY"   : [ "tnnt:Money"    ],
+    "MEASURE" : [ "tnnt:Quantity" ],
+    "DATE"    : [ "tnnt:Date"     ],
+    "DURATION": [ "tnnt:Date"     ],
+    "TIME"    : [ "tnnt:Time"     ]
+}

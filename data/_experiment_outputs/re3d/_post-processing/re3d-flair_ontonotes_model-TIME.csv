@@ -1,0 +1,26 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"daylight hours",0,0,1,0,0,0
+"the past 24 hours",1,0,0,0,0,0
+"Greenwich Mean Time",0,0,0,0,1,0
+"the night of the attack",0,0,0,0,1,0
+"the last 24 hours",1,0,0,0,0,0
+"11am",0,0,1,0,0,0
+"Ramadan",0,0,0,0,1,0
+"the early hours",0,0,0,1,0,0
+"' Z '",0,0,0,0,1,0
+"mid January",0,0,0,0,1,0
+"early evening",0,0,1,0,0,0
+"two weeks",0,0,0,0,1,0
+"six or seven hours",0,0,0,0,1,0
+"hourly",0,0,0,1,0,0
+"Sunday morning",0,0,1,0,0,0
+"the morning",0,0,0,0,1,0
+"this morning",0,0,0,1,0,0
+"late morning",0,0,1,0,0,0
+"early hours of Sunday",0,0,0,0,1,0
+"earlier today",0,0,1,0,0,0
+"a few hours before",1,0,0,0,0,0
+"time of the attack",0,0,0,0,1,0
+"10 a. m.",0,0,0,1,0,0
+"Later in the day",1,0,0,0,0,0
+*TOTAL*,4,0,6,4,20,0

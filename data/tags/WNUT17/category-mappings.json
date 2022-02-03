@@ -1,0 +1,8 @@
+{
+    "location"     : [ "tnnt:GPE"          ],
+    "creative-work": [ "tnnt:WorkOfArt"    ],
+    "person"       : [ "tnnt:Person"       ],
+    "product"      : [ "tnnt:Product"      ],
+    "group"        : [ "tnnt:Organisation", "tnnt:NORP", "tnnt:GPE" ],
+    "corporation"  : [ "tnnt:Organisation" ]
+}

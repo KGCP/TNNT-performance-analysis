@@ -1,0 +1,111 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Harbor Road",1,0,0,0,0,0
+"coal terminal site",0,0,0,0,1,0
+"Monarch Park Place Niwot",0,0,1,0,0,0
+"Fifth Avenue",0,0,1,0,0,0
+"Israel",1,0,0,0,0,0
+"New York 10017",0,0,0,0,1,0
+"France",1,0,0,0,0,0
+"Massachusetts 02108",0,0,0,0,1,0
+"James River",0,0,1,0,0,0
+"Paris",1,0,0,0,0,0
+"Silicon Valley East",0,0,0,0,1,0
+"Massachusetts 01752",0,0,0,0,1,0
+"Bartlett Street",0,0,1,0,0,0
+"Saint Auban",1,0,0,0,0,0
+"British West Indies",1,0,0,0,0,0
+"Abbott Building Road Town",1,0,0,0,0,0
+"Tasman Drive",0,0,1,0,0,0
+"Cambridge",1,0,0,0,0,0
+"Delaware",0,1,0,0,0,0
+"Washington Street",0,0,1,0,0,0
+"Newport News",0,0,1,0,0,0
+"36",0,0,0,0,1,0
+"Newton Executive Park",1,0,0,0,0,0
+"Beijing 100086",0,0,0,0,1,0
+"south",0,0,0,0,1,0
+"British Virgin Islands",1,0,0,0,0,0
+"Taiwan",1,0,0,0,0,0
+"Wall Street",0,0,0,0,1,0
+"southeast",0,0,0,0,1,0
+"N.",0,0,0,1,0,0
+"United State of America",1,0,0,0,0,0
+"U. S.",0,0,0,1,0,0
+"Boston",1,0,0,0,0,0
+"SILICON VALLEY EAST",1,0,0,0,0,0
+"530 B Street",0,0,0,0,1,0
+"New York",1,0,0,0,0,0
+"Commonwealth of Virginia",0,0,0,0,1,0
+"Fengtai",0,0,1,0,0,0
+"Cologne",0,0,0,1,0,0
+"east",0,0,0,0,1,0
+"Santa Clara",1,0,0,0,0,0
+"Hong Kong Special Administrative Region",0,0,0,0,1,0
+"Newton",0,0,1,0,0,0
+"Cayman Islands",1,0,0,0,0,0
+"Tortola",1,0,0,0,0,0
+"central control room atop transfer tower TT2",0,0,0,0,1,0
+"Silicon Valley",0,0,0,0,1,0
+"northwest",0,0,0,0,1,0
+"Century Yard",1,0,0,0,0,0
+"138",0,0,0,0,1,0
+"2nd floor",0,0,0,0,1,0
+"China",1,0,0,0,0,0
+"Bartlett Street Marlboro",0,0,1,0,0,0
+"Colorado",0,0,1,0,0,0
+"George Town",1,0,0,0,0,0
+"Marlboro",1,0,0,0,0,0
+"HKIAC",0,0,0,1,0,0
+"Cricket Square",1,0,0,0,0,0
+"Commonwealth of Massachusetts",1,0,0,0,0,0
+"Center",0,0,0,0,1,0
+"NEW YORK",0,0,0,1,0,0
+"Gold Hill",1,0,0,0,0,0
+"Zhongguancun Software Park",0,0,0,0,1,0
+"24 / 26 boulevard Carnot",0,0,0,0,1,0
+"44",0,0,0,0,1,0
+"Wellesley",0,0,0,0,1,0
+"Tianlin East Road",1,0,0,0,0,0
+"Plaza",0,0,0,0,1,0
+"Zhongguancun South Street",1,0,0,0,0,0
+"Immeuble Les Caryatides",0,0,0,0,1,0
+"CEO",0,0,0,0,1,0
+"Pier IX",0,0,1,0,0,0
+"Usine de Saint Auban",1,0,0,0,0,0
+"Lille",0,0,1,0,0,0
+"William St",0,0,1,0,0,0
+"US",0,0,1,0,0,0
+"3F",0,0,0,0,1,0
+"Macao Special Administrative Region",0,0,0,0,1,0
+"6 Zhongguancun South Street",0,0,0,0,1,0
+"Hutchins Drive",1,0,0,0,0,0
+"535",0,0,0,0,1,0
+"201 Broadway",0,0,0,0,1,0
+"Beijing",1,0,0,0,0,0
+"Pier 14",0,0,0,1,0,0
+"Hong Kong",1,0,0,0,0,0
+"California",1,0,0,0,0,0
+"goldhillcapital",0,0,0,0,1,0
+"U",0,0,1,0,0,0
+"Jinjia Village",1,0,0,0,0,0
+"United States Bankruptcy Code",0,0,1,0,0,0
+"Eastern",0,0,0,0,1,0
+"Santa Clara County",1,0,0,0,0,0
+"CALIFORNIA",1,0,0,0,0,0
+"SANTA CLARA",0,0,0,0,1,0
+"Commonwealth",0,0,0,0,1,0
+"San Diego",0,0,1,0,0,0
+"4th Floor",0,0,1,0,0,0
+"Virginia",1,0,0,0,0,0
+"United States",1,0,0,0,0,0
+"Grand Cayman",1,0,0,0,0,0
+"Ste",0,0,0,1,0,0
+"Haidian",0,0,1,0,0,0
+"Three",0,0,0,0,1,0
+"Massachusetts 02462",0,0,0,0,1,0
+"Attn",0,0,0,1,0,0
+"04 600 Saint Auban",0,0,0,0,1,0
+"Massachusetts",1,0,0,0,0,0
+"27th Floor",1,0,0,0,0,0
+"Guidu Road",1,0,0,0,0,0
+*TOTAL*,41,1,20,8,78,0

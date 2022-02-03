@@ -1,0 +1,31 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Siachen Glacier",0,1,0,0,0,0
+"River",0,0,0,0,0,1
+"MN Winds",0,0,0,0,0,1
+"Lindis Pass",0,1,0,0,0,0
+"the Middle East",0,0,0,0,0,1
+"Western Europe",0,1,0,0,0,0
+"Crossing",0,0,0,0,0,1
+"Eastern Europe",0,1,0,0,0,0
+"Earth",0,1,0,0,0,0
+"the River Beam",0,0,0,0,0,1
+"SHA 1",0,0,0,0,0,1
+"Europe",0,1,0,0,0,0
+"the Upper Union",0,0,0,0,0,1
+"the Washington Cascades WA",0,0,0,0,0,1
+"st. francis",0,0,0,0,0,1
+"West Nile",0,0,0,0,0,1
+"Africa",0,1,0,0,0,0
+"Colorado Palisades",0,0,0,0,0,1
+"Milford Rd",0,1,0,0,0,0
+"North",0,0,0,0,0,1
+"QM",0,0,0,0,0,1
+"NYC",0,1,0,0,0,0
+"Eastern Bloc",0,1,0,0,0,0
+"Fermi",0,0,0,0,0,1
+"Nandi Kabras",0,0,0,0,0,1
+"The Bay",0,1,0,0,0,0
+"Cachupas",0,1,0,0,0,0
+"Jupiter",0,1,0,0,0,0
+"East Slopes",0,0,0,0,0,1
+*TOTAL*,0,13,0,0,0,16

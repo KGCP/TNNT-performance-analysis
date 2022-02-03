@@ -1,0 +1,10 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"British",0,0,0,1,0,0
+"Chinese",1,0,0,0,0,0
+"R.",0,0,0,1,0,0
+"Tortola",0,1,0,0,0,0
+"d.",0,0,0,1,0,0
+"French",1,0,0,0,0,0
+"Parties",0,0,0,1,0,0
+"shiploader",0,0,0,1,0,0
+*TOTAL*,2,1,0,5,0,0

@@ -1,0 +1,179 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"7 one hour",0,0,0,1,0,0
+"Thursday night",1,0,0,0,0,0
+"the moment",0,0,0,0,1,0
+"a day",0,0,0,0,1,0
+"a good long time",0,0,0,0,1,0
+"a certain amount of time",0,0,0,0,1,0
+"08:00 20:00",0,0,0,1,0,0
+"15:11 GMT",1,0,0,0,0,0
+"earlier today",1,0,0,0,0,0
+"the evening",1,0,0,0,0,0
+"roughly 20 minutes",1,0,0,0,0,0
+"the end of your planned return",0,0,0,0,1,0
+"the course of the project",0,0,0,0,1,0
+"one minute",0,0,0,1,0,0
+"minutes",0,0,1,0,0,0
+"the future",0,0,0,0,1,0
+"73 seconds",0,0,0,1,0,0
+"a do-or-die moment",0,0,0,0,1,0
+"Roman times",0,0,0,0,1,0
+"morning",0,0,1,0,0,0
+"about 5 minutes",1,0,0,0,0,0
+"one hour of windsurf",0,0,0,0,1,0
+"an additional 5 minutes",1,0,0,0,0,0
+"prosperous boom times",0,0,0,0,1,0
+"5 minutes",1,0,0,0,0,0
+"two hours",1,0,0,0,0,0
+"at least one night",0,0,1,0,0,0
+"11 pm and 1 am",0,0,1,0,0,0
+"in January",0,0,0,0,1,0
+"Saturday night",0,0,0,0,1,0
+"the time",0,0,0,0,1,0
+"significant time",0,0,0,0,1,0
+"the next 120 seconds",1,0,0,0,0,0
+"fifteen minutes",0,0,0,1,0,0
+"the hottest days",0,0,0,0,1,0
+"sunset",0,0,0,0,1,0
+"many times",0,0,0,0,1,0
+"evening",1,0,0,0,0,0
+"Hours",0,0,0,1,0,0
+"a Monday",0,0,0,0,1,0
+"multiple lifetimes",0,0,0,0,1,0
+"no longer than 30 seconds",0,0,1,0,0,0
+"your entire day",0,0,0,0,1,0
+"06:30 pm",0,0,0,1,0,0
+"6:00am",1,0,0,0,0,0
+"your frenzy time",0,0,0,0,1,0
+"a couple of seconds",1,0,0,0,0,0
+"the nation 's past",0,0,0,0,1,0
+"their time",0,0,0,0,1,0
+"this day",0,0,0,0,1,0
+"two minute",0,0,1,0,0,0
+"the hottest part of the day",0,0,0,0,1,0
+"10 to 15 minutes",0,0,1,0,0,0
+"nearly half an hour",1,0,0,0,0,0
+"midnight",1,0,0,0,0,0
+"just over 24 hours ago",1,0,0,0,0,0
+"24 hours",0,0,1,0,0,0
+"this time",0,0,0,0,1,0
+"the industrial era",0,0,0,0,1,0
+"ten minutes",1,0,0,0,0,0
+"that specific moment",0,0,0,0,1,0
+"hours long",0,0,1,0,0,0
+"the rush hours",0,0,0,0,1,0
+"45 minutes",1,0,0,0,0,0
+"those times",0,0,0,0,1,0
+"the late afternoon",1,0,0,0,0,0
+"the morning",1,0,0,0,0,0
+"an hour later",0,0,1,0,0,0
+"2 hours",1,0,0,0,0,0
+"classical - era",0,0,0,0,1,0
+"opening times",0,0,0,0,1,0
+"Sun 9 am 03:00 pm",0,0,0,1,0,0
+"earlier or four hours earlier",0,0,1,0,0,0
+"the next 30 hours",1,0,0,0,0,0
+"Sat 08:30 am",0,0,0,1,0,0
+"A day",0,0,0,0,1,0
+"at least 3 4 hours",0,0,1,0,0,0
+"the best times",0,0,0,0,1,0
+"36 hours",0,0,1,0,0,0
+"most sunny days",0,0,0,0,1,0
+"the rare times",0,0,0,0,1,0
+"this period",0,0,0,0,1,0
+"the evenings",0,0,0,0,1,0
+"night",1,0,0,0,0,0
+"two periods of the "" cruise "" phase of the interplanetary orbit",0,0,0,0,1,0
+"a period of time",0,0,0,0,1,0
+"dessert time",0,0,0,0,1,0
+"the next Tuesday night",1,0,0,0,0,0
+"their day",0,0,0,0,1,0
+"20 minute",0,0,1,0,0,0
+"the date of expected departure",0,0,0,0,1,0
+"every five minutes",0,0,0,1,0,0
+"Sunday night",0,0,1,0,0,0
+"10 seconds",1,0,0,0,0,0
+"hours",1,0,0,0,0,0
+"its future",0,0,0,0,1,0
+"the same calendar day",0,0,0,0,1,0
+"peak traffic hour",0,0,0,0,1,0
+"tomorrow",0,0,0,0,1,0
+"the day",0,0,0,0,1,0
+"mid-August",0,0,0,0,1,0
+"a short time",0,0,0,0,1,0
+"the primary season",0,0,0,0,1,0
+"one hour",0,1,0,0,0,0
+"late night",0,0,1,0,0,0
+"around 8 pm",1,0,0,0,0,0
+"a bit",0,0,0,0,1,0
+"half hour",0,0,0,1,0,0
+"many hours into wearing the outfit",0,0,0,0,1,0
+"the occasional rainy or snowy day",0,0,0,0,1,0
+"day or night",0,0,0,0,1,0
+"in June",0,0,0,0,1,0
+"that time",0,0,0,0,1,0
+"almost three hours",1,0,0,0,0,0
+"30 seconds to several minutes",0,0,1,0,0,0
+"now",0,0,0,0,1,0
+"2:30 the next day",1,0,0,0,0,0
+"the whole way",0,0,0,0,1,0
+"Many times",0,0,0,0,1,0
+"sunrise",0,0,0,0,1,0
+"a few more minutes",0,0,0,1,0,0
+"the spring",0,0,0,0,1,0
+"the opening night",0,0,0,0,1,0
+"National Magic Month",0,0,0,0,1,0
+"five hours",1,0,0,0,0,0
+"less than a minute",0,0,1,0,0,0
+"08:30 am 7 pm",0,0,0,1,0,0
+"soon afterward",0,0,0,0,1,0
+"time",0,0,0,0,1,0
+"24 hour",0,0,1,0,0,0
+"a couple of minutes",1,0,0,0,0,0
+"Flight durations",0,0,0,0,1,0
+"afternoon",0,0,1,0,0,0
+"every 15 minutes",1,0,0,0,0,0
+"a night",0,0,0,0,1,0
+"that",0,0,0,0,1,0
+"the summertime",0,0,0,0,1,0
+"14:00",0,0,1,0,0,0
+"time-frames",0,0,0,0,1,0
+"less than two minutes",1,0,0,0,0,0
+"each week",0,0,0,0,1,0
+"the night",0,0,0,0,1,0
+"a while",0,0,0,0,1,0
+"Friday night",0,0,0,0,1,0
+"the high season",0,0,0,0,1,0
+"twenty four hours",0,0,1,0,0,0
+"on Wednesday",0,0,0,0,1,0
+"one season",0,0,0,0,1,0
+"5 10 minutes",0,0,0,1,0,0
+"the date",0,0,0,0,1,0
+"Spring and late autumn",0,0,0,0,1,0
+"they",0,0,0,0,1,0
+"Friday and holiday evenings",0,0,0,0,1,0
+"an era of modern web standards",0,0,0,0,1,0
+"very early life",0,0,0,0,1,0
+"the industrial revolution",0,0,0,0,1,0
+"about 15 minutes",1,0,0,0,0,0
+"a jiffy",0,0,0,0,1,0
+"their stay",0,0,0,0,1,0
+"the past few days",0,0,0,0,1,0
+"These days",0,0,0,0,1,0
+"at least 15 30 minutes",0,0,0,1,0,0
+"48 hours",0,1,0,0,0,0
+"fall",0,0,0,0,1,0
+"an hour",1,0,0,0,0,0
+"your workday",0,0,0,0,1,0
+"a few seconds",1,0,0,0,0,0
+"A minute",0,0,1,0,0,0
+"some 35 minutes",1,0,0,0,0,0
+"20 to 25 minutes",0,0,1,0,0,0
+"Saturday Night",0,0,0,0,1,0
+"shortly before her death",0,0,0,0,1,0
+"modern times",0,0,0,0,1,0
+"a few hours",0,0,1,0,0,0
+"an ideal time",0,0,0,0,1,0
+"this fruitful period",0,0,0,0,1,0
+"four hours",1,0,0,0,0,0
+*TOTAL*,38,2,25,15,194,0

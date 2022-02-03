@@ -1,0 +1,925 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Forgotten Door",0,0,0,0,1,0
+"Copenhagen",1,0,0,0,0,0
+"Kenworth",0,1,0,0,0,0
+"Universe",0,0,0,0,1,0
+"Bex",0,0,0,0,1,0
+"Lancashire",0,0,0,0,1,0
+"Orillia",1,0,0,0,0,0
+"estonia",0,0,0,0,1,0
+"Dillion High School",0,0,0,0,1,0
+"Israel",1,0,0,0,0,0
+"Denver",0,0,1,0,0,0
+"yakima",0,0,0,0,1,0
+"rival cannibal car gangs",0,0,0,0,1,0
+"Tottenham",1,0,0,0,0,0
+"Haunted House",0,0,0,0,1,0
+"Selma",0,1,0,0,0,0
+"SS",0,0,0,0,1,0
+"the Military",0,0,0,0,1,0
+"Toulouse",0,0,0,0,1,0
+"Paris",1,0,0,0,0,0
+"San Jose",0,0,0,0,1,0
+"IL",0,0,0,0,1,0
+"green day",0,0,0,0,1,0
+"Blakehurst",0,0,0,0,1,0
+"Orlando",0,0,1,0,0,0
+"Delhomme",0,0,0,0,1,0
+"St . Mary's.",0,0,0,0,1,0
+"Discovery Island",0,0,0,0,1,0
+"Tampa",0,0,1,0,0,0
+"Gardens",0,0,0,0,1,0
+"Seoul Incheon",0,0,0,1,0,0
+"Choice",0,0,0,0,1,0
+"Missouri",0,0,0,0,1,0
+"MD",0,0,0,0,1,0
+"Buahbatu",0,0,0,0,1,0
+"Warri",0,0,1,0,0,0
+"Eastern Europeans",0,0,0,0,1,0
+"Melbourne",1,0,0,0,0,0
+"Omaha",1,0,0,0,0,0
+"Downtown La Grange",0,0,0,0,1,0
+"Jonas Bros",0,0,0,0,1,0
+"englewood",0,0,0,0,1,0
+"DoE",0,0,0,0,1,0
+"Three Days Grace",0,0,0,0,1,0
+"Brighton",1,0,0,0,0,0
+"china",0,0,0,0,1,0
+"#Bangkok",0,0,0,0,1,0
+"61 Roadhouse BBQ",0,0,0,0,1,0
+"JC FinleyWASHINGTON",0,0,1,0,0,0
+"garden grove",0,0,0,0,1,0
+"Luna Lounge",1,0,0,0,0,0
+"planet",0,0,0,0,1,0
+"yakuza",0,0,0,0,1,0
+"Kiev",0,0,0,1,0,0
+"amsterdam",0,0,0,0,1,0
+"Middle East",1,0,0,0,0,0
+"Liffey",1,0,0,0,0,0
+"Lincoln",0,0,1,0,0,0
+"Vordingborg",1,0,0,0,0,0
+"INDIGENOUS",0,0,0,0,1,0
+"them",0,0,0,0,1,0
+"Gainesville",1,0,0,0,0,0
+"the republican administration nominees",0,0,0,0,1,0
+"#Spurs",0,0,0,0,1,0
+"real madrid",0,0,0,0,1,0
+"Cambridge",0,0,0,1,0,0
+"philippines",0,0,0,0,1,0
+"the Fox",0,0,0,0,1,0
+"Delmar",0,0,0,0,1,0
+"Newport",1,0,0,0,0,0
+"Robinho",0,0,1,0,0,0
+"Poland",1,0,0,0,0,0
+"Compton",0,0,0,0,1,0
+"Hayes",0,0,0,1,0,0
+"Canada",1,0,0,0,0,0
+"Packer",0,0,0,0,1,0
+"DC",1,0,0,0,0,0
+"#Buckeyes",0,0,0,0,1,0
+"Diagon Alley",0,0,0,0,1,0
+"Bowl Long Island",1,0,0,0,0,0
+"miami",0,0,0,0,1,0
+"Rimutakas",0,0,0,0,1,0
+"OMB",0,0,0,0,1,0
+"Elgin",0,0,0,0,1,0
+"Living Computer Museum + Labs",0,0,0,0,1,0
+"Clemson",0,0,0,0,1,0
+"Cavite",0,0,0,0,1,0
+"Cahill",0,0,0,0,1,0
+"Cuba",1,0,0,0,0,0
+"CalgaryNEXT",0,0,0,0,1,0
+"Barbados",0,0,0,0,1,0
+"Rays",0,0,0,0,1,0
+"Conservative Party",0,0,0,0,1,0
+"Arthurs Pass",0,0,0,0,1,0
+"Desert Rd",0,0,0,0,1,0
+"Buck mountain",0,0,0,0,1,0
+"GOAT",0,0,0,0,1,0
+"Bagan",0,0,0,1,0,0
+"Delhi",0,0,0,0,1,0
+"Leacock Museum",1,0,0,0,0,0
+"Disney World",0,0,0,0,1,0
+"Pumpkin Moonshine",0,1,0,0,0,0
+"Lingerie football league",0,0,0,0,1,0
+"Physics SE",0,0,0,0,1,0
+"Non- Citizens",0,0,0,0,1,0
+"South Korea",0,0,1,0,0,0
+"GLASGOW",1,0,0,0,0,0
+"Chapel Hill",1,0,0,0,0,0
+"LALALAND",0,0,1,0,0,0
+"Olive Garden",1,0,0,0,0,0
+"XI. Rip Chad",0,0,0,1,0,0
+"Wisconsin",1,0,0,0,0,0
+"Sunset Bistro",0,0,0,0,1,0
+"Reddit",1,0,0,0,0,0
+"other houses",0,0,0,0,1,0
+"CLUB BLU",0,0,0,0,1,0
+"NADT",0,0,0,0,1,0
+"JulArgJazz",0,0,0,0,1,0
+"Ustream",0,1,0,0,0,0
+"Digimon",0,1,0,0,0,0
+"Australia",1,0,0,0,0,0
+"Metallica",0,0,0,0,1,0
+"Whiskey",0,0,0,0,1,0
+"/ r / southafrica",0,0,0,0,1,0
+"toronto",0,0,0,0,1,0
+"boilers",0,0,0,0,1,0
+"N ' Sync",0,0,0,0,1,0
+"Trinidad",0,0,0,1,0,0
+"Mississippi Studios",0,0,0,0,1,0
+"Dim Mak",0,0,0,0,1,0
+"Red Alert",0,0,0,0,1,0
+"Dallas",1,0,0,0,0,0
+"mexico",0,0,0,0,1,0
+"Willingham",0,0,0,0,1,0
+"Jedi",0,0,0,0,1,0
+"Trump team",0,0,0,0,1,0
+"Venice",1,0,0,0,0,0
+"Dongou",0,1,0,0,0,0
+"LEEDS",0,0,0,0,1,0
+"Birmingham , United Kingdom",0,0,0,0,1,0
+"NFL)",0,0,0,0,1,0
+"Nashville Give",0,0,1,0,0,0
+"NY",1,0,0,0,0,0
+"LOLKNBR",0,0,0,1,0,0
+"Catonsville",1,0,0,0,0,0
+"THE KINGS",0,0,0,0,1,0
+"Kragar",0,1,0,0,0,0
+"Judges",0,0,0,0,1,0
+"The Brothers",0,0,0,0,1,0
+"Mystery Jets",0,0,0,0,1,0
+"Wellington",1,0,0,0,0,0
+"lhs",0,0,0,0,1,0
+"Nijverdal",1,0,0,0,0,0
+"Outsiders",0,0,0,0,1,0
+"Philly",1,0,0,0,0,0
+"CVG",0,0,0,0,1,0
+"New Life",0,0,0,0,1,0
+"The Knifing Tourney 2017",0,0,0,0,1,0
+"River Rom",0,0,0,0,1,0
+"Helicity",0,0,0,1,0,0
+"DJs",0,0,0,0,1,0
+"Washington",1,0,0,0,0,0
+"Leaves",0,0,0,0,1,0
+"AltYelloNatPark",0,0,0,0,1,0
+"San Mateo",0,0,0,0,1,0
+"Catalonia",1,0,0,0,0,0
+"Blonde Redhead",0,0,0,0,1,0
+"Super City",0,1,0,0,0,0
+"Paramore",0,0,0,0,1,0
+"tucson",0,0,0,0,1,0
+"Manila",1,0,0,0,0,0
+"ROZ",0,0,0,0,1,0
+"Earth",1,0,0,0,0,0
+"Beenzino",0,0,0,0,1,0
+"Temecula",1,0,0,0,0,0
+"RhodeIsland",0,0,0,0,1,0
+"NZ",1,0,0,0,0,0
+"Iowa",1,0,0,0,0,0
+"BORNEO SEJAHTERA",0,0,0,1,0,0
+"CCU",0,0,0,0,1,0
+"Napa",1,0,0,0,0,0
+"New Orleans Square",1,0,0,0,0,0
+"Rocks",0,0,0,0,1,0
+"Pluto",0,0,0,0,1,0
+"allies",0,0,0,0,1,0
+"Zealandia",1,0,0,0,0,0
+"Sacramento",1,0,0,0,0,0
+"JPN",0,0,0,0,1,0
+"PAK",0,0,0,0,1,0
+"Kokomo",0,0,0,0,1,0
+"Shakers",0,0,0,0,1,0
+"Korea",0,0,1,0,0,0
+"Vietnam",0,0,0,0,1,0
+"they",0,0,0,0,1,0
+"london",0,0,0,0,1,0
+"Romania",1,0,0,0,0,0
+"Long Island Mac Arthur Airport",1,0,0,0,0,0
+"SWAT",0,0,0,0,1,0
+"TX Fort Worth",0,0,1,0,0,0
+"Auckland",1,0,0,0,0,0
+"UK",1,0,0,0,0,0
+"French",0,0,0,0,1,0
+"Belgium",1,0,0,0,0,0
+"NYC",1,0,0,0,0,0
+"Waltengoo Nar",1,0,0,0,0,0
+"french disney parks",0,0,0,0,1,0
+"Serbia",0,0,0,0,1,0
+"Costa Mesa",0,0,0,0,1,0
+"Marseille",0,0,0,0,1,0
+"Greenville",1,0,0,0,0,0
+"Islamic terrorists",0,0,0,0,1,0
+"Indonesia",1,0,0,0,0,0
+"Dark Side",0,0,0,0,1,0
+"UNF",0,0,0,0,1,0
+"Kurzgesagt",0,1,0,0,0,0
+"Ontario",1,0,0,0,0,0
+"mods",0,0,0,0,1,0
+"Cap'n Jazz",0,0,0,0,1,0
+"Edmonton",1,0,0,0,0,0
+"Stew ' s Self Service Garage",0,0,0,0,1,0
+"U. S. Capitol",0,0,0,1,0,0
+"Panthers",0,0,0,0,1,0
+"Toronto",1,0,0,0,0,0
+"Amazon",0,0,0,1,0,0
+"kilkenny",0,0,0,0,1,0
+"Fenway",1,0,0,0,0,0
+"islamic",0,0,0,0,1,0
+"Morocco",1,0,0,0,0,0
+"Baltimore National Aquarium",0,0,0,0,1,0
+"Hi Pac",0,0,0,0,1,0
+"Tipitina",0,0,0,0,1,0
+"charleston",0,0,0,0,1,0
+"The Ascension",0,0,0,0,1,0
+"Jets",0,0,0,0,1,0
+"/ r / sydney",0,0,0,0,1,0
+"uganda",0,0,0,0,1,0
+"Hollywood",1,0,0,0,0,0
+"country",0,0,0,0,1,0
+"#jets",0,0,0,0,1,0
+"A7X",0,0,0,0,1,0
+"Marshals",0,0,0,0,1,0
+"Ukraine",1,0,0,0,0,0
+"Gwil",0,1,0,0,0,0
+"canada",0,0,0,0,1,0
+"Vrĳzinnige Partĳ",0,0,0,0,1,0
+"INDONESIA",1,0,0,0,0,0
+"London",1,0,0,0,0,0
+"Hawk 's Nest",0,0,0,0,1,0
+"Iowa City Schools",0,0,0,0,1,0
+"West Nile",0,0,0,1,0,0
+"TheResistance",0,0,0,0,1,0
+"Patchogue",0,0,1,0,0,0
+"SMITE",0,0,0,0,1,0
+"KISS",0,0,0,0,1,0
+"The Pageant",0,0,0,0,1,0
+"Costa Lounge",1,0,0,0,0,0
+"Kuwait City",1,0,0,0,0,0
+"Hounds",0,0,0,0,1,0
+"COP",0,0,0,0,1,0
+"Foucault",0,0,0,1,0,0
+"INDIA",1,0,0,0,0,0
+"Caliman",0,1,0,0,0,0
+"ChicanoBatman",0,0,0,0,1,0
+"PHX",0,0,0,0,1,0
+"Burning Bush Grille",0,0,0,0,1,0
+"Dems",0,0,0,0,1,0
+"inverness",0,0,0,0,1,0
+"#Aquarians",0,0,0,0,1,0
+"Swansea",0,0,0,0,1,0
+"east portland",0,0,0,0,1,0
+"Chicago. Wait.",0,0,1,0,0,0
+"Sandringham",1,0,0,0,0,0
+"Leicester",1,0,0,0,0,0
+"Spain",1,0,0,0,0,0
+"AHFA",0,0,0,0,1,0
+"Bradley Soccer",0,0,0,0,1,0
+"Calgary",1,0,0,0,0,0
+"Nazi",0,0,0,0,1,0
+"The Causeway",0,0,0,0,1,0
+"geneticists",0,0,0,0,1,0
+"AZ",0,0,0,0,1,0
+"The Pub",0,0,0,0,1,0
+"New York City",1,0,0,0,0,0
+"Bowlounge",1,0,0,0,0,0
+"Roman",0,1,0,0,0,0
+"Vista del Lago",0,0,0,0,1,0
+"Madagascar",0,1,0,0,0,0
+"Boston",1,0,0,0,0,0
+"calgary",0,0,0,0,1,0
+"Railroad Earth",0,0,0,0,1,0
+"Jamaica",1,0,0,0,0,0
+"australia",0,0,0,0,1,0
+"Tdot",1,0,0,0,0,0
+"miami heat",0,0,0,0,1,0
+"U.S. Capitol building",0,0,0,0,1,0
+"Western European",0,0,0,0,1,0
+"Ladder Company 25",0,0,0,0,1,0
+"St. Flood Warning",0,0,0,1,0,0
+"LONDON",1,0,0,0,0,0
+"Austin",1,0,0,0,0,0
+"Cheeta",0,1,0,0,0,0
+"Singapore",1,0,0,0,0,0
+"Disney world",0,0,0,0,1,0
+"SHAKEMODE",0,0,0,0,1,0
+"MUFC",0,0,0,0,1,0
+"belles mansion",0,0,0,0,1,0
+"india",0,0,0,0,1,0
+"democrats",0,0,0,0,1,0
+"Laureluxe",0,0,0,1,0,0
+"Minas Tirith",0,0,0,0,1,0
+"Lambeau Field",0,0,0,0,1,0
+"Blades",0,0,0,0,1,0
+"Syria",1,0,0,0,0,0
+"China",1,0,0,0,0,0
+"Dalhousie",1,0,0,0,0,0
+"Plano",0,0,0,1,0,0
+"White",0,0,0,0,1,0
+"SHS",0,0,0,0,1,0
+"Seahawk",0,0,0,0,1,0
+"San Francisco",1,0,0,0,0,0
+"Natives",0,0,0,0,1,0
+"Kirkwood",0,0,0,0,1,0
+"Jupiter",1,0,0,0,0,0
+"#TheRAC",0,0,0,0,1,0
+"Lindis Pass",1,0,0,0,0,0
+"the Clippers",0,0,0,0,1,0
+"cons",0,0,0,0,1,0
+"St . Mark's.",0,0,0,0,1,0
+"Ohio",1,0,0,0,0,0
+"perth",0,0,0,0,1,0
+"A&amp;E",0,0,0,0,1,0
+"North Phoenix",0,0,1,0,0,0
+"Kessel",0,0,0,0,1,0
+"TIFO CREW",0,0,0,0,1,0
+"LUB",0,0,0,0,1,0
+"Mesa",0,0,0,0,1,0
+"/ r / newzealand",0,0,0,0,1,0
+"Rumba Cafe",1,0,0,0,0,0
+"boy scouts",0,0,0,0,1,0
+"U of W",0,0,0,0,1,0
+"the administration",0,0,0,0,1,0
+"Cousins",0,0,0,0,1,0
+"Simon &amp; Schuster",0,0,0,0,1,0
+"Minnesota",1,0,0,0,0,0
+"Alta",0,0,0,1,0,0
+"Ireland",1,0,0,0,0,0
+"River Beam",1,0,0,0,0,0
+"Monaco",1,0,0,0,0,0
+"Ione",0,1,0,0,0,0
+"Beverly Hills",1,0,0,0,0,0
+"nederlands",0,0,0,0,1,0
+"The New World Order",0,0,0,0,1,0
+"#KansasCity",0,0,0,0,1,0
+"Astana",1,0,0,0,0,0
+"Green Day",0,0,0,0,1,0
+"Georgia",0,0,0,0,1,0
+"The Howling Wolf Nola",0,0,0,0,1,0
+"The Echo",0,0,0,0,1,0
+"Republic",0,0,0,0,1,0
+"Edison",0,0,0,0,1,0
+"Oakland",1,0,0,0,0,0
+"Srinagar",1,0,0,0,0,0
+"Egypt",1,0,0,0,0,0
+"Hong Kongers",0,0,0,0,1,0
+"Democrats",0,0,0,0,1,0
+"Long Beach.",0,0,1,0,0,0
+"the funny bone",0,0,0,0,1,0
+"Hotel Elegante",0,0,0,0,1,0
+"Redondo Beach Blvd.",0,0,1,0,0,0
+"TVPS",0,0,0,0,1,0
+"Logan",0,1,0,0,0,0
+"Oh Canada Team",0,0,0,0,1,0
+"Yaletown",0,0,0,0,1,0
+"D.C.",0,0,0,0,1,0
+"Zetland",0,0,0,0,1,0
+"microgravitylab",0,0,0,0,1,0
+"the Lions",0,0,0,0,1,0
+"Hamm",0,0,0,0,1,0
+"JuniorCyclingMY",0,0,0,0,1,0
+"Sta . Ana Municipal Grounds",0,0,0,0,1,0
+"St . George",0,0,0,0,1,0
+"bc",0,0,0,0,1,0
+"Star Wars Land",0,0,0,0,1,0
+"vancouver",0,0,0,0,1,0
+"Kembar Mas Utara",0,0,0,0,1,0
+"Fort Mason",1,0,0,0,0,0
+"powerpuff girls",0,0,0,0,1,0
+"California",1,0,0,0,0,0
+"Eyeopener",0,0,0,0,1,0
+"MontansKittenSighs",0,0,0,0,1,0
+"Egyptian Exchange",0,0,0,0,1,0
+"Los Angeles",1,0,0,0,0,0
+"Scotland",1,0,0,0,0,0
+"Skyview Observatory",0,0,0,0,1,0
+"Western Europe",0,0,0,0,1,0
+"barksdale",0,0,0,0,1,0
+"EPA",0,0,0,0,1,0
+"HK",0,0,0,1,0,0
+"Karina",0,1,0,0,0,0
+"VISIONS LOUNGE",0,0,0,0,1,0
+"spoontheband",0,0,0,0,1,0
+"BaszMM",0,0,0,0,1,0
+"PNG",0,0,0,0,1,0
+"MOC",0,0,0,0,1,0
+"#China",0,0,0,0,1,0
+"Vegas",0,0,0,0,1,0
+"Wippenberg",0,0,0,0,1,0
+"Montana",0,0,0,1,0,0
+"oswego",0,0,0,0,1,0
+"Kremlin",0,0,0,1,0,0
+"Martians",0,0,0,0,1,0
+"earth",0,0,0,0,1,0
+"DA",0,0,0,0,1,0
+"India",1,0,0,0,0,0
+"Klein",0,0,0,0,1,0
+"Testing Tomorrow",0,0,0,0,1,0
+"Indi Go Go",0,0,0,0,1,0
+"Barca",0,0,0,0,1,0
+"Empire State Building",0,0,0,0,1,0
+"Mandalorians",0,0,0,0,1,0
+"Russia",0,0,0,0,1,0
+"MIAMI",0,0,0,0,1,0
+"Florida",1,0,0,0,0,0
+"Zeitgeist",0,0,0,0,1,0
+"Fulham",1,0,0,0,0,0
+"Carmona",0,0,0,0,1,0
+"FlevoMeer Bibliotheek Lelystad",0,0,1,0,0,0
+"NC",1,0,0,0,0,0
+"Moore Park",1,0,0,0,0,0
+"TIE Fighter pilots",0,0,0,0,1,0
+"Crooked",0,0,0,0,1,0
+"TYT",0,0,0,0,1,0
+"Aragon",1,0,0,0,0,0
+"HOUSTON",1,0,0,0,0,0
+"inglewood",0,0,0,0,1,0
+"Europe Cheney",0,0,1,0,0,0
+"WI",0,0,0,0,1,0
+"korea",0,0,0,0,1,0
+"Appalachia",1,0,0,0,0,0
+"Ramen Kan Bondi Junction",1,0,0,0,0,0
+"SXSW",0,0,0,0,1,0
+"Delirious",0,0,0,0,1,0
+"Newtown",1,0,0,0,0,0
+"JANNUS",0,0,1,0,0,0
+"Stoke mafia",0,0,0,0,1,0
+"Ellicott City",0,0,1,0,0,0
+"Spoons NW Bistro",1,0,0,0,0,0
+"1st Presbyterian",0,0,0,0,1,0
+"Beantown",0,0,1,0,0,0
+"Soho",0,0,0,0,1,0
+"The Buffs",0,0,0,0,1,0
+"abq new mexico",0,0,0,0,1,0
+"The Standard",0,0,0,0,1,0
+"AFC",0,0,0,0,1,0
+"Team Pioneers",0,0,0,0,1,0
+"Cape Town",1,0,0,0,0,0
+"Lake Charles",1,0,0,0,0,0
+"N.J.",0,0,0,0,1,0
+"Brixton",0,0,0,0,1,0
+"Jersey Shore",0,1,0,0,0,0
+"Daddarios",0,0,0,0,1,0
+"Alabang",0,0,0,0,1,0
+"Orange",0,0,0,1,0,0
+"SoCal",0,0,0,0,1,0
+"KHC",0,0,0,0,1,0
+"the bengals",0,0,0,0,1,0
+"KLH",1,0,0,0,0,0
+"France",1,0,0,0,0,0
+"MCM",0,0,1,0,0,0
+"Nandi-Kabras border",0,0,0,0,1,0
+"Leave",0,0,0,0,1,0
+"WB WILDCATS",0,0,0,0,1,0
+"V-I-K-I-N-G-S",0,0,0,0,1,0
+"ireland",0,0,0,0,1,0
+"Salem",0,0,0,0,1,0
+"Sutra",0,0,0,0,1,0
+"Costa Rica",1,0,0,0,0,0
+"ARTs",0,0,0,0,1,0
+"Ducks",0,0,0,0,1,0
+"Manchester",0,0,0,0,1,0
+"Blount",0,0,0,0,1,0
+"Futoosh",1,0,0,0,0,0
+"HARLEM",0,0,0,1,0,0
+"N.E.R.D.",0,0,0,0,1,0
+"Casitas",0,0,0,0,1,0
+"rickyxans",0,0,0,0,1,0
+"the warriors",0,0,0,0,1,0
+"Elements",0,0,0,0,1,0
+"hollywood",0,0,0,0,1,0
+"Bawana",0,0,0,0,1,0
+"White Eagle",0,0,0,0,1,0
+"New Jersey",1,0,0,0,0,0
+"Federation",0,0,0,0,1,0
+"Italy",1,0,0,0,0,0
+"Third Hallow",0,1,0,0,0,0
+"Jedi Council",0,0,0,0,1,0
+"Muslim",0,0,0,0,1,0
+"Herbivore",0,0,0,0,1,0
+"Essex",1,0,0,0,0,0
+"Nigeria",1,0,0,0,0,0
+"Kennesaw Mountain National Battlefield Park",1,0,0,0,0,0
+"Ashley",0,1,0,0,0,0
+"Happy Valley",0,0,0,0,1,0
+"the Whiskey",0,0,0,0,1,0
+"#Astros",0,0,0,0,1,0
+"Maunalua",0,0,0,0,1,0
+"Law . SE",0,0,0,0,1,0
+"Atlanta",1,0,0,0,0,0
+"Yautja",0,1,0,0,0,0
+"Santa Fe",1,0,0,0,0,0
+"CA",1,0,0,0,0,0
+"ravens",0,0,0,0,1,0
+"Birmingham",1,0,0,0,0,0
+"U . S .",0,0,0,0,1,0
+"Crystal Palace",0,0,0,0,1,0
+"corbin",0,0,0,0,1,0
+"maryland",0,0,0,0,1,0
+"Newcastle-Upon-Tyne",0,0,0,0,1,0
+"SUENALO",0,0,0,0,1,0
+"New York Fa",0,0,1,0,0,0
+"Taiwan. Idiot",0,0,1,0,0,0
+"Loveless Cafe",1,0,0,0,0,0
+"Lausanne",0,0,0,0,1,0
+"orchard academy",0,0,0,0,1,0
+"SUNNNNNNNNNNA",0,0,0,0,1,0
+"/ r / politics",0,0,0,0,1,0
+"Scarborough",0,0,0,0,1,0
+"/ r / soccer",0,0,0,0,1,0
+"the tall ship Silva",0,0,0,0,1,0
+"Phish",0,0,0,0,1,0
+"cavs",0,0,0,0,1,0
+"Tenshi",0,0,0,1,0,0
+"world",0,0,0,0,1,0
+"Colts",0,0,0,0,1,0
+"Summits",0,0,0,0,1,0
+"Cromwell Field",0,0,1,0,0,0
+"Sweden",1,0,0,0,0,0
+"Gurez",0,0,1,0,0,0
+"KISD",0,0,0,1,0,0
+"Devonport",1,0,0,0,0,0
+"JFK",0,1,0,0,0,0
+"Lelystad",1,0,0,0,0,0
+"CAFE NINE",0,0,0,0,1,0
+"Longchamp Longchamp",0,0,0,1,0,0
+"CocoFunka",0,0,0,0,1,0
+"#Dallas",0,0,0,0,1,0
+"Elliot Miner",0,0,0,0,1,0
+"-Cuba",0,0,0,0,1,0
+"Physics Stack Exchange",0,0,0,0,1,0
+"Columbus Ohio",0,0,1,0,0,0
+"Punjabiya",0,0,1,0,0,0
+"Madrid",1,0,0,0,0,0
+"Basaksehir",0,0,0,0,1,0
+"Klingons",0,0,0,0,1,0
+"MO-Kansas City",0,0,0,0,1,0
+"#Patriots",0,0,0,0,1,0
+"Cebu",1,0,0,0,0,0
+"Iceland",1,0,0,0,0,0
+"Naples",1,0,0,0,0,0
+"HOLLYWOOD",0,0,0,0,1,0
+"Hartford",1,0,0,0,0,0
+"orlando",0,0,0,0,1,0
+"Botanic Gdns",0,0,0,0,1,0
+"EU",1,0,0,0,0,0
+"Buffalo Municipal Airport",1,0,0,0,0,0
+"japan",0,0,0,0,1,0
+"Student Centre",0,0,0,0,1,0
+"Rotary Club",0,0,0,0,1,0
+"kings and queens",0,0,0,0,1,0
+"Central Park",0,0,0,0,1,0
+"Teaze",0,0,1,0,0,0
+"Glover Park",1,0,0,0,0,0
+"Middleborough",1,0,0,0,0,0
+"FIRST DIRECT ARENA",0,0,0,0,1,0
+"Mzansi",1,0,0,0,0,0
+"TwoBlindBros",0,0,0,0,1,0
+"Bolton",0,0,0,0,1,0
+"CANADA",1,0,0,0,0,0
+"DOES IT OFFEND YOU , YEAH ?",0,0,0,0,1,0
+"jazz",0,0,0,0,1,0
+"Ft Mitchell",0,0,0,0,1,0
+"Arkadelphia",0,0,0,1,0,0
+"anthropologists",0,0,0,0,1,0
+"Hogwarts",0,0,0,0,1,0
+"Charlotte",0,1,0,0,0,0
+"Statistial Physics",0,0,0,1,0,0
+"Order",0,0,0,0,1,0
+"Africa",1,0,0,0,0,0
+"KSC",0,0,0,0,1,0
+"East Nu",0,0,0,0,1,0
+"Portland",1,0,0,0,0,0
+"Houston",1,0,0,0,0,0
+"Holyroodhouse",0,0,0,0,1,0
+"HICKORY",1,0,0,0,0,0
+"Bollywood",0,0,0,0,1,0
+"Badlands National Park",0,0,0,0,1,0
+"Sinophiles",0,0,0,0,1,0
+"Seattle",1,0,0,0,0,0
+"Band hall",0,0,0,0,1,0
+"MONTCLAIR",0,0,0,0,1,0
+"NEW YORK",1,0,0,0,0,0
+"USM",0,0,0,0,1,0
+"TheValerieJune",0,0,0,0,1,0
+"Shiba Inu",0,0,0,1,0,0
+"Dimensions",0,0,0,0,1,0
+"*Boston*",0,0,0,0,1,0
+"Terps-Illini",0,0,0,0,1,0
+"Crobot",0,0,0,0,1,0
+"João",0,0,0,0,1,0
+"Burnaby",1,0,0,0,0,0
+"Prem",0,0,0,0,1,0
+"PLANO",1,0,0,0,0,0
+"Coolum. Sun",0,0,1,0,0,0
+"Sydney",1,0,0,0,0,0
+"USA",1,0,0,0,0,0
+"Gardena",0,0,0,0,1,0
+"Kingda Ka",0,0,0,0,1,0
+"MAHARASHTRA INDIA",0,0,1,0,0,0
+"Iran",0,0,0,1,0,0
+"alabama",0,0,0,0,1,0
+"Pelicans",0,0,0,0,1,0
+"New Zealand",1,0,0,0,0,0
+"Wichita",1,0,0,0,0,0
+"Planet",0,0,0,0,1,0
+"North Korea",1,0,0,0,0,0
+"KY",0,0,0,0,1,0
+"EGX",0,0,0,0,1,0
+"Judas Priest",0,0,0,0,1,0
+"LFDHcom",0,0,0,0,1,0
+"Rodanthe",1,0,0,0,0,0
+"Jasmin",0,0,0,0,1,0
+"Breaking &amp; Entering",0,0,0,0,1,0
+"Europe",1,0,0,0,0,0
+"The Wolves",0,0,0,0,1,0
+"The Heartbeat",0,0,0,0,1,0
+"CHIEFS",0,0,0,0,1,0
+"CargoIndustry",0,0,0,0,1,0
+"delaware",0,0,0,0,1,0
+"reddit . com / r / newzealand",0,0,0,0,1,0
+"Merseyside",1,0,0,0,0,0
+"Indian",0,0,0,0,1,0
+"Doha",1,0,0,0,0,0
+"Hattiesburg",0,0,1,0,0,0
+"Engadget",0,1,0,0,0,0
+"CALABASH LOUNGE",0,0,0,0,1,0
+"the Apollo",0,0,0,0,1,0
+"Limelight",0,0,0,0,1,0
+"Cowboy Mouth",0,0,0,0,1,0
+"Bangkok",1,0,0,0,0,0
+"Saudi Arabia",1,0,0,0,0,0
+"Massasje",0,0,0,1,0,0
+"Thailand",1,0,0,0,0,0
+"Creighton North Texas",0,0,1,0,0,0
+"Lewis",0,0,0,0,1,0
+"the States",0,0,0,0,1,0
+"Arsenal",0,0,0,0,1,0
+"Trump administration",0,0,0,0,1,0
+"Lucid Dementia",0,0,0,0,1,0
+"Washington Cascades",0,0,1,0,0,0
+"1993 Phoenix Team",0,0,0,0,1,0
+"Dimension",0,0,0,0,1,0
+"REDDIT",0,0,0,0,1,0
+"Berkeley",1,0,0,0,0,0
+"United States",1,0,0,0,0,0
+"Canadian",0,0,0,0,1,0
+"ATL",0,0,0,0,1,0
+"DT",0,0,0,0,1,0
+"Honor camp",0,0,0,0,1,0
+"VMB",0,0,0,0,1,0
+"Town Square Place",1,0,0,0,0,0
+"Ibiza",0,0,0,1,0,0
+"Good Day Sunshine",0,0,0,0,1,0
+"South Park",0,0,1,0,0,0
+"Glenveagh",0,0,1,0,0,0
+"#Belgium",0,0,0,0,1,0
+"Bingo",0,0,0,0,1,0
+"North York",0,0,0,0,1,0
+"Trailer Park Boys",0,0,0,0,1,0
+"auburn",0,0,0,0,1,0
+"U. S. Cuba",0,0,1,0,0,0
+"the Fitzwilliam",0,0,0,0,1,0
+"Daish",0,0,0,0,1,0
+"The Bay",1,0,0,0,0,0
+"CBHS",0,0,0,0,1,0
+"Turkey",1,0,0,0,0,0
+"the BLAST",0,0,0,0,1,0
+"Tristan Bates Theatre",0,0,0,1,0,0
+"Mahazgund",0,0,0,0,1,0
+"Primus",0,0,0,0,1,0
+"Da Bears",0,0,0,0,1,0
+"Hong Kong",0,0,0,0,1,0
+"Maine",0,0,0,1,0,0
+"West Ham",0,0,0,0,1,0
+"rep of ireland",0,0,0,0,1,0
+"Phil",0,0,0,0,1,0
+"#NewDelhi",0,0,0,0,1,0
+"FHSU",0,0,0,0,1,0
+"phily",0,0,0,0,1,0
+"Deja",0,0,0,1,0,0
+"Siachen",0,0,0,0,1,0
+"OaklandArtsSchool",0,0,0,0,1,0
+"Britian",1,0,0,0,0,0
+"Pavonia Avenue",1,0,0,0,0,0
+"AUS",0,0,0,0,1,0
+"CityTV",0,0,0,0,1,0
+"Lantic",0,0,0,0,1,0
+"RR",1,0,0,0,0,0
+"CWE",0,0,0,0,1,0
+"Laura Rain Duo",0,0,0,0,1,0
+"Turkish military",0,0,0,0,1,0
+"Knighttime Billiards",0,0,0,0,1,0
+"Kanye West",0,1,0,0,0,0
+"Champlain",0,0,1,0,0,0
+"Cancoon",0,0,0,0,1,0
+"University of Findlay",0,0,0,0,1,0
+"Boro",0,0,0,0,1,0
+"Raw Illest",0,0,0,0,1,0
+"mv",0,0,0,0,1,0
+"the Shire",0,0,0,0,1,0
+"TeamJOA",0,0,0,0,1,0
+"BCAT",0,0,0,0,1,0
+"West Indies",0,0,0,0,1,0
+"MAiZE",0,0,0,0,1,0
+"Sonmarg",1,0,0,0,0,0
+"#Southie",0,0,0,0,1,0
+"Stetson",0,0,0,0,1,0
+"Southgate House",0,0,0,0,1,0
+"Peppers",0,0,0,0,1,0
+"Zinfandel Port",0,0,0,1,0,0
+"FRANCE",0,0,1,0,0,0
+"Disneyland",1,0,0,0,0,0
+"govt",0,0,0,0,1,0
+"woods",0,0,0,0,1,0
+"Arizona",1,0,0,0,0,0
+"phronesismusic",0,0,0,0,1,0
+"alderwood",0,0,0,0,1,0
+"Gorillaz",0,0,0,0,1,0
+"Istanbul",1,0,0,0,0,0
+"ESB",0,0,0,0,1,0
+"Ayodhya",0,1,0,0,0,0
+"The Heatwave",0,0,0,0,1,0
+"The Maccabees",0,0,0,0,1,0
+"China Zimbabwe",0,0,1,0,0,0
+"ANI",0,0,0,0,1,0
+"Reivers",0,0,0,0,1,0
+"West Ave",0,0,0,1,0,0
+"Middle-earth",0,0,0,0,1,0
+"Belize",0,0,0,0,1,0
+"Swayzes Venue",0,0,0,0,1,0
+"BIRMINGHAM",1,0,0,0,0,0
+"JV soccer",0,0,0,0,1,0
+"Finland",1,0,0,0,0,0
+"aintree",0,0,0,0,1,0
+"TD",0,0,0,0,1,0
+"Yanks",0,0,0,0,1,0
+"Salt Lake.",0,0,1,0,0,0
+"Wrawby",1,0,0,0,0,0
+"Smith Tower",0,0,0,0,1,0
+"Miami",0,0,1,0,0,0
+"Oauth",0,1,0,0,0,0
+"CampaignMonitor",0,0,0,0,1,0
+"LIDIAABUSALEH",0,0,1,0,0,0
+"Guster",0,0,0,0,1,0
+"U . S",0,0,0,0,1,0
+"Brgy",0,0,0,0,1,0
+"Crown College",0,0,0,0,1,0
+"Krumia",0,0,0,1,0,0
+"Brunei",0,0,0,1,0,0
+"US",1,0,0,0,0,0
+"Europa",0,0,0,0,1,0
+"CITES",0,0,0,0,1,0
+"milton keyons",0,0,0,0,1,0
+"Green Valley Pkwy",0,0,0,0,1,0
+"New York",1,0,0,0,0,0
+"OFF the GRID",0,0,0,0,1,0
+"Oregon",1,0,0,0,0,0
+"Belfast",1,0,0,0,0,0
+"Upper Union",0,0,0,0,1,0
+"richmond",0,0,0,0,1,0
+"UI",0,0,0,0,1,0
+"Secrets",0,0,0,0,1,0
+"No Fun Bar",0,0,0,0,1,0
+"Troutdale",1,0,0,0,0,0
+"Crufts",0,0,0,0,1,0
+"birmingham",0,0,0,0,1,0
+"@swedishousemfia",0,0,0,0,1,0
+"Cheney",0,1,0,0,0,0
+"Britain",0,0,0,1,0,0
+"sharks",0,0,0,0,1,0
+"Christchurch",0,0,0,0,1,0
+"VT",0,0,0,0,1,0
+"Verona",1,0,0,0,0,0
+"senate democrats",0,0,0,0,1,0
+"KC and The Sunshine Band",0,0,0,0,1,0
+"Milford Rd",1,0,0,0,0,0
+"Mock Assessment Centre",0,0,0,0,1,0
+"boyband _ joao",0,0,0,0,1,0
+"BTS",0,0,0,0,1,0
+"Briarcrest",0,0,0,0,1,0
+"Chicksen",0,1,0,0,0,0
+"First Baptist",0,0,0,0,1,0
+"Seahawks",0,0,0,0,1,0
+"lekku",0,0,0,0,1,0
+"Primal",0,0,0,0,1,0
+"Costa do Sauipe",0,0,0,0,1,0
+"United Kingdom",1,0,0,0,0,0
+"MN",0,0,0,0,1,0
+"Chicago Nice",0,0,1,0,0,0
+"Glasgow",1,0,0,0,0,0
+"Hustler Hollywood",0,0,0,0,1,0
+"Siachen Glacier",0,0,0,0,1,0
+"Geologists",0,0,0,0,1,0
+"UNIVERSE",0,0,0,0,1,0
+"america",0,0,0,0,1,0
+"Kern Valley",1,0,0,0,0,0
+"Viera",0,0,0,0,1,0
+"Younger Brother",0,0,0,0,1,0
+"England",1,0,0,0,0,0
+"NEW ORLEANS",1,0,0,0,0,0
+"Jamaican Squad",0,0,0,0,1,0
+"LA",1,0,0,0,0,0
+"North Carolina",1,0,0,0,0,0
+"White House",1,0,0,0,0,0
+"Da L . E . S",0,0,0,0,1,0
+"S.F.",0,0,0,0,1,0
+"nprmusic",0,0,0,0,1,0
+"Hawaii",1,0,0,0,0,0
+"Storm",0,0,0,0,1,0
+"Berry Farm.",0,0,0,1,0,0
+"Charlestown",1,0,0,0,0,0
+"Qatar",0,0,1,0,0,0
+"#Wax Club Bangkok",0,0,0,0,1,0
+"America",1,0,0,0,0,0
+"Shreveport",1,0,0,0,0,0
+"Nazis",0,0,0,0,1,0
+"The Get Up Kids",0,0,0,0,1,0
+"Islip",0,0,0,1,0,0
+"bap",0,0,0,0,1,0
+"Tesla",0,1,0,0,0,0
+"Thalia Hola Mexico",0,0,1,0,0,0
+"CANWEST Center",0,0,0,0,1,0
+"Barcelona",1,0,0,0,0,0
+"bahamas",0,0,0,0,1,0
+"Giles Deacon",0,1,0,0,0,0
+"St Johns",0,0,0,0,1,0
+"physicists",0,0,0,0,1,0
+"B . C .",0,0,0,0,1,0
+"Japan",1,0,0,0,0,0
+"house",0,0,0,0,1,0
+"Texas",1,0,0,0,0,0
+"Delta Quadrant",0,0,0,0,1,0
+"LCD Soundsystem",0,0,0,0,1,0
+"Tristan Bates #Theatre",0,0,0,0,1,0
+"RichmondDoc TY",0,0,0,0,1,0
+"Giddings",0,0,0,0,1,0
+"Germany",1,0,0,0,0,0
+"republicans",0,0,0,0,1,0
+"30stm",0,0,0,0,1,0
+"Temple Of The Grunge",0,0,0,0,1,0
+"kings of leon",0,0,0,0,1,0
+"LOVEEE",0,0,0,1,0,0
+"Xenia",0,1,0,0,0,0
+"Migos",0,0,0,0,1,0
+"Slovenia",1,0,0,0,0,0
+"Fly Community Theater",0,0,0,0,1,0
+"Birdtalker",0,0,0,0,1,0
+"Eastern Europe",1,0,0,0,0,0
+"Pakistan",1,0,0,0,0,0
+"ZWEIBRUCKEN",0,0,0,0,1,0
+"HSBC center",0,0,0,0,1,0
+"#Bengals",0,0,0,0,1,0
+"Vizsla",0,0,0,1,0,0
+"PRC",0,0,0,1,0,0
+"Music Box",0,0,0,0,1,0
+"/ r / news",0,0,0,0,1,0
+"Wildcat Stadium",0,0,0,0,1,0
+"ASU Step Gallery",0,0,0,0,1,0
+"Observation Deck",0,0,0,0,1,0
+"#Thailand",0,0,0,0,1,0
+"PESAWAR",0,0,0,0,1,0
+"Ogden Theatre",0,0,0,0,1,0
+"Colorado Palisades",0,0,0,1,0,0
+"Dave Matthews",0,0,0,0,1,0
+"NL",0,0,0,0,1,0
+"Aliens",0,0,0,0,1,0
+"candy girls",0,0,0,0,1,0
+"Calcio",1,0,0,0,0,0
+"kiwi",0,0,0,0,1,0
+"Fa",0,0,1,0,0,0
+"Hamburg",0,0,0,1,0,0
+"Utah",1,0,0,0,0,0
+"Detroit",0,0,0,0,1,0
+"The Scoot Inn",0,0,0,0,1,0
+"Vulcan",0,0,0,0,1,0
+"R /",0,0,0,0,1,0
+"#Cagayan",0,0,0,0,1,0
+"ONE DIRECTION",0,0,0,0,1,0
+"Brazil",1,0,0,0,0,0
+"Shikari",0,0,1,0,0,0
+"Widener",0,0,0,0,1,0
+"Sunny Day Real Estate",0,0,0,0,1,0
+"chemists",0,0,0,0,1,0
+"Remington",0,0,0,0,1,0
+"Nebraska",1,0,0,0,0,0
+"Nashville",1,0,0,0,0,0
+"UNF Arena",0,0,0,0,1,0
+"/ r /",0,0,0,0,1,0
+"Eastern Bloc",0,0,0,0,1,0
+"Auburn",0,0,0,0,1,0
+"Gym Class Heroes",0,0,0,0,1,0
+"Spring",0,0,0,0,1,0
+"mod sun",0,0,0,0,1,0
+"UNC",0,0,0,0,1,0
+"Blue",0,0,0,0,1,0
+"the peterhead",0,0,0,0,1,0
+"Baka Boyz",0,0,0,0,1,0
+"muse",0,0,0,0,1,0
+"Lo",0,0,1,0,0,0
+"Dayton",0,0,1,0,0,0
+"Florence",1,0,0,0,0,0
+"U.S.",0,0,0,0,1,0
+"TX",1,0,0,0,0,0
+"Chicago",1,0,0,0,0,0
+*TOTAL*,208,32,51,47,1174,0

@@ -1,0 +1,15 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Abbott Building Road Town",0,1,0,0,0,0
+"Hutchins Drive",0,1,0,0,0,0
+"Euros",0,0,0,0,0,1
+"USD",0,0,0,0,0,1
+"Broadway",0,0,0,0,0,1
+"Cricket Square",0,1,0,0,0,0
+"Pier 14",0,0,0,0,0,1
+"535 Fifth Avenue",0,1,0,0,0,0
+"Tianlin East Road",0,1,0,0,0,0
+"Cologne",0,0,0,0,0,1
+"Usine de Saint Auban",0,1,0,0,0,0
+"Guidu Road",0,1,0,0,0,0
+"Harbor Road",0,1,0,0,0,0
+*TOTAL*,0,8,0,0,0,5

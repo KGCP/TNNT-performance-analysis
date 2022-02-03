@@ -1,0 +1,16 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"the Vermont Air National Guard",0,1,0,0,0,0
+"Karrada neighbourhood",0,1,0,0,0,0
+"IED facilities",0,1,0,0,0,0
+"Camp Hurriya",0,1,0,0,0,0
+"Tiyas Military Airfield",0,1,0,0,0,0
+"Incirlik Air Base",0,0,0,0,0,1
+"Pentagon",0,0,0,0,0,1
+"Fighter Wing",0,0,0,0,0,1
+"the Brandbergen Mosque",0,1,0,0,0,0
+"the Iraqi Museum",0,1,0,0,0,0
+"Air Refueling Wing",0,0,0,0,0,1
+"May.",0,0,0,0,0,1
+"The Brandbergen Mosque",0,1,0,0,0,0
+"the Ishtar Gate",0,1,0,0,0,0
+*TOTAL*,0,9,0,0,0,5

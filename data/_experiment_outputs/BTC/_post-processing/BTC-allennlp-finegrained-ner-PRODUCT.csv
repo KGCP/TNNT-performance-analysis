@@ -1,0 +1,4 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"B52s",0,1,0,0,0,0
+"Flight 370",0,0,0,0,0,1
+*TOTAL*,0,1,0,0,0,1

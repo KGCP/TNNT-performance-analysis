@@ -1,0 +1,19 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"$ 2 . 80",0,0,0,0,1,0
+"$ 1 billion",0,0,0,0,1,0
+"money",0,0,0,0,1,0
+"donor contributions",0,0,0,0,1,0
+"£ 2 . 10",0,0,0,0,1,0
+"wages",0,0,0,0,1,0
+"The salaries",0,0,0,0,1,0
+"888 847 6592",0,0,0,1,0,0
+"two Jordanian dinars",0,0,0,0,1,0
+"handouts",0,0,0,0,1,0
+"9 billion euros",0,0,1,0,0,0
+"one dinar",0,0,0,0,1,0
+"530 , 000",0,0,1,0,0,0
+"$ 100m",0,0,0,0,1,0
+"$ 100 million",0,0,0,0,1,0
+"millions of dollars",0,0,0,0,1,0
+"10 per cent",0,1,0,0,0,0
+*TOTAL*,0,1,2,1,13,0

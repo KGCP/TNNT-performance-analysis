@@ -1,0 +1,6 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"The",0,1,0,0,0,0
+"English",0,0,0,0,0,1
+"Arabic",0,0,0,0,0,1
+"Hindi",0,0,0,0,0,1
+*TOTAL*,0,1,0,0,0,3

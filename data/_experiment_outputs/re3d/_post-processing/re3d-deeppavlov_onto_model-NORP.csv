@@ -1,0 +1,61 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Turkish",0,0,0,1,0,0
+"Iraqi",1,0,0,0,0,0
+"British",0,0,0,1,0,0
+"Sunnis",0,0,0,1,0,0
+"Israeli",1,0,0,0,0,0
+"Al Karabla",0,0,0,1,0,0
+"Peshmerga",0,1,0,0,0,0
+"Islamist",1,0,0,0,0,0
+"Syrians.",0,0,1,0,0,0
+"Uzbek",0,0,0,1,0,0
+"Sunni Arab",0,0,0,1,0,0
+"Shia",0,0,1,0,0,0
+"Dulaim",0,0,0,1,0,0
+"Iraqis",0,1,0,0,0,0
+"Syrian Arab",0,0,1,0,0,0
+"French",0,0,0,1,0,0
+"Soldiers",0,1,0,0,0,0
+"Kurdistan",0,0,0,1,0,0
+"Kurdish Peshmerga",0,0,1,0,0,0
+"Kurdish",1,0,0,0,0,0
+"Arabs",0,0,0,1,0,0
+"Jordanian",1,0,0,0,0,0
+"Levant",0,0,0,1,0,0
+"S.",0,0,0,1,0,0
+"Swedish",0,0,0,1,0,0
+"Kurmanji",1,0,0,0,0,0
+"Coalition",0,1,0,0,0,0
+"English",0,0,0,0,1,0
+"Muslim Eid",0,0,0,1,0,0
+"Turks",0,0,0,1,0,0
+"Arab",0,0,1,0,0,0
+"Yezidi",0,0,0,1,0,0
+"Yazidi",1,0,0,0,0,0
+"European",0,0,0,1,0,0
+"non - Yazidis",0,0,0,0,1,0
+"Shia Muslim",0,0,0,1,0,0
+"Yazidis",1,0,0,0,0,0
+"Australian",1,0,0,0,0,0
+"Elite",0,0,0,1,0,0
+"Syrians",0,1,0,0,0,0
+"Kuwaiti",0,0,0,1,0,0
+"Muslim Cultural Center",0,0,0,1,0,0
+"Sunni Arabs",0,1,0,0,0,0
+"Syrian",1,0,0,0,0,0
+"Western",0,0,0,1,0,0
+"Russian",0,0,0,1,0,0
+"Sunni",0,0,0,1,0,0
+"Kurdish YPG",0,0,1,0,0,0
+"Lebanese",0,0,0,1,0,0
+"Shia Arab",1,0,0,0,0,0
+"American",0,0,0,1,0,0
+"Syrian Democratic",0,0,1,0,0,0
+"Muslims",1,0,0,0,0,0
+"Egyptians",0,1,0,0,0,0
+"German",1,0,0,0,0,0
+"Airmen",0,0,0,1,0,0
+"Northern Kurdish",0,0,0,0,1,0
+"Jordanians",0,1,0,0,0,0
+"Joint",0,0,0,1,0,0
+*TOTAL*,13,8,7,28,9,0

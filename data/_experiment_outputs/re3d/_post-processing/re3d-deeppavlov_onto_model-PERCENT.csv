@@ -1,0 +1,8 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"just 2 . 4 %",0,0,0,0,0,1
+"15 to 20 percent",0,1,0,0,0,0
+"30 %",0,0,0,0,0,1
+"over 25 %",0,0,0,0,0,1
+"more than 30 percent",0,0,0,0,0,1
+"10 per cent",0,1,0,0,0,0
+*TOTAL*,0,2,0,0,0,4

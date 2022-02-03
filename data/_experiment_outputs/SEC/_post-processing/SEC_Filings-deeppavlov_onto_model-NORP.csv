@@ -1,0 +1,9 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Person.",0,0,0,1,0,0
+"Chinese",1,0,0,0,0,0
+"Persons",0,0,0,1,0,0
+"British West Indies",0,1,0,0,0,0
+"French",1,0,0,0,0,0
+"Eastern",0,1,0,0,0,0
+"Parties",0,0,0,1,0,0
+*TOTAL*,2,2,0,3,0,0

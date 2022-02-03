@@ -1,0 +1,19 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"the Tharthar Barrage",0,1,0,0,0,0
+"the Ramadi Barrage",0,1,0,0,0,0
+"the Mosul Dam",0,1,0,0,0,0
+"Mosul University",0,1,0,0,0,0
+"Pentagon",0,0,0,0,0,1
+"Camp Hurriya",0,1,0,0,0,0
+"Tiyas Military Airfield",0,1,0,0,0,0
+"Incirlik Air Base",0,0,0,0,0,1
+"Qayyarah Airfield West",0,1,0,0,0,0
+"the Brandbergen Mosque",0,1,0,0,0,0
+"the Iraqi Museum",0,1,0,0,0,0
+""" Q West """,0,0,0,0,0,1
+"Tabqa Dam",0,1,0,0,0,0
+"The Brandbergen Mosque",0,1,0,0,0,0
+"The Ishtar Gate",0,1,0,0,0,0
+"the Ishtar Gate",0,1,0,0,0,0
+"Samarra Barrage",0,1,0,0,0,0
+*TOTAL*,0,14,0,0,0,3

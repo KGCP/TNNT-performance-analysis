@@ -1,0 +1,38 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Chinese",1,0,0,0,0,0
+"@dalailama",0,0,0,0,1,0
+"Spanish language",0,0,1,0,0,0
+"Hindi",0,0,0,1,0,0
+"Portuguese Hilary Duff",0,0,1,0,0,0
+"Russian",1,0,0,0,0,0
+"British pound",0,0,0,0,1,0
+"english",0,0,0,0,1,0
+"Qur'an",0,0,0,0,1,0
+"Arabic",1,0,0,0,0,0
+"Urdu",0,1,0,0,0,0
+"settlement",0,0,0,0,1,0
+"mbalax",0,0,0,0,1,0
+"Creole",1,0,0,0,0,0
+"Turkish",1,0,0,0,0,0
+"Web",0,0,0,0,1,0
+"English",1,0,0,0,0,0
+"Japanese",1,0,0,0,0,0
+"Vietnamese",1,0,0,0,0,0
+"Greek",1,0,0,0,0,0
+"Dutch",0,1,0,0,0,0
+"Buddhism",0,0,0,0,1,0
+"Group-B",0,0,0,0,1,0
+"Arabic language",0,0,1,0,0,0
+"English Pope Benedict",0,0,1,0,0,0
+"French",1,0,0,0,0,0
+"Korean",1,0,0,0,0,0
+"Spanish",1,0,0,0,0,0
+"Arabic China",0,0,1,0,0,0
+"hip-hop",0,0,0,0,1,0
+"Hindi language",0,0,0,1,0,0
+"iTunes",0,0,0,0,1,0
+"English VOA",0,0,1,0,0,0
+"beatboxing",0,0,0,0,1,0
+"Ukrainian",0,1,0,0,0,0
+"Bengali",0,1,0,0,0,0
+*TOTAL*,12,4,6,2,120,0

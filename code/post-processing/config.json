@@ -1,0 +1,247 @@
+{
+	"base"    : "/data/",
+	"outputs" : "_experiment_outputs/",
+	"CSVs"    : "_post-processing/",
+	"tags"    : "tags/",
+	"mappings-file"   : "category-mappings.json",
+	"merged-tags-file": "merged-tags.json",
+	"merged-tags-by-category-file": "merged-tags-by-category.json",
+	"fact-table-file-suffix": "-post-processing-fact-table.csv",
+	"$-exec"  : "*",
+	"datasets": {
+		"SEC_Filings": {
+			"outputs": "SEC/",
+			"tags"   : "SEC_filings/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "SEC_filings.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "SEC_filings.txt-MEL+NER_output_3.8_all.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "SEC_filings.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				}
+			]
+		},
+		"BTC": {
+			"outputs": "BTC/",
+			"tags"   : "BTC/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "BTC.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "BTC.txt-MEL+NER_output_3.8_all.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "BTC.txt-MEL+NER_output_allennlpfinegraine.json",
+					"ignore-models": [ ]
+				}
+			]
+		},
+		"CONLL2003": {
+			"outputs": "CONLL/",
+			"tags"   : "CONLL2003/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "CONLL2003.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "CONLL2003.txt-MEL+NER_output_3.8_all.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "CONLL2003.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				}
+			]
+		},
+		"re3d": {
+			"outputs": "re3d/",
+			"tags"   : "re3d/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "re3d.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "re3d.txt-MEL+NER_output_3.8_all.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "re3d.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				}
+			]
+		},
+		"GUM": {
+			"outputs": "GUM/",
+			"tags"   : "GUM/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "GUM.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "GUM.txt-MEL+NER_output_3.8_all.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "GUM.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				}
+			]
+		},
+		"NIST_IEER": {
+			"outputs": "NIST/",
+			"tags"   : "NIST_IEER/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "NIST_IEER.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "NIST_IEER.txt-MEL+NER_output_3.8_all.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "NIST_IEER.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				}
+			]
+		},
+		"WNUT17": {
+			"outputs": "WNUT/",
+			"tags"   : "WNUT17/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "WNUT17.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "WNUT17.txt-MEL+NER_output_3.8_all.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "WNUT17.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				}
+			]
+		},
+		"feng": {
+			"outputs": "FeatureEngineered/",
+			"tags"   : "Feature_engineered_corpus/",
+			"sampling-percent": 0.10,
+			"results": [
+				{
+					"file": "Feature_engineered_corpus.txt-MEL+NER_output_3.7_deeppavlov.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "Feature_engineered_corpus.txt-MEL+NER_output_3.8_fast.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "Feature_engineered_corpus.txt-MEL+NER_output_3.8_flair.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "Feature_engineered_corpus.txt-MEL+NER_output_3.8_heavy.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "Feature_engineered_corpus.txt-MEL+NER_output_3.8_spacy.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "Feature_engineered_corpus.txt-MEL+NER_output_3.8_stanford.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "Feature_engineered_corpus_1.txt-MEL+NER_output_3.8_allennlp.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "Feature_engineered_corpus_2.txt-MEL+NER_output_3.8_allennlp_2.json",
+					"ignore-models": [ "allennlp-finegrained-ner" ]
+				},
+				{
+					"file": "Feature_engineered_corpus_1.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				},
+				{
+					"file": "Feature_engineered_corpus_2.txt-MEL+NER_output_allennlpfinegrained.json",
+					"ignore-models": [ ]
+				}
+			]
+		}
+	},
+	"model-groups": {
+		"gs18": [
+			"spacy_lg_model",
+            "spacy_md_model",
+            "spacy_sm_model",
+            "stanza_model",
+            "allennlp-finegrained-ner",
+            "deeppavlov_onto_bert_model",
+            "deeppavlov_onto_model",
+            "flair_fast_ontonotes_model",
+            "flair_ontonotes_model"
+		],
+        "sc7": [ "stanford_class7_model" ],
+        "nl5": [ "nltk_model" ],
+        "ss4": [
+        	"allennlp_ner",
+            "deeppavlov_conll2003_bert_model",
+            "deeppavlov_conll2003_model",
+            "flair_fast_model",
+            "flair_model",
+            "flair_pooled_model",
+            "bert_model",
+            "stanford_class4_model"
+        ],
+        "bs3": [ "polyglot_model", "stanford_class3_model" ]
+	},
+	"mappings": {
+		"tnnt:Person"      : [ "gs18:PERSON"  , "sc7:PERSON"      , "nl5:PERSON"      , "ss4:PER"  , "ss4:PERSON"      , "bs3:PER", "bs3:PERSON"       ],
+		"tnnt:Organisation": [ "gs18:ORG"     , "sc7:ORGANIZATION", "nl5:ORGANIZATION", "ss4:ORG"  , "ss4:ORGANIZATION", "bs3:ORG", "bs3:ORGANIZATION" ],
+		"tnnt:Location"    : [ "gs18:LOC"     ,                     "nl5:LOCATION" ],
+		"sc7:LOCATION"     : [ "gs18:LOC"     , "ss4:LOC"         , "ss4:LOCATION"    , "bs3:LOC"  , "bs3:LOCATION"    , "gs18:FAC"     , "gs18:GPE" ],
+		
+		"tnnt:Money"       : [ "gs18:MONEY"   , "sc7:MONEY"   ],
+		"tnnt:Percent"     : [ "gs18:PERCENT" , "sc7:PERCENT" ],
+		"tnnt:Date"        : [ "gs18:DATE"    , "sc7:DATE"    ],
+		"tnnt:Time"        : [ "gs18:TIME"    , "sc7:TIME"    ],
+		
+		"tnnt:FAC"         : [ "gs18:FAC"             ],
+		"nl5:FACILITY"     : [ "gs18:ORG", "gs18:FAC" ],
+		"tnnt:GPE"         : [ "gs18:GPE", "nl5:GPE"  ],
+		
+		"tnnt:NORP"        : [ "gs18:NORP"     ],
+		"tnnt:Product"     : [ "gs18:PRODUCT"  ],
+		"tnnt:Event"       : [ "gs18:EVENT"    ],
+		"tnnt:Law"         : [ "gs18:LAW"      ],
+		"tnnt:Language"    : [ "gs18:LANGUAGE" ],
+		"ss4:MISC"         : [ "gs18:NORP", "gs18:PRODUCT", "gs18:EVENT", "gs18:LAW", "gs18:LANGUAGE" ],
+				
+		"tnnt:WorkOfArt"   : [ "gs18:WORK_OF_ART" ],
+		"tnnt:Quantity"    : [ "gs18:QUANTITY"    ],
+		"tnnt:Cardinal"    : [ "gs18:CARDINAL"    ],
+		"tnnt:Ordinal"     : [ "gs18:ORDINAL"     ]
+	},
+	"Appendix": { }
+}

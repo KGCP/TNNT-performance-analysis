@@ -1,0 +1,11 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"5 Mb / s FEC",0,0,0,1,0,0
+"money",0,0,0,0,1,0
+"donor contributions",0,0,0,0,1,0
+"wages",0,0,0,0,1,0
+"The salaries",0,0,0,0,1,0
+"handouts",0,0,0,0,1,0
+"9 billion euros",0,0,1,0,0,0
+"just 10 per cent",0,0,0,1,0,0
+"millions of dollars",1,0,0,0,0,0
+*TOTAL*,1,0,1,2,10,0

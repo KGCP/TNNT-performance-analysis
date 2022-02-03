@@ -1,0 +1,38 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"George Town",0,1,0,0,0,0
+"California",0,1,0,0,0,0
+"Beijing",0,1,0,0,0,0
+"the Commonwealth of Massachusetts",0,0,0,0,0,1
+"San Diego",0,0,0,0,0,1
+"Hong Kong",0,1,0,0,0,0
+"Massachusetts 02139",0,0,0,0,0,1
+"the Cayman Islands",0,0,0,0,0,1
+"Massachusetts 01752 , U. A.",0,0,0,0,0,1
+"P. O. Box 2681GT",0,0,0,0,0,1
+"Boston",0,1,0,0,0,0
+"Newport News",0,0,0,0,0,1
+"Wellesley",0,1,0,0,0,0
+"New York 10017",0,1,0,0,0,0
+"France",0,1,0,0,0,0
+"New York",0,1,0,0,0,0
+"Santa Clara County",0,1,0,0,0,0
+"California 95054",0,0,0,0,0,1
+"Paris",0,1,0,0,0,0
+"the District of Columbia",0,0,0,0,0,1
+"Santa Clara",0,1,0,0,0,0
+"the British Virgin Islands",0,0,0,0,0,1
+"Commonwealth",0,1,0,0,0,0
+"the Commonwealth of Virginia",0,0,0,0,0,1
+"British Virgin Islands",0,1,0,0,0,0
+"Virginia",0,1,0,0,0,0
+"British West Indies",0,1,0,0,0,0
+"Cologne",0,0,0,0,0,1
+"Tortola",0,1,0,0,0,0
+"Cambridge",0,1,0,0,0,0
+"Grand Cayman",0,1,0,0,0,0
+"Delaware , U. S.",0,0,0,0,0,1
+"Delaware",0,1,0,0,0,0
+"China",0,1,0,0,0,0
+"Marlboro",0,1,0,0,0,0
+"the United States",0,0,0,0,0,1
+*TOTAL*,0,22,0,0,0,14

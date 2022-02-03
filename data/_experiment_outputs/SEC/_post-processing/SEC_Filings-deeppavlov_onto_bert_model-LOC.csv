@@ -1,0 +1,32 @@
+Entity,COR,INC,PAR,SPU,MIS,IGN
+"Wall Street",0,0,0,0,1,0
+"Haidian District",0,0,0,0,1,0
+"Beijing",0,0,0,0,1,0
+"Harbor Road",0,0,0,0,1,0
+"coal terminal site",0,0,0,0,1,0
+"Cricket Square",0,0,0,0,1,0
+"Jinjia Village",0,0,0,0,1,0
+"southeast",0,0,0,0,1,0
+"Gold Hill",1,0,0,0,0,0
+"Fengtai District",0,0,0,0,1,0
+"France",0,0,0,0,1,0
+"Wellesley",0,0,0,0,1,0
+"Santa Clara County",0,0,0,0,1,0
+"Silicon Valley East",1,0,0,0,0,0
+"Commonwealth",1,0,0,0,0,0
+"Zhongguancun South Street",0,0,0,0,1,0
+"CEO",0,0,0,0,1,0
+"Santa Clara",0,0,0,0,1,0
+"the James River",0,0,1,0,0,0
+"Hong Kong Special Administrative Region",0,0,0,0,1,0
+"Saint Auban",0,0,0,0,1,0
+"Belgium",0,0,0,0,1,0
+"Macao Special Administrative Region",0,0,0,0,1,0
+"Esquire",0,0,0,0,1,0
+"northwest",0,0,0,0,1,0
+"Century Yard",0,0,0,0,1,0
+"Cambridge",0,0,0,0,1,0
+"Hutchins Drive",0,0,0,0,1,0
+"Guidu Road",0,0,0,0,1,0
+"south",0,0,0,0,1,0
+*TOTAL*,3,0,1,0,78,0
